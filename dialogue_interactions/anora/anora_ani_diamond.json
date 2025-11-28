@@ -1,0 +1,83 @@
+[
+  [
+    {
+      "character": "DIAMOND",
+      "dialogue": "Ani, was Robert at the club yesterday?",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "Yeah.",
+      "movie": "anora"
+    },
+    {
+      "character": "DIAMOND",
+      "dialogue": "And did he ask for a dance?",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "Yeah.",
+      "movie": "anora"
+    },
+    {
+      "character": "DIAMOND",
+      "dialogue": "And did you give him one?",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "Yeah?",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "Diamond is not pleased.",
+      "movie": "anora"
+    },
+    {
+      "character": "DIAMOND",
+      "dialogue": "Ok.",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "Ok.",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "Dude, the DJ is a fuckin' asshole. I swear to god.",
+      "movie": "anora"
+    }
+  ],
+  [
+    {
+      "character": "DIAMOND",
+      "dialogue": "Got your whale?",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "Seems I did. Didn't I?",
+      "movie": "anora"
+    },
+    {
+      "character": "DIAMOND",
+      "dialogue": "I give it two weeks, bitch.",
+      "movie": "anora"
+    }
+  ],
+  [
+    {
+      "character": "DIAMOND",
+      "dialogue": "Why don't we go upstairs to a private room?",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "Where is he?",
+      "movie": "anora"
+    }
+  ]
+]

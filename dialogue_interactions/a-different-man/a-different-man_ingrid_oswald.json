@@ -1,0 +1,493 @@
+[
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "Pardon me for intruding. I met this casting director - unique and unusual physiognomies is his specialty - he told me you were holding auditions for this interesting-sounding play, he thought I might perhaps be a proper fit. I\u2019m no actor, but I thought I\u2019d come take a gander. From the tidbit I\u2019ve just seen, I must say it looks like a very curious piece! But I see the role is filled, and quite ably. Cheers to all involved. Best of luck. Break a leg, as they say. I\u2019ll come see it when it opens. Good day!",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Wait, hold on.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "INGRID",
+      "dialogue": "Do you two know each other?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "I drunkenly descended upon him as he was celebrating with his real estate mates, a lovely bunch. I neglected to mention, I might be in the market for a flat myself.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Real estate mates?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "I\u2019m Oswald, by the way.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "I\u2019m Ingrid.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Ah, the brilliant scribe!",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "And director.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Ah, la maestra!",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "We\u2019re just rehearsing, you should stick around and watch.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Ah, no, I fear I might develop a reputation for intruding where I\u2019m not wanted.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Nonsense, you\u2019re more than wanted! Though it\u2019ll be nerve-wracking for us, the play is still nascent. Nothing set in stone.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Everyone\u2019s so self-conscious in show business, I adore it. I confess I am intrigued by the whole process.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Well, you\u2019re - please - unless you\u2019re busy.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "I just had my Jiu-Jitsu lesson, so I\u2019m a tad sweaty, but otherwise, I was just going to read in the park.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "What are you reading?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "It\u2019s called \u201cThe Bluest Eye,\u201d by Toni Morrison.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "One of my favorite books.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Strangely enough, I was inspired to read it by Guy. He has those piercing blue eyes, and I saw him, and thought \u201cthat reminds me...\u201d",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Funny, I never noticed your eyes, Guy. Well, have a seat anywhere you want. It\u2019ll be boring. Stopping and starting...",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "You won\u2019t know I\u2019m here.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Okay. Where were we? Guy? Guy?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "I was sad to see him off himself at the end.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "It\u2019s a tragedy.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Yes, I suppose there\u2019s nothing to be done about it. I quite liked Edward, though he is a rather passive chap. At least until that suicide. Naturally, I wanted to see him live happily ever after with Fiona. Would the audience believe it?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "INGRID",
+      "dialogue": "That\u2019s horrible.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "It could use some mild refinement, but we\u2019ll get there.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "INGRID",
+      "dialogue": "That\u2019s brilliant. Why can\u2019t you do that?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Well, you\u2019re not playing Master Harold after all.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "I guess they didn\u2019t teach you accents at Juilliard.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Really Guy, I developed an affinity for them because I moved around a lot as a child. A survival instinct, really, which blossomed into one of my many useless talents.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "What are your other talents?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Well, I can yodel - I can juggle. Children\u2019s games, mere fluff. I can sing and play guitar, though I\u2019m no Segovia. I\u2019ve taken up weaving, I\u2019m ashamed to say.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "What can\u2019t you do?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Oh, so many things. I can\u2019t whistle.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "I can teach you. You just -",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "INGRID",
+      "dialogue": "Frankly, Guy, to keep you in the play. Look, this is hard for me but, you know I need Oswald to be Edward. And he refused unless there was a part for you, because he - loves you - and didn\u2019t want it to be like he was...replacing you. And this is what we came up with. You should really be thanking Oswald.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Guy...",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "This is my decision. I had to beg him to do it. Look, it\u2019s not you, Guy, but, come on, the mask, the makeup, it\u2019s a total bust, and Oswald...I mean...",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Ingrid insisted and...I admit, I do feel that this is a uniquely rare opportunity where I was, in a sense, born to play the role.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "You\u2019re selling yourself short. You could play Hamlet.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "She\u2019s a canny director, flattering me.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Frankly, Guy, we\u2019ve been making all these changes and you\u2019ve had trouble memorizing all the new lines.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "I do have a photographic memory, technically, but it remains to be seen if that comes in handy in this department.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "You already know your lines.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "The lines, sure, but can I act? That is the question!",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "You can. He can. You\u2019ve seen it. We\u2019ve all seen it. Oswald\u2019s a natural. If it\u2019s right, it\u2019s right.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "Guy, you\u2019re a masterful actor. That\u2019s what\u2019s so tragic here, and I really don\u2019t know what the ethical thing is.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "The right thing is for you to take the role. And Guy, you still get to play Edward...transformed...and you don\u2019t have to hide your face behind that idiotic thing, so you\u2019ll get more recognition.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "INGRID",
+      "dialogue": "The same person.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Same chap, new face.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "INGRID",
+      "dialogue": "I\u2019m sorry, Guy. It doesn\u2019t work. You said it yourself, how can he become you? You\u2019re nothing alike. It\u2019s not believable. And it\u2019s not necessary. She loves him for who he is. It was contrived.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "I still think the idea is theoretically sound, but what we didn\u2019t count on, and this may stem from my being a novice, is how the audience has spent two hours becoming invested in Edward - that is, in this particular iteration of the piece, me - and if someone else comes out and says \u201cOh, I\u2019m Edward now,\u201d it doesn\u2019t matter who it is, even if it\u2019s Sir Kenneth Branagh or whomever, the audience feels cheated, we\u2019ve broken our pact with the them, and they will rightfully rebel.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Look, I still want to be friends and I\u2019ll keep you in for future projects. I\u2019m sorry. Goodbye, Guy.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "INGRID",
+      "dialogue": "Have to do some shopping. Anyone need anything?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Well, I\u2019m off. Anyone need anything?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "I just asked.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Oh well, ring me if you do. Toodle\ufffeloo.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "I\u2019ll walk you out.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Okay, we\u2019ll get out of your hair. I\u2019ll be back around eight.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "INGRID",
+      "dialogue": "We adopted Lucie, her daughter, who\u2019s - it\u2019s crazy to even say it - in grad school now.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Guy, you need to come see the show. When are you free? Tomorrow?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Don\u2019t pressure him.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "He wants to come. Right, Guy?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "INGRID",
+      "dialogue": "What a piece of shit. I don\u2019t even allow people to perform it anymore.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Oh, come now. It was a very precocious \u201cearly work.\u201d And it brought us together so it served a very noble purpose.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Thank God they didn\u2019t make that movie.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "I was disappointed, I wanted to see that guy play me. Anyway, you\u2019ll love the new show. I think it\u2019s her finest work.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Going out on a high note.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Time will tell. You see, it\u2019s brilliant that we ran into you, because we\u2019re leaving next month after the play wraps.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "INGRID",
+      "dialogue": "That\u2019s only a small part of it, but yes, clothing is- I mean, it\u2019s allowed, for visitors, and in winter, but...basically, we\u2019ll be...",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "As the Lord intended us to be.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "Traveling through the Andes.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "- and it turns out she\u2019s this amazing person, with followers and all that, and there\u2019s a sort of ecological philosophy-",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Plus free love.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Yes, but, also-",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Not to mention, LSD.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Sometimes, yes, but...",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Have you done LSD, Guy?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "INGRID",
+      "dialogue": "I\u2019m not sure he could handle it.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "He\u2019d need a proper guide. Which I happen to be.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Recently certified.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "INGRID",
+      "dialogue": "They say it\u2019s a cult.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "I\u2019m sure Guy thinks it\u2019s a cult as well. Right, Guy?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "INGRID",
+      "dialogue": "The founder, yes. She set it in motion. Not a guru in the - well, a sort of guru, yes, in the purest sense. See, we can\u2019t talk about it without sounding...",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Totally bonkers.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Honestly, it\u2019s, as far as I\u2019m concerned, it\u2019s paradise.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Paradise, it really is. Utopia, the closest thing.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "Now she just wants to do LSD and fuck all the time! Anyway - he\u2019s going to go home and tell his friends how batty we\u2019ve become. I know how it sounds, that\u2019s why I invite people up, people can see for themselves, and stay as long as they like. But what\u2019s going on with you?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "INGRID",
+      "dialogue": "Tell us everything.",
+      "movie": "a-different-man"
+    }
+  ]
+]

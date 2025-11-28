@@ -1,0 +1,76 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          11,
+          19
+        ],
+        "text": "ERZSEBET: Do you not want to be with me anymore?\nLASZLO: I love you, you cow.\nLASZLO: Oh god! MY LOVE. MY LOVE!     I CANNOT",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          37
+        ],
+        "text": "LASZLO: I love you.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "LASZLO: I will follow you until I die.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

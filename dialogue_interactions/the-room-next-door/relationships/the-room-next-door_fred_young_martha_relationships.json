@@ -1,0 +1,21 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6,
+          11
+        ],
+        "text": "YOUNG MARTHA: I\u2019m pregnant.\nFRED: Pregnant?!\nYOUNG MARTHA: Yes.\nFRED: I don\u2019t know\u2026 I feel kind of responsible now\u2026",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

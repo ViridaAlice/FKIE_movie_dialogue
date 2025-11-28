@@ -1,0 +1,18 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3,
+          7
+        ],
+        "text": "FIRE CHIEF: Let\u2019s go! Two lines. On the back. Ladder up!\nWIFE: Sir, please! My husband\u2019s inside!\nWIFE: Sir, my husband\u2019s inside! Inside.\nFIRE CHIEF: What\u2019s that?\nFIRE CHIEF: Okay\u2026 okay. Get back in your car, do not go over there\u2026 Please, ma\u2019am. Is there someone else?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

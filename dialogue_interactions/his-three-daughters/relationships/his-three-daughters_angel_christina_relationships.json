@@ -1,0 +1,56 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          7
+        ],
+        "text": "ANGEL: Nothing to apologize for. I understand what a stressful situation this is. It\u2019s natural. It\u2019s a hard time. But, while my partner, Mirabella, is in the room with your father, I was hoping to talk you through where we are at the moment.\nANGEL: That\u2019s nice. And it\u2019s also very nice that you are all here. At a time like this. It\u2019s not always like that. Things happen in families. Sometimes people can\u2019t be here for health reasons. Sometimes it\u2019s just, you know, other issues. I understand his wife passed some years ago.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "ANGEL: I\u2019m really sorry to hear that. I don\u2019t know what that process was like, but I think it would be helpful to understand the process here, now that your father is off food and liquid. I, or Mirabella, or both if possible, will be here each morning, around this time, but you will have my number and I will do my best to answer any questions, or come here, if need be. It will be us you call, when he does pass. We can make the declaration of death, unless a medical reason brings him to the hospital beforehand.\nANGEL: So, it\u2019s good news that he responds well to the pain treatment. His cancer is very advanced, and when we are in pain, our bodies naturally try to fight it, even if it\u2019s actually just hurting us more. His ease will possibly quicken the process, in an organic way. That\u2019s really the big difference between hospice and hospital care, which aims to extend life. As painless as possible is our goal, always. But another thing is, it\u2019s not just our bodies that affect the time it takes to pass. I can\u2019t tell you the science on this, but in the twelve years I have been working in hospice, it has become very clear to me that the mind is just as big a factor as the body. And that is really where you can be a huge help, in case he is holding on, not wanting to go out of fear. You can help in letting him know, reassuring him, that it\u2019s okay. The mind doesn\u2019t have power to heal or reverse the disease, not at the stage it is. But if he knows it will be okay, that you all will be okay, it could mean a great deal. Angel looks at them kindly.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "ANGEL: So, yeah, I was saying to your sisters that Vincent appears, to me, to be much further along than when I saw him yesterday. I don\u2019t want to imply that I know when he will pass. I\u2019d say my guesses have been as wrong as much as they have been right, and I have seen people at a similar condition as your father hold on a lot longer than I would have thought. I\u2019m just saying, as best as you can, please prepare yourself, especially for him to become even less coherent. Have you been able to have any conversations recently?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "ANGEL: \u2014it\u2019s no problem at all. It\u2019s my job. I\u2019m glad you called when I was close enough that I could get here as quick as I could. Another thirty minutes would have been heading to Queens.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

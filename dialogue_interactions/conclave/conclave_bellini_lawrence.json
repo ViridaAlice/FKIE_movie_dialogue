@@ -1,0 +1,489 @@
+[
+  [
+    {
+      "character": "BELLINI",
+      "dialogue": "Do you think anyone would m ind if I took this, Thomas? As a keepsake?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Of course. Take it. He would have wanted you to have it.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "We used to play quite often at the end of the day. He said it helped him relax.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Who won?",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Oh, he did. Always eight moves ahead.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Ah, Aldo, I\u2019m so sorry. What happened, do you know?",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "They say heart attack. There had been warnings.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "I hadn\u2019t heard that.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "He didn\u2019t want anyone to know. He thought if word got out they would start spreading rumours he was going to resig n.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "The Curia.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "We\u2019ll have to be careful what we say to the media about his condition.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Janusz, I know this is hard for you, but we\u2019ll need to prepare a detailed statement. Who discovered the Holy Father\u2019s body?",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Has anyone telephoned Cardinal Tedesco?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "As a courtesy.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Courtesy? What has he ever done to deserve courtesy? If anyone can be said to have killed the Holy Father, he did!",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "I have to ring him, Aldo.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "< The Patriarch\u2019s Palace in Venice, please. Cardinal Tedesco\u2019s private line. >",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Il Palazzo Patriarcale di Venezia, per favore. La linea privata del cardinale Tedesco. After a moment.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "BELLINI",
+      "dialogue": "Shelter from the Storm.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Dear Lord, that\u2019s enormous.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Apparently Pope John the Twenty- Third was too fat to fit into the biggest cassock. They had to split the seam in the back for him to get into it.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "You look tired.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "All this... it\u2019s a duty I never thought I\u2019d have to perform. I always assumed he would out-live us all. To his surprise he finds himself continuing....",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "We... we didn\u2019t part well.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "I asked for his permission to retire as Dean. Join an order. I have been having... difficulties.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "What did he say?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "He refused my resignation. Said that some were chosen to be Shepherds, and some to manage the farm. Apparently, I\u2019m a manager.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Things were a little cold between us when I left. . And that was the last time I saw him.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "The Holy Father told me of your... crisis of faith. He said you had difficulties with prayer.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "You know that he had doubts himself, by the end?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "The Pope had doubts about God?",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Never about God. What he had lost faith in was the Church.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "BELLINI",
+      "dialogue": "Am I the last?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Not quite. How are you?",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Oh fairly dreadful. You\u2019ve seen the papers? Apparently it\u2019s already decided it\u2019s to be me.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "And I happen to agree with them.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "What if I don\u2019t want it? No sane man would want the papacy.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Some of our colleagues seem to.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "But what if I know in my heart I\u2019m not worthy?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "You\u2019re more worthy than any of us.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "I\u2019m not.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Then... t ell your supporters not to vote for you. Pass the chalice...",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "And let it go to him? How am I to live with myself if I don\u2019t try to stop him?",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "BELLINI",
+      "dialogue": "The Americans will be appalled. How could we possibly ensure his safety?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Presumably that\u2019s why the Holy Father wanted it kept secret. Well it won\u2019t be in pectore now. I don\u2019t think we have any choice but to admit him.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Must we? Are we sure the Holy Father was entirely... competent to make this appointment?",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Papal infallibility covers doctrine. It does not extend to appointments.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "That man is leg ally a cardinal, Aldo. He has a right to take part in the election.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Welcome to the Vatican, Archbishop. I\u2019m Father Lawrence, Dean of the College. This is Father Bellini. I\u2019m sorry you\u2019ve had to wait. We had to make checks I\u2019m afraid.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "BELLINI",
+      "dialogue": "It\u2019s just so...irregular.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "We\u2019re neighbours, Joshua.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "BELLINI",
+      "dialogue": "I had no idea you were so ambitious.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "That\u2019s a ridiculous thing to say.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Is it...? I thought we had your support. If we liberals are not united then Tedesco will become Pope! You don\u2019t know how bad it became, Thomas. The way he and his circle attacked the Holy Father towards the end? The smears, the leaks to the press. It was savage... He fought him every day of his pontificate and now that he\u2019s dead he wants to destroy his life\u2019s w ork. If Tedesco wins he will undo sixty years of progress!",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "You talk as if you were the only alternative, Aldo. Adeyemi has the wind behind him...",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Adeyemi? A man who believes homosexuals should be sent to prison in this world and hell in the next? Adeyemi isn\u2019t the answer to anything and you know it! If you want to defeat...",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "\u201cDefeat?\u201d This is a Conclave, Aldo. You talk as if it\u2019s a war.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Because it is a war! And you have to commit to a side! Save your famous doubts for your prayers!",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "For God\u2019s sake, you cannot seriously believe I have the slightest d esire to become Pope?",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Oh, every cardinal has that desire! Every cardinal, deep down inside, has already chosen the name by which he would like his papacy to be known!",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Well, I haven\u2019t!",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Deny it if you like. But search your heart and then tell me it isn\u2019t so.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Is this what we are reduced to? Considering the \u201cleast-worst\u201d option?",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "The field has narrowed. If we don\u2019t change our votes, we\u2019ll be here for weeks. Which is what Tedesco wants.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "I have been informed that, shortly before his death, the Holy Father had fallen out with Tremblay. In fact, that he intended to dismiss him from all offices in the Church.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "There is a rumour of a report of some kind, a report that was possibly withdrawn...",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "A rumour? Thomas, in the la st weeks of his life it is possible that the Holy Father was not entirely himself. He had become increasingly secretive and paranoid...",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "BELLINI",
+      "dialogue": "I am aware of what simony is, thank you.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "He only obtained all those votes on the first ballot because he bought them. Cardenas, Diene, Figarella, Baptiste...",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "How do you know they didn\u2019t use this money for completely legitimate purposes?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Because I\u2019ve seen their bank statements.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Dear God.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Ours too. It would seem the Holy Father was spying on all of us. I don\u2019t think he trusted anyone.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Where did you find these?",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "You broke the seals?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "What choice did I have? I suspected Tremblay of bringing that poor woman from Africa to embarrass Adeyem i.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "And did he?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "He asked for the transfer. He claims he did it at the request of the Holy Father but... You must continue with your candidacy, Aldo.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Put them back. Put them back or burn them or... put them back. I couldn\u2019t possibly become Pope in such circumstances, a dirty trick, a stolen document, the smearing of a brother cardinal... I\u2019d be the Richard Nixon of Popes!",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Then keep clear of this. Leave it to me. I\u2019m willing to take the consequences and...",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "You know who will gain most from this? Tedesc o! The whole basis of his candidacy is that the Holy Father led the Church to disaster by his attempts at reform. If you reveal this report it isn\u2019t Tremblay\u2019s reputation which will suffer - it\u2019s the Church\u2019s. Accusing the Curia of institutional corruption...",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "I thought we were here to serve God, not the Curia...",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Oh, don\u2019t be naive!",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "BELLINI",
+      "dialogue": "We\u2019ve had worse.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "What has he offered you? Secretary of State?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Five times I cast my ballot for you, Aldo. But I was wrong. You lack the courage required to be Pope.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "LAWRENCE",
+      "dialogue": "You should take over the supervision of this election, Aldo.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Ha! No, thank you. You are steering this Conclave. Exactly where I do not know, but you are certainly steering it. And that firm hand of yours has i ts admirers. I\u2019ve come to ask your forgiveness.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "I had the temerity to tell you to examine your heart, when all the time my own was...",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "Shameful to be this age and still not know yourself. Ambition, \u201cthe moth of holiness.\u201d Perhaps it\u2019s time you decided upon a name?",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "As the next most senior member of the Conclave, it will fall to me to ask you how you wish to be known as Pope. Rightly or wrongly, it would seem Tremblay is finished. This will be a contest between Tedesco and you. You\u2019re the only one who can stop him now.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "John. I would choose John.",
+      "movie": "conclave"
+    },
+    {
+      "character": "BELLINI",
+      "dialogue": "It has a weight to it.",
+      "movie": "conclave"
+    }
+  ]
+]

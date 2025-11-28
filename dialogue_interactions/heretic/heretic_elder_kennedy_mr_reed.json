@@ -1,0 +1,66 @@
+[
+  [
+    {
+      "character": "ELDER KENNEDY",
+      "dialogue": "Good evening, I don\u2019t mean to bother you, but I\u2019m in the neighborhood looking for two young women from my church.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Is everything okay?",
+      "movie": "heretic"
+    },
+    {
+      "character": "ELDER KENNEDY",
+      "dialogue": "I\u2019m sure it is, I\u2019m just wondering if they happened to stop by?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "I\u2019m sorry to say you\u2019re the first house call I\u2019ve received all day.",
+      "movie": "heretic"
+    },
+    {
+      "character": "ELDER KENNEDY",
+      "dialogue": "But you had asked the church for more information. So I imagined, perhaps, they might have still come by.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "No, is there another way I can help?",
+      "movie": "heretic"
+    },
+    {
+      "character": "ELDER KENNEDY",
+      "dialogue": "I did tell them not to bother you.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Should we call the police? I hope they\u2019re not caught in the storm?",
+      "movie": "heretic"
+    },
+    {
+      "character": "ELDER KENNEDY",
+      "dialogue": "I\u2019m sure they\u2019re not far. I appreciate your time.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Good luck. I mean that.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "ELDER KENNEDY",
+      "dialogue": "I\u2019m so sorry, but I\u2019d be remiss if I didn\u2019t ask you one more question ...I wondered if you had received this booklet.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "I have not, but I will give it a look-see.",
+      "movie": "heretic"
+    }
+  ]
+]

@@ -1,0 +1,90 @@
+[
+  [
+    {
+      "character": "JUSTIN",
+      "dialogue": "Your Honor, my wife is in the third trimester of a high-risk pregnancy. I'd like to be available to her.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "That's commendable. What hours do you normally work?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "JUSTIN",
+      "dialogue": "Nine to six, typically.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "I see. You have my word that this court will not demand a minute more of your time than that.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "The fact that you don't want to be here is exactly why you're the perfect group to adjudicate this case. You are impartial;",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "THE JUDGE",
+      "dialogue": "Read Instruction 0.01 for me, please.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "JUSTIN",
+      "dialogue": "\"...to maintain the integrity of the jury system, I remind you that you must decide this case based only on the evidence admitted during the trial and the law I will explain to you. You may not conduct any research on your own about this case, or about any people or places mentioned during the trial. You may not visit any places mentioned in the evidence, and you may not refer to any books or documents that were not admitted during the trail. \"",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "Sounds like you two violated every sentence in that paragraph.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "JUSTIN",
+      "dialogue": "No, Your Honor.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "Then how do you explain your involvement in this... transgression?",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "JUSTIN",
+      "dialogue": "No, I didn't see them. And I did not help him.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "Do you think you can disregard everything you've heard just now and remain an unbiased member of this panel?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "JUSTIN",
+      "dialogue": "Yes, Your Honor.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "I get the sense you want to be on this jury, Mr. Kemp... Which is interesting, considering you did not want to be here during jury selection.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "JUSTIN",
+      "dialogue": "I don't want to be here, Your Honor. But I took an oath. And I'd like to see it through.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "Then I'm going to take you at your word. Bailiff, please escort Mr. Kemp back to the juror room. Mr. Chicowski, you\u2019re dismissed.",
+      "movie": "juror-2"
+    }
+  ]
+]

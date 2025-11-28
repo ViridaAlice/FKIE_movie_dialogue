@@ -1,0 +1,19 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "ELISABETH: I know it's hard! Walk it back! That's great, couple more ladies! Think about your bikini this summer! You don't want to look like a giant jellyfish on the beach, do you? So keep moving! Couple more... we're almost there... aaand...\nMAN: I don't care if we have to see EVERY FUCKING YOUNG GIRL in town in the next couple of weeks. We need her YOUNG. We need her HOT. And we need her NOW.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

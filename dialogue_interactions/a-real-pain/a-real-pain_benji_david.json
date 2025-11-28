@@ -1,0 +1,2858 @@
+[
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Hey Benji, it's me. I'm just leaving my apartment. Remember we gotta be there three hours early. Just ring me when you get this.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Hey Benji, I hope you left already. I'm stuck in a little traffic on the BQE in case you can avoid it. Just ring me when you get this.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji, it's me. Good news, traffic just cleared up, in case you were worried. Anyway, ring me when you get this.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yo, Benji, it's me. I'm sorry I'm leaving so many messages. You can disregard them cause I'll be there soon and I can't wait to see you. And I will not leave you another message.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Hey Benji, I just got to the airport. I really hope you left already or are on your way. Just ring me when you get this.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Dude.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji!   Yo.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "What's up cuz!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Come here. It's so good to see you.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, step back! Lemme look at you!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Turn around! Let me get the whole picture!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Shit, man! Look at you -- all healthy, wealthy and wise!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Thank you, thank you. We should probably check you in.      I did a thing online but-",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Oh no, I'm good.     I checked in a while ago.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Did you?     When did you get here?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Few hours ago.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Really? The flight's not for another two hours.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, but they open the airport super early. You can just hang out.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "And you meet the craziest people here. I met this guy Kelvin who was from Brunei. Fucking Brunei! I never met anyone from Brunei. Dude was telling me all about his business, I think he's actually an arms dealer but he seemed totally at peace with the whole thing.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Wait, who?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Kelvin.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh, right. And did you eat anything?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, a while ago.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Okay, I'm gonna wanna get something before we take off if that's cool.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Don't worry. I picked you up a yogurt. It's a little warm.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Did you really get this for me?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Of course, dude. I figured you'd be rushing around and everything.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Thank you, Benji.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I also got some shit for us for when we get in. Like: very, very good shit.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "You're not taking weed into Poland, right? Benji?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "They don't give a shit about that stuff, man.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I think they very much do give a shit about that stuff.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Oh, like they're gonna arrest two Jews in Poland for a little weed. That's a good look for the Polish people.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "All right, try to keep it down-",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "They can't touch us, dude. We basically got government immunity there. The prodigal sons return--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Hey, what's up.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "David clears security and watches from a distance as:",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "David i s in awe of his cousin's charisma.    Benji grabs his bag and hustles up to David.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Jasmine is so dope.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Who?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "The TSA girl. Her dad does security for the Knicks.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Do you want some?   Priya made it for me-",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Oh, sure.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yo, so, how you been, man?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Honestly? I've been... ...great. Like really great.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Really?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, definitely.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Do you wanna talk about anything?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Like what?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Um... like... the last few months?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "What about 'em?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "David wants to bring something up but can't. Benji stares at him, something unspoken passing between them.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Do you wanna go over our tour itinerary or anything?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Oh, yeah, sure.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You mind holdin this for a minute?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Sure.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Eat as much as you want.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Thanks. Don't you think it'll be nice for us to see where Grandma was from? Where she lived?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, maybe. Maybe. It just sucks that she's not here with us.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Well, she was really suffering. The last couple years.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, I know. That sucks too.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "What seat do you have?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Uh, 24C.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I'm B. Loo ks like we got the middle and window.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Right.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You mind takin the middle?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "How you feelin in there dude?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "It's a little tight.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah...",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "So are you still looking for a job?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Nah. Are you gonna have to like work the whole trip?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Nope - I was able to take off completely. I wanna be here.    I wanna be present.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Cool cool. And are you still selling shit online?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Well, I don't sell old jerseys on ebay, I do digital ad sales. God, I don't think we've spoken since I changed jobs. You know when you see, like, an Ad Ba nner online?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, I hate that shit.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Hey, come on-",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No, I mean, everybody hates that shit. Right?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Um, maybe. Do they?   I don't know. But I sell those.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No, that's cool, that's cool - you're like making the world go round. It's not your fault, you're just part of a fucked up system.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Well without online ads, a lot of the sites you're using for free wouldn't be able to exist. It's kind of the life blood of the internet. I'm actually working on a campaign I think you would really like with this young start up-",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, dude. I think they want us to pay attention.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, I just wanted to tell you about this--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Eh, it's kinda rude.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Seriously?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, man, they're just tryin to do their jobs.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "What? I don't know. Hey, there's our guy--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo!   What's up dude?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "What are you looking at?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh nothing, just this little video.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, lemme see it?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "The video?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, can I see it?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Sure, yeah. Of course.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "He notices that Benji has tears in his eyes.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "He's fuckin gorgeous, man.     You're lucky.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Thanks.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Thank you so much.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "What the hell is that?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "It's the weed. I told yo u, it's good stuff. It's from Todd, this fuckin barber in Ithica.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Wait- you mailed yourself weed?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I mailed us weed.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh! I thought you were taking it through the airport!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Really?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, really! Did you not see how nervous I was?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I did. I just thought that was you.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I'm so fuckin happy to be here with you.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Me too.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "We got a half hour. I'm definitely gonna need a shower.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yes sir!   Good idea.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, dude. I totally forgot. You have super nice feet.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Do I?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah and they've aged really, really well. Your toes are like mad straight. It's nice.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Thanks, man.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No weird feet knuckles or stray hairs. Very classy.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Okay, thank you. I guess I never really evaluated them.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You never evaluated your own feet? Damn. They're graceful as shit. Just like grandma's.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "You remember grandma's feet?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Of course dude. She'd always wear those plastic fuckin pink sandals from Target. She strutted that hot shit all over town!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Huh. I never noticed.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, Davie, sometimes when I look at you, I see her.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I look like an old Jewish woman?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No, man. You just look wise.   It's beautiful.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Sure. We just gotta be down in a half hour.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Copy that. Can I borrow your phone?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "For what?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I like to listen to music in the shower.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Don't you have a phone?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, but it doesn't play music.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Uh, okay --",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "You okay?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yup!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "We should probably head down.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Hi.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, what's up everybody.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "Oh shit!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "They turn to Benji.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No, sorry. I mean it in a good way. Like shit, wow. I'm just, interested in people from other places. I'm sorry. I'm just, like, a fan. Keep going, man.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I'm sorry about that--",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "Who the hell wants to follow that? Okay, shit, I'll go. So Davers and I are cousins. Actually born three weeks apart, which is k inda nuts. A Zloty for anyone who guesses which one of us older. Anyway, our dads are brothers. We're basically brothers, too, right D? We used to be joined at the hip like feckin Katie and Eilish, isn't that right Dave-o?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh, Jesus man, don't say that.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Anyway, our Grandma Dory was from here, she survived the war in the craziest fuckin way. In basements, hidden amongst the uncircumcised-",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah and everyone else died- her parents, her sisters, a brother.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "It was fucked, essentially, is what it was. And we've always wanted to come here to see where she was from, see the house she grew up in.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, that's why we're leaving the tour a day early, Benji insisted we see her little town. They were super close.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "She was the coolest - just this fierce, no bullshit, fuckin take charge chick.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "David looks around -- everyone's nodding, seemingly okay with Benji's vulgarity.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "And I've been in kind of a funk since she died.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "So, just to keep things on track: Grandma Dory left some money in her will for me and Benji to come here.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "And Dave could never find the time cause he's got a high pressured job selling ad banners to the internet.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yo, come on, man.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "But I've been in such a shit place recently, so Dave swooped in, took some time off and arranged for us to join this geriatric Polish tou r with you fine people.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You know: She didn't ask any of the other cousins to come here. Just us.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, I'm not really sure what she knew. At the end. She was getting a little senile .",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No, she knew. She knew.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, I don't know, maybe.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No, seriously. Like we think of ourselves as these very American creations, you know? And I guess we are. I guess that's, like, the essence of America -- people created from other cultures. But in some parallel, fuckin, black hole universe, you and I are Polish and we probably got, like, beards and shit. And we, like, can't shake hands with women.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, it's funny, whenever I see a Hasidic guy on the street, I always just think, \"there but for the grace of no god...\"",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "What?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh, it's just like a dumb joke.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "That's cool, man. Yo shit, look at her.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "What, who?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "That woman Marcia, she's walkin alone. We should go talk to her.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "We just met her.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, but she's got this, like, deep sadness behind her eyes.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "She does?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You didn't notice that?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "During the introductions? I don't know.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "We should go check on her.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji, maybe she wants to be alone.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No one w ants to be alone, Dave. I'm gonna go check it out.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "What was going on with that woman?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "What do you mean?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "The woman with the 'sadness in her eyes'. Is she all right?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Oh Marcia! Yeah, she's in a really weird place right now.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "She told you that?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, I guess she thinks I can relate since we've both lost people.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "You mean our grandma?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah. Anyway, she's super fuckin stressed right now because her husband left her last May, like completely out of the blue-",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Jesus--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, not fun.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "No. And she just told you all this?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah. And now she's seeing this new guy, Darren, which you'd think she'd be happy about, but he sounds like a complete douchebag.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh really, how?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Ah, I don't know man. I don't think we should be talking about her behind her back.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh, okay.     I was just asking.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No, I know. Still.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Weird soup, right?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I love it.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "We should go pose with the guys, it'll be hysterical.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Really? Doesn't that seem, like, disrespectful?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "How the fuck is it disrespectful? We're on their side! Fighting the Ruskies and the Krauts!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, I don't know if we should-",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Okay, then just take a picture of me, fighting with my Polish brethren. Gentlemen, I'm going in.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "You look great, Benji. I got some good shots.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah?? Does it look real?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Well they're twice the size of you. And metal.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I know! I need some back up!        Come on up here with me, dude!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji, no.     Really.   Plea se.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Eloge, you gonna enlist?",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, I got it.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Is it funny?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "It's funny, yeah.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You sure you don't wanna come up here? We could use the manpower.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Nah, I'm good. I'll just... watch from \"central command.\"",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Ha! That's a good one Dave. \"Central Command!\"",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "No, it's fine.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Okay, everyone pick a pose and freeze in it so Dave could take a picture. Is that cool with you Dave?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yup.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You almost done Dave? My arms are gettin tired.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, I got it.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Okay, men!     Stand down!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You were all incredibly brave. Un fortunately, we lost the war big time.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Thank you so much, dude. That was so fuckin fun.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "This is us. Good night you freaks. Long day tomorrow.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Hey Dave.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Come in the bathroom with me for a sec.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "What? Why?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Why are we in here?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I just wanna thank you so much for doin this with me. I know it was tough for you to take off work, leave your little boy. But I didn't realize I how much I needed this.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Well that's great, man. I'm happy to... see you happy. I know it's been a tough few months-",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "--And I also wanted to say that I know you're not the most comfortable person with groups and peopl e and social shit like that.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I'm not?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No. So it's amazing that you're here and puttin yourself out there so boldly for me.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Seriously?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Thanks, man.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Good. Now let's go back out there and share a J.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, look at this fuckin infantilizing, corporate bullshit.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "What do you mean?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "We can't smoke with this shit open two inches.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yo, I think I might just wanna crash, man. We've been up for like 24 hours.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Don't say you're going to sleep on me, Davie. This is our first night together in fuckin years.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I don't know. I'm exhausted and I haven't showered.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, the weed will help you sleep.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Is it the kind that helps you sleep?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No, it's the other kind. Listen: You take a shower -- do whatever you gotta do to feel like you -- and I'll roll us a fat ass blunt and we'll go on the roof.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Okay, okay, which w ay are you?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Uh, maybe they don't make their roof accessible for American assholes trying to smoke weed--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "But Benji is already walking down the hallway.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You think this is it?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I think there's a big fucking alarm that's gonna go off.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "So if it does, we just say we don't speak Polish. Which is true.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji, let's just go back down.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Okay.    I guess you're right, Dave.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "But there's no alarm.    It's quiet. David is relieved.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Apres vous...",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "There's my guy. How you feeling, dude?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I'm okay.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo. How you feeling dude?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I feel good. I feel good.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "See? You just needed a little drugs in your system.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh yeah?     That's all I was missing?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah.    You're like an awesome guy stuck   inside the body of someone who's   always running late. And I gotta   fish that awesome guy out every   time I see you.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Thank you, I guess?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "When I think of us, I think of us walking around New York all night. Seeing if we could make it through til morning.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "You always did.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "And you'd always fall asleep halfway through. We'd make it over the Willie B and you'd conk out on a bench in Chinatown.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I know.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You were kind of a light weight.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I'm sorry.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I'd have to stay up and keep watch.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Make sure you weren't pecked to death by pigeons.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Dave.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yo.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I'm sorry I called you a light weight.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "It's okay. I'm sorry I would always fall asleep.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "It's okay. You had like a job and a wife. You were awake all day, doing important shit.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, I guess.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You're not a light weight.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Thanks Benji.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You were the only person who even tried to stay up with me.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I always wanted to hang out at night, when everyone else was gone - to have the city to ourselves. But I could never get anybody to come with me.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I didn't care that you fell asleep. I was just happy you were there.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji. Benji, dude. We gotta go. Train's in an hour. Everyone's downstairs.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Hi, guys. Sorry we're a little late.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Dave literally woke me up two minutes ago. Ha.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "Yo du de, I think we should move.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "What?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I think we should move to a different train car.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "What do you mean?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Don't you feel weird being in a first class car?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "No. We paid for it. It's not hurting anybody.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Dude. We are Jews on a train in Poland. Think about it.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Benji, please -",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Like eating this fancy food? Sitting up here when, eighty y ears ago we would have been herded into the backs of these things like fuckin' cattle--",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "Well, why not--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Because it's depressing--",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Benji, why are you doing this?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I'm just sayin how I feel, Dave.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "And why is that important now?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, Dave, you used to feel everything. He was such an adorable, anxious kid!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji, Jesus--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "We went to Jewy sleep-away camp together and he cried the whole first week cause he was homesick. Literally the whole week.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji, what the fuck!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "And I would have to hug him to sleep and talk about his sweet fuckin mom to calm him down. And now look at him. Comfortable, buttoned up, topiaries his wild ass Jew fro into submission.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "It's all mad impressive.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You're all mad impressive. But I think I'm gonna move to the back of the train.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "Thanks.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Are you okay?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Everyone just wants to have a fuckin joyride, you know?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "What do you mean?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "People can't just walk around the world being... happy all the time.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "It's okay, man.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Hey m an.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Did I fall asleep?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, you did.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "All right, well let's go. Come on.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I guess everyone's waiting outside for us.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Hey Dave.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "We're not at the right train station.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "What do you mean?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh shit. What the fuck is Krasnik? We're supposed to get off at Lublin.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, you were out pretty fuckin cold.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "You mean, we passed Lublin already?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "A while ago.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "And you didn't wake me up?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You were gettin such a good nap, dude.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "J esus!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Dave, you were drooling and snoring and everything, I couldn't bring myself to wake you up.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "You have like the most fucked up sense of priorities.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Dave, come on. Don't be mad at me.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "How could I not be mad at you?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Cause I was staring at you sleepin. And you were snoring so weirdly and loudly and everyone was lookin and some people were laughing and I was just thinkin: this is my cousin, Davey. I'm not ashamed of him. This is Davey On The Bench in Chinatown. This is the cousin I used to have all to myself.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "All right, so what d o we do now?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Oh, I already worked all that shit out.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Did you?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, while you were sleeping.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Great. What do you got?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Lublin was the last stop, right? So we hop onto the train on the other side of the platform, going in the opposite direction. And that'll take us back to Lublin. Just email James and tell him we got a little sidetracked.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Huh.   Okay.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "And we don't even need to get tickets.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "What do you mean?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I mean, we're only tryin to go one stop, right?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "We just gotta avoid the conductor til we get there. I do shit like this all the time upstate. It's fuckin fool proof. All right - here we go!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "We should just buy tickets like normal people.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No time.   Come on!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "We stay moving, we stay light, we stay agile. He's gonna be coming through the train, takin tickets. We pass him -- probably somewhere around the middle of the train- and we tell him we're goin to the bathroom. Then he's gonna get to the back of the train and start heading back up toward the front lookin for stragglers.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "We're the stragglers?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yes. And by the time he gets to the front, the train'll be in the station and we'll be home free.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "This is so fucking stupid.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No, what's stupid is the corporatization of travel. Ensuring the rich move around the world to propagate their elitist loins while the poor stay cut off from society.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "That's good - we can argue Marxism when they're hauling us off to Siberia.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Siberia's in Russia, Dave.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "This is ridiculous. Tickets are probably like twelve bucks!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "It's the principle of th e thing. We shouldn't have to pay for train tickets in Poland. This is our country!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "No it's not! It WAS our country. They kicked us out because they thought we were cheap!",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Yes, thank you.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Jesus, my heart's in my fucking throat!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Feels good, doesn't it? But we're not out of the woods yet. We get to the front and take shelter til we get to our stop.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "We made it.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Don't fall asleep on me again, brother.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I won't. Hey Benji.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "We're in first class.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji looks around, thinks about it.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, but we fuckin earned it.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Hey everybody. I'm super sorry we're late. Dave fell asleep.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, that's what I'm saying!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I don't know. If we wept for every sad thing in the world, what would that accomplish?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Uh, maybe sad shit wouldn't constantly happen?",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "Yes, Eloge! Damn, that's a good analogy.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "And I get all that. It just seems like there's a time and a place for grieving and maybe it's-",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Dave, we're on a fuckin Holocaust tour. If now isn't the time and place to grieve, to open up, then I don't know what to tell you, man.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "Hey James, Eloge--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh shit--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, James.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji--",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Benji- stop it.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "But like these are real people. These are not little factoids lying under here. Okay? They're not history lessons.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji, calm down.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Hold up, Davie.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Benji- what the hell-",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Don't take this the wrong way or anything, but we've just been going from one touristy thing to another, not meeting anyone who's actually Polish-",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "That sounds like a great idea.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, dude, that's what I'm talking about. Thanks J. Thanks E.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "You want this one?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No, it's too small.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Okay.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "But you can totally use it.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, did you find one Marcia?",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Well, our grandmother--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Grandma Dory--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, Grandma Dory, who's house we're seeing on Thursday, was just amazing too.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "I was never scared of her.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "That's true! She and Benji had some special secret language. They both said what was on their minds--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No choice.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "And a similar kind of story to you Marcia and to you Diane. She survived the camps through a thousand miracles and made her way to New York. She wanted to design dresses but couldn't afford fashion school so she got stuck working as a secretary.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, but she was like \"fuck this.\" She ended up taking over the whole company.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "You're making it sound like she led a junta or something. She was just super smart. I mean, it was a small commercial real estate company.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I used to speak to her every Thursday. Literally every Thursday.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "She said that?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Um... she was just speaking generally.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "She really said that?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I think she was just talking about the immigrant experience.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I lived in my mom's basement.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yo, Benji, sh e was talking about immigrants, that's all.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Huh. I didn't think you ever bothered to call her, Dave.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "Dude, we're all downstairs waitin on you.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Mornin Davers. Your alarm clock didn't go off?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "No, my phone died because I didn't plug it in because I spent the night looking for you. Where the fuck were you?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Dude, I'm sorry. You were fast asleep when I left.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Well you scared the shit outta me, Benji.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Oh, man, I'm sorry.   I was just hangin with Marcia.   I didn't wanna wake you up.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah man, shit, I'm gonna miss all you guys. I feel like we're a weird little family.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah me too, I feel that way too. Thanks so much everyone.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "It's pretty f uckin tall.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "So?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I got one last joint.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "How we gonna get up?",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "I feel good, man. I'm glad we went there today. Is that weird to say?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "No, broheim, you're connecting to real shit. It's living. You need to do more of that.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Shit, you know what I think that is?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "What?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Way down there: can you see it?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Oh, shit--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah. It's the camp.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "It really is so close.    You can see the guard towers.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Fuckin creepy.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Fuckin creepy .",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "So what are you thinking about doing when you get back to Binghamton?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "What do you mean?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I mean, like, what's your plan?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, dude, gimme that if you're just gonna stare at it.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh, sorry.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "It's my last one.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Sorry about that.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, so, like, when I get back, it's gonna be pretty busy.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh yeah?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, my buddy Tim is reroofing his house and I'm probably gonna help out with that. He's got like a shit ton of adobe but he has no idea what the fuck he's doing.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Seriously?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, but it's gonna be sweet when it's finished, you kn ow? It keeps moisture out better than the plastic, toxic shit they put on bullshit suburban houses--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "That's awesome, man.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah.   It's pretty rad.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "But that's like, Tim's house?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "What?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I mean, you're working on Tim's house.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "So?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "So, I mean, what are you gonna do?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I don't know man. Why are you asking me this shit?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh, sorry. I just wanted to make sure you're good and that you have a plan. I think I'm just a little stoned, sorry.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "That's all right.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "So what are you gonna do when you get back?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Uh, go back to my job?   And my family? The usual ?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Cool, so I'll look forward to speaking to you in six months.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "What does that mean?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You know what it means, man.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Do I?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, I don't wanna start anything.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Cool.   Then don't.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You used to be like, different, you know? You used to be so emotional. You used to cry about everything.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, I know. It was awful. Who the fuck wants to cry about everything?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Dave! You're not listening to me. We used to be... man, we used to be...",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji, I have a son and a wife and a job. I can't just, like, hang out with you all night, every night.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I don't want that.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yes you do. You're like an all encompassing person, I don't think you realize--",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, that's where I live.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Well, I'm busy. And I live in New York City. Isn't it easier for you to come down to me?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "It's the same fuckin distance, Dave.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, but it's New York City, it's the more logical place to visit than fucking Binghamton, all due respect.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "What's wrong with Binghamton?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Nothing's wrong with Binghamton. You're just purposely making me look like an asshole for questioning it.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, fuck off.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yo, you fuck off.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Why don't you care about me anymore?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "What does that mean? I do fucking care about you!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I never hear from you anymore.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I'm standing three inches from you! We're sharing the same fucking joint in Poland!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, bu t you only came here with me because I tried to kill myself.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "No I didn't.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yes you did.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Benji. Don't say that.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You did, Dave!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, well it scared the shit out of me! I walk around with this terrible image of you in my head and, yeah, I don't want to fucking lose you, okay!? In my mind, you are like a thousand feet tall and constantly sawing off your own legs.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "And I put in so much effort -- so much fucking effort - to just be base level normal. To just hold down a normal job selling \"ad banners to the internet\", to have a stable marriage with someone who's a hundred times better looking than me, to raise one child in the most expensive city on earth. It all feels like 24 hours of panic to just have a base level of normalcy, to just show up, to get to z ero, and I look at you and it scrambles everything that makes any sense-",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, dude--",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Don't call me fucking \"dude\"! Don't call me that right now!   I mean: look at where we are!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "There's a silence. It's very tense.    Benji is shocked by his David's sudden surge of anger.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I don't understand why you would ever do anything so fucking stupi d to yourself... If I had your mind... Benji, if I had your mind...",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "What?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "If I had your mind, I'd be fucking president.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Dave...",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Do you see how people love you? Do you see what happens when you walk into a room?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I would give anything to know what that feels like. To know what it feels like to have charm. To feel easy. To feel fun. To light up a fucking room when I walk in.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "But you light up a room and then you shit on everything inside of it.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You can go.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Thanks.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Taxi's here.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Do you see a 25 anywhere?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I don't see any numbers anywhere. I think it might be around this way:",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I guess that's it-",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Is that possible?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "It's so... unremarkable.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah. I don't know what I pictured.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Me neither.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You know, she slapped me once.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "What?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, grandma slapped me.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Shit, really?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, I was late to meet her for dinner. Just like 15 minutes. And also I was pretty high. It was at the Hudson restaurant. On third Ave. In the purgatory of Murray Hill.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Right, I know it.   Did it hurt?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Wow.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "But it was the best thing that ever happened to me. I was literally elated for a full 24 hours after that.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Why?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I don't know. I mean, it was at this fuckin restaurant she went to every week, everyone knew her there, she dressed up mad formal for it like it was a big occasion. And, I don't know, the fact that she cared about me more than looking good for the restaurant. I don't know. It made me happy.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I got an idea.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "What?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Let's put a stone on the stoop.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "What do you mean?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I mean let's get a little stone and put it on her stoop. To say we were here. That she's not forgotten.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "She's not buried here.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "So what? This is the last place she was in Poland. The last place any of us were.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I found two. Here you go, man.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Thanks.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yo, I think he's yelling at us.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Hi. Sorry, sir. Americans. Americans. English.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "What the fuck was that about?",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, definitely. I know Priya would want to see you and Abe would love to tell you every fact about the Empire State building.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "That's tempting.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Come on.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Eh, that's okay, man.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Really?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Okay. Well let's at le ast split a cab back to the city and I could drop you at Penn Station for your train upstate.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You know, Dave? I think I'm probably just gonna hang out here for a bit.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "At the airport?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah. I kinda like it here. You meet the craziest people.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Are you serious?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Ow!   Jesus, what the fuck man!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh!   Shit, sorry!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Why the fuck did you do that?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Cause grandma! The restaurant! You said it was the best thing that ever happened to you.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "That was different!   I was 18!   I needed direction!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh- Sorry, Benji!",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Jesus! I can't feel my ear.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I'm so sorry, man.    I'm so sorry.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "She really loved you.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "She loved you too, Dave. She just knew I needed a little more. You were fuckin set and everyone knew that.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Really?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "Yeah, man. You're Golden, Ponyboy.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "I am?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "You know that. Come here.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I'm gonna be fine, man. Okay?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "You sure?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "BENJI",
+      "dialogue": "I'll see you around cuz.",
+      "movie": "a-real-pain"
+    }
+  ]
+]

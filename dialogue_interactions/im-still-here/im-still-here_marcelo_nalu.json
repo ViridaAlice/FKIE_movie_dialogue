@@ -1,0 +1,75 @@
+[
+  [
+    {
+      "character": "MARCELO",
+      "dialogue": "Check out our new puppy.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "NALU",
+      "dialogue": "Mom won't let you keep that fleabag.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "MARCELO",
+      "dialogue": "Where is she?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "NALU",
+      "dialogue": "Dunno.",
+      "movie": "im-still-here"
+    }
+  ],
+  [
+    {
+      "character": "MARCELO",
+      "dialogue": "Hey. Where'd Mom go?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "NALU",
+      "dialogue": "I dunno. ",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "MARCELO",
+      "dialogue": "Can I have a drag?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "NALU",
+      "dialogue": "No way.",
+      "movie": "im-still-here"
+    }
+  ],
+  [
+    {
+      "character": "NALU",
+      "dialogue": "It's kind of late.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "MARCELO",
+      "dialogue": "I'm hungry. ",
+      "movie": "im-still-here"
+    }
+  ],
+  [
+    {
+      "character": "NALU",
+      "dialogue": "A total failure, it deflated. No jokes, okay? ",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "MARCELO",
+      "dialogue": "A sorry sight, eh, Mrs. Paiva?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "NALU",
+      "dialogue": "If Mrs. Paiva had written down the recipe...",
+      "movie": "im-still-here"
+    }
+  ]
+]

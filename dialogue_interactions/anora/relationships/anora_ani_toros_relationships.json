@@ -1,0 +1,242 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "TOROS: Put me on speaker so the hooker can hear as well!\nANI: What the fuck! I'm not a fuckin' hooker!",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "TOROS: I don't check in on you in two weeks and you marry a whore?!?\nANI: I'm not a fucking whore you fucking Russian piece of shit.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10
+        ],
+        "text": "ANI: I'm not going anywhere you, fucking piece of shit.\nANI: We're not getting divorced because you tell us to. Go fuck yourself! Right Ivan?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "ANI: Yo! Fuck face!",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "11": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "14": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          18,
+          24,
+          27,
+          40
+        ],
+        "text": "TOROS: You are not in love and neither is he.\nTOROS: Ha! He shamed his family, marrying somebody like you. And if you think for a minute this will be allowed to continue, you're dead wrong.\nANI: The fuck we are. And I would like you to leave my home now. Or I'll be pressing charges.\nTOROS: You heard me. I think it's pretty clear that Ivan was taken advantage of by a... scheming... prostitute... because of his family's wealth.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "TOROS: Ok, but look at me. When we find Ivan, which we will. And we get this marriage annulled, which we will. You walk away with 10K and never contact Ivan again. Yes?\nANI: Sure.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "17": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "18": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "TOROS: Give me your fucking phone!\nANI: I will fucking scream if you touch me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "20": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "21": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "22": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "23": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "24": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "25": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "26": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "27": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "TOROS: You son of a bitch!",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "28": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "29": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "30": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "31": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "32": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "33": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "34": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "35": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "36": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "37": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "38": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "39": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "ANI: Pathetic bitch ass motherfucker.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

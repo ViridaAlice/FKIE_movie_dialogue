@@ -1,0 +1,75 @@
+[
+  [
+    {
+      "character": "GOSLING",
+      "dialogue": "Roz feffin-nun free sore.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "But you can call me Roz.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "GOSLING",
+      "dialogue": "Roz. Roz Roz Roz.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "GOSLING",
+      "dialogue": "Roz! Roz! Roz!",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "ROZ",
+      "dialogue": "Your inefficient participation will slow the process.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "GOSLING",
+      "dialogue": "Slow the process. I\u2019ll just be over here. A little sad, but otherwise okay.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Just this once.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "GOSLING",
+      "dialogue": "Perfect.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "GOSLING",
+      "dialogue": "Home?",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "ROZ",
+      "dialogue": "Searching. \u201cA W O O O O...\u201d",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "GOSLING",
+      "dialogue": "Aaaa woo ooo ooo ooo--",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "GOSLING",
+      "dialogue": "Personal.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Processing. Personal. Bright. Bill. Brightbill. Is that satisfactory?",
+      "movie": "the-wild-robot"
+    }
+  ]
+]

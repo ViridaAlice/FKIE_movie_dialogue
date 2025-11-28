@@ -1,0 +1,40 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          11,
+          12
+        ],
+        "text": "MILITARY OFFICER 1: Eliana's outside. Sorry about the hood, Mrs. Paiva. Cigarette? \nEUNICE: Where is my husband? \nMILITARY OFFICER 1: How long have you been married?\nMILITARY OFFICER 1: Here it says eighteen years. Was he associating with communists back then?\nEUNICE: My husband was in the Labor Party, and I'd like to call my lawyer.\nMILITARY OFFICER 1: No need. These are just routine questions.\nEUNICE: I'll answer them after I see my daughter and my husband. \nMILITARY OFFICER 1: He's upstairs. He's already told us everything he knows. You just need to confirm.\nEUNICE: Confirm what?\nEUNICE: Rubens was a congressman. He was ousted and had to go into exile. But since he came back, he hasn't been involved in politics.\nMILITARY OFFICER 1: So why is he still fraternizing with terrorists?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "MILITARY OFFICER 1: Mrs. Paiva, all I'm trying to do is make sure you can keep taking care of your home, driving your kids to school and playing your backgammon. That's my job. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

@@ -1,0 +1,144 @@
+[
+  [
+    {
+      "character": "MONSIGNOR O",
+      "dialogue": "Your Eminence...",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Oh dear God, one of them\u2019s died.",
+      "movie": "conclave"
+    },
+    {
+      "character": "MONSIGNOR O",
+      "dialogue": "What?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Have we lost a Cardinal?",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "MONSIGNOR O",
+      "dialogue": "I\u2019ll have a transcript made of the text from the tape, Em inence. If there\u2019s nothing else...",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "I need you to do something for me. Monsignor Morales. I\u2019m sure he\u2019s still in Rome. Could you try and see him? Use my authority.",
+      "movie": "conclave"
+    },
+    {
+      "character": "MONSIGNOR O",
+      "dialogue": "Today? I...I could try, your Eminence?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "I need to know what happened in the final meeting between the Holy Father and Cardinal Tremblay.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "MONSIGNOR O",
+      "dialogue": "Of course, Eminence.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Bless you.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "MONSIGNOR O",
+      "dialogue": "I could try and speak to Monsignor Morales again? See if I could find out any more?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "No, no... This is all so... unseemly.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "You go on, Ray.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "The Holy Father\u2019s turtles. He was very fond of them. A gift from Angola.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "MONSIGNOR O",
+      "dialogue": "There\u2019s been an explosion your Eminence. In the Piazza Barberini.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Dear God. A bomb?",
+      "movie": "conclave"
+    },
+    {
+      "character": "MONSIGNOR O",
+      "dialogue": "It\u2019s unclear at this moment. There are injuries but no talk of fatalities so far.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Say nothing to the cardinal- electors about this Ray. We are sequestered and t hey must be shielded from any news of the outside world in case it influences their judgement. You understand?",
+      "movie": "conclave"
+    },
+    {
+      "character": "MONSIGNOR O",
+      "dialogue": "Of course your Eminence.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Yes, Ray?",
+      "movie": "conclave"
+    },
+    {
+      "character": "MONSIGNOR O",
+      "dialogue": "The incident this morning, your Eminence. I have more information, if...?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "No, Ray. I too must be shielded from any knowledge which could act as an...interference in the process of this Conclave.",
+      "movie": "conclave"
+    },
+    {
+      "character": "MONSIGNOR O",
+      "dialogue": "Of course, Eminence.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Anything else?",
+      "movie": "conclave"
+    },
+    {
+      "character": "MONSIGNOR O",
+      "dialogue": "Uhh...Oh, Cardinal Benitez. His health problems? He was issued with a return ticket to Geneva, paid for from the Pope\u2019s own account. I checked the visa application. The purpose for travel was given as \u201cmedical treatment.\u201d Anyway, whatever it was, it can\u2019t have been serious. The tickets were cancelled. He never went.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Alright. Thank you, Ray.",
+      "movie": "conclave"
+    }
+  ]
+]

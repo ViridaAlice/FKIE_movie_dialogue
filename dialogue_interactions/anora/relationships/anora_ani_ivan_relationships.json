@@ -1,0 +1,178 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "IVAN: Ivan. Sit down, sit down. You're a beautiful girl.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ],
+        "text": "ANI: Ok. So what are you looking for?\nIVAN: Sex.\nANI: Yeah, I know. I mean... anything special?\nIVAN: Yeah, special sex.\nANI: Special sex. So... a little bit of everything.\nIVAN: That sounds special. Yeah.\nANI: Want to take your clothes off?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          15,
+          16
+        ],
+        "text": "IVAN: So... I want you to be exclusive with me. For the week. And we can have... fun.\nIVAN: Hang with me and my boys for the week. We can have fun. Party. Like... be my girlfriend for the week.\nIVAN: My horny girlfriend for the week.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          19,
+          20,
+          21,
+          23
+        ],
+        "text": "IVAN: It is Vegas. Don't people get married in Vegas?\nANI: Don't fuck around.\nIVAN: I'm not fucking around.\nANI: Ok, well then go get married.\nIVAN: Ok. Let's get married.\nANI: Don't tease me with that shit. That ain't cool.\nIVAN: Will you marry me?\nANI: Seriously?\nANI: You want to marry... you want to get married?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "text": "ANI: I mean... This is good news. Right? Parents usually want their kids to get married.\nIVAN: Yeah, but my parents are dicks. And whatever.\nANI: Well, no matter what. I hope they like me... You know... Like, when we meet.\nIVAN: When will I meet your family?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "11": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "IVAN: Time to say goodbye. My wife and I would like some privacy, thank you. And tell Toros to go fuck himself.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "14": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "15": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "16": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "17": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "18": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "19": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "20": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "21": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "ANI: So we're just going to get divorced!?!\nIVAN: Yes! Of course! What are you stupid?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "ANI: I'm glad to be divorcing your sorry ass. You're pathetic, man.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

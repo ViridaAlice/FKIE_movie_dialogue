@@ -1,0 +1,31 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "CLAUDETTE: So we manufacture a random encounter where he can get her talking.\nJASPER: Not random - surprise encounter. I say we put a wire on Gary and we go now. I'm thinking you can just play this as just a concerned check-in.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

@@ -1,0 +1,66 @@
+[
+  [
+    {
+      "character": "COOK",
+      "dialogue": "You folks enjoying everything?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Yeah.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "COOK",
+      "dialogue": "Need anything else?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "No thank you.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "COOK",
+      "dialogue": "Pizza was good? Complaints?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "Yeah, thank you.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "COOK",
+      "dialogue": "Left a few bites. That\u2019s not a sign?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "No, I...I\u2019m still picking at it.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "COOK",
+      "dialogue": "Pick away. Knife and fork style. So no special feedback? I can handle it. Crust too crispy? Too light on the mushrooms?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "COOK",
+      "dialogue": "There\u2019s always room for improvement. Well, thank you very much for your patronage. It would be so great if you could come back. Come every day. We\u2019re always open. Christmas, Passover, you name it, my door is open. Promise me you\u2019ll stop in again.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "I promise.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "COOK",
+      "dialogue": "Halloween, D\u00eda de los Muertos, and you better bring the pretty lady. You make a lovely couple. Okay, you folks have a terrific day.",
+      "movie": "a-different-man"
+    }
+  ]
+]

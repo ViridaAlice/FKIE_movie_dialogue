@@ -1,0 +1,66 @@
+[
+  [
+    {
+      "character": "BOQ",
+      "dialogue": "Lemons and melons and pears.",
+      "movie": "wicked"
+    },
+    {
+      "character": "NESSA",
+      "dialogue": "Oh my.",
+      "movie": "wicked"
+    },
+    {
+      "character": "BOQ",
+      "dialogue": "And... a boatload of liquor.",
+      "movie": "wicked"
+    },
+    {
+      "character": "BOQ",
+      "dialogue": "Listen, Nessa...",
+      "movie": "wicked"
+    },
+    {
+      "character": "NESSA",
+      "dialogue": "Yes?",
+      "movie": "wicked"
+    },
+    {
+      "character": "NESSA",
+      "dialogue": "Oh Boq. I know why.",
+      "movie": "wicked"
+    },
+    {
+      "character": "BOQ",
+      "dialogue": "You do?",
+      "movie": "wicked"
+    },
+    {
+      "character": "BOQ",
+      "dialogue": "What? No! I don't feel sorry for you. You're great! I just... I asked you because...",
+      "movie": "wicked"
+    },
+    {
+      "character": "BOQ",
+      "dialogue": "Because...",
+      "movie": "wicked"
+    },
+    {
+      "character": "NESSA",
+      "dialogue": "What?",
+      "movie": "wicked"
+    }
+  ],
+  [
+    {
+      "character": "NESSA",
+      "dialogue": "There you are! Father, this is Boq, the boy I wrote to you about!",
+      "movie": "wicked"
+    },
+    {
+      "character": "BOQ",
+      "dialogue": "What? Oh, yes, Governor Thropp... good to meet you.",
+      "movie": "wicked"
+    }
+  ]
+]

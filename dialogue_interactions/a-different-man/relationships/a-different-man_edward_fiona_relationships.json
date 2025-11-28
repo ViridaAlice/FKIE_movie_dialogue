@@ -1,0 +1,43 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "text": "FIONA: You have an eyelash. Let me get it. She touches his eye. He grabs her hand and holds it in place. They stare at each other. Edward leans in to kiss her.\nFIONA: I...I have to go.\nEDWARD: I\u2019m sorry, I--\nFIONA: No, no. I didn\u2019t realize what time it was.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          3,
+          4
+        ],
+        "text": "FIONA: But I\u2019m only trying -\nEDWARD: I know, always so helpful, aren\u2019t you? I don\u2019t want your pity. I know that I disgust you.\nFIONA: That isn\u2019t true!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": []
+  }
+}

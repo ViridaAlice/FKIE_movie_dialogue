@@ -1,0 +1,46 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "ELIANA: Didn't they let that guy go already, Dad?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "ELIANA: How would you know, Dad?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "RUBENS: Go on, do as your mother says.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

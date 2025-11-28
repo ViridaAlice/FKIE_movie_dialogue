@@ -1,0 +1,67 @@
+[
+  [
+    {
+      "character": "MISS CODDLE",
+      "dialogue": "There you are! Miss Nessarose, isn't it? The Governor's daughter ? How tragically beautiful you are. It's an honor to-- AHHH!",
+      "movie": "wicked"
+    },
+    {
+      "character": "ELPHABA",
+      "dialogue": "I'm the other daughter. I'm beautifully tragic.",
+      "movie": "wicked"
+    }
+  ],
+  [
+    {
+      "character": "ELPHABA",
+      "dialogue": "No, I'm not enrolled.",
+      "movie": "wicked"
+    },
+    {
+      "character": "MISS CODDLE",
+      "dialogue": "Oh good. Though I'm sure you're... very bright.",
+      "movie": "wicked"
+    }
+  ],
+  [
+    {
+      "character": "ELPHABA",
+      "dialogue": "Forgive me Nessa, Father insisted--",
+      "movie": "wicked"
+    },
+    {
+      "character": "MISS CODDLE",
+      "dialogue": "Oh, the Governor made his concern for your sister quite apparent-- Please assure him I'm honored to help her.",
+      "movie": "wicked"
+    }
+  ],
+  [
+    {
+      "character": "MISS CODDLE",
+      "dialogue": "Students, remain calm, please, there's no cause for alarm--",
+      "movie": "wicked"
+    },
+    {
+      "character": "ELPHABA",
+      "dialogue": "What is this, what's happening?",
+      "movie": "wicked"
+    }
+  ],
+  [
+    {
+      "character": "ELPHABA",
+      "dialogue": "You can't permit this!",
+      "movie": "wicked"
+    },
+    {
+      "character": "MISS CODDLE",
+      "dialogue": "Miss Elphaba, I'm afraid it's out of our hands.",
+      "movie": "wicked"
+    },
+    {
+      "character": "ELPHABA",
+      "dialogue": "But--",
+      "movie": "wicked"
+    }
+  ]
+]

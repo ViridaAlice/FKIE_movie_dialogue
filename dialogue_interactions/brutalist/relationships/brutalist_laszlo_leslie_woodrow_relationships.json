@@ -1,0 +1,29 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "text": "LESLIE WOODROW: What's the height of those things? Six or seven meters also? And did I understand you correctly? 108 meters of surface area for the facade?! That's eleven square feet, If we can afford these materials at all, Mr. Van Buren, Sylacauga Marble ships out of Talladega County and that might be possible if I manage to swing some favors but I can't make any promises.\nLASZLO: Afford these materials? The concrete is sturdy and cheap.\nLESLIE WOODROW: The concrete- it's not very attractive. Perhaps you'd like to split the difference on materials?\nLASZLO: Fortunately, the building's aesthetic is not yours to resolve, Mr. Woodrow. And Sylacauga marble is white like a sheet of paper; it's nothing. What I have here is blue and grey with softer veining.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

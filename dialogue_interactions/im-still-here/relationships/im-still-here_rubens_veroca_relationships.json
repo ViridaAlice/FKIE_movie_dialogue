@@ -1,0 +1,23 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "RUBENS: Wallababy, I don't want you riding in that playboy's car.\nRUBENS: No, sweetie. That's who pays for your matin\u00e9es. What did you \"not see\"?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

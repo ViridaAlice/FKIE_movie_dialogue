@@ -1,0 +1,63 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "VEROCA: Thanks, Zez\u00e9, but I'm not hungry.\nEUNICE: Go talk to your dad. He was worried.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "EUNICE: But you don't have to choose now. Decide after the trip.\nVEROCA: I've already made up my mind, Mom.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "VEROCA: I can take care of myself, Mom.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          8,
+          10,
+          11
+        ],
+        "text": "VEROCA: Mom, I have to tell you something.\nEUNICE: Sure I am, honey. How about you? \nEUNICE: Vera, please, the kids.\nVEROCA: In London, it's in all the papers--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

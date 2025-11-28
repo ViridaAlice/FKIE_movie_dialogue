@@ -1,0 +1,40 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          8,
+          10
+        ],
+        "text": "GARNIK: Ivan, your father sent us.\nGARNIK: Well, not me. Your father sent Toros and Toros sent us.\nGARNIK: He's busy and he's very upset with you... if this is true.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

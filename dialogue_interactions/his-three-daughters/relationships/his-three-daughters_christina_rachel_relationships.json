@@ -1,0 +1,120 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "RACHEL: You have no idea. I will fucking destroy you\u2014",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "CHRISTINA: Katie has been working on dad\u2019s obituary.\nCHRISTINA: And hearing what she wrote, it made me think that we each have very different stories. Who he is, who he was, to each of us. We were all raised by him, but at different times. We had different lives, even if it was in the same home.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "RACHEL: Don\u2019t play fucking dumb.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "RACHEL: Yeah. Your dad should be disappearing a quarter anytime soon. I like that. That makes sense to me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "RACHEL: Aw daddy. It\u2019s me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "RACHEL: We just hang out with him. We could watch a movie, or a game, if he wants. Dad, Titans blew our parlay, but we can still catch the Bills if you want.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "RACHEL: Dad...\nCHRISTINA: Wait, dad. I don\u2019t think...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

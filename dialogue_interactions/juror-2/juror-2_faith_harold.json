@@ -1,0 +1,118 @@
+[
+  [
+    {
+      "character": "FAITH",
+      "dialogue": "How long have you lived in the area, Mr. Chicowski?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "HAROLD",
+      "dialogue": "Ten years.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "And you... run a flower shop?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "HAROLD",
+      "dialogue": "Yes. With my wife.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Bet you never come home empty-handed on your anniversary...",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "HAROLD",
+      "dialogue": "Hey, it has been a minute. But I was hoping you could do me a solid...",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "... We cannot break the law. We can only break ourselves of the law...",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "HAROLD",
+      "dialogue": "It's okay, I'm not a juror anymore.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "You made sure of that.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "HAROLD",
+      "dialogue": "Feeling the pressure, huh?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "In this job, always.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "HAROLD",
+      "dialogue": "You got this case all wrong.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Really.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "HAROLD",
+      "dialogue": "It was a hit and run.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "No way. M.E. would've flagged it.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "HAROLD",
+      "dialogue": "You'd think. But he did five autopsies that day. I checked.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Doesn't mean anything.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "HAROLD",
+      "dialogue": "Let me ask you something: Did you look at ANY other suspects besides James Sythe?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "We did our job.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "HAROLD",
+      "dialogue": "If you'd done your job, we wouldn't be standing here right now.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "The guy's bad news.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "HAROLD",
+      "dialogue": "Maybe. Doesn\u2019t mean he killed his girlfriend.",
+      "movie": "juror-2"
+    }
+  ]
+]

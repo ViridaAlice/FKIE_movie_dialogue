@@ -1,0 +1,90 @@
+[
+  [
+    {
+      "character": "NALU",
+      "dialogue": "Are you taking that all? Veroca picks a necklace.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "VEROCA",
+      "dialogue": "Just this one. She offers the box of costume jewelry to her sister.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "NALU",
+      "dialogue": "Seriously?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "VEROCA",
+      "dialogue": "Just don't let Eliana touch it.",
+      "movie": "im-still-here"
+    }
+  ],
+  [
+    {
+      "character": "VEROCA",
+      "dialogue": "Is Zez\u00e9 off today?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "NALU",
+      "dialogue": "She doesn't work here anymore.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "VEROCA",
+      "dialogue": "Why?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "NALU",
+      "dialogue": "We can't afford to pay her. ",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "VEROCA",
+      "dialogue": "Let me help you, then.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "NALU",
+      "dialogue": "That's okay. Tomorrow you can start on the rotation. ",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "VEROCA",
+      "dialogue": "Let me get the dishes for you today, Eliana.",
+      "movie": "im-still-here"
+    }
+  ],
+  [
+    {
+      "character": "NALU",
+      "dialogue": "Where's Veroca going to sleep now that I'm in her bedroom?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "VEROCA",
+      "dialogue": "I don't care.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "NALU",
+      "dialogue": "Can't Eliana sleep with Marcelo and Babiu and I stay with Veroca?",
+      "movie": "im-still-here"
+    }
+  ],
+  [
+    {
+      "character": "NALU",
+      "dialogue": "I think Joaquim does her good.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "VEROCA",
+      "dialogue": "I don't know. Sometimes it seems like she's completely adrift.",
+      "movie": "im-still-here"
+    }
+  ]
+]

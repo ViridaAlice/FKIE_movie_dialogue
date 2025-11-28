@@ -1,0 +1,23 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          11,
+          12
+        ],
+        "text": "FAITH: We did our job.\nHAROLD: If you'd done your job, we wouldn't be standing here right now.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

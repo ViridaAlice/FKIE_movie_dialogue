@@ -1,0 +1,46 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "ROCHELLE: Has she ever wandered off before?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "ROCHELLE: Hang on, so she\u2019s never wandered off - aside from returning to a salad bar by choice?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "DANIEL: But she\u2019s a tough cookie. Obviously we want help tracking her down. But there\u2019s still a chance it\u2019s a \u201cgoing back to the buffet\u201d type situation.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

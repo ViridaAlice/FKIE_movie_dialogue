@@ -1,0 +1,63 @@
+[
+  [
+    {
+      "character": "VIC",
+      "dialogue": "Alright, that's very cute. C'mon. Let's go.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Ok, I'll, uhh...",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "VIC",
+      "dialogue": "Let's goooooo!",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "-- I'll see ya.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "Ok, uhm, I don't wanna sound uhm... Do you guys wanna come?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Holy fucking shit.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "VIC",
+      "dialogue": "It's good to be back.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "I'm redecorating. You like it?",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "VIC",
+      "dialogue": "Shit. Hey Stan. Stan the man. You were in the marines, right?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "VIC",
+      "dialogue": "VIC You wanna... get ya boy some ice?   Be a hero twice?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Are you having a good time?",
+      "movie": "blink-twice"
+    }
+  ]
+]

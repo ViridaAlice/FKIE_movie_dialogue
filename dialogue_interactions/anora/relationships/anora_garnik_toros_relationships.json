@@ -1,0 +1,86 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "11": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "14": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "15": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "16": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "17": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "18": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "GARNIK: I just want to say that it is an honor to be finally able to spend time with your wonderful family and thank you so much for trusting in Toros and I over the years...",
+        "type": "Implied"
+      }
+    ]
+  }
+}

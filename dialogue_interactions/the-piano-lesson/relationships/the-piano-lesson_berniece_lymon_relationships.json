@@ -1,0 +1,34 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "BERNIECE: Why you all got to come in hollering and carrying on? Waking the neighbors with all that noise.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": []
+  }
+}

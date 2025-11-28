@@ -1,0 +1,686 @@
+[
+  [
+    {
+      "character": "FRIDA",
+      "dialogue": "This is not what I thought it was gonna be.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "What do you mean?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "I mean, the legendary parties of slater king. Debauchery, drugs -- sounded kinda fun.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER KING",
+      "dialogue": "Ah man, you must think I'm an asshole.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "No. I think you're a boy.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "I was. I was a young, stupid, boy with all this money and power and no one gives you a rule book.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Why would you want rules?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "The world needs rules, otherwise you've got a bunch of traumatized kid with abandonment issues running around, actin' like psychopaths because they can't accept love. But that's not an excuse. A lot of shame. Shame's a big one.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Hey, your life was bananas.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "I'm figuring it out.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Thanks Mama. Gotta bit of a pest problem.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "You call your house keeper mama?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "It's her nickname.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Oh, okay.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "What?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Nothing, just -- she's a real person who, maybe, shouldn't have to live with a \"nickname\" because her boss has mommy issues. But, no I'm sorry, I'm sure it's fine.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Oh my god, no, you're right. I thought we had a cute thing but she probably wants to burn this place to the ground. Goddamnit, I'm still an asshole.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "No, I'm sorry. I don't know why I said that.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "No, you're right. She left us with our dad, it totally fucked me up. You in therapy?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "No. I actually think therapy's kind of self-indulgent bullshit.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "You sound like my sister.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "I don't need to pay someone to talk about the time my mom tried to kill herself in front of me. I mean, who didn't have a fucked up childhood? I survived, I'm here.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Wow. I'm sorry. Well -- talk therapy isn't really for me either. Rich is a trauma therapist. So, more like, subconscious, repressed memories -- stuff like that. But so far he's just very expensive so maybe you're right. Therapy's bullshit.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "What can't you remember?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Anything before ten -- it's just, shooop. So it was probably pretty bad.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "I don't get it, why do you want to remember? I'd pay to forget.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "I dunno. There's something unsettling about not knowing but maybe you're right, forgetting is a gift.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Let me help you.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Don't even try. She's got it.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER KING",
+      "dialogue": "Yeah, she's my assisstant.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "And this guy just follows you everywhere?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Who? Oh, Stan? Don't even notice him anymore. Yeah, just in case.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "I have bad news for you.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "What?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Your life is still bananas.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER KING",
+      "dialogue": "Hi.   You came back.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Here.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Sorry about your friend. We were all having such a good time.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "She's fine. She's sleeping. We're still having a good time.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Good. I didn't want to scare her but sometimes people have a bad reaction. You gotta flip the --",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "What is this? Strawberry?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Wild berry. Yummy right?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "At first I guess -- -- but then it's kinda --",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "I know it's bad but at least it doesn't kill you.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "You never know what's in those things, man.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "So, watcha doin?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Thinkin' of lighting this chair on fire.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Why?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Just tried it in like, every room and I cannot -- it just feels weird everywhere. This is a problem. This fucking chair is a problem.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "It's not funny. I'm serious.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "I know. That's what's so funny. This is your biggest problem. Amazing.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "I know, I know, you're right. I'm obsessing. I gotta get away from this thing.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "It's nice down here.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Uh-huh.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "I asked mama her name.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "What is it?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "It's -- uhhh -- shit.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "That smells nice on you. I like your nails.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Thanks. I do them myself.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "What do we got here? Little blue cats?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "A-nail-mals.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "What?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Animal nails. It's kinda my thing. It's a play on --",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Anailmals!     I like it.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "It's stupid.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "It's not. You should Trademark that.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "I did.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Oh, okay. Someone's on their shit.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "I got into Haas.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Damn. Berkley.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Full ride.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Wanna be my CFO? Pretty sure Vic only comes into the office to hide from his wife.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "I don't know if you can afford me.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Want some?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "What flavor is it?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Pistachio.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Oh my god, that's my favorite.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Really? No one likes pistachio.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "This is scary perfect.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Enjoy the fantasy before it melts.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "What?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "My mom always used say that. She could find the dark side of just about anything.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "She wasn't wrong. Nothing lasts.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "So why didn't you go?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Where?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Business school.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "How do you know I didn't go?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "You're doing nails.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "My mother. Couldn't leave her.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Couldn't or wouldn't ?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "It was a full on hostage situation. Never again.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER KING",
+      "dialogue": "Rich would not like this.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Why?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Because you're co-dependent and I have abandonment issues.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Good thing I don't believe in therapy.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "This will be fun. Or really fucked up. Or both.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Or both.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Or both. How'd you get that scar?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Nothing.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Gotta go to bed, gotta to bed, gotta go to bed. I'm glad you came back.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "She watches him stumble off toward the big house.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Really?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Yeah. Got therapy in the morning.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Wait you forgot your --",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "He's gone.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "FRIDA",
+      "dialogue": "I used to do my mom's nails. It would calm her down when she went to the dark side.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "I think it's working. No one ever takes care of me. Well, everyone takes care of me but only because I pay them.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Well I'm here now.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Yes you are.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER KING",
+      "dialogue": "What?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "When things are too good, that's when the bad stuff happens.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "What makes you think that?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Life.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "What day is it?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "I don't know.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "You people have no sense of time. When are we leaving?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Whenever we want.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "That's not an answer.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Okay, you tell me.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Gotta go back, pour champagne --",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "For who?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "There's mold.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Where?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Everywhere. Back home.     I don't wanna go back.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "This is your life. I'm just a tourist. This is just a vacation. This isn't my life. These aren't my clothes. What day is it?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Frida, are you having a good time?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Yes.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Let's start fresh.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Yes.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER KING",
+      "dialogue": "Let's be in moment. Cuz that's all that matters. No future. No past. Just me and you. Right here. Right now. Hey, I like you.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "You're evil.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Slater?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Oh, sorry, I was looking for Slater.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Hey, what's your name. I'm Frida.",
+      "movie": "blink-twice"
+    }
+  ]
+]

@@ -1,0 +1,1330 @@
+[
+  [
+    {
+      "character": "IMAN",
+      "dialogue": "Thanks.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Congratulations. Your prayers have been answered\u2026",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "May God rest his soul; I wish your father was here with us to see this.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I am very happy, for the girls. Finally, our financial situation will improve. Hopefully, they will give us a three-bedroom",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "house. They are all grown up now, it's difficult for them to share a room.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "It will take several months.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "It doesn\u2019t matter.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Don't be afraid, they gave it to me for personal protection.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "try it...",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "No, I don't like to, it's dangerous.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Take it.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I think it's time to talk about your job with the girls.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Not yet...",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "Whatever. Soon you'll become an advisory judge and then a chief judge, right? Won't you?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Well, then the girls need to know these things. It affects their behavior. They're young, they must be more considerate because of your job.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "You know the situation is different for revolutionary courts, people don't have a positive perception.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Yes, but we cannot hide it from the kids forever. You always waited for an opportunity to talk to them about your job. Now is your chance.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Tonight, four of us will go to a restaurant. We'll have a little celebration for your promotion, and then we'll have a conversation as well and share some things with the kids.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "How much can we share?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Leave it to me.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Sana, keep it down dear, your dad is sleeping.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "It\u2019s very late.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Are you okay?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "What\u2019s going on, honey?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Why don't you tell me?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Why do you think they chose me as an investigating judge?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "They think I will do whatever they ask me.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Who?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "The previous investigating judge was fired when he did not sign the execution sentence of a defendant... Why didn't he sign it? Maybe the accused is innocent.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Did they ask you to do something?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "They want me to sign off on that death penalty sentence.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Unjust execution?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I don\u2019t know.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Do not sign that.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "The prosecutor's order is... the law.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "So, if the prosecutor gave the order, it has nothing to do with you, right?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Qaderi says this is the original verdict... if there is any defect in the case, then there is a retrial, and after that the court of appeal... and then the resumption of proceedings...",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Let it go for now. Let's go and rest.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Hello Hello, do you feel better? Oh, good, thank God No, I couldn't sleep last night I fell asleep near dawn where? why?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "No, in the afternoon, the kids and I are going to do some shopping together. Rezvan needs to buy some clothes for the university, and Sana also wants to buy her school stationery okay no, if it's like what you\u2019re saying, we won't go okay.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "The kids have grown up. They have ideas and questions. They need you. You know what? I don't want anything from you. But a girl at this age needs her father, they get bored...",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "It\u2019s gonna be like this just for a short while, it will be ok. Schools and universities are about to begin as well, kids will be busy studying. Be patient a bit longer.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Iman\u2026",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Yes, my darling?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Did you sign off on that death penalty sentence?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Yeah...",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I thought about it a lot. I was being emotional. I mixed my ego's desires with the execution of God's decree.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "A self-sacrifice is necessary, to be able to submit oneself to God's law. \u201cI am at peace with those who are at peace with you and at war with those who fight you, until the Day of Resurrection.\u201d",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Did you fall asleep?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I\u2019m about to.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I know now is not a good time, but we may not be able to talk again soon.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Tell me.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Remember you promised to buy a dishwasher in a good opportunity? The hands of me and the girls are getting damaged. Can't we do it sooner?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "sure honey, next week we\u2019ll go and buy it together.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Did you take your fruit and sandwich?",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "IMAN",
+      "dialogue": "I was in a meeting.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "What about after the meeting? Didn't you see I called?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Today... Today I had a complicated case. My mind was pretty occupied.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "How complicated was it? As much as to forget about your wife and children?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "A 20-year-old boy... You know, no matter how strong you are, no matter how strong your faith is, execution cases will still get to you...",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "On the other hand, unfortunately, this chaos coincided with the beginning of my work in this branch. The number of detainees is very high. Fourteen- and fifteen-year-old kids to seventy-year\ufffeold men and women. And it\u2019s increasing every day. There\u2019s no more room in prisons. They\u2019re asking us to clarify the status of the detainees as soon as possible. In a minute or two, I should be able to explain the charges and make a decision. One hundred, two hundred, or three hundred a day... I don't know.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "There is always work. Do you know when was the last time we sat at the same table with the kids?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "You explain to them and calm them down.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Who will calm me down?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Can you please spend some time with the kids tomorrow morning before you leave?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I like to very much, but I must be at the prosecutor's office early in the morning. Tomorrow night\u2026 Tomorrow night I will come home early so that we can have dinner together.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "By the way, don\u2019t let them go to school or university until I tell you otherwise.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "How can they not go to school and university?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "The government closed them for the time being, but they are not going to announce it.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "IMAN",
+      "dialogue": "Najmeh...",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I\u2019m coming.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I will follow up tomorrow morning first thing through an acquaintance. Wherever she is, I will find her by noon. Don\u2019t worry. Cell phones are off, now! go back to sleep.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "how are you honey, how is Alireza?",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "IMAN",
+      "dialogue": "what has happened?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "you came. I thought you forgot...",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "do you hear that? One of the neighbors is chanting...",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "These dirtbags... eat this regime\u2019s salt and then chant slogans against it too. We\u2019ll get rid of them.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "There are many, Iman. do you hear them?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "What if something happens?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Like what?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I mean, you\u2019ve never thought about it?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I\u2019m afraid. What will they do to us if something happens?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Nothing\u2019s going to happen...",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "How can you be sure?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "We won\u2019t allow it... whoever stands in the way of God\u2019s religion is responsible for his life.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "There are protests everywhere, even in universities and schools.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I know... where are the kids?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "In their room... they are upset. They arrested some of Rezvan's classmates.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Rezvan wasn\u2019t in these riots, was she?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "No, she wasn't. But they took one of her close friends. she is worried about her and is very sad. She doesn\u2019t come out of the room.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Does anyone know who arrested them? Where do they take them?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Why does Rezvan have such friends?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "My dear, she can't do an entry test for making friends. They met at the university and became close. The poor girl didn't do anything at all.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "anyone who is arrested, and their family says that they didn\u2019t do anything.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "My dear, I am telling you. This girl truly hasn\u2019t done anything. She\u2019s been pushed into the crowd.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "It is enough that she got arrested at a gathering.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Now, can't you get any news about this child and relieve her family from worry?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "How do I do that? God knows where she is now. They have to wait.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "For how long?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Until she starts talking. They keep her in solitary until she sits in front of the camera and confesses everything.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "What to say when she didn't do anything?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "There is always something to confess in front of the interrogators' cameras.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Does that mean you can't do anything?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "At this stage, no.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "Enough, don't argue with your father like that, have some respect.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Not even as a father, but as someone who has been working in this system every day as long as you lived, don't I know what's going on better than you?",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "Relax, my dear... sit down. Sit down.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "After all this time, we wanted to have dinner together just for one night, you ruined it for everyone.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Iman, Iman\u2026 Iman!",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "hmm?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "You were having a dream?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Yeah, yeah. I was dreaming.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "drink some water.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "are you okay?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I\u2019m fine.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "what did you dream about?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Shall I bring you some sugar water?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "No... I'm fine. go back to sleep.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "you come too.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I\u2019ll join you in a minute.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Najmeh, Najmeh\u2026",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Yes, darling?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Where did you put my gun?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "your gun?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I don't know, I didn't touch your gun.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "It\u2019s missing, the gun is missing.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Maybe the kids took it, would you ask them?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "the kids?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Yes, ask and find out if they took the gun.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Are you sure you brought it home with you?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Of course, I am sure.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Because I didn't tell you, but that night when you weren\u2019t feeling well, you left the gun in the bathroom. I went to pick up the laundry and I saw it there. Then I picked it up and put it in the drawer.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Last night you were standing there by the window, I came to the room. I took off my jacket. Before sitting here on the edge of the bed, I put the gun in the drawer, then I sat down.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "It is probably the kids, go ask them.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I don't know what to ask. How should I ask?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Just wake them up and see if they took it.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Ask them did you see Dad's gun?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Yes, exactly.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Go.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Rezvan... Rezvan. Dear\u2026",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "IMAN",
+      "dialogue": "what happened?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I told you. The kid is frightened. They didn't even know you had a gun. Go to the prosecutor's office, maybe you don't remember and you left it there.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "IMAN",
+      "dialogue": "I feel unsafe in my own home.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "My dear, this kind of stuff happens in all families, be patient. We\u2019ll find it.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Twenty years of honest and unquestionable service is ruined overnight. All my professional reputation\u2026",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "My dear, can you lose your reputation over something that is not even your fault? You\u2019re worried for nothing.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "One of you took it, am I right?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Your father is about to have a stroke. If something happens to him, it's your fault!",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "Alireza and Faati are our friends, I don't want them to know about our family issues and private problems.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I asked Alireza not to say anything to his wife.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Iman, they are a married couple, they tell each other everything. Worse than that, do you want your children to be interrogated by your friend?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "They won\u2019t even know it\u2019s Alireza.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Who can these children trust in the future? you? me? their friends?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "What do you suggest I should do then? Who can I trust? Can't you see I'm stuck? This house is poisoned with mistrust. Do you know what will happen if anyone finds out in the prosecutor\u2019s office? Do you know what will happen if they say that his children or his wife have stolen his weapon?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "We go to Alireza's office for half an hour, he asks a few questions and then tells us what he thinks. He is an expert in this.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Will they record it?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Record it for what?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "You said yourself that they record the interrogations.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "No, there is no need to record it.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I\u2019m worried about this family.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "If I go to jail, what will happen to this family? Let's fix it.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "Maybe this child is truly innocent.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "No, something\u2019s going on.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "What?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "They are hiding something.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "How are you so sure?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Sana knows something... the look on her face said she knows something.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Iman Sana is just a kid. This is your house, not the courthouse. don't look at them like criminals.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Whatever has happened was only a mistake. You said it yourself, the bridges behind them should not be destroyed.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I feel that even the walls of this house are lying to me.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Why? Whatever happens, you have your family in the end.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I\u2019m humiliated; I look helpless.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "says who?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "You know better than anyone that I came from the lowest social class, without any acquaintances or help, I was able to reach here only with personal effort and honesty.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Everyone knows this.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Oh my dear, relax. Everything\u2019s gonna be alright. Everything will be fine.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I want to hug Rezvan and Sana.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Then go to their room and hug them.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "No, no, I can't do it now. I want to think and figure out where I went wrong.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "What do you mean?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Why does Sana want to dye her hair at this age? blue! Why does She like to paint her nails?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "My dear, the world has changed, young people think differently.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "The world has changed, but God hasn\u2019t changed. God's rules have not changed.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "This should be taught to them.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Didn't I tell them these things up till now?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Sure, you did. but now at this age, they are influenced by their classmates, friends\u2026",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "She shouldn\u2019t be friends with such people.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "You should spend more time at home. Get close to them. Shape their mindset.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "My dear, no one rang the doorbell.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Are you alright honey?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Yeah, yeah, I\u2019m fine.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "what are you worried about?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "where is your phone?",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "the same as you had.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Be at the table in five minutes, I want to talk.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Until today, I tried my best to provide for your comfort and peace. But now I am worried about this situation. Strange things have been happening for a while. We are all tired and we don't want these bad incidents to continue. We will leave Tehran for a few days. We are going to my father's house. You have loved that place since you were a child, but I haven't had a chance to take you there in a few years. Now is a good time. We are going to be the family we used to be again. For now, phones stay with me. In these few days, we stay away from news and events and instead try to solve our problems. We will leave in an hour.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Has something happened?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "No.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I can tell by your state, did they recognize you?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Do not turn around.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "what has happened?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "They were filming us and taking photos.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "put on your mask. Guys, wear a mask.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "Iman let's go. Please, didn't you say let's do something to end the problems?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I will not allow anyone to harm me and my family.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I swear on your father\u2019s grave, let it go.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "Don't you get out of the car.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Lie down on the ground, come on, quick. Drop your phones and lie down on the ground.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "IMAN",
+      "dialogue": "Turn them off. And remove their SIM cards. Rezvan starts doing as she\u2019s been told. I",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Find the keys before it gets dark because there are many wolves out here. Thank God that I let you live, out of respect for my wife and children. I hope it will be a lesson and you will not make such mistakes again.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Why didn't you say that the gun was found?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "It\u2019s not. This one was lent to me by Qaderi. He has two.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I was happy, I thought this nightmare was over.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I think the fuse blew. I go and reset it.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Wow, thank you! what a breakfast!",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "IMAN",
+      "dialogue": "Well, it\u2019s great that you came to a conclusion this fast.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "It was me... I have the gun.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Ah... So, it was you? It\u2019s hard to believe... are you sacrificing yourself for them? Are you taking the blame for one of the girls? Does that mean more lies on top of lies, again?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I\u2019m not lying. I hated that gun from the first night you brought it home, you were excited, but I was scared.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "So I lived with a liar for twenty years! What other lies have you told me?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I did not lie to you.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "So what game is this?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Calm down, my dear.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "where is the gun?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I threw it in the water canal near the house.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "You are lying!",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I\u2019m not lying.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Ah, the deception of you women. \u201cHe said, It is part of your plot. Indeed, your plot is great.\u201d",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I'm sorry, I made a mistake, forgive me, let's go back to Tehran, I'll show you where I dropped the gun, maybe it can still be found.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "When and how did you steal the gun?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "You were moaning in your sleep in the middle of the night, I woke you up and gave you water. Then you went out in the living room. I used the opportunity and took the gun.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "After you took the gun, where did you hide it? When and how did you throw it into the water canal?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "At the right moment, I put the gun in a plastic bag in the freezer, between frozen meats.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "When you went to work, I brought the gun, wrapped it in a piece of cloth, took it down to the iron bridge over the water canal, and threw it in.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "And didn't you think what you are doing with your husband's reputation?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I was afraid.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Iman please, I beg you. Stop this. Let's go back to Tehran. I tell everyone that I did this, I swear I will not let it harm your job... Let's go back to Tehran. Look at the girls, they\u2019re afraid. I will come to whatever court you say, I will admit that I took the gun. Don't be afraid, I tell everyone you did whatever you could.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I am not afraid of anyone.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "Dear mom, come and sit on this chair, and answer your dad's questions, please. Don't be bitter, let things calm down.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Explain when and how you took the gun. What was your motivation?",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "Rezvan, honey, you have the gun with you? Give it back and we\u2019ll go back to Tehran. I swear to God, I'm about to have a stroke.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "what happened?",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "Iman, where is Sana?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "In a few hours, the weather gets cold, the child will get sick. The night here is not safe, there are wild animals out there. Let's go find her.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Iman, what\u2019s wrong with you? Open the door, Iman, we are your family.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "When you need something, you knock on the door twice and I will come to in a few minutes. From now on, if you knock hard on the door and shout, I will not come. Get out.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Go back to the room.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "IMAN",
+      "dialogue": "Don't move.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I\u2019ll move. what do you want to do? Is there anything left that you haven\u2019t done already? You just didn't shoot...shoot then.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "Be quiet, don't speak, sit down.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I\u2019ll speak, we won\u2019t sit.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "He\u2019s here girls.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "I\u2019m telling you to sit down.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I won\u2019t.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "For the love of God, let it go, Iman. Don't hurt the children, you destroyed everything, but why?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "IMAN",
+      "dialogue": "can you shoot?",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ]
+]

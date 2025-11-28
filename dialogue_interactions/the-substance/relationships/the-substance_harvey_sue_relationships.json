@@ -1,0 +1,58 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          5,
+          6
+        ],
+        "text": "SUE: I just have to mention... a small scheduling issue.\nHARVEY: Listen to me very carefully `cause I don't think you've heard me.\nHARVEY: I WANT YOU for this show. So we'll organize around whatever mother, brother, fucking sick dog or rabbit you need to take care of.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          6,
+          13
+        ],
+        "text": "HARVEY: That's why we've decided we want you to host... THE NEW YEAR'S EVE\nHARVEY: ...network's biggest show! 50 million viewers... LIVE. You can't get any higher ...\nSUE: I've got some amazing news... We are doing the cover of Vogue!",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "HARVEY: Ratings are through the roof.\nHARVEY: That's phe-no-me-nal. We've never seen such figures in all the network's history! PEOPLE LOVE YOU!",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "HARVEY: Let me introduce you to the shareholders! They've been dying to meet you!",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "QADERI: The boss doesn't like you. He was against your transfer here right from the beginning. He wanted to bring his person. I insisted. And now he\u2019s waiting for the tiniest mistake on your part.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "QADERI: Now, the prison sentence aside, the main issue is your professional credibility. It hasn\u2019t even been two weeks since you came here. It\u2019s a disgrace! All the gossip! They\u2019ll say he couldn\u2019t manage to keep a gun for two weeks.\nQADERI: Your competence will be questioned. They\u2019ll become skeptical about you and get in the way of your promotion.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "QADERI: Your mistake was telling your wife and children what your job is.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

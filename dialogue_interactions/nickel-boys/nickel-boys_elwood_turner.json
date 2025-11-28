@@ -1,0 +1,823 @@
+[
+  [
+    {
+      "character": "TURNER",
+      "dialogue": "You eat that oatmeal like your mama made it.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "What?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "I ain't never seen someone eat this food like that- like they liked it.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Dumped a lot of cinnamon in it.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "I'm Turner.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Confirmed.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "I'm Elwood. From Tallahassee. Frenchtown.",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "ELWOOD",
+      "dialogue": "Thanks for that.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "I didn't do shit.",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "ELWOOD",
+      "dialogue": "What are the other ways?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Serve your time . Court might intervene . You could die . You could run.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "How you like that witch doctor.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Come in here with your damn head cut off and he'd give you aspirin.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Come in here, head cut off, both legs, both arms cut off, and that witch doctor would be like, `You want one tablet, or two?'",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "How'd you get in here?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Ate some soap powder, an hour of stomach ache for a whole day off. Or two. I know how to sell it. Got some more powder hidden in my sock, too. Thought I'd take me a vacation.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Aren't you worried they'll know you're faking it? Whistling happy like that?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "I ain't faking- that soap powder is awful. But it's me choosing, not anyone else.",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "ELWOOD",
+      "dialogue": "Go look. See who it is. Ask what's wrong with him.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "I ain't asking nobody shit.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Scared?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Damn,   you don't know. Pop back there   for a look, maybe you have to trade   places with him. Like in a ghost   story.",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "TURNER",
+      "dialogue": "I never been sent down to the White House. I got smacked across the face for smoking once.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "I have a lawyer. He can do something.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "You already got off lucky.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "How?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Sometimes they throw you in Hell. A sweatbox up in the eaves below that tar roof. Sweat your soul outta you.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Huh.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Sometimes they take you and we never see your ass again.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "What?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Your family asks the school what happened and they say you ran away. I'll show you sometime, show you something that's not in books, where it is. Boot Hill.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Problem is Elwood, you didn't know how it works. You wanted to do some Lone Ranger shit- run up and save a boy. Mike and them punked out Corey a long time ago. They play rough. That's how they do.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "I saw his face, he was scared.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "You don't know what makes him tick. You won't know what makes anybody tick. I used to think out there is out there, and once you're in here, you're in here. But now that I been out and I been brought back, I know. In here and out there are the same, but in here no one has to act fake anymore.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "If everyone looks the other way, then everybody's in on it. If I look the other way, I'm as implicated as the rest.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "It's not how it's supposed to be.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Don't nobody care about s'posed to. The fix has always been in- game's rigged.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "That's what I'm telling you. It's not like the old days. We can stand up for ourselves.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "That shit barely works out there- what do you think it's going to do in here?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "You say that because there's no one out there sticking up for you. I got my grandmother, I got a lawyer.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Yeah? How long it been since you heard from them? You got to watch how people act, what they do, and then you got to figure out how to get around them like an obstacle course. If you want to walk out of here.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Graduate.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Walk out of here. You think you can do that? Watch and think and plan? Cuz nobody else is going to get you out- not your grandma, not your lawyer. Just you.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "I'm not scared of you.",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "TURNER",
+      "dialogue": "It's taking things and making sure they end up where they're supposed to end up in the end.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Uh-huh.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Sometimes the State gives us more than we strictly need. So we pass it on.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "For a fee?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "\"Community Service\".",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "ELWOOD",
+      "dialogue": "I can smell it on him in the morning. Whoo...",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Borracho.",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "ELWOOD",
+      "dialogue": "Huh?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "They say his name's in the sweatbox.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "My Aunt Mavis made sure I had nice clothes for school and three meals. A guy at the Houston airport started seeing her. He taught me how to box. The day I put myself between Aunt Mavis and his fist, he took me out for ice cream. \"Bring this boy the biggest sundae you got.\" Every bite was like another sock in the mouth.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "I guess I wouldn't want them to visit, either. What about your real father?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Hey hey! Look out!",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Jackasses! They know I hate that shit! Fuck y'all! Fuck!",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "TURNER",
+      "dialogue": "Used to be worse around here. When you graduated you didn't go back to your family, you had parole and they sold your monkey ass to people in the town. You had to work off your debt.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Debt from what?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "I never thought about it that way.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "El, don't go too fast. This can be a three-day job we play it right. We till the garden and fix up her house, she may even adopt our black asses.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Well not you, you got family. I'd yessum her for a chance out of Nickel.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "That ain't no freedom. Director Hardee and his wife ain't supposed to use us like we're slaves.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "All those guys on the school board have us do chores. Sometimes it's favors, sometimes it's for real money.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "It's against the law.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "The law's one thing. You can march and wave signs around and change a law if you convince enough white people. I saw the college kids in Tampa with their nice shirts and ties sitting at the Woolworth's. I had to work, but they were out protesting. And it happened, they opened that counter. But I didn't have the money to eat there either way. Gotta change the economics of all this, too.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "My grandma got me that lawyer, man. Make a move there, first.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "The courts play both the white and the black. They move us around when they ready.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "We have to be knights. Checkmate.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "How many people done that, El? Only four ways outta Nickel.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "A hour late. Fly still open.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "What's it about?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "A British mother is trying to marry off her oldest daughter to keep their estate and title.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "No one wants to marry her? She ugly?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "She's described as having a handsome face.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Damn.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "I know my mother loved me. She just loved liquor more.",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "TURNER",
+      "dialogue": "Grandma ok?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "She says she visited and they wouldn't let her see me. \"He's sick and can't have no visitors.\" \"What's wrong with him?\" \"How the hell should I know, lady?\" How can they do that! Sick? I'm sick?! Look what they did to me!",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Bones'd break before they come loose.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "They've grown into the heart of the wood.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "My mother's watch.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "A deck of marked cards.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Percy's purple heart. Well, he threw it away. Feels like I lost it, though.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "My big toenail.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "That's all you got?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Really got nothing left to lose, ha.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Makes you one dangerous mothaf-",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "TURNER",
+      "dialogue": "Ain't that some shit?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Don't people bet on this-",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Every year. That match tides us through a whole 365 days of humiliations.",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "TURNER",
+      "dialogue": "If I got all this respect... when's the next time fools who hate and fear you are going to treat you like Harry Belafonte?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Do you think he'll knock him down?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Turner, that's a hundred dollar bill!",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Yep. Fat cats from all three counties. Stakes get higher every year.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Cracker looks like Frankenstein. Square head, long arms. Look at those arms, man. Those things are pistons. Smoked hams.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Man, he's dancing and ducking... Go right at it! Stick, stick, stick and move'em.",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "ELWOOD",
+      "dialogue": "Earl too, huh.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "This is it El.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Damn. You don't think... Griff could knock out Big Chet by accident?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Jab! Jab! Roll that shoulder. Left, left hook, Griff!",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "TURNER",
+      "dialogue": "I'm sorry, El. I don't know why I didn't give you that letter. I guess I was...",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "It's okay, Turner. Doesn't matter now anyway.",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "TURNER",
+      "dialogue": "We don't got to make a scene, but yeah. Don't look scared.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "It's weird being out here.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Wait until you're out-out.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "How would you do it?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Well I wouldn't run into the swamp, hide in there until the coast is clear and hitch somewhere West or North. That's how they get you. And you can't wash no scent off, that's only in movies.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "... so what would you do?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "So I'd head out here into the free world, snatch clothes from a wash line. Head South, because they ain't expecting it. Put as many miles between me and the dogs as I can, tire them out. The trick is not doing what they know you going to do.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Yeah, well why wouldn't they know you trying not to do what they think you going to-",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "-and don't take no one with you. Not one of those dummies. They'll take you down with them.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Hmm.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Gotta go it alone.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Elwood! What-",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "What happened to not making a scene? You think Rev'rend King's out here in Mariana opening supermarkets?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Why you got to carry that around? Anyone'd think you a student.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "I've been writing everything down.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Everything what?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Our `community service' The deliveries, the pay-offs, the yard work, the chores. The names of everybody and the dates.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Why would you do a thing like that?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "You told me. No one else can get me out of here, just me.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Nobody ever listens to me, why you got to start?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "It's not an obstacle course, Turner. You can't go around it, you have to go through it. Walk with your head up no matter what they throw at you.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "I get it, you mad and need to get it off your chest, that's cool, but-",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "-I'm telling you. There's a fifth way out: Get. Rid. Of. Nickel.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "They put us in the goddamn ground!",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "They going to take you out back, and bury your ass. God! Then take me out back, too. Elwood I vouched for you man, the hell is wrong with you?!",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "This, or this?",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "TURNER",
+      "dialogue": "I'll do it.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "What, Turner. What?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "That notebook you got in your pocket. I'll get it to them, I'll do it. Look at you, you look sick.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "I can slip it in their car window when they're not looking. They won't even see.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Goddam... C'mon. Now or never.",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "ELWOOD",
+      "dialogue": "Yeah.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "We got to get, man.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Elwood looks at him now, digesting the \"we\".",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Blakeley.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "C'mon.",
+      "movie": "nickel-boys"
+    }
+  ],
+  [
+    {
+      "character": "TURNER",
+      "dialogue": "Shit- they been running around like bugs, all these lowlifes. Spencer. Hardee. Jaime heard them talking about taking you out back. That was it. Tonight or not at all.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "The lights are on in the house, the Hardees have guests for dinner.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Why you coming with me?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "They snatch you up in a hot minute, dumb as you are.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "How long you been planning this?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "No outfoxing the dogs once they on your trail. Most you can do is get far away as you can. Put miles between you and them.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Tallahassee?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Yeah, good. We can jump a train, and then those dogs going to need wings to catch us.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "They were going to kill me and bury me out there?",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Sure as shit.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "You got me out.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Yup.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Can you ride it? We got to get far by sun up.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "I can do it.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "ELWOOD",
+      "dialogue": "Car.",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "El! Follow me!",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "Faster! We got it! Run zig zag El, run zig zag!",
+      "movie": "nickel-boys"
+    },
+    {
+      "character": "TURNER",
+      "dialogue": "No!!",
+      "movie": "nickel-boys"
+    }
+  ]
+]

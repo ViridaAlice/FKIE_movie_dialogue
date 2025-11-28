@@ -1,0 +1,35 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "MARCELO: Check out our new puppy.\nNALU: Mom won't let you keep that fleabag.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "MARCELO: Hey. Where'd Mom go?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

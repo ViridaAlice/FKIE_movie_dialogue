@@ -1,0 +1,92 @@
+[
+  [
+    {
+      "character": "CODY",
+      "dialogue": "Check it out, babe!",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Sweet catch, huh?",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "CODY",
+      "dialogue": "It is so beautiful to see the way you all have connected.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Sarah. How's your time been here?",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "The Yamazaki.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "CODY",
+      "dialogue": "Twenty-five year?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Nice, right?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "CODY",
+      "dialogue": "Really nice. Oaky.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "Fellas. You gotta learn to go with the flow.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "CODY",
+      "dialogue": "Uh-uh. No way, Slate.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "You'll be fine. Those are the beeswax, yeah?",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "Because you're gonna go.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "CODY",
+      "dialogue": "You'll be fine. Go find Mama. Ask her to fix the power.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "CODY",
+      "dialogue": "Go with the flow. Go find Mama. Ask her to fix the power. Go with the flow. You'll be fine.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "CODY",
+      "dialogue": "He bursts into tears.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "CODY",
+      "dialogue": "... Mama?",
+      "movie": "blink-twice"
+    }
+  ]
+]

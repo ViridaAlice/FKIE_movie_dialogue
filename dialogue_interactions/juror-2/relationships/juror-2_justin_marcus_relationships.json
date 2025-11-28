@@ -1,0 +1,55 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          3
+        ],
+        "text": "JUSTIN: This case is personal to you.\nMARCUS: You're damn right it is. My little brother was fourteen when he got inked. Didn't even graduate middle school. Two years in, he was making more money on those corners than I'll ever see in my lifetime. Month before his seventeenth birthday, he was dead. Caught a stray bullet in some tit-for-tat turf bullshit.\nMARCUS: That's right. You have NO idea.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "text": "MARCUS: Nah, man. You haven't been \"fine\" since the start. I think you've been playing us this whole time.\nJUSTIN: I don't know what you mean.\nMARCUS: The day you got on the jury, you're puking in the bathroom. All that stuff with the flower-man-cop and those papers. You claim to be the voice of reason, but you're really just telling us what we wanna hear.\nMARCUS: I saw the Bartender back there look at you. She knows you. I don't know your game, man. But I see you.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

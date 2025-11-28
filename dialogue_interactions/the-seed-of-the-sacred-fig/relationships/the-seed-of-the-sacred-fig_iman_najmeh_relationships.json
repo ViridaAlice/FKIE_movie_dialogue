@@ -1,0 +1,286 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "NAJMEH: Well, then the girls need to know these things. It affects their behavior. They're young, they must be more considerate because of your job.\nNAJMEH: Yes, but we cannot hide it from the kids forever. You always waited for an opportunity to talk to them about your job. Now is your chance.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "NAJMEH: What\u2019s going on, honey?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          18
+        ],
+        "text": "NAJMEH: No, in the afternoon, the kids and I are going to do some shopping together. Rezvan needs to buy some clothes for the university, and Sana also wants to buy her school stationery okay no, if it's like what you\u2019re saying, we won't go okay.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          12,
+          13
+        ],
+        "text": "IMAN: Yes, my darling?\nNAJMEH: Remember you promised to buy a dishwasher in a good opportunity? The hands of me and the girls are getting damaged. Can't we do it sooner?\nIMAN: sure honey, next week we\u2019ll go and buy it together.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "NAJMEH: There is always work. Do you know when was the last time we sat at the same table with the kids?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          11,
+          12
+        ],
+        "text": "IMAN: By the way, don\u2019t let them go to school or university until I tell you otherwise.\nNAJMEH: How can they not go to school and university?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          9
+        ],
+        "text": "NAJMEH: Can you please spend some time with the kids tomorrow morning before you leave?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "NAJMEH: how are you honey, how is Alireza?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          14,
+          20,
+          22
+        ],
+        "text": "IMAN: I know... where are the kids?\nNAJMEH: My dear, she can't do an entry test for making friends. They met at the university and became close. The poor girl didn't do anything at all.\nNAJMEH: My dear, I am telling you. This girl truly hasn\u2019t done anything. She\u2019s been pushed into the crowd.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "NAJMEH: Enough, don't argue with your father like that, have some respect.\nIMAN: Not even as a father, but as someone who has been working in this system every day as long as you lived, don't I know what's going on better than you?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          15,
+          19,
+          20,
+          27
+        ],
+        "text": "NAJMEH: Relax, my dear... sit down. Sit down.\nNAJMEH: Yes, darling?\nIMAN: It\u2019s missing, the gun is missing.\nIMAN: Maybe the kids took it, would you ask them?\nIMAN: It is probably the kids, go ask them.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          30
+        ],
+        "text": "NAJMEH: Ask them did you see Dad's gun?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "NAJMEH: I told you. The kid is frightened. They didn't even know you had a gun. Go to the prosecutor's office, maybe you don't remember and you left it there.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          5
+        ],
+        "text": "NAJMEH: My dear, this kind of stuff happens in all families, be patient. We\u2019ll find it.\nNAJMEH: My dear, can you lose your reputation over something that is not even your fault? You\u2019re worried for nothing.\nNAJMEH: Your father is about to have a stroke. If something happens to him, it's your fault!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          4
+        ],
+        "text": "NAJMEH: Iman, they are a married couple, they tell each other everything. Worse than that, do you want your children to be interrogated by your friend?\nNAJMEH: Who can these children trust in the future? you? me? their friends?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "NAJMEH: Iman Sana is just a kid. This is your house, not the courthouse. don't look at them like criminals.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "NAJMEH: My dear, no one rang the doorbell.\nNAJMEH: Are you alright honey?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "15": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "16": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "NAJMEH: Don't you get out of the car.\nIMAN: Lie down on the ground, come on, quick. Drop your phones and lie down on the ground.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "18": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          10,
+          21
+        ],
+        "text": "IMAN: So I lived with a liar for twenty years! What other lies have you told me?\nIMAN: You are lying!\nNAJMEH: Iman please, I beg you. Stop this. Let's go back to Tehran. I tell everyone that I did this, I swear I will not let it harm your job... Let's go back to Tehran. Look at the girls, they\u2019re afraid. I will come to whatever court you say, I will admit that I took the gun. Don't be afraid, I tell everyone you did whatever you could.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "20": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "21": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "22": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        "text": "IMAN: Don't move.\nNAJMEH: I\u2019ll move. what do you want to do? Is there anything left that you haven\u2019t done already? You just didn't shoot...shoot then.\nIMAN: Be quiet, don't speak, sit down.\nNAJMEH: I\u2019ll speak, we won\u2019t sit.\nIMAN: I\u2019m telling you to sit down.\nNAJMEH: I won\u2019t.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "23": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "NAJMEH: For the love of God, let it go, Iman. Don't hurt the children, you destroyed everything, but why?\nIMAN: can you shoot?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

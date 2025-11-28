@@ -1,0 +1,34 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "MADISON: Hey, fuck off. I'm a grown woman. I'm single, and he wasn't random. He was a damn good dancer.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  }
+}

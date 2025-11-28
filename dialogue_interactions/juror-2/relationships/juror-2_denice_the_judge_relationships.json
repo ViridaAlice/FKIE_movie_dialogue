@@ -1,0 +1,19 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "THE JUDGE: Madame foreperson, has the jury reached a verdict?\nDENICE: Yes, your honor.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

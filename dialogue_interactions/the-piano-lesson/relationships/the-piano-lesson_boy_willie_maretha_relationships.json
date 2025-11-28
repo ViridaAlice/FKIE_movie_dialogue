@@ -1,0 +1,34 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "BOY WILLIE: You was just a little old thing last time I seen you. You remember me, don\u2019t you? This your Uncle Boy Willie from down South. That there\u2019s Lymon. He my friend. We come up here to sell watermelons. You like watermelons? We got a whole truckload out front. You can have as many as you want. What you been doing?",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "BOY WILLIE: Don\u2019t be shy now. Look at you getting all big. How old is you?\nMARETHA: Eleven. I\u2019m gonna be twelve soon.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

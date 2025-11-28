@@ -1,0 +1,130 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "ELIANA: I wanna finish watching the news.\nEUNICE: No. Bedtime. And Marcelo, the dog goes in the garage.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          9,
+          10
+        ],
+        "text": "ELIANA: But Mom, they're waiting for me at the net.\nEUNICE: Shhh. They took your father.\nEUNICE: Calm down, honey. It'll be okay. Just don't tell the little ones. They don't know what's going on.\nEUNICE: That's enough, Marcelo, come to bed.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "ELIANA: They're armed, Mom.\nEUNICE: Best stay with your sisters.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "ELIANA: Is Dad back?\nEUNICE: Yes, sweetie. But don't worry, we'll be back soon. ",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "ELIANA: Mom? \nEUNICE: Honey, are you all right?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          8,
+          9,
+          10,
+          11,
+          13
+        ],
+        "text": "EUNICE: Don't cry, honey. \nELIANA: Mom, no. They said not to use the phone. C'mon, I'll go with you.\nEUNICE: No, Eliana. You have to go to school. \nELIANA: But I want to know what's happening, why Dad still hasn't--\nEUNICE: -Go get ready for school, honey.\nEUNICE: Your mom is taking care of this now. ",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "ELIANA: You skipped the part about Dad and me--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "ELIANA: What about Dad? ",
+        "type": "Implied"
+      }
+    ]
+  }
+}

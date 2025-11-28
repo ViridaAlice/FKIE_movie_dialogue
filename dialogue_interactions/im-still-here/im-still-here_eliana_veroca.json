@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "character": "ELIANA",
+      "dialogue": "You'll meet the next John Lennon and never come back.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "VEROCA",
+      "dialogue": "Of course I'm coming back. I want to major in sociology here.",
+      "movie": "im-still-here"
+    }
+  ],
+  [
+    {
+      "character": "ELIANA",
+      "dialogue": "If you insist.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "VEROCA",
+      "dialogue": "You okay?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "VEROCA",
+      "dialogue": "What's going on? I heard that they took you along with Mom, but nobody could tell me how--",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "ELIANA",
+      "dialogue": "--we can't talk about that at home. ",
+      "movie": "im-still-here"
+    }
+  ],
+  [
+    {
+      "character": "VEROCA",
+      "dialogue": "You're what?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "ELIANA",
+      "dialogue": "I'm not going.",
+      "movie": "im-still-here"
+    }
+  ],
+  [
+    {
+      "character": "ELIANA",
+      "dialogue": "I don't think so. None survived. But there\u2019s the one with the pigeons.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "VEROCA",
+      "dialogue": "It's great for the cover.",
+      "movie": "im-still-here"
+    }
+  ]
+]

@@ -1,0 +1,43 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "RUBENS: Soon it'll be just you and me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5
+        ],
+        "text": "EUNICE: Can\u2019t we put air conditioning in the kids' room?\nRUBENS: Pick it up, honey.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

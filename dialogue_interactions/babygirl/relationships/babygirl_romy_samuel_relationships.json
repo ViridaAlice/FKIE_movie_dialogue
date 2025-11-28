@@ -1,0 +1,134 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          7,
+          8,
+          11
+        ],
+        "text": "SAMUEL: Oh! I chose you as my mentor.\nSAMUEL: I chose you as my mentor.\nROMY: I\u2019m not a part of that program.\nSAMUEL: You are. You\u2019re on the list. I got an email and I clicked on your name. So- You\u2019re on the list.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          4,
+          11
+        ],
+        "text": "SAMUEL: I got an email saying they scheduled the first session.\nSAMUEL: The ten minute introduction meeting?\nROMY: Who decided that I\u2019m part of that mentor program by the way?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          24
+        ],
+        "text": "ROMY: I started my own company five years later with the goal to change the global supply chain forever. I wanted to automate repetitive tasks, to give people their time back so they can spend it in a fulfilling way\u2013",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4,
+          5,
+          7
+        ],
+        "text": "SAMUEL: They said we are supposed to meet weekly, but you didn't answer the email. They sent an email.\nROMY: I have to go- I have an appointment.\nSAMUEL: It\u2019s very easy. The email has a link. You just click on a date and a time for the second appointment- It will pop up in your calendar-\nSAMUEL: Listen, if you don\u2019t want to be my mentor, I totally understand. I\u2019ll ask someone else, but I do want one. They say it makes a huge difference. There\u2019s lots of other people I can ask, so-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          16,
+          22,
+          23,
+          24,
+          29,
+          34
+        ],
+        "text": "SAMUEL: Get on your knees.\nSAMUEL: Hurt me? I think I have power over you, not the other way around. I mean, one call and you lose everything. Right?\nSAMUEL: Does that turn you on, when I say that?\nSAMUEL: Get on your knees.\nSAMUEL: Please take your clothes off-\nSAMUEL: Would you mind getting on your hands and knees for me?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          34,
+          35,
+          70,
+          73,
+          76,
+          86
+        ],
+        "text": "ROMY: I thought you said it had to be consensual.\nSAMUEL: Yes, that\u2019s what consent is Romy! That\u2019s what it is. You have to agree to it. Both parties have to agree to it.\nSAMUEL: Take your panties off.\nSAMUEL: Open your legs.\nSAMUEL: Ok. You want to take your dress off for me now? So I can see you?\nSAMUEL: You\u2019re so beautiful.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6,
+          7
+        ],
+        "text": "ROMY: Are you dating her?\nSAMUEL: Isn\u2019t that man in the living room your husband?\nROMY: I don\u2019t want you to see other women. You\u2019re mine-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Romantic",
+    "evidence": []
+  }
+}

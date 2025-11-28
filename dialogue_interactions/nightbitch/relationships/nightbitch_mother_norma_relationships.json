@@ -1,0 +1,41 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "NORMA: Maybe you can give me more of a sense of what you\u2019re looking for-\nMOTHER: Anything in the women turning into animals realm: transformations, metamorphosis. I\u2019m doing a... project and I was hoping to find anything from a scientific perspective, or mythology.\nNORMA: This one is labeled Mythical Ethnography but it\u2019s quite scientific. A Field Guide to Magical Women. Have you heard of it?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "MOTHER: Thank you for that book recommendation. I have to say it was exactly what I was looking for.\nNORMA: Just doing my job.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8
+        ],
+        "text": "GIRLIE: Missed you too Then.\nGIRLIE: Makes me wet",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8
+        ],
+        "text": "GIRLIE: Did it bother you? When I said I loved you?\nGIRLIE: It seemed to bother you",
+        "type": "Implied"
+      }
+    ]
+  }
+}

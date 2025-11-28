@@ -1,0 +1,58 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "MAGGIE LEE: Daddy, the kitchen's asking if we could please go ahead and take our seats.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "MAGGIE LEE: Daddy, it's very cold out here. Shouldn't we go back inside?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "MAGGIE LEE: Daddy tried to explain everything that had made us late as she prepared for us what appeared to be a delightful looking little trifle!",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

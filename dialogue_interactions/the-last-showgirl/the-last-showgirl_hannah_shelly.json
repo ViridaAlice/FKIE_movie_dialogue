@@ -1,0 +1,508 @@
+[
+  [
+    {
+      "character": "HANNAH",
+      "dialogue": "Hey Shelly.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "You got my message! Oh it\u2019s so good to see you! Oh my goodness! What are you doing here??",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Not that I\u2019m-- you know, you can show up on my doorstep any time, any day, anytime, I just-- I\u2019m just so glad you\u2019re here!",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Why aren\u2019t you at school?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "I had to come home for Lisa\u2019s birthday so--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh, it\u2019s Lisa\u2019s birthday! I\u2019ll have to send her a card, or call--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "You don\u2019t have to do that--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "No, I will, I want to. How\u2019s she? How are she and Jeff?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "They\u2019re really good. I\u2019m graduating in May--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I know! Oh hon, you\u2019re graduating so soon, I just-- oh I can\u2019t believe it!",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "And Becky\u2019s graduating too so we\u2019re gonna do like, a joint party--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh Becky\u2019s graduating too! Oh that\u2019s so good-- good for her, good for Becky!",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "Yeah, it\u2019s a lot of family time, so I wanted to get out of the house anyway...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "...You look so beautiful, honey.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "Noooo...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "You do. You look so beautiful, so grown up. I just can\u2019t believe I haven\u2019t seen you in what, a year?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "Yeah... A moment.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "So... do you have a boyfriend?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "No, just trying to focus on getting out of school.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Okay. Oh well. ...Plenty of time for boyfriends! You know, later. It\u2019s awkward.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Have you declared a major?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "I\u2019m studying photography.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh that\u2019s so exciting--!",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "Thanks. Lisa said it wouldn\u2019t be that useful to have any kind of art degree but... it\u2019s the only thing I really care about so...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Well I think it\u2019s brilliant that you\u2019re doing that. Being part of a creative community, it\u2019s the best.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "It\u2019s pretty solitary, it\u2019s not really a community.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Well being an artist is solitary. But if you\u2019re passionate about it, it\u2019s worth it.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "You know what...? I should get going...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh no-- I was just about to say that you should stay for dinner--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "I just wanted to drop by and say hello-- I have to get-- have to get home for dinner...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "You could just call them and say you\u2019re eating with me tonight, couldn\u2019t you? It\u2019s just one night.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "I dunno, Becky just got home...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Lisa wouldn\u2019t mind, would she? Just one dinner-- just one night?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "I really can\u2019t, Shelly.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I was thinking, that since the show is closing, I could probably get a couple days off and come visit you in Tucson.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "What?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh the show-- it\u2019s closing. Can\u2019t talk about it too much, I\u2019ll just dissolve into tears. But you know I\u2019ll finally have some time to maybe come visit. Could come to your graduation. If you want.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "...I\u2019ll think about it.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Okay. Come here, give your mom a hug.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "You know, if you ever want to come see the show--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "What?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Sorry, I didn\u2019t mean\ufffe",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "It\u2019s just so good to see you I was just... trying to figure out how to see you again soon. Little misstep...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "It\u2019s okay. ...See you, Shelly.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "You\u2019d think they could get our set in place before our call time, so we can warm up like normal, you know? They\u2019ve got every guy on our crew out there--",
+      "movie": "the-last-showgirl"
+    }
+  ],
+  [
+    {
+      "character": "HANNAH",
+      "dialogue": "I just thought we could have that dinner.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "So, what\u2019s the plan after graduation?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "I think maybe I\u2019ll save some more money and then, I dunno... I kind of want to just travel around. I really want to go to Europe but...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh wow, that would be amazing. You\u2019ve gotta do that.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "It\u2019s just expensive. And being a photographer is just... it\u2019s hard.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "What??",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "It\u2019s a hard career path.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Says who??",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "Like, everybody.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Yeah but did someone say \u201cOh that\u2019s hard. Being an artist, that\u2019s really hard.\u201d Did someone put that dumb sentence into your head?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "Um yeah, Lisa, for one. That\u2019s what parents do when they want you to get a job that like, pays money.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Well, she\u2019s not your actual parent, she may think she is, but working at a job that you don\u2019t really love, that\u2019s hard. When you know your calling is out there waiting for you. Money doesn\u2019t make a boring job that much better. What does Lisa want you to do?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "She thinks I\u2019d be great at like, graphic design.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Does that interest you right now?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "No.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Then forget about it!",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I\u2019ll meet you in Paris.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh my god, what was that?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "What?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I just saw something scurry across the floor.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "Are you sure? What, like a mouse??",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Yes! There it is again!!",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "What!!",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "They live in the hidey-holes the gangsters who lived here before me used to keep their money in! I wish I knew where it was!",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "There it is again!!",
+      "movie": "the-last-showgirl"
+    }
+  ],
+  [
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh! Hey sweetie, oh my gosh.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "I saw the show tonight.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh, you did. That\u2019s so sweet, that means a lot to me that you came.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "I wasn\u2019t sure if I was even gonna tell you... there was barely anyone there.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Yeah, that was maybe the worst house we\u2019ve ever had in the history of the whole entire show. There were only what, like eighteen people out there? If I\u2019d\u2019ve known you were here I would have done a special little shout out or point or something--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "Yeah, it\u2019s okay.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I thought you were just going back to the Kelly\u2019s... So, what\u2019d you think?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "I think I thought it would be different...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh yeah...?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "Yeah, like harder dancing or something...?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh, we just make it look easy--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "...It\u2019s kinda just a stupid nudie show...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "It\u2019s a classic spectacle with-- with dancing nudes, but it\u2019s certainly not a \u201cnudie show.\u201d",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "\u201cDancing nudes?\u201d Is that like, a technical term?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Yes. Yes, it is.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "What is the point of that show? What was that? And why did you invite me? Maybe you thought I wouldn\u2019t come? Or I don\u2019t know-- I don\u2019t know why I did come-- although I guess it\u2019s because I just hoped-- I just wanted to know that it was worth it. That it was better than me after all.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "What??",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "That you didn\u2019t put this lame trash above me--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "It\u2019s not-- I disagree-- and plus, I didn\u2019t put anything above you. I provided for you--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "I keep forgetting that you\u2019re not actually a reasonable person: that you left me in the casino parking lot with a Gameboy while you did two shows a night.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I didn\u2019t think it was appropriate for you backstage--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "It wasn\u2019t!!",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I couldn\u2019t afford help, Hannah--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "You are so lucky that when Lisa saw me in the car, she didn\u2019t turn me in to child services.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I-- I-- was doing my best, I know-- I was just doing my best, Hannah-- if you can actually do what you love for thirty years, if you are fortunate enough to be passionate about your career--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "Career?!! What kind of career is this?? You\u2019re in the goddamn back of 80 topless dancers! This was worth missing bedtime for most of my childhood?? ...Was it?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "See, this is why I came tonight. I always wanted to see a reason in all of this and tonight I finally didn\u2019t.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "Shelly--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I\u2019m so sorry, Hannah. I am so sorry that you didn\u2019t get what you wanted from me. If you can forgive me? Anytime? Anytime in your life? I would love that. But I can\u2019t defend myself anymore, I just can\u2019t.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "HANNAH",
+      "dialogue": "Hey-- I\u2019m still here--",
+      "movie": "the-last-showgirl"
+    }
+  ]
+]

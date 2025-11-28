@@ -1,0 +1,22 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "LANDLORD: 2F, I left Nestor a message, like I told you, he\u2019s currently indisposed, like I told you, because of a death in the family, as you know. Anything to add to that?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

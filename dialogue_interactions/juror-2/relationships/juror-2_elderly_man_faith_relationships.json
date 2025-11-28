@@ -1,0 +1,18 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          10
+        ],
+        "text": "FAITH: Let the record show the witness identified the man he saw as the defendant, James Michael Sythe.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

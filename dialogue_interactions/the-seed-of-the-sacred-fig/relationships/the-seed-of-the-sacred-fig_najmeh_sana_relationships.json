@@ -1,0 +1,209 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "NAJMEH: I can only say it\u2019s good news. In all these twenty-two years with your father, I was waiting for a day like this.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "NAJMEH: There are also things that you should be careful about, more than before. As it may impact your Dad negatively.\nNAJMEH: For example, your hijab. Like the photos, you post on Instagram. Most of the social behavior that others see. Some people might see and report them. It will be bad for Dad.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "SANA: Mom, why are you doing this, don't you dye your hair yourself?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "SANA: what's going on Mom? People are living their lives.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          4,
+          6
+        ],
+        "text": "SANA: Yes, Mom. I did.\nSANA: OK, Mom, I'm not a child.\nSANA: No, Mom, I won\u2019t.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "SANA: Mom\u2026",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "SANA: Mom, sorry, but I need the small size. I can't use your pads. If you can't go to buy it, I will go myself.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "SANA: Mom, Rezvan was standing beside her. Those pellets could\u2019ve hit Rezvan\u2019s eyes.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "SANA: Mom, for god\u2019s sake, let it go.",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "NAJMEH: What? Let it go? do you think you can do whatever in this house? I will tell your father everything tonight, then it\u2019s between you and him.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "16": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "SANA: Mom, what are you doing?\nSANA: Mom, do you want to pick on me now?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "SANA: Mom... Mom.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "19": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "21": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "SANA: Yes, I\u2019m fine, Mom.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "NAJMEH: Sana, dear, your dad is not well. Give him the gun and everything will end here.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

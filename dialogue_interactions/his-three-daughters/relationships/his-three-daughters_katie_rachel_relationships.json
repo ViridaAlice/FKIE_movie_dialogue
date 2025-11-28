@@ -1,0 +1,184 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "text": "KATIE: Well, she\u2019s definitely high. The whole place stinks like weed.\nRACHEL: Fuck yes, I\u2019m high. High as a motherfucker. First thing I do in the morning is roll a blunt. And then I smoke at least three more throughout the day. You know why? Because that\u2019s how I do shit.\nKATIE: I don\u2019t care that you smoke weed. It\u2019s just not right to smoke it in the house, when someone is sick.\nRACHEL: Daddy doesn\u2019t mind. Trust me, I\u2019ve been smoking around him for all this time and he never had an issue. In fact, he likes the smell. Told me more than a few times.\nKATIE: It\u2019s the smoke. The smoke, not the smell. The man is dying, just go outside.\nRACHEL: Damn, it took you five minutes, five minutes, right? For you just to get in my shit. A second ago, it was how let\u2019s just get along\u2014",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "RACHEL: Shitty weed? Please. I get top shelf, not that dogshit you smoked all day long. Right? You think I forgot that?\nKATIE: That was high school. I\u2019ve grown up quite a lot since then, unlike others.\nRACHEL: Grown up, still a bitch.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8,
+          10
+        ],
+        "text": "KATIE: That\u2019s right, it\u2019s not about either of us. It\u2019s about our father.\nRACHEL: Oh, our father? That\u2019s funny.\nRACHEL: Because you only call him \u201cour father\u201d when you want something from me. Usually, you say \u201cmy father\u201d.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "KATIE: You\u2019ll do what? You\u2019ll destroy me? You\u2019re a fucking punk. That\u2019s it. You are a cheap\u2014\nRACHEL: Christina. You need to do something about this bitch, \u2018cause in about five seconds\u2014\nKATIE: You\u2019re not going to do shit. Bring it on! You\u2019re a fucking coward. A leeching, broke ass, live at home \u2014",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "text": "RACHEL: Well then fuck it. I don\u2019t want it. Now what?\nKATIE: Don\u2019t be silly. Why would you leave?\nRACHEL: Because then we are done with each other, and this shit is a wrap.\nKATIE: This doesn\u2019t make any sense. Christina, can you explain what this is all about?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "text": "RACHEL: Well, duh. I know that. But he\u2019s my dad too. That\u2019s what I\u2019m saying.\nRACHEL: He\u2019s my dad too. Just as much as he is both of yours.\nKATIE: But you also had another dad.\nRACHEL: Who I never fucking knew. Who died when I was four fucking years old.\nKATIE: But he was still your father. And when he was, Vincent was ours.\nRACHEL: Okay, here it is. This is what this is all about. I. Did. Not. Have. A. Father. Before him. What part of that do you not understand? He\u2019s been daddy to me. That\u2019s my dad, over there. In here. Fucking dying. That is my dad. That\u2019s my dad.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "16": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "18": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "19": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "RACHEL: I think dad wants to sit up.\nKATIE: Are you sure dad?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "RACHEL: What\u2019s up, Pops? It sure is good to see you back in your chair.\nRACHEL: Here you go daddy. Look at you. Back in charge. Just like that. Knew you weren\u2019t down yet.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "KATIE: Dad!\nRACHEL: Daddy!",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

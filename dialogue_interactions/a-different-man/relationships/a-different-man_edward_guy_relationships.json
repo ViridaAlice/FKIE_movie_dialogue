@@ -1,0 +1,20 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "GUY: Hey, man, I know you. Where do I know you from?\nEDWARD: I don\u2019t know.\nGUY: Do you recognize me? I\u2019m Guy Gaunt. Ring a bell?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": []
+  }
+}

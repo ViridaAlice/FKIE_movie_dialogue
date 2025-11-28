@@ -1,0 +1,51 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "THE JUDGE: Mr. Resnick. Your witness.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "RESNICK: The defense calls James Sythe, Your Honor.\nTHE JUDGE: Do you swear to tell the truth, the whole truth and nothing but the truth, so help you God?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

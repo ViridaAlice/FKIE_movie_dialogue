@@ -1,0 +1,63 @@
+[
+  [
+    {
+      "character": "GORDON",
+      "dialogue": "It's your turn now, William.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "WILLIAM",
+      "dialogue": "I spy- with my eye- something- blue.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "GORDON",
+      "dialogue": "Is it this gentleman's coat?",
+      "movie": "brutalist"
+    }
+  ],
+  [
+    {
+      "character": "WILLIAM",
+      "dialogue": "Is that your crew?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "GORDON",
+      "dialogue": "They'll sleep here.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "WILLIAM",
+      "dialogue": "It's a lot of them. What's that thing over there?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "GORDON",
+      "dialogue": "On the left?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "GORDON",
+      "dialogue": "That's a motor grader. We used to do it with horses. Makes a flat surface to pour on.",
+      "movie": "brutalist"
+    }
+  ],
+  [
+    {
+      "character": "WILLIAM",
+      "dialogue": "I remember her.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "GORDON",
+      "dialogue": "That's because I've told you so much about her. You were too small.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "WILLIAM",
+      "dialogue": "No, I remember Augusta. I just wanted to make it easier on you.",
+      "movie": "brutalist"
+    }
+  ]
+]

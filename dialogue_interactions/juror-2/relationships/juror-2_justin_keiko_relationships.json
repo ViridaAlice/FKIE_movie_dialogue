@@ -1,0 +1,24 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          3,
+          4
+        ],
+        "text": "JUSTIN: I'm sorry, are you a doctor?\nKEIKO: Not yet. 3rd-year med student.\nJUSTIN: Well, then I think we should leave this to the professionals who actually examined the body.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  }
+}

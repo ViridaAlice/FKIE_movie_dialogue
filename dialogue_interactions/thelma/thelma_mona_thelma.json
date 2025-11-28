@@ -1,0 +1,122 @@
+[
+  [
+    {
+      "character": "MONA",
+      "dialogue": "Thel, darling. Did we make a date?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "No, no, we were in the neighborhood.",
+      "movie": "thelma"
+    },
+    {
+      "character": "MONA",
+      "dialogue": "I would have put shoes on.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Ben\u2019s here too.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "MONA",
+      "dialogue": "Fine, fine.",
+      "movie": "thelma"
+    },
+    {
+      "character": "MONA",
+      "dialogue": "Sit, dear. Don\u2019t clean--",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Okay, okay.",
+      "movie": "thelma"
+    },
+    {
+      "character": "MONA",
+      "dialogue": "Is it a roach?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I got him.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "THELMA",
+      "dialogue": "They\u2019re resilient.",
+      "movie": "thelma"
+    },
+    {
+      "character": "MONA",
+      "dialogue": "That\u2019s what makes them worthy adversaries. You get one and there\u2019s ten more to replace him. I\u2019ve learned to pick my battles.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "THELMA",
+      "dialogue": "I\u2019ve gotta use the restroom.",
+      "movie": "thelma"
+    },
+    {
+      "character": "MONA",
+      "dialogue": "Good, dear.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "MONA",
+      "dialogue": "Thel, darling! Did we make a date?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Um... no. No, I was just in the neighborhood.",
+      "movie": "thelma"
+    },
+    {
+      "character": "MONA",
+      "dialogue": "I would have put shoes on.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Well, we should be on our way.",
+      "movie": "thelma"
+    },
+    {
+      "character": "MONA",
+      "dialogue": "You\u2019re leaving?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I know, I know. We\u2019ll have to get a lunch on the books.",
+      "movie": "thelma"
+    },
+    {
+      "character": "MONA",
+      "dialogue": "I\u2019d like that.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Can we get you anything?",
+      "movie": "thelma"
+    },
+    {
+      "character": "MONA",
+      "dialogue": "I\u2019ve got everything I need.",
+      "movie": "thelma"
+    }
+  ]
+]

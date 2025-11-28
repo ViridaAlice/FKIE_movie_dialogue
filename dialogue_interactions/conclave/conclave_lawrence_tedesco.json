@@ -1,0 +1,316 @@
+[
+  [
+    {
+      "character": "TEDESCO",
+      "dialogue": "Tedesco.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "< Goffredo? It\u2019s Lawrence. I\u2019m afraid I have terrible news. The Holy Father has just passed away.>",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Goffredo? Sono Lawrence. Purtroppo devo comunicarvi una terribile notizia. Il Santo Padre \u00e8 appena deceduto.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "< Your Eminence? >",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Eminenza?",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "< Thank you, Lawrence. I shall pray for his soul. >",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Grazie, Lawrence. Pregher\u00f2 per la sua anima.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "He already knew.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "TEDESCO",
+      "dialogue": "< Apologies, Lawr ence. My train was delayed in Venice.>",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Chiedo scusa, Lawrence. Il mio treno era in ritardo a Venezia.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "< Father Tedesco. We\u2019ve missed you. >",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Padre Tedesco. Ci siete mancato.",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "< No doubt. But don\u2019t worry, my friends have kept me well informed. >",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Non c'\u00e8 dubbio. Ma non preoccupatevi, i miei amici - how do you say - mi hanno tenuto ben informato.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "< Are you well? >",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "State bene?",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "< Ah, no-one is ever well at our age. How have you found your new responsibilitie s? You have everything under control? >",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Ah, no-one is ever well at our age. Come vi trovate con le vostre nuove responsabilit\u00e0? Avete tutto sotto controllo?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "< I believe so. >",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "< Good. > < Stop hovering. I carry my own bag. >",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Bene. Smettetela di stare in agguato. La porto io la mia borsa.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Heavenly Father, Bless this Conclave, and guide it in Wisdom. From above the drone of the helicopter is heard again.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "LAWRENCE",
+      "dialogue": "< I did. >",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "S\u00ec. He looks around the dining room.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "< A marvellous testament to the Universal Church, don\u2019t you think ? So many men of different cultures, races, bound together by their faith in God. >",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Una meravigliosa testimonianza della Chiesa universale, non crede? Tanti uomini di culture e razze diverse, legati dalla fede in Dio.",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "< Look again. Notice how everyone has gravitated to their fellow countrymen. Italians over here... Spanish speakers ther e...English there... Divided by language. When we were boys and the Tridentine Mass was still the liturgy of the world - we would all have been speaking Latin. But then your fellow liberals insisted we get rid of that \u201cdead\u201d language. You say \u201cUniversal\u201d Church, but we have become a confederation at best. >",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Guardate bene. Notate come * tutti hanno gravitato intorno ai loro connazionali. Noi i taliani di qua... gli spagnoli di l\u00e0... gli inglesi di l\u00e0... \u2018divided by * language\u2019. Quando eravamo ragazzi e la Messa tridentina era ancora la liturgia del mondo, avremmo parlato tutti latino. Ma poi i vostri colleghi liberali hanno insistito perch\u00e9 ci liberassimo di quella lingua \"morta\". Lei dice \u201cuniversal * church\u201d, ma semmai siamo * diventati una confederazione.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "The church i s evolving, Goffredo.",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Disintegrating.",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "< Another Holy Father like the last one and our Mother the Church will cease to exist. Without Rome, without the tradition of Rome... > ... \u201cthings fall apart, the centre cannot hold.\u201d",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Un altro Santo Padre come l'ultimo e la nostra Madre Chiesa cesser\u00e0 di esistere. Senza Roma, senza la tradizione di Roma... ... \u201cthings fall apart, the centre cannot hold.\u201d",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "So... what? The next Pope must be Italian?",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "< We haven\u2019t had an Italian Pope for more than forty years. Can you seriously imagine the alternative? >",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Sono pi\u00f9 di quarant'anni che non abbiamo un Papa italiano. Pu\u00f2 seriamente immaginare l\u2019alternativa? Abyssus * abyssum invocat.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "< Excuse me. I must circulate amongst our colleagues. >",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Scusatemi, devo fare il giro tra i nostri Confratelli.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "I\u2019ll give him this, he clearly has no i ntention of tempering his views to win votes.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "TEDESCO",
+      "dialogue": "< Well, Dean... >",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Beh, Decano...",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "< St Paul as an Apostle of Doubt. I\u2019ve never heard that one before! >",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "San Paolo come apostolo del dubbio. Non l'avevo mai sentita prima!",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "< Wasn\u2019t it St Paul who said, \u201cIf the trumpet shall give an uncertain note, who will prepare himself for battle?\u201d>",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Non \u00e8 stato forse San Paolo a dire: \"E s e la tromba emette un suono confuso, chi si preparer\u00e0 alla battaglia?\"",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Perhaps it would have been more palatable for you in Latin, Eminence?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "I\u2019m sorry, I forgot my key.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "TEDESCO",
+      "dialogue": "So...our dark horse.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Don\u2019t be absurd. I will do all in my power to withdraw my name from the second vote.",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Why?",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "TEDESCO",
+      "dialogue": "< If someone else may be allowed to join this dialogue - the names of eight cardinals have been blacked out. I assume the dean can tell us who they are? Let them confirm, here and now, whether Cardinal Tremblay requested their vot es in return for the payment. >",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Se \u00e8 possibile aggiungere qualcun altro a questa conversazione... i nomi di otto cardinali sono stati oscurati. Immagino che il Decano possa dirci chi sono? Lasciamo che siano loro a confermare, qui ed ora, se il Cardinal Tremblay ha richiesto i loro voti in cambio di soldi.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "No. I won\u2019t do that.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Let each man examine his conscience, as I have.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Will all those who wish the Conclave to receive thi s information, please raise their hands?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Very well.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "At eleven twenty this morning, a car bomb exploded in the Piazza del Risorgimento.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "The current death toll stands at fifty two. Hundreds have been injured.",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "< Here! Here we see the result of the doctrine of relativism so beloved of our liberal brothers! A relativism that sees all faiths and passing fancies accorded equal weight, so that now, when we look around us, we see the homeland of the Holy Roman Catholic Church dotted with the mosques and minarets of Muhammad! Sembra che non ci * sia pi\u00f9 la vera Fede.",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Qui. Qui vediamo il risultato della dottrina del relativismo tanto amata dai nostri fratelli liberali! Un relativismo che vede tutte le fedi e le fantasie passeggere avere lo stesso peso, tanto che ora, quando ci guardiamo intorno, vediamo la patria della Santa Chiesa Cattolica romana punteggiata dalle moschee e dai minareti di Maomett o! Sembra che non ci * sia pi\u00f9 la vera Fede. *",
+      "movie": "conclave"
+    },
+    {
+      "character": "TEDESCO",
+      "dialogue": "Perhaps there is to be no Truth at all! >",
+      "movie": "conclave"
+    }
+  ]
+]

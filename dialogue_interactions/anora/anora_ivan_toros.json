@@ -1,0 +1,63 @@
+[
+  [
+    {
+      "character": "TOROS",
+      "dialogue": "Ivan, we're leaving. You good?",
+      "movie": "anora"
+    },
+    {
+      "character": "IVAN",
+      "dialogue": "Whatever. I'm busy, man. The fuck.",
+      "movie": "anora"
+    }
+  ],
+  [
+    {
+      "character": "IVAN",
+      "dialogue": "Get out now or I'll have my father fire your fucking ass!",
+      "movie": "anora"
+    },
+    {
+      "character": "TOROS",
+      "dialogue": "I'm so sorry I must go. There's an emergency.",
+      "movie": "anora"
+    },
+    {
+      "character": "TOROS",
+      "dialogue": "Ivan.",
+      "movie": "anora"
+    }
+  ],
+  [
+    {
+      "character": "IVAN",
+      "dialogue": "My parents are coming?",
+      "movie": "anora"
+    },
+    {
+      "character": "TOROS",
+      "dialogue": "Yes, you little shit. They are leaving Russia now.",
+      "movie": "anora"
+    },
+    {
+      "character": "TOROS",
+      "dialogue": "You hear me?",
+      "movie": "anora"
+    },
+    {
+      "character": "TOROS",
+      "dialogue": "Finally...",
+      "movie": "anora"
+    },
+    {
+      "character": "IVAN",
+      "dialogue": "Well, I'm out of here so fuck you.",
+      "movie": "anora"
+    },
+    {
+      "character": "IVAN",
+      "dialogue": "C'mon, get dressed. We're going.",
+      "movie": "anora"
+    }
+  ]
+]

@@ -1,0 +1,427 @@
+[
+  [
+    {
+      "character": "FAITH",
+      "dialogue": "You're good.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Do you have something for me?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Voluntary manslaughter, with a recommendation of 20 years - 15 to serve, followed by 5 on probation. Standard conditions.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Wow. That's a helluva deal.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "I\u2019ll even waive the recidivist statute, if he pleads before we strike the jury.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Oooooooooo.....",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "And admit to something he didn't do...?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Save that for the jury. Or better yet, plead your guy out and go back to your three-figure caseload.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "My client wants a trial.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Then you're wasting my time. And your \"client's.\"",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Last chance.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "FAITH",
+      "dialogue": "The facts of the case are these: one year ago, on October twenty-fifth, James Sythe and his then-girlfriend Kendall Carter went drinking at Rowdy's Hideaway on Old Quarry Road.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Things got tense. They had a fight.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "She stormed out of the bar. He followed her.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "The fight escalated and quickly got out of control.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "... This was par for the course. They'd argue, it was \"over.\" Then they'd make up the next day when they both had calmed down. It was basically a game.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "She was serious this time. She was DONE with him; and so she left and headed down the road on foot...",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "This was just another typical night of \"drama\", so James Sythe got in his car and drove home.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "He flew into a violent rage and followed Kendall Carter down the road.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "And then he killed her.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "He beat her viciously, pushed her over a railing -- into the creek below -- and left her to die.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "James Sythe didn't attack her and couldn't have pushed her. Because he wasn't there.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "James Sythe took an innocent life!",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "...James Sythe is an innocent man!",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "RESNICK",
+      "dialogue": "Nice speech.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Thanks.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "\"Justice is truth in action?\"",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Professor Nielson.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "I remember. You still believe it?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Of course.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Just as long as it doesn't get in the way of a win though, right?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "If you have something to say, Eric. Say it.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "You were his favorite student. And now you're a...",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "A what?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "A politican.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Are you drunk?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Yeah.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "C'mon. I'll give you a ride.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "FAITH",
+      "dialogue": "So she left and then what happened?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "You saw him walk down Old Quarry Road?",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "RESNICK",
+      "dialogue": "... An innocent man who is shattered from losing the love of his life.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "An eyewitness saw him at the crime scene AT the time of death.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "In the middle of the night during a rainstorm. It could have been anyone.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "When she broke up with him that night, and he realized she meant it, he snapped. And so he bludgeoned her.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "No murder weapon was recovered.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "The defendant's DNA was found all over the victim. No one else's.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Of course there was DNA. They were a couple!",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Until they weren't.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "James Sythe bravely took the stand and admitted some difficult truths.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "It was a performance. Nothing more.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "The one thing we can agree on is this: the person responsible for Kendall Carter's death deserves to face justice.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "That person is James Sythe.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "That person is still out there.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Find him guilty.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Find James Sythe not guilty.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "RESNICK",
+      "dialogue": "There she is! This round's on you!",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "What I'm having is a great evening. Isn't this a lovely evening?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "It should've been a two-hour verdict.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "What can I tell you? They're taking their job seriously. I gave them a lot to think about.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "I've got a mountain of evidence. You gave them smoke and mirrors.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Where there's smoke, there's fire.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "I admire your optimism.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Look, here's the thing: You walk into court convinced of the guilt of the defendant. Me, I don't have any illusions about what I do.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Well, enjoy it while you can.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "To the justice system. It ain't perfect but it's the best we've got.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "FAITH",
+      "dialogue": "Americano with Soy milk.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Close enough.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "FAITH",
+      "dialogue": "What?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "\"Our resources are already stretched so thin?\" You are something.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "RESNICK",
+      "dialogue": "What the hell is this about?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "I need to see him.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Really? For what possible reason?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "So he can look me in the eye and say he didn't do it.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "So, I\u2019m right. You have doubt.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "I\u2019m not sure.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "You know something isn\u2019t right here, hell, even the jury knows it.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Can you prove that's what happened?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Can you prove it didn\u2019t.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "FAITH",
+      "dialogue": "Thanks. She sets it down as he looks around the office.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Well, you did it. Hope it was worth it.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Ale House later. You're buying.",
+      "movie": "juror-2"
+    }
+  ]
+]

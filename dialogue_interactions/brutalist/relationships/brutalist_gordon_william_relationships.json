@@ -1,0 +1,22 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "GORDON: That's because I've told you so much about her. You were too small. WILLIAM is defiant.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

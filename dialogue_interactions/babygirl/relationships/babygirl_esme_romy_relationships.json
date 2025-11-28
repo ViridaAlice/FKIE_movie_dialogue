@@ -1,0 +1,70 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          6
+        ],
+        "text": "ESME: Is this a good time for me to introduce the... interns-\nESME: This is our CEO, Romy Mathis!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "ESME: Hazel thought it would be good for you to take part in some extra activities internally... They say there\u2019s a talent war-so I guess it\u2019s important to make new talent feel involved. Show you\u2019re an approachable leader-\nESME: You think we can talk about my promotion soon?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          11,
+          12
+        ],
+        "text": "ROMY: I just wanted to make sure everything is ok, since we\u2019re supposed to discuss your future soon-\nROMY: You have to be careful, Esme, he\u2019s an intern.\nROMY: I don\u2019t want to sound dramatic, but you\u2019re in a position of power over him.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2,
+          7,
+          9,
+          11
+        ],
+        "text": "ESME: I genuinely thought women with power would behave differently than men with power.\nESME: I tried to speak to you so many times about my future at the company.\nESME: I only want what I deserve, not what is given to me, to silence me. That\u2019s how it might have worked when you were young, but luckily, those days are behind us now.\nESME: You will never see Samuel again. You will be a good leader and you will create more opportunities for women within the company, and be a good example and role model to us all.\nESME: I have no interest in taking you down. You are one of the few women who made it to the top, my interest is to keep you there. But not like you are now... As a version of you that I can look up to and respect.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

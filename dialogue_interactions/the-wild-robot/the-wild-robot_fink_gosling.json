@@ -1,0 +1,58 @@
+[
+  [
+    {
+      "character": "GOSLING",
+      "dialogue": "Someone made me?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "FINK",
+      "dialogue": "Hahahahah.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "GOSLING",
+      "dialogue": "Hahahahah.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "FINK",
+      "dialogue": "Yeah. Here. Try it.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "GOSLING",
+      "dialogue": "Yeah!",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "FINK",
+      "dialogue": "Not funny.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "GOSLING",
+      "dialogue": "Not funny. Hahahahah.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "FINK",
+      "dialogue": "Ugh. Squirrels.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "GOSLING",
+      "dialogue": "That sucked.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "FINK",
+      "dialogue": "You gotta learn to just make stuff up. Come on, find that \u2018AWOOOO\u2019 inside you.",
+      "movie": "the-wild-robot"
+    }
+  ]
+]

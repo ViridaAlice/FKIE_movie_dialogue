@@ -1,0 +1,90 @@
+[
+  [
+    {
+      "character": "TOROS",
+      "dialogue": "You talk to him today?",
+      "movie": "anora"
+    },
+    {
+      "character": "TOM",
+      "dialogue": "Who are you?",
+      "movie": "anora"
+    },
+    {
+      "character": "TOROS",
+      "dialogue": "I asked you a question.",
+      "movie": "anora"
+    },
+    {
+      "character": "TOM",
+      "dialogue": "And I asked you a question.",
+      "movie": "anora"
+    },
+    {
+      "character": "TOROS",
+      "dialogue": "Look, Ivan's in a lot of trouble. We need to find him. We need to know if you talked with him?",
+      "movie": "anora"
+    },
+    {
+      "character": "TOM",
+      "dialogue": "And I'll ask you again... who the fuck are you?",
+      "movie": "anora"
+    }
+  ],
+  [
+    {
+      "character": "TOROS",
+      "dialogue": "Enough. One of you call Ivan, now.",
+      "movie": "anora"
+    },
+    {
+      "character": "TOM",
+      "dialogue": "This isn't our business man. We haven't seen him so...",
+      "movie": "anora"
+    },
+    {
+      "character": "TOM",
+      "dialogue": "...Thank you.",
+      "movie": "anora"
+    },
+    {
+      "character": "TOROS",
+      "dialogue": "If you aided him in this fraud of a marriage, then it is your business.",
+      "movie": "anora"
+    }
+  ],
+  [
+    {
+      "character": "TOROS",
+      "dialogue": "One of you call Ivan now.",
+      "movie": "anora"
+    },
+    {
+      "character": "TOROS",
+      "dialogue": "Give me your phone, you little fuck.",
+      "movie": "anora"
+    },
+    {
+      "character": "TOM",
+      "dialogue": "I don't think so.",
+      "movie": "anora"
+    },
+    {
+      "character": "TOM",
+      "dialogue": "Leave. Now. C'mon. Out.",
+      "movie": "anora"
+    }
+  ],
+  [
+    {
+      "character": "TOROS",
+      "dialogue": "Call Ivan now or my friend here is going to practice his stroke on your fucking face.",
+      "movie": "anora"
+    },
+    {
+      "character": "TOM",
+      "dialogue": "Fuck you.",
+      "movie": "anora"
+    }
+  ]
+]

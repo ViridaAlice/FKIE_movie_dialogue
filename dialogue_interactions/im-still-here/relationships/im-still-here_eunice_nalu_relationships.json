@@ -1,0 +1,69 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3
+        ],
+        "text": "NALU: Hi, Mom. Where's Daddy?\nEUNICE: Hi, dear. He's in the bedroom. \nNALU: Can I borrow a shirt, Dad?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "EUNICE: Everything's going to be all right, honey. \nNALU: Mom's back. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "EUNICE: I am. Grandma and Grandpa are there, and you can stay with them now and then. Because I'm going back to college.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

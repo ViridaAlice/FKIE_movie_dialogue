@@ -1,0 +1,37 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "text": "JUSTIN: Your Honor, my wife is in the third trimester of a high-risk pregnancy. I'd like to be available to her.\nTHE JUDGE: That's commendable. What hours do you normally work?\nJUSTIN: Nine to six, typically.\nTHE JUDGE: I see. You have my word that this court will not demand a minute more of your time than that.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "JUSTIN: \"...to maintain the integrity of the jury system, I remind you that you must decide this case based only on the evidence admitted during the trial and the law I will explain to you. You may not conduct any research on your own about this case, or about any people or places mentioned during the trial. You may not visit any places mentioned in the evidence, and you may not refer to any books or documents that were not admitted during the trail. \"",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

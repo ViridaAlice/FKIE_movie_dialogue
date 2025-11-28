@@ -1,0 +1,61 @@
+[
+  [
+    {
+      "character": "MAMA",
+      "dialogue": "Sorry, I forgot.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "MAMA",
+      "dialogue": "Red Rabbit.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Sorry, what?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Wait, you forgot your --",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Better luck next time, bitch.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "MAMA",
+      "dialogue": "Red Rabbit.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Right.     Totally.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Oh, don't worry, I won't tell anyone, I'm not a narc.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Holy shit, what is that?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "MAMA",
+      "dialogue": "Venom.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "MAMA",
+      "dialogue": "Red Rabbit. Red Rabbit.     Red Rabbit.",
+      "movie": "blink-twice"
+    }
+  ]
+]

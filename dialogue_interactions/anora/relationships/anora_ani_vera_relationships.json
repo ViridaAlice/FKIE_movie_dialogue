@@ -1,0 +1,22 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "ANI: How well do I know him... did you hear what I said? Try to keep up. His dad is loaded... Nikolai Zakharov. Fucking Google him. He's worth 22... billion.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

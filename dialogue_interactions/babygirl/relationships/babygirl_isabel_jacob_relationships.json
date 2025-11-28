@@ -1,0 +1,34 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "ISABEL: Sorry dad, but she looks awful! Why do you do that to yourself?!",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "ISABEL: Dad! Eeeww-",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

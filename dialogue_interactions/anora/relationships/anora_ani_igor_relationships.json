@@ -1,0 +1,123 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5
+        ],
+        "text": "ANI: Get your hands off me.\nANI: Don't fucking touch me.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "ANI: Fucking piece of shit. I bet you like this, don't you. You getting off on this? Psycho fuck.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8,
+          9
+        ],
+        "text": "ANI: In case you had to gag me again motherfucker?\nANI: Yeah, that's what I thought. Fuck you, you piece of shit. Unfuckingbelievable.\nANI: Fuck it. Give it to me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "ANI: It's fucking real, asshole. But it's not mink. It's fucking sable. Worth a lot more than mink. And don't fucking touch it again.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9
+        ],
+        "text": "ANI: Pfft. Faggot ass bitch.\nIGOR: Why am I faggot ass bitch.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "ANI: Fuck no.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          11,
+          13
+        ],
+        "text": "IGOR: Because I don't know what else to talk about and we're sitting next to each other for the next three hours.\nIGOR: I was actually asking to take your mind off him. And I should add... you're not my type. I wasn't macking.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          28
+        ],
+        "text": "IGOR: Ok, I was just being nice.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

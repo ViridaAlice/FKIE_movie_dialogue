@@ -1,0 +1,66 @@
+[
+  [
+    {
+      "character": "BERNARDO",
+      "dialogue": "Mira quien est\u00e1 aqu\u00ed. Martin, what are you doing here, in Baghdad!?",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "PHOTOGRAPHER",
+      "dialogue": "You really look great, Bernardo!",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "BERNARDO",
+      "dialogue": "Sorry\u2026 Martin, Paco. He\u2019s a Carmelite, like me.",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "PHOTOGRAPHER",
+      "dialogue": "Martha, let me present Bernardo and Paco. Martha is a brilliant journalist for the New York Times. They are the Carmelites I was telling you about.",
+      "movie": "the-room-next-door"
+    }
+  ],
+  [
+    {
+      "character": "PHOTOGRAPHER",
+      "dialogue": "Could you come just a tiny bit closer so I can get the impacts?",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "PHOTOGRAPHER",
+      "dialogue": "How long has it been since we last saw each other?",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "BERNARDO",
+      "dialogue": "Five years?",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "PHOTOGRAPHER",
+      "dialogue": "Five years\u2026 Do you remember Liberia?",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "BERNARDO",
+      "dialogue": "How could I forget!",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "PHOTOGRAPHER",
+      "dialogue": "I have some photos of you that we didn\u2019t publish. If you give me an address, I can send them to you. Maybe to the embassy.",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "BERNARDO",
+      "dialogue": "Goodbye, Martin.",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "PHOTOGRAPHER",
+      "dialogue": "It is great to see you. Take care. Stay safe.",
+      "movie": "the-room-next-door"
+    }
+  ]
+]

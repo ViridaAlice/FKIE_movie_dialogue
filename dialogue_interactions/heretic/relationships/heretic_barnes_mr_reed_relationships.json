@@ -1,0 +1,238 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "BARNES: Mr. Reed we wanted to give you this booklet, as it will help you understand the restoration...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "BARNES: We can\u2019t come inside unless another woman is present. But we can stay in the doorway if that\u2019s fine?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "11": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "BARNES: Let us talk with our bishop about some of the points you\u2019re raising. I\u2019m sure you don\u2019t have all the information.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "15": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "16": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "17": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "BARNES: wait One moment, Mr. Reed, we\u2019re getting a call from the Relief Society president. We\u2019ll be right there!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "19": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "20": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "BARNES: It\u2019s a little unusual to have a door that locks on a timer.\nMR. REED: I see that.\nBARNES: And a little unusual that it can\u2019t be unlocked.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "22": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "23": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "24": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "25": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "BARNES: I think you can tell, that we\u2019re regrettably uncomfortable with this situation, here, tonight. And we... we... need your help to go home. And I think it\u2019d be best, for you, and all of us, if you help us get home. Because the Stake President knows where we are. And the Ward Missionaries know. And they\u2019ll be expecting us.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "26": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "BARNES: Right. But I think we\u2019re scared, because you lied to us earlier --\nMR. REED: -- have I lied?\nBARNES: There\u2019s no pie...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "27": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "28": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "29": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "30": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "31": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "32": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "33": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "text": "MR. REED: Don\u2019t be scared. This is a beautiful moment. You are in the presence of a living Prophet of God.\nBARNES: Mr. Reed --\nMR. REED: Are you afraid to die?\nBARNES: Yes.\nMR. REED: Our fear of death is what makes us gullible to false prophets. Don\u2019t be scared. What if I told you that death is a warm bath. Something that can be tasted, sampled. Like self serve at Yogurtland.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "34": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "35": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "36": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "37": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "38": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "39": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "40": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  }
+}

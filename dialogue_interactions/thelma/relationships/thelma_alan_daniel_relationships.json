@@ -1,0 +1,73 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "DANIEL: Dad! You\u2019re embarrassing me in front of... Rochelle! And Colin.",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "ALAN: You aren\u2019t acting like you understand, you\u2019re not a kid anymore. These are the basics of adult life--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

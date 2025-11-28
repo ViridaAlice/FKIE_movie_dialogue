@@ -1,0 +1,15 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "TRAINER: Okay, do you think you can do this for thirty seconds?\nTRAINER: Nice! You\u2019re pretty good, you young lady.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

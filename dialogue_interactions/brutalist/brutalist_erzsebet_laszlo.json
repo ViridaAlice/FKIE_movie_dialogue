@@ -1,0 +1,776 @@
+[
+  [
+    {
+      "character": "LASZLO",
+      "dialogue": "Zsofia!",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "What's happened?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "I'm sorry I didn't tell you.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "What happened?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "It might not be permanent-",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Someone hurt you?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "It's osteoporosis from the famine-",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "I can dye my hair. I know it's ugly.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Shh.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Where's Attila?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I didn't want him to be disappointed if for any reason you were delayed.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Zsofia, dear.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Welcome to America.",
+      "movie": "brutalist"
+    }
+  ],
+  [
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Are you angry?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Laszlo, are you angry with me?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "If you'd like to start a row with me, I might as well work out my English-",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Stop it. Your English is perfectly all right. It was an unimaginative joke he made about you shining shoes.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Tomorrow, I'll take you to see someone. A specialist.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Don't be angry with me.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Do you not want to be with me anymore?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Stop this nonsense.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Do you think I look older?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "We are older.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Can't you say anything kind to me?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I love you, you cow.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "You can touch me.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I don't want to hurt you- physically.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "You won't... I had dreams- every night, I dreamt I was with you.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "I know what you've done, Laszlo, and it's all right...",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "What are you talking about?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Laszlo, I know. I know. I know everything. You see, I became sick. Very sick. I could hardly breathe. I yearned to be with you and it made me sick. I almost died. Between life and death, I began having fantasies about you but I realized they were not fantasies at all, but visions! I was with you. All the time I was with you.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Laszlo, I know what you've done. I'm not jealous because I was with you the all the time. I know everything that has happened to you, and I am here now and I will never leave you.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Oh god! MY LOVE. MY LOVE!     I CANNOT",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "You can. Shh... You can. We have a new life. A new language. We can start again.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Sorry.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Maggie Lee lent me some hair product!",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Laszlo, are you there?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I am.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "The model is beautiful, darling! So beautiful.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "We're taking a bus into the city this afternoon to visit Attila. The stop is very nearby! Would you like to come?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I have something this afternoon.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "I've missed him. Just hearing him mill about in the other room. It's...",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Fantastic.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Perhaps we should see about some language classes this afternoon? You could take the bus in on your own... ZSOFIA hardly reacts.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "I am positive it is the last place you would like to be but it's good for you and I can brief the instructor or whomever about your situation. Listening to me babble on will only get you so far.",
+      "movie": "brutalist"
+    }
+  ],
+  [
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Never. Good night, Mr. Van Buren.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "What's the rush?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "We can talk at the house.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Can you slow down?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I am forfeiting the remainder of my fee due to some expenses unforeseen.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "So, that's what the son kept alluding to.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Yes. He's a snake.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Don't go near him Zsofia.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "All right, so what will that mean for us?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I will figure something out.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "We will figure something out. I suppose we can make due on my salary.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "-your salary?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Mr. Van Buren's helped me with a job interview in New York City. I'm sure once they meet me, they won't be able to resist me.",
+      "movie": "brutalist"
+    }
+  ],
+  [
+    {
+      "character": "LASZLO",
+      "dialogue": "What are you doing?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Oh, I'm just looking at you.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "What do you think?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "It's unusual. Even for you.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "You think so?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Many rooms are quite small. The ceilings are high...",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Yes. Inside, you must look upwards.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "So, which part of it are we paying for?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "The height of the ceilings. The glass above.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "The service is in here?",
+      "movie": "brutalist"
+    }
+  ],
+  [
+    {
+      "character": "ERZSEBET",
+      "dialogue": "It's too much!",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "What's too much?!",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "The pain is too much. I need Zsofia! She has my medication.",
+      "movie": "brutalist"
+    }
+  ],
+  [
+    {
+      "character": "ERZSEBET",
+      "dialogue": "You're making me a mess to clean up.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "STOP IT! You're acting like a child.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "It's over.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "You have to march over there right now and get him excited again. Keep him engaged. You know how these rich fellows are. For him, it's like refurbishing a kitchen.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Two people are in the hospital.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "That's not your fault-",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Darling, it's over.",
+      "movie": "brutalist"
+    }
+  ],
+  [
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Oh, how exciting. What is it Laszlo?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Please. Zsofia, go ahead.",
+      "movie": "brutalist"
+    }
+  ],
+  [
+    {
+      "character": "LASZLO",
+      "dialogue": "Harrison's asked me back.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Michael came by the office today. Insurance monies came through. They plan to forego the library to compensate for legal expenses but they want to complete the project.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "What about your job here at Heywood?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "You throw everything up in the air, just like that?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "I don't like that man.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "You scarcely knew him.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "He dropped you as quickly as he took you on.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "You've already said yes, I take it?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "He's in Roma on business and would like me to join him to review marbles for the altarpiece in Carrara.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "See! I told you that for him it's like doing a kitchen!",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Everyone is leaving me.",
+      "movie": "brutalist"
+    }
+  ],
+  [
+    {
+      "character": "ERZSEBET",
+      "dialogue": "It's not just this trip. You'll be at Doylestown again now... I'll be fine on my own.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I will make arrangements.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Promise you won't let it drive you mad.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I promise.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "It's time to go! You'll be late!",
+      "movie": "brutalist"
+    }
+  ],
+  [
+    {
+      "character": "LASZLO",
+      "dialogue": "Your childish show-boating puts everyone else here at risk! Are you thick?! Are you lame?! You report to the subcontractor. You tell him that you've been let go.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Gordon, can you get him to stop shouting at everyone?",
+      "movie": "brutalist"
+    }
+  ],
+  [
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Laszlo, that's enough!",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "There must be an unpaid parking meter around here somewhere, Jimmy! Be vigilant! Keep your eyes peeled!",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "What is it?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "It was unnecessary how you treated that boy is all.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Their safety is my priority.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "And Gordon, don't even get me started.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "It is not what you said to that young man, it is how.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Would you like us to wait around another few years for another lawsuit to resolve itself? I am SICK of it. Do you hear me?! Beat.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I finish THIS or WE are finished.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Speak for yourself! I am NOT finished. Living with you is impossible. You've become a selfish old bastard right before my very eyes!",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Don't say something you'll regret in the morning.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "You want to kill us?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "I'd get out of the car and march all the way back to Manhattan if I could, you egotistic scoundrel. There is NO REASON for me to be here. I am here for you! I could do my ridiculous job ANYWHERE! Do you think I went to university to write about lipsticks! Shame on you.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Ask him about that. Did he tell you that he kicked me to the street like a dog?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "His bitch wife accused me of making a pass at her.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "You would never do that.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I did NOT do that.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Why would she say such a thing?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Because they do not want us here.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Of course Attila wants us here.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Not Attila.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Who do you mean?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "The people here, they do not want us here. Audrey, Attila's Catholic wife DOES NOT WANT US HERE. We are nothing. Worse than nothing.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "You poor man. My poor husband. What's been robbed of you-",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Zsofia!",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "She's gone, darling. She isn't here. You must calm yourself. You've worked yourself up is all.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "I am in pain. I am close to death.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "You are not. I am so sorry I upset you.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Get me my pills, it's too much.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "There is only a pill, cut in halves! Do you keep some in your purse?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "There is only half. Do you keep more in your purse?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "What will I do? The pain won't stop coming.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I found something.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "It's what they gave me on the boat for my broken face-",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Shh. You'll feel better soon, just listen to my voice, dear.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Do you have more?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I love you.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Keep going. Harder.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I'll wait outside. Tell me when you need me.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Darling, have you finished?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Can I come in?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "HELP! Someone help me! My wife is dying!",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "Please help her, she's dying.",
+      "movie": "brutalist"
+    }
+  ],
+  [
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Last night, I met God and he granted me permission to call him by his name. It is not the first time we have met.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "What did you do to me, my Laszlo?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "It was an accident.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Do you remember everything you confessed to me at home in our bed?",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "You needn't be ashamed, my darling. The harm done unto us were done only to our physical bodies.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "You were right. This place is rotten. The landscape. The food we eat. This whole country is rotten.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "I'm going to Israel to be with Zsofia and her child. I want to become the grandmother to her that she will, otherwise, never encounter.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "ERZSEBET",
+      "dialogue": "Come home with me.",
+      "movie": "brutalist"
+    },
+    {
+      "character": "LASZLO",
+      "dialogue": "I will follow you until I die.",
+      "movie": "brutalist"
+    }
+  ]
+]

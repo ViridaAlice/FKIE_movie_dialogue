@@ -1,0 +1,45 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "BERNIECE: Maretha! You get up here and get ready to go so you be on time. Ain\u2019t no need you trying to take advantage of company.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "MARETHA: Mama, all the hair grease is gone.",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "BERNIECE: Here...run across the street and get another can. You come straight back, too. Don\u2019t be playing around out there. And watch the cars. Be careful when you cross the street.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

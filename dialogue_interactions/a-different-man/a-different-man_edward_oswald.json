@@ -1,0 +1,568 @@
+[
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "Edward!",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "You probably don\u2019t remember me. I was -",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Yeah.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Oswald.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Hi.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "It\u2019s...hard to...it\u2019s about...a guy... He\u2019s just...",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Your friend plays a man with a disfigured face. Name of Edward.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "It\u2019s still being perfected... prototype...",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "It\u2019s a sort of beauty and the beast yarn, or am I wrong?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "That\u2019s one way of...",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "Off-Broadway.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Just the first stop on the road to glory.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "It\u2019s no - thanks -",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "I\u2019m off then!",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "\u2019ello matey, ow\u2019s the ol\u2019 lady doin\u2019?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "I can\u2019t.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "That\u2019s great! \u2019ow\u2019s tricks, guv?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "\u2019ow\u2019s tricks, guv?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "You do an American accent.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "I can do German too.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "Sir Guy!",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "What are you doing here?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Yoga in the park.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Do you practice yoga?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "No.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "It might do you some good. They say it\u2019s very relaxing.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Yeah?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Confidentially, I find it rather a chore, but supposedly it works wonders with our withering bodies. I think I\u2019ve noticed some benefit, but maybe it\u2019s just the placebo effect.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Would you just look at that?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Oh, I nearly forgot, they did the mock-up today, yeah?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Latex, is it? How did it go?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "You heard about that.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Ingrid was very stressy about it. Came off, I hope?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Does it have the desired effect?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "It\u2019s still...",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "A work-in-progress? It will take a bit of refinement over time. That\u2019s what Murray said, the make-up artist. He\u2019s part Northern Irish. He said it was the most complicated thing he\u2019s ever done. I\u2019m excited to see it in action. Part of me wants to just wait until opening night, so I can be struck by the full effect, but I think I\u2019ll stop by tomorrow because Ingrid wanted some feedback on the new pages, and besides, I want to see the gang.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "You don\u2019t have work?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "I don\u2019t really work, to be frank. I made some lucky investments while I was at university - before I ran off to Tangiers with my professor - and then I got into the real estate game, briefly. The market - not the side of it you\u2019re on. I\u2019ve done quite well for myself, but I\u2019m happiest when I\u2019m busy, and I\u2019m currently working on a thing - not worth getting into, but it has to do with bringing fresh water to third world countries. I have some very prominent people on board but time will tell if it all comes together. Right now I\u2019m looking for a place in the city - I wanted to have a chat with you about that - Oh, can I believe my eyes?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "Hey.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "That\u2019s Guy, he\u2019s a masterful actor.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "Who was that?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "I know how it looked, but, don\u2019t get any ideas -",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "I\u2019m not Edward anymore?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "You are, but only after his transformation.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "What is he talking about?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "And you\u2019re that prince!",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "And you\u2019re the beast?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Not a beast. I\u2019m Edward. This isn\u2019t beauty and the beast.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "She just sees him differently!",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Why?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "Not me. Edward.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Why can\u2019t it just be him? Why does she have to idealize him so that he\u2019s somebody he isn\u2019t?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "For...one scene?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "But what a scene! The finale!",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Nobody is gonna believe that Edward looks like him, and then suddenly he looks like me.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "It\u2019s magic!",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "But she loves him for who he is. If he changes, who is he then?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "They\u2019re talking about Edward.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Edward is not a beast!",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "No, of course not, no. But if Beauty and the Beast is our hypothetical point of comparison, well...I mean, let\u2019s be honest with ourselves, old friend.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Come on, I\u2019m tired, let\u2019s go home.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "What are you having?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Get a good look?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "The mask is mine, I\u2019m keeping it.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "I always liked that mask. Brilliant mask.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Where\u2019s the blind guy?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "I think you\u2019re kissing my girl.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "I do believe my understudy has had too much to drink.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Understudy?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Why don\u2019t we chat about this after this performance, old chap?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "That\u2019s right. You\u2019re Edward. Now let\u2019s -",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "That\u2019s my red door! That\u2019s my couch! These were my lines! Things I said!",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Now - Edward -",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Take yours off! You take yours off! He pulls on Oswald\u2019s face. They wrestle.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Guy!",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Guy! What have I done? Sometimes I don\u2019t know my own strength!",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "Can I believe my eyes?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Do you remember Fiona? She got ALS. Did you know?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "No, my god.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "It was just horrible.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "Yeah - sure- of course.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Tomorrow, then?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Uh, what time?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Eight p.m. sharp.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "All right.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "You\u2019ll sit with me.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "You\u2019re not in it?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Oh, no, no, no. I\u2019m no actor. Well, yes, of course, Edward, but that was-",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "Where are you going?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "We\u2019re moving up to Canada. It\u2019s, uh, it\u2019s a place called Shepperton. Do you know of it? It\u2019s - I guess you might call it a nudist colony.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "Should I?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Well, I don\u2019t know, probably-",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "What about, like, bad trips?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Always a possibility, yes, but those can be the most enlightening, it\u2019s all about how you frame it, Guy.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Are your kids going?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "No, no, alas.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "I guess it sounds a little like a cult.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "Yes, in broad strokes it does, but it\u2019s really quite leaderless. It\u2019s a radical lifestyle, one that I think will suit us as we get on up there in years.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "But what about this Andes woman, isn\u2019t she the leader?",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "OSWALD",
+      "dialogue": "Edward, what are you having?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "You go - I\u2019m still....",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "OSWALD",
+      "dialogue": "We\u2019ll need more sake. We\u2019re celebrating. Another bottle of the Dassai Hayata. For the table, wakame, the agedashi tofu, and he needs to try the uni toast. And an order of hamachi kama, why not. And then for my entree, the wagyu flight.",
+      "movie": "a-different-man"
+    }
+  ]
+]

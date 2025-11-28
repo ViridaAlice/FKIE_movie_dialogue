@@ -1,0 +1,67 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "ALLISON: Bed rest is great. I can't go anywhere. Or do anything. But really, I'm fine. I can't wait to be a Mom, but I miss my kids. If all goes well, I'll be back at school full-time next fall.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "JUSTIN: I'll be honest, Allison and I weren't sure about whether to have this party. But together there's nothing we can't overcome. You're the strongest woman I know and I love you more than anything. And I am so damn excited to keep building our life together.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "ALLISON: It's all gonna be fine, babe.\nALLISON: We're gonna have a family.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": []
+  }
+}

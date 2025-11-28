@@ -1,0 +1,102 @@
+[
+  [
+    {
+      "character": "ELOGE",
+      "dialogue": "Yes, of course.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "What?",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, I know.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "ELOGE",
+      "dialogue": "Can you take a picture of me?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Oh.   Really? Sure, I guess so.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "ELOGE",
+      "dialogue": "Yes, I am David.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "That's amazing to me.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "ELOGE",
+      "dialogue": "Is it?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah.    You do all the customs?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "ELOGE",
+      "dialogue": "Not all, but I do keep Shabbat. It's mediative, it gives me a chance to unwind, to refocus. And you?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "No. The whole thing always seemed like a little archaic and arbitrary and mechanical to me. No offense.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "ELOGE",
+      "dialogue": "None taken, but I think it would really benefit you.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "You mean like benefit everyo ne or, like, me specifically?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "ELOGE",
+      "dialogue": "You specifically.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "See, Benji? Look at that!    You're an inspiration.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "ELOGE",
+      "dialogue": "Hi, yes, I'm eavesdropping, is that okay?",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Really?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "ELOGE",
+      "dialogue": "Yes, of course. I find myself constantly baffled by the way the world seems to carry on like there aren't a million reasons to mourn, to be shocked, to be appalled.",
+      "movie": "a-real-pain"
+    }
+  ]
+]

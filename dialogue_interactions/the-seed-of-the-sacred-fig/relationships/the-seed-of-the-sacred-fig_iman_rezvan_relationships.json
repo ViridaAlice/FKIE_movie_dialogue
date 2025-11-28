@@ -1,0 +1,124 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "REZVAN: Mom\u2026 mom\u2026\nREZVAN: Hi dad, how are you? Mom, would you come here for a second?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          10
+        ],
+        "text": "REZVAN: Which enemy Dad? They beat my friends right in front of my eyes and arrested them.\nREZVAN: Dad, what do I have to do with the unity of the world? What do I have to do with the enemy? A young girl my age was killed because of her hijab. Why?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "IMAN: My dear daughter, this will affect my professional records, they will put me in jail.\nREZVAN: Which gun, dad? Why don't you believe that I don't know anything about it? Does that mean you are ready to accuse me because of the words of a stranger?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "IMAN: My darling, look into my eyes. I\u2019m your father. I worked honestly for years, and now the result of all those years is being destroyed. I will go to prison. do you want to hurt me? Why? Did you see anything but love and support from me? The best house, the best life...car, money. What else do you want?",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "REZVAN: I didn't take it, I swear. I didn't take it, I swear on my grandmother\u2019s grave, I didn't even know that Dad had a gun. I didn't take it, let me go. let me go...",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "REZVAN: Dad, come on. Let\u2019s go. We\u2019re not in the mood for another conflict.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "REZVAN: Where is Dad?",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

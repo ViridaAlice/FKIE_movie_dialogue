@@ -1,0 +1,172 @@
+[
+  [
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Wait. You know my name?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "Roz and I go way back. Brightbill, you have an amazing journey ahead. I envy you, nothing can equal a goose\u2019s first migration.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Thank you!",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "I would be delighted if you would join my group. It\u2019s been ages since I had a youngster in my formation. What do you say?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "I promise I\u2019ll keep up.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "Lock in close on my right side. No...left...I mean, this side.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "This flight is a gift Roz has given you.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Yeah, I understand.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "No, you don\u2019t. You see any other geese here your size? The accident that killed your family, saved you.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "I-- I never thought of it that way.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "Funny, how life works.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "LONGNECK",
+      "dialogue": "Brightbill.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "I-- I could use a boost.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "I forgot to say something before I left.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "Maybe they heard it anyway. Sometimes hearts have their own conversations.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "We must descend, find shelter while this blows over. Stay close.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "There. Follow me.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "Come on.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "Stay hidden. We can rest here till the worst is over. Noise to a minimum, please. Honkington, stop nibbling on everything.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Migrations sure are tiring, huh? Yeah. They all hate me.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Roz? Roz. What are you doing here? I\u2019m so glad to see you. There\u2019s something I needed to tell you, but there wasn\u2019t time. Roz I...",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "LONGNECK",
+      "dialogue": "Please, everyone, find your formations. Get ahold of yourselves. Gad, it\u2019s no use.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Wait! Rozzums can\u2019t hurt you! Their inhibition protocols prevent deliberate conflict or harm to others.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "You\u2019re not afraid of them. You grew up with these things.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Whoa, whoa, whoa, I don\u2019t understand.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "They\u2019re panicked. You\u2019re not. Right now our only chance is to be led out by someone that doesn\u2019t think like a goose. Follow me.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Yeah, why not. Okay. There\u2019s nothing I can do that you can\u2019t. Here we go!",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Tight turn! Come on! Dive! Now, climb! That\u2019s it!",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "Hah. Glad I lived long enough to see that. I\u2019ll buy you some time.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "LONGNECK",
+      "dialogue": "Follow Brightbill. Don\u2019t wait for me.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Keep up.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "That\u2019s it. Faster. Hurry. Come on.",
+      "movie": "the-wild-robot"
+    }
+  ]
+]

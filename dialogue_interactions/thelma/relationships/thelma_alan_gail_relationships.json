@@ -1,0 +1,102 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "11": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "14": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "15": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "16": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "17": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "18": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "19": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "20": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "21": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "GAIL: Enjoy your walk, sweetheart. Love you.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Romantic",
+    "evidence": []
+  }
+}

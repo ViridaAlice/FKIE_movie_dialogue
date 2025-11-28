@@ -1,0 +1,817 @@
+[
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "But what would happen if I'm not there?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "What do you mean by not being there? I said it's an important conversation, four of us should be there!",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Well, tell me now.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "You don't seem to understand what I'm saying. Your dad should be there, it is both a celebration and some sort of family meeting.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Celebration for what?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "You'll find out tonight.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Mom, please don't ruin my night, Sadaf is coming back from her town. In fact, she is coming earlier because of tonight's plan. I asked her to come earlier, how does it look like if I don\u2019t show up myself?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "My darling, this is an exceptional night, you and your friends can go to the cafe another day.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "What do you mean another day? We made plans ten days ago; I can't just switch things up now. There are too many people involved.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Rezvan, your family should be your priority.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Sana, dear, didn't I say Dad is sleeping?",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "Mom, you're killing us! Just tell us what it is!",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Tonight, at the restaurant.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "We only hang out with Dad's friends.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I'm talking exactly about them.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "Yes, Mom.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "My darling, did your friend eat her food?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I made tea as well. Drink it, stay together for half an hour, then she needs to go, please.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "What do you mean Mom? What's going on? do you even hear what I'm saying? her dormitory is not ready, and she doesn't have anyone in Tehran. Do you want to throw her out of the house?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "My dear, tell me what was she going to do if she didn't have a friend named Rezvan?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Well, she has one now.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "We talked about it. I explained to both of you that the circumstances of our family have changed, and we have to be careful.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Careful about what?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "About those around us.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "In what possible way is Sadaf dangerous for us?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Why do you think Sadaf is my problem? I'm saying you should change your way of life. If you can't tell her, I will go and talk to her myself.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Then let me talk to Dad myself and ask for his permission for Sadaf to stay tonight.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Rezvan, Dad is busy with work, we should not disturb him. Also, he entrusted me with such issues.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "So at least let her stay until the evening... In the meantime, I will tell her somehow.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Okay, dear. She stays until the evening.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Thanks.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Rezvan, why is it so important to you?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Because she's my friend, she is alone here.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Even if you solve her problem tonight, what's going to happen the next time her dormitory is not ready?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "I don't know, mom. I thought you wouldn't have a problem if she stayed with us for one night, so I told her she could stay here with us. Tomorrow, they will give her a room in the dormitory.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "OK, I'll let her stay tonight on two conditions.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "What conditions?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "The first condition is that you promise it's the last time you make such a request again. The second is that you make sure",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Sadaf does not leave the room from the moment Dad comes home until he leaves early in the morning. I don't want her to see your father.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "No problem, mom.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Mom, this is still too thick, make it thinner.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "If you make it any thinner, you will be like a slut.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "So even later I have to do whatever my husband wants? When will I do anything for myself?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Don't move so much.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "What do you want to do with such beautiful hair? Don't you hear Sadaf saying that natural is fashionable?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Mom! She says natural eyebrows are fashionable.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "It's not all about breaking glass and setting things on fire. People are protesting. They don't let them protest, they break the glass, throw tear gas at them, and start a fire.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Well, great! Now you\u2019ve become the defender of the rioters.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Be quiet, I wanna see what the news says.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Did they really kill someone because of hijab?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "She had a stroke. It says that she\u2019s been sick already.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Who knows?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "He is saying it on TV.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "Well, she must have been so scared that she ended up having a stroke.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Thousands of people have heart attacks every day, is it the government's fault?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Thousands of people are not having heart attacks out of fear from the police.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "Why should someone be arrested for their clothes in the first place?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Because it is God's order. It is the law of the land.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "Who assured you that this is God's law anyway?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "What\u2019s going on with you two? Well go on then, get up and go start chanting in the street. Go and dance bareheaded in the middle of the street. Your father has no idea what is going on in this house.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "Ma, Sadaf is my only friend.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Am I saying she can\u2019t be your friend? I say be careful because of your father\u2019s job conditions.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Mom, I don't understand. What do you exactly mean by Dad's job conditions? What conditions does it have?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Dad's work is sensitive. Just like your uncle. Your uncle is always traveling, right? But does anyone know where he is? Do you know exactly what your uncle's job is? I don't know, and I\u2019m his sister. I only know that he is in the military.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "After all, is Dad a judge, an investigating judge, or a military man?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I\u2019m saying his job is just as sensitive. We should not draw too much attention to ourselves. When you get close to people, you might say something by accident that you shouldn\u2019t. Why did you plan last night to pick up Sadaf today?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Mom, Sadaf\u2019s dormitory is on our way! Also, you said she shouldn't come to our home. I'm 21 years old and you\u2019re controlling all my relationships.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Controlling? I\u2019m protecting the family. Inshallah, when you become a mother, you\u2019ll know what I mean.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "There she is.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "Oh, why didn\u2019t you call me? I was worried to death.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "I just arrived; we got stuck in the crowd. They cut off the mobile phone network.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Thank God you\u2019re okay. Here are your pads. I\u2019m going to call your father, he is worried.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "My dear, Rezvan has arrived...it's been crowded, the cut of the mobile phone network around the university...don't worry. Goodbye. Rezvan and Sana are wondering how to handle the situation. Rezvan comes from the hallway towards Najmeh.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Mom\u2026 Najmeh looks at Rezvan.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "What\u2019s going on?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "It's like you don't want to take my words seriously.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Mom, Sadaf is injured. Najmeh is shocked.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Where? Bedroom. Rezvan, Sana, and Najmeh rush into the bedroom. Sadaf is lying on the bed, and it\u2019s obvious that she is in pain. She is breathing with difficulty. Najmeh removes her scarf that covers",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "It is a huge responsibility... if something happens to her, who will answer her family?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Well, she doesn't want her family to know. It\u2019s none of our business.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Why?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "I don't know, but I can see her condition is urgent, something must be done.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I can't allow that, it\u2019s a big responsibility...",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "To be responsible is not to be indifferent to a wounded person.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "What does it have to do with me? Or you? It\u2019s her fault. She could choose not to go, not do anything of that sort.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Not to go where? We didn't do anything; we were coming back from the university.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Enough is enough...this house is not a place to do such things! Think about your father. You\u2019re responsible toward him as well, not only toward your friends.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Why did you come out? You need to rest.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Sadaf, you should call your mom and let her know what happened.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "Yes, dear. Go, I'm right behind you.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "It's okay, they must have had an argument, I'll be back quickly.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "what is this?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "You see? I told you not to let her go. Girls from the dormitory recorded this video. They took Sadaf.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Don\u2019t you see that I was right? If she stayed here, now they were raiding our house! Then what could you tell your father?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "I\u2019ll talk to Dad myself.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Where are you going? Wait, what are you doing?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "I want to talk to Dad.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "what do you want to say?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "I want to know where they took her. No one knows who they were, or where they took her. What has Sadaf done?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Quiet. Do you think your father knows about these things?",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "She didn't do anything; I was with her.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "This is the last time you say you were with her. You weren\u2019t with her anywhere!",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "what happened?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "They need her National ID Number.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "How can we find her ID Number?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I don't know, you talk as if it's my fault they arrested her. She went out in the streets, broke banks\u2019 windows, set tires on fire, and did whatever she wanted. It\u2019s her fault, she chose this herself. Call her family.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Mom, don\u2019t you understand what I'm saying, I was with her, she didn't do anything.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "Hello, is there any news? unfortunately, no, my search was also unsuccessful.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Now we need her National ID Number to continue the search ask others, maybe someone has it OK then, I\u2019m waiting, send it to me.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "what the hell are you doing? Who were you talking to?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Mom, what are you talking about? I was speaking to my classmate.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Did you tell someone you can do something? Did you talk about your father?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "What do you mean?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "You\u2019re playing dumb? What did you tell your friends? Did you say how are you looking for her?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "I did not mention Dad\u2019s name or his job.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "what did you say then?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "I said my uncle has an acquaintance.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "You had no right to mention your uncle's name. I swear to God, if I find out you said one word about your father\u2026 or your uncle\u2026",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "I did not say anything to anyone. I know what to say and what not to say. I swear I leave this house and go away.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Wow! Since when do you say such things? Where do you think you are? Do you think you can do whatever you want?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Do not close the door.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "Hmm...",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Sweety\u2026 sweety wake up. I have to ask something important.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "what's wrong, Mom?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "My darling, your dad's gun is missing. do you know where it is?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "A gun? Does Dad have a gun?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Go back to sleep. I will explain it to you later.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "what happened Mom? Until a few days ago, it was no one's fault that thousands of people had strokes every day. A stroke was just a stroke. Now today if Dad has a stroke, it is our fault?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "You have no shame...I came here to say you are playing with his professional reputation of twenty years. You are dishonoring him. If this gun is not found, your father should go to prison for three years!",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "I don\u2019t want to.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Why?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "You do not understand what you two are doing to your father. If, like me, you grew up with an irresponsible father whose only",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "concern was gambling and having fun, you would now kiss your father's feet once a day. You wouldn\u2019t let him feel the slightest discomfort.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Mom, I understand that you had a rough childhood, but that is no reason to think that everything Dad says is true. Why would Sana and I take Dad's gun?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "So, the gun just vanished into thin air?",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "Do you understand what you are doing?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "what am I doing?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "You are playing with your father's 20-year reputation, with the fate of the family.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "So what happened to this gun? It just disappeared? where is it?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "I do not know. How do we know that you didn't get it yourself, Mom?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "I will smack you so...",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "Why didn't we tell him that the first liar was you who hid your job from your family for all these years?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "It\u2019s too late. I know your father. Whoever did this, this is the end of this game, you have to stop.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Mom, how can we be sure you didn\u2019t do it?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "You don't seem to understand what is happening. I'm begging you, for God\u2019s sake, if you know where this damn gun is, stop this game. Just give it to me. I\u2019ll say I'm the thief, I'm the liar.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "We don\u2019t know anything.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "Is this your final answer?",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "REZVAN",
+      "dialogue": "If you are not afraid of anyone, why do you want a gun?",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "NAJMEH",
+      "dialogue": "My dear, don't say anything.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "We were involved in this from the beginning. Get up Mom, stand up.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "I have the gun. it's right here. I will call Uncle to come and take Mom and Sana, when they leave, I will give you the gun.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ],
+  [
+    {
+      "character": "NAJMEH",
+      "dialogue": "Please talk to him my darling, I beg you.",
+      "movie": "the-seed-of-the-sacred-fig"
+    },
+    {
+      "character": "REZVAN",
+      "dialogue": "Don't you want your gun? I have it with me, in this orchard. Let Mom and Sana go, I will give you the gun.",
+      "movie": "the-seed-of-the-sacred-fig"
+    }
+  ]
+]

@@ -1,0 +1,970 @@
+[
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "What are you looking for?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Bobby\u2019s email.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Scroll up--",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I\u2019m scrolling.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "You\u2019re not scrolling. Look, this is scrolling.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Okay, wait! Wait...",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "What?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Stop fussing with it.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "What\u2019s this?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "This is an ad for Neiman Marcus.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Get rid of it.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "You don\u2019t have to trash it, it can just stay in your inbox.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Who needs it? What\u2019s an inbox?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "It\u2019s... where all of your emails are stored. Like a folder on your computer with all of your emails.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "And what is a computer?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "...This is a computer--",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I know this is a computer but what is it really? How does it function?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "It\u2019s-- let\u2019s come back to that.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Yes, there!",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Pretty fast.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Very fast. He\u2019s like sixty.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "It\u2019s not a stunt man?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "No, that\u2019s the whole thing. He does it all himself.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Wow. Terrific.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "What\u2019s with you? Big plans tonight?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Nah, just dinging around...",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Have you spoken to Allie?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "We\u2019re still on a break. I\u2019m trying to give her a little space... And just not really sure what my selling points are at the moment.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Psh! You\u2019re a wonderful grandson. You know computers. You have your hair.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I think it\u2019s gonna start to go early.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "You can\u2019t get hung up on that.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "We\u2019re just in different places... as people, you know? She\u2019s thinks I\u2019m stuck.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "You\u2019re too young to be stuck.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I don\u2019t feel young.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I don\u2019t feel old.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Oy.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Oy is right.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "You\u2019re gonna land on your feet. Like Cruise. Who is it they say lands on their feet?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "That\u2019s cats. But in a way it could be about both.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "You want this? It\u2019s a marble. I have a ton of these.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Sure.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "You want pretzels? I have a ton of pretzels.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Only if you don\u2019t need--",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Take them! I can\u2019t chew them.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Can you please wear this when I go?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I\u2019m fine.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "You probably won\u2019t need it but I\u2019ll feel better if you wear it. Okay?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "What\u2019s the point? If I fall, I\u2019m toast. That\u2019s why I don\u2019t fall.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Don\u2019t say that. Come on-- please? For my mental health?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "...Only for my guardian angel!",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Thank you! Just a precautionary measure.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "What\u2019s your plan for the day?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Eh, the usual.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Oh my god...",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "Hello?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "He was going on and on about how you hit someone and it\u2019s worse than you think - she\u2019s pregnant! And--",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "That I hit a pregnant woman? Like I struck her, with my fist?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "No, it was a car accident!",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Oh, yes, that makes more sense.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "What are you talking about?",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "Well, it was a close call but it\u2019s over now.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "...I\u2019m so embarrassed!",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "I\u2019ll call you tomorrow. You sure I can\u2019t stay over?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "No, no. I\u2019ve got things to do.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "For my mental health?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I made a mistake, Teddy.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Hi.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "What address?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "From the, uh, scam. It was this tiny slip of paper.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "You\u2019ll never guess where it turned up--",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I can\u2019t hear you that well. It\u2019s going in and out.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "On the floor of the bathroom at the post office!",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Wait, you went to the post office?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Yah.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "How did you get there?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I walked.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "That\u2019s far grandma. You shouldn\u2019t have done that.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "It\u2019s a few blocks--",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "You can\u2019t-- you need to tell me if you\u2019re going somewhere so I can take you, okay?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Wha?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "You shouldn\u2019t have done that on your own.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "But I found it. I have it here--",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I know, but maybe it\u2019d be better to just... pause. For now. And we can figure it out together.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "What about my money? Am I supposed to just let them have it?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Well, the odds of getting it back are pretty slim, right? The most important thing is that you don\u2019t overdo it. That you\u2019re safe.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I\u2019m sorry about the money. But it could have been a lot worse. Are you okay? You\u2019re at home now?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I\u2019m fine. Yes, I\u2019m home.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "If you need to go somewhere, I can take you.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Okay, darling. I appreciate that. Speak soon.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Cynthia? Hi, darling. It\u2019s Thelma Post. I\u2019m afraid I need a bit of a favor. It\u2019s an odd situation-- oh, I\u2019m sorry, Sara. I thought you were Cynthia... She did? How awful. I\u2019m so sorry, dear. No, never mind. Forget I called. All is well. A little later.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Hello, this is Thelma Post calling. Is Harvin there? ...What happened? A stroke. I\u2019m so sorry, Joan. A little later.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "A heart attack? A little later.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Sepsis? A little later.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "He moved to Cleveland? When did this happen? ...And he\u2019s enjoying the seasons? Well, that\u2019s good. A little later.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Dialysis is no fun. That\u2019s why you don\u2019t wear tight pants around the genitals. Many women have gotten kidney disease that way.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Oh god, I\u2019m calling Cynthia--",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Danny? I need a ride.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Just to get this out of the way up top, you were not at home.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "All my friends are dead.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "What? Don\u2019t say that--",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "It\u2019s true. They\u2019re all popping off. I used to be in four lunch groups. Who\u2019s left? Judith? She can\u2019t hear anything. And she\u2019s a hunchback now. I wouldn\u2019t want to have lunch with her alone. Herman\u2019s in Canada. Mona doesn\u2019t leave the house. I could invite Lee Horner to join us but I don\u2019t have her number. And Ruth burned up in a fire pit.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I heard about that. ...I\u2019m sorry.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I didn\u2019t expect to get so old.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Well, I\u2019m glad you did. Who do you know here again?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "You remember Ben? Ben Halpern? He was married to Sheryl.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Oh yeah, you guys used to see them all the time.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Sheryl was my friend. Ben and Teddy got along well enough. I found him a little soft.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Soft?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I don\u2019t know. Fussy. Sheryl\u2019s dead too. She fell down some stairs in their house. She was there for hours before they found her. Poor thing.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I remember, yeah. So awful.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "The car is filthy.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I\u2019m taking good care of it. I\u2019ll clean it.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "You won\u2019t clean it. Who raised you?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Your daughter.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Nice try. This is your father\u2019s influence. There\u2019s coins everywhere. They fall out of his pockets because he\u2019s got no waist. Every time I ride with him I make five bucks. What\u2019s this?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "That\u2019s my coffee. I\u2019m still drinking it.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "It\u2019s important not to let junk accumulate.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I know.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "You say that. You don\u2019t know.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "When did Judith become a hunchback?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Who knows. A few years ago? You don\u2019t become it all of a sudden. It happens slowly.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "You want me to come in?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I\u2019m just saying hello. Won\u2019t be long. 30 minutes.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I\u2019m here if you need me.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "Grandma?! Oh my god! Are you alright?! WHAT THE FUCK IS HAPPENING?! SORRY! Are you okay?!",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I\u2019m alright, everything\u2019s okay. But I need your help. Now.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Where are you?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I\u2019ll tell you. But you gotta promise me something.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "What?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Come alone.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "Tell me what you\u2019re looking at.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "It\u2019s a family and a baby and they\u2019re everywhere.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Are there words?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "It says... Prudential--",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "It\u2019s an ad. You need to find the x.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "There\u2019s no red x.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "It\u2019s not always red. Sometimes they hide it. Look closer.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "Good! So think of it like a library, right? The search bar, is the librarian.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "The search bar is the librarian...",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "You\u2019re going to ask it for information and it\u2019s going to give it to you--",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Where is the bank?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "...Are you talking to me?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I\u2019m asking the machine.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "She\u2019s not there. Just in your phone. And you don\u2019t need her\ufffe",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "www.valleyfinancial.com",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Hit enter. Thelma runs her fingers over the keys, finds it, and clicks.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I\u2019m in!",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "What\u2019s the password?",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "Check the desk.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Oh my god--",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "What?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "The password... is \u201cpassword.\u201d Harvey scoffs and rolls his eyes.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Classic. Now click inside of that box and type it in. She begins to enter it.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "That\u2019s cute.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "What?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "It wants me to join a gym.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "...I\u2019m gonna tell it no.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Good. Remember what we do?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "The x. No matter what color.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "That\u2019s right. She finds the \u201cx\u201d and closes it. The transfer page fills the screen, boxes waiting to be filled.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I\u2019m in. Be ready in five.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Im assuming it was you on the phone pretending to be Danny. He doesn\u2019t have the range. I\u2019m not your grandma.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "He called you a dumbass. He said it quietly but I heard it.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "THELMA",
+      "dialogue": "We got it.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "...Oh, Danny, you remember Ben?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Hi, Ben. Sorry, yes nice to see you.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "Break a leg, Ben!",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Does he know what that means?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I\u2019m not sure. He\u2019s new to the theater. And his hip is titanium.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "THELMA",
+      "dialogue": "It\u2019s a strange show.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I\u2019m glad to come here. These are good graves. You like them?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "As in do I want to be buried in them?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I got a ton of graves.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Oh yeah?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Beautiful graves. Some here. Mostly in New York. My father bought about twelve before he died. Does Allie plan to be buried in a Jewish cemetery?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Oh, wow, I dunno. We haven\u2019t really had the \u2018graves conversation\u2019 yet. We\u2019re taking it slow.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "We may have enough. You get very greedy. I want to see what\u2019s going to happen to those I love.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I love you. And if you ever do die, I\u2019m really going to miss you. I know you know that. But I just wanted to say it. While we\u2019re here.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Wherever I go, I won\u2019t worry about you. You\u2019re gonna be okay, Danny.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Look! Look at all those bottoms of those trees. Look at how gnarled they are, and yet they live. Look!",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I\u2019m looking--",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "You should be taking photographs of this! Is this unbelievable?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "They\u2019re incredible.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I mean, it\u2019s unbelievable. Look at this - this thing is still living. My god!",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "This tree?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Yes, look at it. It should be down on the ground. It\u2019s unbelievable--",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "It\u2019s crazy.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "What spirit!",
+      "movie": "thelma"
+    }
+  ]
+]

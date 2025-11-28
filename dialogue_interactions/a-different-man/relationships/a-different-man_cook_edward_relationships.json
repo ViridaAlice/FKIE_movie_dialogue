@@ -1,0 +1,29 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2,
+          4
+        ],
+        "text": "COOK: You folks enjoying everything?\nCOOK: Need anything else?\nCOOK: Pizza was good? Complaints?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "COOK: Pick away. Knife and fork style. So no special feedback? I can handle it. Crust too crispy? Too light on the mushrooms?\nCOOK: There\u2019s always room for improvement. Well, thank you very much for your patronage. It would be so great if you could come back. Come every day. We\u2019re always open. Christmas, Passover, you name it, my door is open. Promise me you\u2019ll stop in again.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

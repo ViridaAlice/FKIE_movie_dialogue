@@ -1,0 +1,450 @@
+[
+  [
+    {
+      "character": "ROZ",
+      "dialogue": "Scream and run?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Yes!",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I have experienced the same phenomenon. Fink?",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "How do you do that?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I overheat my Fallium transducer coils, then leak a little hydraulic fluid on them.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Does overheating the transducers have any draining effect on the secondary cooling modules?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Not if I pre-cool the load sensors.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Exemplary day for swimming tests.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Exemplary day for swimming tests.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Hey, it\u2019s working. I think I got it.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Well done Brightbill! Swimming requirement, fulfilled.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Yeah, thanks you guys!",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Perhaps you could limit your range to stay within view.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Roz!",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Brightbill.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "ROZ",
+      "dialogue": "Brightbill? Focus on me. Now swim, as fast as you can.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Head down, now!",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Oh no.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "He\u2019s gonna eat me!",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Why\u2019d he attack me?",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Stop it, Fink. Please. Let\u2019s go.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I hope this interaction--",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Mom. Stop.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I just intended to--",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "ROZ",
+      "dialogue": "There was an accident.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Did you do it?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": ".....yes.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "ROZ",
+      "dialogue": "I, did not think the information would assist you.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "That\u2019s not your decision to make. I can\u2019t believe how long I bought this. I really thought you were my family.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "You...did?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "It was so obvious. I feel so stupid.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I miscalculated. I should have considered your emotional wavelengths.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "You think? So was it just guilt? Is that why you did this?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I--I needed a task--",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Well I\u2019m glad I could give you one.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "The events that led to this situation were unintended.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Tell that to my sisters, my brothers. My real mom. They were my chance to be normal.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "You swam satisfactorily today and if you keep practicing--",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "I still won\u2019t belong.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I understand.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "You don\u2019t understand anything. You don\u2019t feel anything. You\u2019re not my mom.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "No.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "The mutation that made you small should not have an effect on your ability to navigate the air.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Do either of you know more about flying than you did swimming?",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "ROZ",
+      "dialogue": "No.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Your life is not negotiable.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "If you are willing to do this, you can fly away, and we can both go to where we belong.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "You really think we can do this?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "A Rozzum always completes its task.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "You just need more speed.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Ready?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "I guess I have to be.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I don\u2019t know what to say.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "A flight instructor? What loser did you dig up--",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Meet Thunderbolt.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Well. Guess it\u2019s time.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Yes.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Will you be here when I get back?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "No.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I\u2019m glad you\u2019re going where you belong.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Roz, I-- I, uh--",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "ROZ",
+      "dialogue": "Ready?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "I guess I have to be.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "ROZ",
+      "dialogue": "Brightbill.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Roz. I have so much to tell--",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "*Augh*",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Roz. Roz.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Roz?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "What happened was not your fault. But what you did to try and fix it, is everything.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "I love you, mom.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I love you, too.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Roz? Roz!",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Let\u2019s go home.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "What\u2019s it saying?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Nothing important.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "ROZ",
+      "dialogue": "You don\u2019t need to.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Don\u2019t be afraid.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "Whoa, don\u2019t you need that?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I have everything I need.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "All power to exterior.",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "BRIGHTBILL",
+      "dialogue": "No, they\u2019ll take your memories. They\u2019ll take you.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Remember when you talked to me, on the ship? They cut my power. But I still heard you. Because I was listening with a different part of myself. Wherever that is, that\u2019s where I keep me. And I promise, they\u2019ll never, ever find it.",
+      "movie": "the-wild-robot"
+    }
+  ]
+]

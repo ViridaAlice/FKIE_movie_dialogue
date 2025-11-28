@@ -1,0 +1,32 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "text": "RAY: Who the fuck is this?\nRAY: Oh, really? Well, I'm her husband.\nMADISON: Ray, can we just keep it --\nRAY: Keep it what, Maddy? You tell me. You tell me, Maddy. You want me to keep it cordial?\nRAY: Yeah, you too, boyfriend! Madison, you're pathetic!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3
+        ],
+        "text": "RAY: Goddamn it, Madison. Don't walk away from me. DON'T YOU FUCKING\nMADISON: He said apologize, motherfucker. He's a professional, he'll do it. Show him.\nRAY: Professional what? Professional asshole. Really moving up in the world, aren't you, Madison? See you again, professional.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

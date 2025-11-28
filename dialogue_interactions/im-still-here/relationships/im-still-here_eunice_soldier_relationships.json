@@ -1,0 +1,44 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "SOLDIER: Sit down, kid.\nEUNICE: Let me stay with my daughter. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "SOLDIER: Quiet. You'll just rile 'em up. \nEUNICE: Please don't let them do anything to my daughter. She's just a child. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "SOLDIER: No cuffs today. ",
+        "type": "Implied"
+      }
+    ]
+  }
+}

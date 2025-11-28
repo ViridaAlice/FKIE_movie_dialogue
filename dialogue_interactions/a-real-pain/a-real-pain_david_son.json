@@ -1,0 +1,56 @@
+[
+  [
+    {
+      "character": "SON",
+      "dialogue": "Hi, you speak English?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Yeah, what's the problem?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "SON",
+      "dialogue": "Oh, yes, hello. My father said that you placed rocks on the stoop of the apartment.",
+      "movie": "a-real-pain"
+    }
+  ],
+  [
+    {
+      "character": "DAVID",
+      "dialogue": "Oh - it's a Jewish tradition. When you visit someone's grave, you're supposed to place a stone on it. To signify that you were ther e.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "SON",
+      "dialogue": "Yes, but she is not buried under the door. Right?",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "No she's not. It's more of a sentimental thing. Like a gesture.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "SON",
+      "dialogue": "Oh, I see. Sentimental. I understand. This is very sweet, I think.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Thanks.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "SON",
+      "dialogue": "Yes, I'm sorry. I understand your situati on. But my father says that is a hazard to leave the stones. An older woman lives there now. She could trip.",
+      "movie": "a-real-pain"
+    },
+    {
+      "character": "DAVID",
+      "dialogue": "Hey, I was thinking: why don't we grab a cab back to the city and you could come over for dinner?",
+      "movie": "a-real-pain"
+    }
+  ]
+]

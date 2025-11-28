@@ -1,0 +1,109 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "BABIU: Why's Daddy's car back, but not him?\nEUNICE: He's still on a trip.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "BABIU: -What about the new house?\nEUNICE: It'll have to wait a little, sweetie.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          6
+        ],
+        "text": "BABIU: How did you find it? Only Daddy knew.\nEUNICE: Your mom knows a lot of things, too. \nEUNICE: Hi, honey. I rescheduled my flight.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "BABIU: The paper asked for a photo of Dad.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "EUNICE: Shall we take a photo for your sisters? ",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "BABIU: Need help, Mom?",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "BABIU: You really don't need to, Mom. Daniel's coming to pick me up. ",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+[
+  [
+    {
+      "character": "VERA",
+      "dialogue": "Yo. Yo.",
+      "movie": "anora"
+    },
+    {
+      "character": "VERA",
+      "dialogue": "Did you pick up milk?",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "Do you see milk in the fridge?",
+      "movie": "anora"
+    },
+    {
+      "character": "VERA",
+      "dialogue": "No.",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "Then I didn't pick up the fucking milk.",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "Hello. I'm here for Mr. Zakharov.",
+      "movie": "anora"
+    }
+  ],
+  [
+    {
+      "character": "VERA",
+      "dialogue": "Today is Tuesday.",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "Correct. And I'll be back next Tuesday.",
+      "movie": "anora"
+    },
+    {
+      "character": "VERA",
+      "dialogue": "That's a week.",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "You got that right.",
+      "movie": "anora"
+    }
+  ],
+  [
+    {
+      "character": "ANI",
+      "dialogue": "Whatever. It's not about a green card. He could easily buy citizenship.",
+      "movie": "anora"
+    },
+    {
+      "character": "VERA",
+      "dialogue": "But you're getting him a green card.",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "It's not about the green card. He likes living here in America... with me.",
+      "movie": "anora"
+    },
+    {
+      "character": "VERA",
+      "dialogue": "How well do you know him?",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "How well do I know him... did you hear what I said? Try to keep up. His dad is loaded... Nikolai Zakharov. Fucking Google him. He's worth 22... billion.",
+      "movie": "anora"
+    },
+    {
+      "character": "ANI",
+      "dialogue": "Don't worry. I'll keep paying the rent. Understand? Ok? Ok. Bye.",
+      "movie": "anora"
+    }
+  ]
+]

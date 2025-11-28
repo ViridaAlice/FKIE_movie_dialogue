@@ -1,0 +1,22 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "BABY BRIGHTBILL: How did my momma come to me from so far away?",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

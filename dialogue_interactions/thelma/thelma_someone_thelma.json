@@ -1,0 +1,64 @@
+[
+  [
+    {
+      "character": "SOMEONE",
+      "dialogue": "Hello? Ms. Post?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Hello! Yes! This is Thelma Post. My grandson Danny Markowitz was, uh, involved in an accident of some kind. He has a broken nose--",
+      "movie": "thelma"
+    },
+    {
+      "character": "SOMEONE",
+      "dialogue": "Danny Markowitz, you said?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Yes! Daniel Markowitz. Daniel Alexander Markowitz.",
+      "movie": "thelma"
+    },
+    {
+      "character": "SOMEONE",
+      "dialogue": "...Okay. I see the file here.",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "What do you need? What can I--",
+      "movie": "thelma"
+    },
+    {
+      "character": "SOMEONE",
+      "dialogue": "Don\u2019t worry, ma\u2019am. We\u2019re going to handle this. I\u2019m going to need you to mail $10,000 to this address--",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "$10,000? Oh my god--",
+      "movie": "thelma"
+    },
+    {
+      "character": "SOMEONE",
+      "dialogue": "Can you drive to the post office?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "I don\u2019t drive anymore. I don\u2019t have a car.",
+      "movie": "thelma"
+    },
+    {
+      "character": "SOMEONE",
+      "dialogue": "Then how about a cab? And remember, it has to be cash. We don\u2019t want him sitting in there any longer than he has to. I\u2019m going to give you the mailing address. Are you ready?",
+      "movie": "thelma"
+    },
+    {
+      "character": "THELMA",
+      "dialogue": "Gail! Something has happened.",
+      "movie": "thelma"
+    }
+  ]
+]

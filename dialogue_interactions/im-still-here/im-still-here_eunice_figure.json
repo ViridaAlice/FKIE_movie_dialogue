@@ -1,0 +1,56 @@
+[
+  [
+    {
+      "character": "FIGURE",
+      "dialogue": "Name?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "How long have I been here?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "FIGURE",
+      "dialogue": "Say your name.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "Eunice Paiva.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "FIGURE",
+      "dialogue": "Full name.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "Maria Lucr\u00e9cia Eunice Facciola Paiva. Where's my daughter? ",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "FIGURE",
+      "dialogue": "Name? ",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "Do you have a cigarette--",
+      "movie": "im-still-here"
+    }
+  ],
+  [
+    {
+      "character": "FIGURE",
+      "dialogue": "Name?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "Maria Lucr\u00e9cia Eunice Facciola Paiva. ",
+      "movie": "im-still-here"
+    }
+  ]
+]

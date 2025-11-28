@@ -1,0 +1,35 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          4,
+          5,
+          6
+        ],
+        "text": "SISTER AGNES: She is safe with me, Your Eminence. I am dealing with the situation.\nLAWRENCE: I am sure you are Sister Agnes. But I must see her myself.\nSISTER AGNES: I hardly think a dropped tray should concern the Dean of the College of Cardinals\nSISTER AGNES: The welfare of the Sister is my responsibility, Dean.\nLAWRENCE: And this Conclave is mine. Beat.\nLAWRENCE: Please, sit, my child. My name is Cardinal Lawrence. How are you feeling?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

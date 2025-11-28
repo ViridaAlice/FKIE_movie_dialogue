@@ -1,0 +1,16 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2,
+          12
+        ],
+        "text": "POLICEMAN: What did you do the night before?\nPOLICEMAN: You didn\u2019t notice anything strange, anything that made you suspect? Try to remember.\nPOLICEMAN: About her being in possession of this illegal compound.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

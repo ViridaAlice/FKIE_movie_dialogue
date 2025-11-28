@@ -1,0 +1,28 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          4,
+          6
+        ],
+        "text": "SLATER KING: I Slater King would like to formally apologize for my behavior. I've sought therapy, and am taking a leave of absence from my company. I'm sorry.\nINTERVIEWER: Right. Well lets get to question that everybody is dying for you to answer. Where have you been since you-\nINTERVIEWER: I was going to say since you stepped down and made your CFO Vic Mahoney CEO of KING-tech.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "INTERVIEWER: Right. So Last year you started the KING-TECH Foundation, in support of trauma survivors. What do you have to say to the people who called this performative?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

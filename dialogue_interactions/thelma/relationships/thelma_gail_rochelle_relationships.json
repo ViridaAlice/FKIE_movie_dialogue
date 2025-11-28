@@ -1,0 +1,27 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "ROCHELLE: Does Thelma have any significant medical history we should be aware of?\nGAIL: She\u2019s had breast cancer, a double mastectomy, colon cancer, sepsis, edema, valve replacement, hip replacement, arrhythmia, brain tumor--",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

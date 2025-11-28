@@ -1,0 +1,16 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          4,
+          13
+        ],
+        "text": "DR. JEWELL: We\u2019ll run blood tests to check for clotting abnormalities, blood cell problems, electrolyte imbalances and whatnot. Headaches. That\u2019s expected, that\u2019s the number one side effect. Essentially it means you\u2019re taking the medicine. Diarrhea, also common, and you have IBS, it says here. Is it worse than usual?\nDR. JEWELL: Stay hydrated. Drink those yellow sports drinks. They taste good too. Your handwriting is like a doctor\u2019s. Vivid dreams. Good dreams, I hope.\nDR. JEWELL: Well, cut the sweet stuff out for now. Really, you should phase it out entirely. You\u2019re not a kid anymore, Mr. Lemuel. But I\u2019m not your rabbi. Look, your body is adjusting to a boatload of new and potent - not to mention experimental - medication, and these are all fairly standard-issue side effects, so just bear with us. The risk is surely worth the reward, I would think.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

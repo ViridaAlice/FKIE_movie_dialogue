@@ -1,0 +1,60 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "text": "ANI: You two are fucking dead for this. I'm Ivan's fucking wife.\nGARNIK: She broke my fucking noce man. You broke my nose you fucking bitch!\nANI: Good. I'm glad I broke your fucking nose.\nANI: You two are fucking dead for this. I'm Ivan's fucking wife!\nANI: Let me the fuck go.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "ANI: Untie me now, motherfucker. This is so fucking illegal!\nGARNIK: Don't do that!\nANI: You fuck! Untie me now!",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  }
+}

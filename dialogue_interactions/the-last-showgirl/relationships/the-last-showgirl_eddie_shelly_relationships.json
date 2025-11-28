@@ -1,0 +1,45 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          9
+        ],
+        "text": "SHELLY: Thanks. Since we lost those shows, these checks feel like they\u2019re getting slimmer and slimmer, you know?\nEDDIE: Yeah.\nSHELLY: Hey Eddie? Are you sure this is right? It\u2019s less than I thought it would be.\nEDDIE: Well it\u2019s less because less shows.\nSHELLY: Well, I know that, obviously, but I thought it would just be eight hundred divided by eleven shows a week, minus the three shows we lost.\nEDDIE: You might have been making slightly more for the ones we lost cuz those shows were better sold. Generally.\nEDDIE: If you want I can check with accounts payable?\nSHELLY: Nah, it\u2019s okay. They\u2019re not gonna do anything about it, right?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

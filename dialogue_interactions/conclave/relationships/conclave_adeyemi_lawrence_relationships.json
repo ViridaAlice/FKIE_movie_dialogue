@@ -1,0 +1,23 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7
+        ],
+        "text": "LAWRENCE: You\u2019re a manager. Manage.\nLAWRENCE: Your Eminences, before we eat I should like to introduce a new member of our order, whose existence was not known to any of us until a few hours ago. This is because our brother was made a cardinal by a perfectly legitimate procedure known as creation in pectore. The reason why it had to be done this way is known only to God and to the late Holy Father. But I think we can guess well enough as our new brother\u2019s ministry is an extremely dangerous one.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

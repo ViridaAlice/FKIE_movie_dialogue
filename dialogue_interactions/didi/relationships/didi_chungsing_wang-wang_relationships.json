@@ -1,0 +1,48 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "WANG-WANG: Sorry guys...my mom\u2019s like...super annoying....",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "CHUNGSING: [Do you know how your behavior makes me look!? Like I raised a son without a single manner.]",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          11
+        ],
+        "text": "CHUNGSING: [Didi, you know. Sometimes I sit and think about how I ended up here. Just an ordinary housewife. And it is true. I do wonder sometimes...is this it? What would my life be like if I didn\u2019t marry your father and have you and Vivian. Would I be happier? Maybe now I would be a successful artist in New York City with my own studio and gallery. I allow myself to dream. But then, as soon as I see you, I know - this is where I want to be. Didi, being your mother is really difficult, but getting to watch you and Vivian grow up here, make friends, and learn so many things I can\u2019t teach you, I realize...you are my dream.] I\u2019m so proud. [But with your dad not around, and Nai Nai always criticizing me for how I raise you and Vivian - sometimes it\u2019s really too much. And sometimes I think...maybe I failed as a mother. But I know - no matter what - I must do my best to love you both. That is my duty.] But it is a little hard.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          11
+        ],
+        "text": "CHUNGSING: [Didi, you know. Sometimes I sit and think about how I ended up here. Just an ordinary housewife. And it is true. I do wonder sometimes...is this it? What would my life be like if I didn\u2019t marry your father and have you and Vivian. Would I be happier? Maybe now I would be a successful artist in New York City with my own studio and gallery. I allow myself to dream. But then, as soon as I see you, I know - this is where I want to be. Didi, being your mother is really difficult, but getting to watch you and Vivian grow up here, make friends, and learn so many things I can\u2019t teach you, I realize...you are my dream.] I\u2019m so proud. [But with your dad not around, and Nai Nai always criticizing me for how I raise you and Vivian - sometimes it\u2019s really too much. And sometimes I think...maybe I failed as a mother. But I know - no matter what - I must do my best to love you both. That is my duty.] But it is a little hard.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

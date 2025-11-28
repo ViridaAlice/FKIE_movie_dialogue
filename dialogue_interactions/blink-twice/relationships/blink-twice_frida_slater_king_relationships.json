@@ -1,0 +1,57 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          22
+        ],
+        "text": "SLATER KING: That smells nice on you. I like your nails.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          4
+        ],
+        "text": "SLATER KING: Rich would not like this.\nFRIDA: Why?\nSLATER KING: Because you're co-dependent and I have abandonment issues.\nSLATER KING: This will be fun. Or really fucked up. Or both.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          20
+        ],
+        "text": "SLATER KING: Let's be in moment. Cuz that's all that matters. No future. No past. Just me and you. Right here. Right now. Hey, I like you.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

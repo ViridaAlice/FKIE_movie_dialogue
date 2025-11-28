@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "character": "EDWARD",
+      "dialogue": "Ohhh....",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "SEAN",
+      "dialogue": "Hey - hey man, you all right? Do you need to lie down or something?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "No. This happens from time to time...it\u2019ll pass...thanks for asking, though. Ohhh....",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "SEAN",
+      "dialogue": "All right. Well, just...let me know. I\u2019ll be at my desk.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "SEAN",
+      "dialogue": "Hey - hey man, you all right?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "SEAN",
+      "dialogue": "You been at this long?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Little while, I guess.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "SEAN",
+      "dialogue": "Just got out of Juilliard. This is my first paying gig. First gig, really. Interesting experience.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "SEAN",
+      "dialogue": "Hey- hey man, you all right? Do you need to lie down or something?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "No. This happens from time to time...it\u2019ll pass...thanks for asking, though. Ohhh...",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "SEAN",
+      "dialogue": "All right, well, just...let me know...I\u2019ll be at my desk. Hey, have you seen Sally anywhere?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "That\u2019s basically it.",
+      "movie": "a-different-man"
+    }
+  ]
+]

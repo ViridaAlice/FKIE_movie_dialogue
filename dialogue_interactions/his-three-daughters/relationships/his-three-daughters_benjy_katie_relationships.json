@@ -1,0 +1,22 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          5,
+          7
+        ],
+        "text": "BENJY: Yes, but who do you think has been here? She\u2019s not going to stick up for herself. I mean, Rachel can handle herself, that\u2019s one of the things I love about that girl, but she doesn\u2019t stick up for herself. Especially around you two. Who do you think\u2014\nBENJY: No, no, you did not, because just maybe you wouldn\u2019t be acting the way you are, like this is your place, like you\u2019ve been here all this time. Who has been taking your old man to the bathroom? Who split up his pills into that stupid plastic container with the days on it? Just the way I watched my mom do the same thing for her father when he was passing.\nKATIE: Okay. I\u2019m going to call her. I think it\u2019s time for you to step out of our face. I can smell whatever you\u2019ve been drinking from here.\nBENJY: The fucking poor girl fed him. And when he stopped wanting to eat anything but apples, who was slicing them and feeding them to him? You don\u2019t understand a goddamn\u2014\nKATIE: Get your fucking drunk ass boyfriend out of our faces, or whatever the fuck he is. I don\u2019t want him here, he needs to go.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

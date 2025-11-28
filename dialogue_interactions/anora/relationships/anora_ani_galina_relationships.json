@@ -1,0 +1,55 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3
+        ],
+        "text": "GALINA: Ivan is not your husband and you are not part of this family and your Russian is embarrassing.\nANI: M'am, Vanya and I are in love and we would like you to accept this marriage.\nGALINA: Vanya is not in love with you. And we will not accept this.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "GALINA: Shut her up. And Toros, we will be discussing your future of lack of one with the company. You let him trot off to Vegas, my god. Hurry!",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "GALINA: Do that and you lose everything. Any money you may have, although I doubt you have any, will be gone. You have a house? A car? All gone.Your life and the lives of your family and friends will be destroyed. If you doubt I can do that, please go ahead, see what happens.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "text": "ANI: Because your son's a pussy.\nGALINA: And you are a disgusting hooker.\nANI: And your son hates you so much that he married one to piss you off. Your family is trash.\nANI: Take a last look `cause this is the best you'll ever get, bitch.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

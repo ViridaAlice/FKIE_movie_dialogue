@@ -1,0 +1,17 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "text": "HATTIE: Young man, do you know a student named Elwood Curtis?\nTURNER: Yessum, I do.\nHATTIE: They told me that he... I just want... Would you please...\nTURNER: Yes ma'am.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

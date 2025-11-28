@@ -1,0 +1,37 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "text": "TEEN OWEN: Mom?\nTEEN OWEN: Can I stay up late tonight to watch The Pink Opaque?\nBRENDA: What time's it on?\nTEEN OWEN: 30pm.\nBRENDA: You know that your bedtime's 10:15.\nTEEN OWEN: Yeah but...\nTEEN OWEN: No one else in ninth grade even has a bedtime anymore.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "BRENDA: Your dad's driving me to my appointment!\nTEEN OWEN: Okay!",
+        "type": "Implied"
+      }
+    ]
+  }
+}

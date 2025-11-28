@@ -1,0 +1,60 @@
+[
+  [
+    {
+      "character": "GAIL",
+      "dialogue": "No, no, they\u2019re old friends. But she doesn\u2019t even really like him.",
+      "movie": "thelma"
+    },
+    {
+      "character": "ROCHELLE",
+      "dialogue": "Oh, so there\u2019s bad blood there?",
+      "movie": "thelma"
+    },
+    {
+      "character": "GAIL",
+      "dialogue": "What are you insinuating?",
+      "movie": "thelma"
+    },
+    {
+      "character": "ROCHELLE",
+      "dialogue": "Nothing! Just trying to understand.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "ROCHELLE",
+      "dialogue": "He doesn\u2019t have any family.",
+      "movie": "thelma"
+    },
+    {
+      "character": "GAIL",
+      "dialogue": "What can we be doing here? Can you guys send out some kind of senior alert?",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "ROCHELLE",
+      "dialogue": "Does Thelma have any significant medical history we should be aware of?",
+      "movie": "thelma"
+    },
+    {
+      "character": "GAIL",
+      "dialogue": "She\u2019s had breast cancer, a double mastectomy, colon cancer, sepsis, edema, valve replacement, hip replacement, arrhythmia, brain tumor--",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "ROCHELLE",
+      "dialogue": "We\u2019ll give you guys a minute.",
+      "movie": "thelma"
+    },
+    {
+      "character": "GAIL",
+      "dialogue": "Allie was very good for you in that way. She was very organized, left brained. A grounding force.",
+      "movie": "thelma"
+    }
+  ]
+]

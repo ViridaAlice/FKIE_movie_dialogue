@@ -1,0 +1,25 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "DOCTOR MANOJ: My contract here will be over soon... and I am thinking of not renewing it.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          9
+        ],
+        "text": "PRABHA: But doctor... I am married...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

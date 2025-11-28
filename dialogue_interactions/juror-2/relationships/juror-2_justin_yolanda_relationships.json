@@ -1,0 +1,50 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "JUSTIN: He doesn't have to. The \"burden of proof\" is on the prosecution. Does anyone have even the slightest hesitation that James Sythe is guilty?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

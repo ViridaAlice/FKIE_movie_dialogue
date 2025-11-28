@@ -1,0 +1,51 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "SANA: Dad, when will you give us our phones? We\u2019re so bored here.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          3
+        ],
+        "text": "SANA: Don't, Dad, stay right there. Otherwise, I swear I\u2019ll shoot you... I'm very angry.\nIMAN: Shoot your dad?",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+[
+  [
+    {
+      "character": "WIZARD",
+      "dialogue": "Oh, is that you, Elphaba?",
+      "movie": "wicked"
+    },
+    {
+      "character": "WIZARD",
+      "dialogue": "Hope I didn't startle you-- it's so hard to make out people's faces when I'm back there!",
+      "movie": "wicked"
+    },
+    {
+      "character": "WIZARD",
+      "dialogue": "It's so good to meet you, Elphaba.",
+      "movie": "wicked"
+    },
+    {
+      "character": "WIZARD",
+      "dialogue": "Well, what have we here?",
+      "movie": "wicked"
+    },
+    {
+      "character": "WIZARD",
+      "dialogue": "For you. My special guest.",
+      "movie": "wicked"
+    },
+    {
+      "character": "ELPHABA",
+      "dialogue": "Thank you, your Ozness.",
+      "movie": "wicked"
+    },
+    {
+      "character": "WIZARD",
+      "dialogue": "And this is--?",
+      "movie": "wicked"
+    }
+  ],
+  [
+    {
+      "character": "ELPHABA",
+      "dialogue": "It's gr een.",
+      "movie": "wicked"
+    },
+    {
+      "character": "WIZARD",
+      "dialogue": "Well- it doesn't have to be.",
+      "movie": "wicked"
+    },
+    {
+      "character": "WIZARD",
+      "dialogue": "Is that-- your heart's desire?",
+      "movie": "wicked"
+    },
+    {
+      "character": "ELPHABA",
+      "dialogue": "No. My heart's desire is for you to help the Animals.",
+      "movie": "wicked"
+    }
+  ],
+  [
+    {
+      "character": "WIZARD",
+      "dialogue": "I thought you might say that. It's the darndest thing, it's almost like-- I already know you.",
+      "movie": "wicked"
+    },
+    {
+      "character": "ELPHABA",
+      "dialogue": "Oh, your Ozness-- I knew you'd understand! That makes me so happy.",
+      "movie": "wicked"
+    },
+    {
+      "character": "WIZARD",
+      "dialogue": "Well, that's what I love best. Making people happy.",
+      "movie": "wicked"
+    },
+    {
+      "character": "ELPHABA",
+      "dialogue": "Madame Morrible!",
+      "movie": "wicked"
+    }
+  ],
+  [
+    {
+      "character": "ELPHABA",
+      "dialogue": "No. Let me prove myself... Please. At least, let me try!",
+      "movie": "wicked"
+    },
+    {
+      "character": "ELPHABA",
+      "dialogue": "It opens itself to her.",
+      "movie": "wicked"
+    },
+    {
+      "character": "WIZARD",
+      "dialogue": "So. Which spell will you start with?",
+      "movie": "wicked"
+    }
+  ],
+  [
+    {
+      "character": "WIZARD",
+      "dialogue": "You're right. That's a harsh word. How about... scouts? They'll fly around Oz-- and report back any seditious Animal activity!",
+      "movie": "wicked"
+    },
+    {
+      "character": "ELPHABA",
+      "dialogue": "Seditious Animal activity? What are you...?",
+      "movie": "wicked"
+    }
+  ],
+  [
+    {
+      "character": "WIZARD",
+      "dialogue": "Elphaba... when I first got here, there was discord and discontent-- and back where I come from, everyone knows the best way to bring folks together is-- give them a really good enemy.",
+      "movie": "wicked"
+    },
+    {
+      "character": "ELPHABA",
+      "dialogue": "But-- if you wanted spies... why not just make them yourself?",
+      "movie": "wicked"
+    },
+    {
+      "character": "ELPHABA",
+      "dialogue": "Read it. Cast a spell.",
+      "movie": "wicked"
+    }
+  ]
+]

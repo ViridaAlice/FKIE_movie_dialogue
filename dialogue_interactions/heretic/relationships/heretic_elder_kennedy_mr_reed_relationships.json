@@ -1,0 +1,19 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          4
+        ],
+        "text": "ELDER KENNEDY: Good evening, I don\u2019t mean to bother you, but I\u2019m in the neighborhood looking for two young women from my church.\nELDER KENNEDY: But you had asked the church for more information. So I imagined, perhaps, they might have still come by.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "JACOB: I love you.\nROMY: Love you.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          7,
+          8
+        ],
+        "text": "ROMY: I want you to watch porn while you have sex with me.\nROMY: You touch me.\nROMY: No. Like this. You touch me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "ROMY: I\u2019ve never had an orgasm with you-",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "ROMY: Don\u2019t fucking touch me-",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "JACOB: Did you- Did you mean what you said? About never-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "11": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          20,
+          22,
+          23,
+          24,
+          32,
+          33,
+          34,
+          36,
+          37,
+          38,
+          49,
+          51,
+          52
+        ],
+        "text": "JACOB: Who? Who did you meet?\nJACOB: Jesus. What happened?\nJACOB: What? Say something! Jesus Christ! Do I know him? Is it- is it Sebastian?\nROMY: What? No. No!\nJACOB: What? He knew fucking what?\nROMY: How to be- fearless- around me- or- I mean- And I couldn\u2019t resist that.\nJACOB: How many times?\nJACOB: Who is this guy? Are you in love with him?\nROMY: It was as if some sort of animal woke up inside me.\nROMY: For me it\u2019s not about a safe space and a safe word and consent and \u201cthe kink\u201d- I hate that word.\nROMY: It has nothing to do with us. With the -real- me. With our family. I love you! Please- I\u2019m over it. It\u2019s out of me, out of my system.\nJACOB: It has everything to do with you! There is no excuse for this! Not your mom, not your childhood! You fucking lied to me! To us!\nJACOB: Something needs to be at stake?? I don\u2019t give a shit about your pathetic, banal sexual fantasies. It\u2019s not about that! You jeopardized the most important thing... your children! You make me sick. Get the fuck out of my house! Now.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8
+        ],
+        "text": "JACOB: You sat at my fucking table. You talked to my girls.\nJACOB: How long? How fucking long? You lied to me- you fucking lied to me!",
+        "type": "Implied"
+      }
+    ]
+  }
+}

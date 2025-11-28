@@ -1,0 +1,27 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "THELMA: She got scared, your mother. We were all scared.\nALAN: I wasn\u2019t quite as scared. For the record.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

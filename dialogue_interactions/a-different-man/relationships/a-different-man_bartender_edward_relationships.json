@@ -1,0 +1,19 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "EDWARD: I don\u2019t want to dilute its medicinal value.\nBARTENDER: You what?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

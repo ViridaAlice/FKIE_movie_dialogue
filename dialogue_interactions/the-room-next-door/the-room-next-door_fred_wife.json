@@ -1,0 +1,81 @@
+[
+  [
+    {
+      "character": "FRED",
+      "dialogue": "Isn\u2019t that smoke?",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "WIFE",
+      "dialogue": "Yes. Something\u2019s on fire\u2026",
+      "movie": "the-room-next-door"
+    }
+  ],
+  [
+    {
+      "character": "WIFE",
+      "dialogue": "We should call the fire department.",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "FRED",
+      "dialogue": "Stop the car!",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "WIFE",
+      "dialogue": "What are you doing?",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "FRED",
+      "dialogue": "I\u2019m going to take a look.",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "WIFE",
+      "dialogue": "No, that\u2019s crazy. Let\u2019s call somebody.",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "FRED",
+      "dialogue": "There might be someone inside.",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "WIFE",
+      "dialogue": "Fred! Stop. Stop! This is crazy!",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "WIFE",
+      "dialogue": "Fred, don\u2019t go in! It\u2019s dangerous. Look at me! Look at me! Let\u2019s go find a gas station and call the fire department.",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "FRED",
+      "dialogue": "Don\u2019t you hear the screams?!",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "WIFE",
+      "dialogue": "No! I don\u2019t hear anything!",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "FRED",
+      "dialogue": "Don\u2019t you hear",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "WIFE",
+      "dialogue": "Fred!",
+      "movie": "the-room-next-door"
+    },
+    {
+      "character": "WIFE",
+      "dialogue": "Sir, sir please, help me! Sir, sir!",
+      "movie": "the-room-next-door"
+    }
+  ]
+]

@@ -1,0 +1,19 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          6
+        ],
+        "text": "MARTHA: It\u2019s a pleasure to meet you both. Are you intending to stay in Baghdad?\nMARTHA: We\u2019re just passing through. We\u2019re leaving as soon as we\u2019re finished talking to you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

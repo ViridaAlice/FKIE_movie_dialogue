@@ -1,0 +1,311 @@
+[
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "Are you alright? Is it ok if I help you up?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "May I?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Yeah...",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "No, no, you're not interrupting. This is... actually, I havent asked you your name.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "I'm Frida.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "FRIDA",
+      "dialogue": "Where ya off to?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "The island. Just for a few days.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Oh. \"The island.\" Casual.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "So casual.     It was nice meeting you",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "FRIDA",
+      "dialogue": "I love it.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "What do you think?    Is it too red?",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "I hope it's ok. It's my favorite one.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "I think I'll survive.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "I keep meaning to fix that.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Holy shit, you scared me.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "You two ok? Having a good time?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "We're having a great time.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "We still do drugs, just with intention. And we still have fun, it's just different now.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "I'm just saying, I know what they use to call this place.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "Thanks Stace.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "So, she does everything for you?",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "I don't eat red meat.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Why not?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "I don't like it.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "Never again, what?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Never again will I let someone else's suffering get in the way of getting what I want.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "Frida. Hi.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Hi. Sorry. I... thought you might want this.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Oh. Thanks.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "... Whatcha doin'?",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "Almond or oat?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Uhm, oat?",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "How'd you sleep?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Amazing.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "FRIDA",
+      "dialogue": "Of course.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Enjoy girl time.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "There she is.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Heeeyyyy... yoouu. I... missed you.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Aww, missed you too. You guys get into any trouble?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Oh no, just, you know, girl time.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Girl time... Love it.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "It's really amazing what women can do when they band together.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Sorry, I just......",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "... wanna... dance.",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "FRIDA",
+      "dialogue": "Slater? It's Frida! I don't know what's going on! Please let me in!!",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "She's mad. They're always mad.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Slater! Please!!!",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "... Hi.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Hi.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Is it funny yet?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Gettin' there.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Hi.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "FRIDA",
+      "dialogue": "Hi.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Hey. What do you call a cow with no legs?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Man... you always find a way to get into the party.",
+      "movie": "blink-twice"
+    }
+  ]
+]

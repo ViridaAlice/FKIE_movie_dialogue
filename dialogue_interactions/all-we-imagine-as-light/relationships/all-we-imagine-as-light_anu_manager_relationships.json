@@ -1,0 +1,16 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          9,
+          10
+        ],
+        "text": "MANAGER: Pittu ... get the key and register.\nMANAGER: Pittu will show you the room. That will be 500 rupees.\nMANAGER: I need to take a copy of your IDs.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

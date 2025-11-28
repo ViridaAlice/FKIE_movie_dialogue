@@ -1,0 +1,15 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8
+        ],
+        "text": "YOUNG WOMAN: Nurse...?? Nurse, the girls told me there is a prize?\nYOUNG WOMAN: Prize for the...you know?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          4
+        ],
+        "text": "ARCHBISHOP WOZNIAK: I did, Your Eminence.\nARCHBISHOP WOZNIAK: Around eleven thirty, Eminence. I would have called you sooner, but... Wozniak shrugs helplessly. Tremblay arriv es just in time at the door.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "ARCHBISHOP WOZNIAK: In the name of the Father, the Son and the Holy Ghost. My last confession was four weeks ago...\nLAWRENCE: Janusz, Janusz, I\u2019m sorry I don\u2019t have time to hear your confession. There is so much still to do.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

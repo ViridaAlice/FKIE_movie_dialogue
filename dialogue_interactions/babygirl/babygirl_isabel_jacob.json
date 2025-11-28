@@ -1,0 +1,65 @@
+[
+  [
+    {
+      "character": "ISABEL",
+      "dialogue": "We always hike, so you do need them.",
+      "movie": "babygirl"
+    },
+    {
+      "character": "JACOB",
+      "dialogue": "Why do you keep wearing that?",
+      "movie": "babygirl"
+    }
+  ],
+  [
+    {
+      "character": "ISABEL",
+      "dialogue": "It\u2019s not scary it\u2019s exciting!",
+      "movie": "babygirl"
+    },
+    {
+      "character": "JACOB",
+      "dialogue": "I made some small changes.",
+      "movie": "babygirl"
+    }
+  ],
+  [
+    {
+      "character": "ISABEL",
+      "dialogue": "Your face looks really weird!",
+      "movie": "babygirl"
+    },
+    {
+      "character": "ISABEL",
+      "dialogue": "You look like a dead fish!",
+      "movie": "babygirl"
+    },
+    {
+      "character": "JACOB",
+      "dialogue": "Isabel!",
+      "movie": "babygirl"
+    },
+    {
+      "character": "ISABEL",
+      "dialogue": "Sorry dad, but she looks awful! Why do you do that to yourself?!",
+      "movie": "babygirl"
+    }
+  ],
+  [
+    {
+      "character": "JACOB",
+      "dialogue": "Is that a new dress? You look hot!",
+      "movie": "babygirl"
+    },
+    {
+      "character": "ISABEL",
+      "dialogue": "Dad! Eeeww-",
+      "movie": "babygirl"
+    },
+    {
+      "character": "JACOB",
+      "dialogue": "What?",
+      "movie": "babygirl"
+    }
+  ]
+]

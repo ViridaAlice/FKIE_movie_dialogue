@@ -1,0 +1,140 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "INGRID: What\u2019s up, neighbor?\nEDWARD: Housewarming. For the door.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "text": "EDWARD: And why does he have to be so grateful to her? It\u2019s like, just because his face is - he\u2019s indebted to her just for talking to him.\nINGRID: He - he isn\u2019t grateful. He\u2019s nervous because he hasn\u2019t had a lot of experience.\nEDWARD: How do you know what kind of experience he\u2019s had?\nINGRID: Are you fucking serious, man?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "14": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "15": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "16": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "INGRID: You know how we idealize people when we\u2019re in love.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "18": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "19": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "20": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "21": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3,
+          6,
+          7,
+          10
+        ],
+        "text": "INGRID: What do you want?\nEDWARD: Why are you so upset?\nINGRID: Why are you here?\nEDWARD: Why was Oswald here?\nINGRID: I don\u2019t have to explain myself to you.\nEDWARD: What do you know about him? Who is he? Is his name even Oswald? Let me tell you something. He\u2019s got a kid, and a girl, he was kissing this other girl, and they were playing in the park. He\u2019s leading a double life, what do you think of that?\nEDWARD: Naturally, it\u2019s a bit disappointing, but I do hope we can all remain on friendly terms. I\u2019ve no hard feelings personally.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "23": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  }
+}

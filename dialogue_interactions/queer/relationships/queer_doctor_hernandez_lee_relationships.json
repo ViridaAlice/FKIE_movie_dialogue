@@ -1,0 +1,17 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          9,
+          15,
+          20
+        ],
+        "text": "DOCTOR HERNANDEZ: And why did you say you were interested in this plant, Mr--?\nDOCTOR HERNANDEZ: I suspected that it was only a matter of time before North Americans like yourself would start coming to Ecuador seeking out Yage. You think it can fix things for you, open up pathways in your mind. But what you must understand is that Yage is a plant with a very specific history and usage. The Indians in the jungle have been using it for thousands of years. Sometimes they call it Ayahausca. They cook it as part of a brew for a tribal ritual. It is not a drug in the sense you understand it. It is not recreational like cocaine or heroin.\nLEE: How much would I have to pay you for a map?\nDOCTOR HERNANDEZ: There is an American Botanist living a few hours outside of Puyo. Deep in the jungle. Her name is Cotter. She\u2019s mad like you, trying to develop some medicine. She says if she succeeds in concentrating this medicine, she will make a fortune. Now I hear she is having a hard time. Perhaps if you pay her a visit, she can help you. She has a relationship with the Indians in the area. If they trust her, perhaps she can convince them to help you.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

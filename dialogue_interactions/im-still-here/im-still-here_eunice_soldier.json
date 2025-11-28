@@ -1,0 +1,80 @@
+[
+  [
+    {
+      "character": "SOLDIER",
+      "dialogue": "Sit down, kid.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "They're just going to ask you some questions, sweetie. We're going home soon. ",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "Let me stay with my daughter. ",
+      "movie": "im-still-here"
+    }
+  ],
+  [
+    {
+      "character": "SOLDIER",
+      "dialogue": "Quiet. You'll just rile 'em up. ",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "Please don't let them do anything to my daughter. She's just a child. ",
+      "movie": "im-still-here"
+    }
+  ],
+  [
+    {
+      "character": "SOLDIER",
+      "dialogue": "She's not here anymore.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "SOLDIER",
+      "dialogue": "Your daughter only stayed one night.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "How long have I been here?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "SOLDIER",
+      "dialogue": "Three days.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "What about my husband?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "SOLDIER",
+      "dialogue": "Don't know about him. He steps out and locks the door. ",
+      "movie": "im-still-here"
+    }
+  ],
+  [
+    {
+      "character": "SOLDIER",
+      "dialogue": "No cuffs today. ",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "Where are you taking me?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "SOLDIER",
+      "dialogue": "I want you to know that I don't think it's right.",
+      "movie": "im-still-here"
+    }
+  ]
+]

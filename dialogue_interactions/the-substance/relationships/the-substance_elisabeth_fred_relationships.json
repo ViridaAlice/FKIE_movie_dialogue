@@ -1,0 +1,19 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          13
+        ],
+        "text": "FRED: You are still the most beautiful girl in the whole wide world!\nELISABETH: So... I happen to be in town for a couple of days and... I thought maybe we could... ... go out and grab a drink? Or for a walk, or... you know, the little things that make life matter.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

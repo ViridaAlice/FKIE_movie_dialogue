@@ -1,0 +1,67 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "CODY: Babe--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "CODY: Sorry babe.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "CODY: You ok, babe?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "CODY: Babe. Babe. We can talk about this.\nCODY: Whoa! Babe!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "SARAH: It's just me babe.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

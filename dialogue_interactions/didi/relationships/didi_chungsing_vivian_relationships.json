@@ -1,0 +1,42 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "VIVIAN: Is Dad coming home to see me before I leave?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "VIVIAN: You know you were only born because I wanted a little brother and I wish you died in the womb.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "VIVIAN: Mom, can you not?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

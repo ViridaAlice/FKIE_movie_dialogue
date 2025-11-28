@@ -1,0 +1,77 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          10
+        ],
+        "text": "MOTHER: Shit. Baby, we should go.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3,
+          16,
+          17
+        ],
+        "text": "SON: No, I don\u2019t want to do that.\nMOTHER: Let\u2019s see who can lie here and be the quietest. I bet I\u2019m gonna win.\nSON: I\u2019m gonna talk!\nMOTHER: Shhh. It\u2019s the quiet game. Quiet as a mouse.\nMOTHER: Baby - show daddy how you balance your trains! He hasn\u2019t seen that.\nSON: Ruff! Grrrr.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "SON: mamamamamamama!\nMOTHER: One second baby.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "SON: Mama! Poop.\nMOTHER: Oh my-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

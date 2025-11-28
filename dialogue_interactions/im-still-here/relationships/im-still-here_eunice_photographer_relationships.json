@@ -1,0 +1,32 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "text": "PHOTOGRAPHER: Just scooch in a little more. Got to fit all of you.\nEUNICE: Is everyone in the picture?\nPHOTOGRAPHER: Yep. All ready? Three... two... \nEUNICE: Smile. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "text": "PHOTOGRAPHER: The editor asked for it.\nEUNICE: For what?\nPHOTOGRAPHER: He asked for a photo that's more... more... you know, less happy.\nEUNICE: He wants a sad photo? ",
+        "type": "Implied"
+      }
+    ]
+  }
+}

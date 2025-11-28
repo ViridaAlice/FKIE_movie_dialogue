@@ -1,0 +1,48 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3,
+          4
+        ],
+        "text": "PHIL: You've seen this a million times - you can do it.\nGARY: Well, I don't want to almost get killed either. I'm a civilian.\nPHIL: We got your back. We'll move in if it starts getting pear-shaped.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

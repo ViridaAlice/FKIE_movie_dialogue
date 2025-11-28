@@ -1,0 +1,16 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3
+        ],
+        "text": "RUMMAGE: Rummage is ready to receive its first task.\nROZ: Your first task is to assist me in my current task.\nRUMMAGE: Task acquired. A Rozzum always completes its task. Just ask.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

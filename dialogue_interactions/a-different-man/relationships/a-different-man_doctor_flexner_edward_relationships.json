@@ -1,0 +1,45 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "EDWARD: I guess this means I\u2019m not in the control group?\nDOCTOR FLEXNER: I can\u2019t disclose that information officially.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6
+        ],
+        "text": "DOCTOR FLEXNER: Skin particles. The growths were cleaving at fascial planes. You\u2019re healing, Mr. Lemuel. We\u2019re in uncharted territory here, full of promise and mystery. There\u2019s obviously an element of danger, as you were made fully aware of prior to your participation. All we can do is monitor closely and use our experience as a guide, but I\u2019d say this is cause for excitement. This is beyond our wildest expectations. You\u2019re a part of medical history. You may be the subject of a documentary one day.\nEDWARD: If I\u2019m not in the control group.\nDOCTOR FLEXNER: Don\u2019t waver, Mr. Lemuel. And if at all possible, I\u2019d like for you to photograph yourself - say a dozen times a day - just so we can monitor the rate of change, which appears to be rapid. Reasonable? Perhaps the risk is worth the reward? Something to think about.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "DOCTOR FLEXNER: I know it\u2019s early. I\u2019m looking for Mr. Lemuel. He\u2019s a patient of mine. We haven\u2019t heard from him for a week. No one in our office can get ahold of him.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

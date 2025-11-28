@@ -1,0 +1,52 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          7,
+          8
+        ],
+        "text": "FAITH: Voluntary manslaughter, with a recommendation of 20 years - 15 to serve, followed by 5 on probation. Standard conditions.\nFAITH: Save that for the jury. Or better yet, plead your guy out and go back to your three-figure caseload.\nRESNICK: My client wants a trial.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

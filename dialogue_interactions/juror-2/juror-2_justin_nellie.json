@@ -1,0 +1,77 @@
+[
+  [
+    {
+      "character": "NELLIE",
+      "dialogue": "That's enough. Both of you. Please continue, Mr. Kemp.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "JUSTIN",
+      "dialogue": "Thank you, Ma'am. All I'm trying to say is: Let's put everything else aside for a minute and remember two key points: 1) Sythe went to trial instead of taking a plea. And 2) He testified instead of taking the fifth. Now, that doesn't mean he's innocent. But I think he's earned a few hours of our time to be sure.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "NELLIE",
+      "dialogue": "That's a good point. Where is this \"blunt instrument\" murder weapon they kept talking about?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "JUSTIN",
+      "dialogue": "The prosecutor said they \"couldn't recover it.\"",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "JUSTIN",
+      "dialogue": "The Bailiff was on us before I looked at the papers.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "NELLIE",
+      "dialogue": "You were talking for quite a while. Did Harold tell you what was in them?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "JUSTIN",
+      "dialogue": "Okay, yes. He did. It was a print\ufffeout.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "NELLIE",
+      "dialogue": "Maybe it never crossed their mind. I mean, it only just occurred to us.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "JUSTIN",
+      "dialogue": "That's a great point. Maybe the prosecution just got it wrong. It happens.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "JUSTIN",
+      "dialogue": "Keiko?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "JUSTIN",
+      "dialogue": "Nellie?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "NELLIE",
+      "dialogue": "I'm not sure that young man is guilty anymore.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "JUSTIN",
+      "dialogue": "Okay then. Anyone else?",
+      "movie": "juror-2"
+    }
+  ]
+]

@@ -1,0 +1,56 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          44,
+          46,
+          47
+        ],
+        "text": "GIRLIE: What\u2019s your name?\nGIRLIE: Just like to know people\u2019s names.\nCLARK: Fuck. You really are a human, aren\u2019t ya? That\u2019s sweet.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "GIRLIE: I grew up there.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          50
+        ],
+        "text": "CLARK: That\u2019s funny. You\u2019re funny... What are you? Twenty-five? Twenty-six? Shaking her head-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": []
+  }
+}

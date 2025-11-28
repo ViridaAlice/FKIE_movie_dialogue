@@ -1,0 +1,111 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          15
+        ],
+        "text": "GARY: Uh, Claude said to get your mic and transmitter.\nJASPER: Your job is to put these assholes in prison... what's up, Claude?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "GARY: What are we doing? I got no notice, I got no research, feel like I'm going in naked.\nJASPER: This is when you actually have to be good at your job. Halloween's over. No more costumes, man.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          12
+        ],
+        "text": "JASPER: Nothing. Look, we're friends, right, Gary? I'll let you in on something, over the years, I've sort of learned to follow my nose on these hunches that I have and - usually something turns up pretty interesting... valuable.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "11": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "14": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2,
+          3,
+          4
+        ],
+        "text": "GARY: You got nothing, Jasper...\nGARY: Because there isn't anything. That we're dating?\nJASPER: Oh shit, I didn't know that. Congratulations.\nGARY: You think anybody gives a shit? You've already played your hand here, so fuck you, get lost!",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "JASPER: Oh, Jesus Christ, Gary! Enough. Ok?! Enough! Ok?! Cut the bullshit. Here, I'll go first, alright? I've been following both of you. And I'll be even more honest, I wanted my job back. Nothing against you personally, ok, but holy shit! I've got enough evidence to put you away for life, and you... accomplice to murder? Whoooa dogggie. You're gonna be there for a while, and the only reason that I'm 100 percent sure you did it, is because I'm 100 percent sure that your Mr. Tough Guy here couldn't fucking kill a thing.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

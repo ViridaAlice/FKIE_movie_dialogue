@@ -1,0 +1,88 @@
+[
+  [
+    {
+      "character": "GOSLING",
+      "dialogue": "Peep?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZZUM 7134",
+      "dialogue": "Was this task accomplished to your satisfaction?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZZUM 7134",
+      "dialogue": "On a scale of one to ten where ten is most satisfied and one is least, how would you rate my performance?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "GOSLING",
+      "dialogue": "Peep.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZZUM 7134",
+      "dialogue": "I will register that as a \u2018ten\u2019.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZZUM 7134",
+      "dialogue": "Returning to factory.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZZUM 7134",
+      "dialogue": "Signal strength weak. Seeking higher ground.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "GOSLING",
+      "dialogue": "*peep peep peep*",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZZUM 7134",
+      "dialogue": "Do you require shelter?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZZUM 7134",
+      "dialogue": "Perhaps tips for planning your next vacation?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZZUM 7134",
+      "dialogue": "I do not understand this response.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZZUM 7134",
+      "dialogue": "Signal acquired. Three, two, one--",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "GOSLING",
+      "dialogue": "*Whimpering hungry noises*",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZZUM 7134",
+      "dialogue": "Fink, as a local goose expert, how do I get-- --to eat, swim, fly?",
+      "movie": "the-wild-robot"
+    }
+  ],
+  [
+    {
+      "character": "ROZZUM 7134",
+      "dialogue": "Humor is based on misfortune?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "GOSLING",
+      "dialogue": "Missortune.",
+      "movie": "the-wild-robot"
+    }
+  ]
+]

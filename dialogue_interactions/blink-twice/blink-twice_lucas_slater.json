@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "Camilla. Congratulations.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "They share a little private toast.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "She closed the sale of her app this   week.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "LUCAS",
+      "dialogue": "Whoa. Awesome. What's your app?",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "SLATER",
+      "dialogue": "Buenos dias, Youngblood.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "LUCAS",
+      "dialogue": "Ooh, fuck yeah, blueberry muffins!",
+      "movie": "blink-twice"
+    }
+  ],
+  [
+    {
+      "character": "LUCAS",
+      "dialogue": "What did I do?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Nothing.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "LUCAS",
+      "dialogue": "Why didn't I stop you?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "You mad at me?",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "LUCAS",
+      "dialogue": "I'm scared.",
+      "movie": "blink-twice"
+    },
+    {
+      "character": "SLATER",
+      "dialogue": "Good. That's good. Honest.",
+      "movie": "blink-twice"
+    }
+  ]
+]

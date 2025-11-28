@@ -1,0 +1,58 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          5,
+          7
+        ],
+        "text": "ATTILA: We have an important customer inside; furnished him a two-story office space downtown on the cheap last year. He's interested in us doing some built-in work at a residence.\nATTILA: Harry would like some shelving units installed over at his family's property in Doylestown.\nHARRY LEE: I hoped someone might follow me out there to take a look at my father's study. My sister and I'd like to surprise him by turning it into a proper library.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "ATTILA: We can make you something like that. Let me have Audrey come down to keep an eye on the place. I'll pull the van around.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "ATTILA: What's your budget?\nHARRY LEE: What's your estimate?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "ATTILA: Don't worry, we'll come in on- budget. You want this all done by next Friday, you said?\nHARRY LEE: Thursday night, preferably. I can't be here during the week but the staff can let you in, and if anything comes up, have them ring me at the office.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

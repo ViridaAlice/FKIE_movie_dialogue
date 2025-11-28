@@ -1,0 +1,37 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "ELWOOD: Yessir.\nHARPER: Turner here says you can keep your mouth shut, and that you're not a math dummy.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          3
+        ],
+        "text": "ELWOOD: What is it Mr. Harper?\nHARPER: I need you to head up to the farms and find Mr. Gladwell. Those men from the State aren't heading up there today. They're going to send some other experts for that. You find him and tell him he can relax.\nELWOOD: I don't even know what Mr. Gladwell looks like, Mr. Harper, sir. Sir, I'd rather work on the bleachers.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

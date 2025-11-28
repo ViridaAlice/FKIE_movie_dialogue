@@ -1,0 +1,28 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "PROSTITUTE: Which parts of me do you find most beautiful? Is there a part of me you would especially like to touch or look at?\nPROSTITUTE: Stop it. I don't find all the parts of you beautiful. There are some parts of you which I like very much.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          11,
+          12
+        ],
+        "text": "LASZLO: That's something I do not like.\nPROSTITUTE: Your face is ugly.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

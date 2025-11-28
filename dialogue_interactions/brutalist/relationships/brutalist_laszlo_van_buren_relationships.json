@@ -1,0 +1,113 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "VAN BUREN: Your Negro is waiting for you outside the gates so I suggest you pack your things up and leave. I'll confirm all this with my son in the morning. My mother is sick! She needs to be let inside to sleep.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          38,
+          39,
+          40
+        ],
+        "text": "VAN BUREN: For what it's worth, it was not my suggestion that you and partners should not be paid. I only found out about all that after the fact.\nLASZLO: We damaged some guttering which we planned to replace. There was a misunderstanding.\nVAN BUREN: Enough of that. Take the money.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "text": "LASZLO: I- I am not sure of what the commission entails, sir.\nVAN BUREN: We can discuss the details at home. You'll be well-compensated and provided a place here on the property to stay and work. Residing here will allow you the time and space to properly conceive of it. Your family, should they arrive, are welcome here, too. What do you say?\nLASZLO: I would like to draw something and present it to you.\nVAN BUREN: You'd prefer to win the commission? Fine, then do that. It's cold. Let's return inside.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          15,
+          16
+        ],
+        "text": "LASZLO: I have some sketches, also- something I have been working on which might be applicable here, if you care to look-\nLASZLO: And perhaps it's too expensive-\nVAN BUREN: Don't talk to me about money.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "11": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "14": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "15": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "16": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "17": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

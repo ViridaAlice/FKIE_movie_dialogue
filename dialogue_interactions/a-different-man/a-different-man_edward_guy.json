@@ -1,0 +1,91 @@
+[
+  [
+    {
+      "character": "GUY",
+      "dialogue": "Hey, man, I know you. Where do I know you from?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "I don\u2019t know.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "GUY",
+      "dialogue": "Do you recognize me? I\u2019m Guy Gaunt. Ring a bell?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "I don\u2019t think so. Maybe. I can\u2019t place it.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "GUY",
+      "dialogue": "Volunteer fireman?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "What?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "GUY",
+      "dialogue": "Do you work for facebook?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "No but - I get this a lot.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "GUY",
+      "dialogue": "That\u2019s not it. It\u2019s you, I saw you, and I\u2019d remember you. I don\u2019t forget a face. You got a little, like, blood or something...",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "GUY",
+      "dialogue": "What\u2019s your name?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Edward.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "GUY",
+      "dialogue": "After that though?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Lemuel.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "GUY",
+      "dialogue": "Okay. Edward Lemlul, hm. Well, as I said, I\u2019m Guy Gaunt. This is a real mystery. It\u2019ll come to me. You think about it too.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Okay.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "GUY",
+      "dialogue": "You okay, Edward?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Whiskey?",
+      "movie": "a-different-man"
+    }
+  ]
+]

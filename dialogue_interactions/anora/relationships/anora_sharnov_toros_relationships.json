@@ -1,0 +1,41 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "SHARNOV: Ivan. It's Michael Sharnov, your father's attorney. Remember me?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "SHARNOV: Toros please. C'mon man. I can't risk losing my license...",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "TOROS: I repeat... do you want to continue working for the Zakharov family, or not?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          32,
+          33
+        ],
+        "text": "GARY: Listen, there's nothing in this for me - technically, I'm un-employing myself here, but do your future self, the one that deserves a happy, fulfilling life, that can still have that, a big favor. Take what's in there and get a new life. Right now. Don't go home.\nGARY: And, if you need anything or if you change your mind... you have my number.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          7,
+          8,
+          9
+        ],
+        "text": "MADISON: You're not a hitman. You can't be. You cuddled puppies, you played with kids, you've opened every door for me tonight. And yet...you kill people for money?\nMADISON: Right. So what's the difference between the real you and...your occupation.\nMADISON: Tell me a little more about the unprofessional side.\nMADISON: Good. I don't want you too professional.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          14
+        ],
+        "text": "MADISON: Why don't you show me, hot shot.\nMADISON: Let's go dance, white boy.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10,
+          12
+        ],
+        "text": "GARY: We don't have a choice. Look, I know you're taking a big leap with me and there are some factual loose threads we'll be dealing with. But I think I'm in love with you.\nMADISON: It's always a leap... And for the record, I think I'm in love with you, too. For better or worse?\nGARY: So, we're in this till the end? Till death us do part?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": []
+  }
+}

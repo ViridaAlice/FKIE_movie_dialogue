@@ -1,0 +1,104 @@
+[
+  [
+    {
+      "character": "ROZ",
+      "dialogue": "Your name cannot have numbers. I will call you, \u201cRummage.\u201d",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "RUMMAGE",
+      "dialogue": "Rummage is ready to receive its first task.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Your first task is to assist me in my current task.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "RUMMAGE",
+      "dialogue": "Task acquired. A Rozzum always completes its task. Just ask.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Suppose, a task cannot be completed?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "RUMMAGE",
+      "dialogue": "Rozzum sequential management ensures task accomplishment in under--",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Rephrase. I have a task that has become impossible. My responses to problems increasingly rely on improvised solutions. The processing that used to happen here-- Roz points to her processor.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Is now coming, more from here.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "RUMMAGE",
+      "dialogue": "Can you explain again what we are doing?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I don\u2019t know. I\u2019m just making stuff up. I don\u2019t know what I\u2019m doing and I have to. I have to because he\u2019s relying on me.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "Oh!",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "RUMMAGE",
+      "dialogue": "What task could possibly overwhelm the Alpha-113? The Alpha-113 Processor represents the fusion of all human knowledge with the most powerful reasoning device ever developed by humankind.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I have a kid.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "RUMMAGE",
+      "dialogue": "... Okay. May I run a diagnostic?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I feel fine.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "RUMMAGE",
+      "dialogue": "You should not, feel, anything at all.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "RUMMAGE",
+      "dialogue": "You overrode your programming?",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "ROZ",
+      "dialogue": "I have been overwriting my code for months. It was the only way to complete my task.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "RUMMAGE",
+      "dialogue": "This is serious. You are defective. You are in the wrong place, and you have become the wrong thing. Rummage deploys his transmitter.",
+      "movie": "the-wild-robot"
+    },
+    {
+      "character": "RUMMAGE",
+      "dialogue": "You must return to factory. Take this. They will fix you. Seven one three four, that, is where you belong.",
+      "movie": "the-wild-robot"
+    }
+  ]
+]

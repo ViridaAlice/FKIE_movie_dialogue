@@ -1,0 +1,14 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          26
+        ],
+        "text": "NESTOR: Okay, I\u2019ll fix the hole.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

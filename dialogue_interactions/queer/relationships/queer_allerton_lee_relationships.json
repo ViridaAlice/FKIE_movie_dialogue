@@ -1,0 +1,77 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          12,
+          13
+        ],
+        "text": "LEE: A curse... Been in our family for generations... The Lees have always been perverts.\nLEE: I shall never forget the unspeakable horror that froze the lymph in my glands -- the lymph glands that is, of course -- when the baneful word seared my reeling brain: Homosexual.\nLEE: Shall we go to my place for a drink? I have some Napoleon brandy.\nALLERTON: All right.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "11": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "14": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "15": {
+    "relationship": "Romantic",
+    "evidence": []
+  }
+}

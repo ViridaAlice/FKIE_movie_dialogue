@@ -1,0 +1,17 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          9,
+          10,
+          11
+        ],
+        "text": "Person A: All in all, things look relatively stable. Eventually, we\u2019ll have to do something about the growth over your left eye. Your vision is noticeably impacted?\nPerson B: Yeah.\nPerson A: Let\u2019s aim for three years. But I must be frank that sooner or later, the eye will become debilitating. As for the cholesteatoma - I think we should go in and get that thing out, but the hearing loss is minimal, so we can probably sit on it for a bit. Several other tumors have shown mild enlargement but no impingement on any important structures, so...just some things we have to keep an eye on. I mention this so that you have an idea of the road ahead - not that it\u2019s news to you. But an alternative path has presented itself.\nPerson A: I don\u2019t know how to bring this up naturally, so I\u2019ll just blurt it out. A colleague of mine, Eugene Flexner, rather distinguished, is on the lookout for patients - a patient - person - like you for an experimental drug trial. This drug seems to have the potential to be - we don\u2019t like to use the words \u201cmiracle drug\u201d but - I shouldn\u2019t overpromise anything, because I don\u2019t know the details, but - reverse the - words like \u201cheal\u201d and \u201ccure\u201d are anathema to folks in my profession but - to actually heal you. Completely, even. So I took the liberty of telling him about you and he\u2019s rather desperate to meet you. The implications are...life-changing -- for you.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

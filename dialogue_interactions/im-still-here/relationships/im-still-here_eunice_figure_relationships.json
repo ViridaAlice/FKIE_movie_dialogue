@@ -1,0 +1,30 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          4,
+          5,
+          6
+        ],
+        "text": "FIGURE: Say your name.\nFIGURE: Full name.\nEUNICE: Maria Lucr\u00e9cia Eunice Facciola Paiva. Where's my daughter? \nFIGURE: Name? ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "FIGURE: Name?\nEUNICE: Maria Lucr\u00e9cia Eunice Facciola Paiva. ",
+        "type": "Implied"
+      }
+    ]
+  }
+}

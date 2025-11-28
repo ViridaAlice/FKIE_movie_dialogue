@@ -1,0 +1,31 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "JUSTIN: I need a lawyer.\nLARRY: Give me a dollar.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": []
+  }
+}

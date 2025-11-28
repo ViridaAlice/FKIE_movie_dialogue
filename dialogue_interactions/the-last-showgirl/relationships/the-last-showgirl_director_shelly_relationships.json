@@ -1,0 +1,20 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          7,
+          8
+        ],
+        "text": "DIRECTOR: Just need the first name.\nSHELLY: Sorry.\nDIRECTOR: How tall are you?\nDIRECTOR: Age?\nSHELLY: A gentleman never asks a lady... her age-- 36?\nSHELLY: Sorry, I\u2019m so nervous! I\u2019ve been in Le Razzle Dazzle for a very long time so this is-- I haven\u2019t auditioned in a while... But it\u2019s exciting!\nDIRECTOR: You have an act prepared?",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

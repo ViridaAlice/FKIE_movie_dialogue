@@ -1,0 +1,33 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "YOUNG GIRL: Mama?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "YOUNG GIRL: Mama?",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "MOTHER: One day, when you\u2019re a mommy you\u2019re going to understand. But you don\u2019t need to worry about it right now.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

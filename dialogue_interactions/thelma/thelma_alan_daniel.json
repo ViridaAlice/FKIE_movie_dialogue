@@ -1,0 +1,230 @@
+[
+  [
+    {
+      "character": "ALAN",
+      "dialogue": "Did you get the replacement license?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Yeah, I got it.",
+      "movie": "thelma"
+    },
+    {
+      "character": "ALAN",
+      "dialogue": "Good, because you shouldn\u2019t be driving without that. You\u2019ll end up in a database--",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "What is it with you and databases all of a sudden?",
+      "movie": "thelma"
+    },
+    {
+      "character": "ALAN",
+      "dialogue": "You don\u2019t want to end up in one.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I\u2019m just saying I think this can be handled. Maybe I can handle it.",
+      "movie": "thelma"
+    },
+    {
+      "character": "ALAN",
+      "dialogue": "What are you proposing?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "...I\u2019ll call everyday. I\u2019ll come over more, make sure she wears her Lyfe Line--",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "No, no I have it. But I\u2019m not seeing my ID...",
+      "movie": "thelma"
+    },
+    {
+      "character": "ALAN",
+      "dialogue": "You\u2019re not even looking, you\u2019re just patting--",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "I did! I just--",
+      "movie": "thelma"
+    },
+    {
+      "character": "ALAN",
+      "dialogue": "Don\u2019t lie. Just tell us you didn\u2019t. I\u2019d rather know than be lied to.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "...I haven\u2019t. Yet!",
+      "movie": "thelma"
+    },
+    {
+      "character": "ALAN",
+      "dialogue": "I knew it. Daniel, this is very bad!",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "Thank you... everyone.",
+      "movie": "thelma"
+    },
+    {
+      "character": "ALAN",
+      "dialogue": "It\u2019s a simple thing.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "ALAN",
+      "dialogue": "You aren\u2019t acting like you understand, you\u2019re not a kid anymore. These are the basics of adult life--",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "Dad! You\u2019re embarrassing me in front of... Rochelle! And Colin.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "Enhancing.",
+      "movie": "thelma"
+    },
+    {
+      "character": "ALAN",
+      "dialogue": "I see gas pumps, some kind of blue car, a pigeon, two pigeons maybe--",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "There\u2019s someone behind us.",
+      "movie": "thelma"
+    },
+    {
+      "character": "ALAN",
+      "dialogue": "I see them.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "There\u2019s a gap!",
+      "movie": "thelma"
+    },
+    {
+      "character": "ALAN",
+      "dialogue": "Back to 12 minutes.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "ALAN",
+      "dialogue": "Can you get a location?",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "She\u2019s still here!",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "I told her not to take it off.",
+      "movie": "thelma"
+    },
+    {
+      "character": "ALAN",
+      "dialogue": "Acute onset of anterograde amnesia, cognitive impairment--",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I can\u2019t remember if it was on her wrist. In the car...",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "ALAN",
+      "dialogue": "Absence of signs indicating damage to a particular area of the brain--",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I should have walked her in.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "ALAN",
+      "dialogue": "Hey! Don\u2019t yell--",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I\u2019m sorry! I\u2019m upset!",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "This is different than Gelson\u2019s--",
+      "movie": "thelma"
+    },
+    {
+      "character": "ALAN",
+      "dialogue": "I\u2019m aware it\u2019s different but the point is she\u2019s a grown woman who\u2019s a little faster than you\u2019d hope and you can\u2019t be responsible for her every second of every day. We shouldn\u2019t have put that on you. It was too much.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "...I know she\u2019s not going to live forever. When it happens I just want it to be... not horrific, you know? Like a good death.",
+      "movie": "thelma"
+    },
+    {
+      "character": "ALAN",
+      "dialogue": "There is no good death.",
+      "movie": "thelma"
+    },
+    {
+      "character": "DANIEL",
+      "dialogue": "I\u2019m gonna take a walk.",
+      "movie": "thelma"
+    }
+  ],
+  [
+    {
+      "character": "DANIEL",
+      "dialogue": "I did.",
+      "movie": "thelma"
+    },
+    {
+      "character": "ALAN",
+      "dialogue": "You... \u201cwent back to the buffet.\u201d",
+      "movie": "thelma"
+    }
+  ]
+]

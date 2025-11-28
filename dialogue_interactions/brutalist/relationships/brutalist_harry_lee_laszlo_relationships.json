@@ -1,0 +1,76 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "text": "HARRY LEE: Well, make it of reasonable quality. Maybe a nice place for him to sit and read, as well? A good chair or bench for him against the window?\nLASZLO: Would you like us to replace that?\nHARRY LEE: If there's time, why not? A branch fell on it during that nasty storm last summer; a tropical depression they called it.\nHARRY LEE: Keep it below six or seven hundred dollars, can you? My sister and I are splitting it. I don't want any unexpected add-ons.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "text": "HARRY LEE: Oh, but you should. You should, you see. My father would like us to hire you.\nLASZLO: -but I have no infrastructure here.\nHARRY LEE: That's why he's asked me to oversee and assist you in this endeavor.\nLASZLO: I have no idea of the parameters.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "HARRY LEE: It's ambitious. Thought you'd like that... I've put in a call to our frequent contractor, Leslie Woodrow. We first worked with Leslie as one of our Ship Engineering Officers but he's supervised several important construction projects for us since- including these offices. My father is allocating a sum of 850,000 dollars for this project which to me seems very reasonable, if not exorbitant. If Leslie agrees to come on-board, I'll have him start a budget for us right away.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "HARRY LEE: Leslie mentioned during our meeting last week with Jim that you're putting your fee back into the project. That seems a bit irresponsible given your situation, doesn't it? Will it even last you to the end of your commitment?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

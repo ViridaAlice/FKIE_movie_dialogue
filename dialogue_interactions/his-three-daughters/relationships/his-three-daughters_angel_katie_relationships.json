@@ -1,0 +1,31 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "ANGEL: I do. I do. Sometimes... Sometimes people don\u2019t call EMT right away when they believe their loved one has passed away. Sometimes...they are not completely sure, and it delays that call for a while. And because we are helping, you should call us rather than 911.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "ANGEL: Well, you can\u2019t intentionally do that. That\u2019s looked upon as murder in this city. In most of this country, at this time, even if it is asked for by the patient. The only way to do that, is to make a mistake. For it to be unintentional. Maybe someone didn\u2019t measure the amount correctly. Sometimes, if the amount is just over, it can be lethal. I don\u2019t know, I don\u2019t know. But, mistakes have been made. And accidents are natural, right?\nANGEL: I\u2019m sorry that he was in pain. I understand how terrible that must have been for you to witness. But, here he is, with you, and not in a hospital. With hope that things will continue ahead as peaceful as possible.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

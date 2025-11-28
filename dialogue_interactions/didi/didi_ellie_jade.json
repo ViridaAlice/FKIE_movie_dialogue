@@ -1,0 +1,75 @@
+[
+  [
+    {
+      "character": "ELLIE",
+      "dialogue": "That sounds good :)",
+      "movie": "didi"
+    },
+    {
+      "character": "JADE",
+      "dialogue": "Hardeep says you tell some really good stories.",
+      "movie": "didi"
+    }
+  ],
+  [
+    {
+      "character": "JADE",
+      "dialogue": "Ewww!",
+      "movie": "didi"
+    },
+    {
+      "character": "ELLIE",
+      "dialogue": "Yuuuck!",
+      "movie": "didi"
+    }
+  ],
+  [
+    {
+      "character": "JADE",
+      "dialogue": "Did you guys at least bury it?",
+      "movie": "didi"
+    },
+    {
+      "character": "JADE",
+      "dialogue": "I\u2019m pretty sure that\u2019s animal cruelty.",
+      "movie": "didi"
+    },
+    {
+      "character": "ELLIE",
+      "dialogue": "You know her mom works for PETA, right? She could send you to juvi.",
+      "movie": "didi"
+    },
+    {
+      "character": "JADE",
+      "dialogue": "UMMM / Woah. / Dude.",
+      "movie": "didi"
+    },
+    {
+      "character": "ELLIE",
+      "dialogue": "You think my nickname is dumb bitch?",
+      "movie": "didi"
+    },
+    {
+      "character": "JADE",
+      "dialogue": "There\u2019s my mom.",
+      "movie": "didi"
+    },
+    {
+      "character": "ELLIE",
+      "dialogue": "Ummm, some friends are coming over right now to watch a movie...if you wanna come.",
+      "movie": "didi"
+    }
+  ],
+  [
+    {
+      "character": "JADE",
+      "dialogue": "Cool. See ya there byeee.",
+      "movie": "didi"
+    },
+    {
+      "character": "ELLIE",
+      "dialogue": "Can we tell Soup to come?",
+      "movie": "didi"
+    }
+  ]
+]

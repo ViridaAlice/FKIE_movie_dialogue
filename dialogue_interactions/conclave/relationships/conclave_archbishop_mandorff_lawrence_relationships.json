@@ -1,0 +1,28 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "ARCHBISHOP MANDORFF: Security say they\u2019d like to test the electronic jammers one last time, your Eminence.\nLAWRENCE: Then they\u2019d better be quick. Is this really necessary, Willi?\nARCHBISHOP MANDORFF: Apparently so. Security say... ...eavesdroppers can use lasers to \u201cread the vibrations on the glass?\u201d",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

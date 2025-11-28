@@ -1,0 +1,66 @@
+[
+  [
+    {
+      "character": "DENICE",
+      "dialogue": "With all due respect, Your Honor, this has not been a typical deliberation.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "DENICE",
+      "dialogue": "I think it will be extremely valuable in helping us reach a verdict.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "I see. Mr. Resnick. Any objections?",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "THE JUDGE",
+      "dialogue": "Madame foreperson, has the jury reached a verdict?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "DENICE",
+      "dialogue": "Yes, your honor.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "And is your verdict unanimous?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "DENICE",
+      "dialogue": "Yes.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "In the matter of State V. James Michael Sythe, Case No. CR2021- 1715532, Count 1, Malice Murder",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "\u201cWe the jury find James Michael Sythe GUILTY of Malice Murder.\u201d Dated and signed this day, Denice Aldworth, foreperson.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "Madame Foreperson, to the best of your knowledge, was that your verdict in the jury room, was it freely and voluntarily given, and is it still your verdict?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "DENICE",
+      "dialogue": "Yes, Your Honor.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "Very well. I hereby remand the defendant, James Michael Sythe, to the custody of the state. Thank you for your service; it is now concluded. This court is now adjourned.",
+      "movie": "juror-2"
+    }
+  ]
+]

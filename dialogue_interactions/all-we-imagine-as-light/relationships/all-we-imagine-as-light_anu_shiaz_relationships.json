@@ -1,0 +1,94 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4,
+          5
+        ],
+        "text": "ANU: I\u2019ll send U somthng to cheer U up :p\nANU: oh wondrous rain clouds...don\u2019t thunder too loudly... my lover is sleeping ...\nANU: Clouds with your naughty ways, are only causing a flutter in my heart. My lover is far away and maybe you can carry this message to him.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "SHIAZ: I am thinking of U...wen do I C U",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          12,
+          13,
+          14,
+          15
+        ],
+        "text": "SHIAZ: You are very hard to please!\nANU: I feel your heartbeat.\nSHIAZ: It is beating very fast...\nANU: Can you feel mine?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "SHIAZ: I wish I cd sit w U.\nANU: me 2",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          3
+        ],
+        "text": "SHIAZ: Kiss me again...\nANU: Ok save some for later!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          26,
+          27
+        ],
+        "text": "SHIAZ: I used to ask myself many times... if I was doing the right thing being with you....or it would have been best to stay apart.\nSHIAZ: But then ...when I am with you\u2026 I don't know what it is\u2026 I feel not afraid at all.. As if this Is the most natural way for us to be.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

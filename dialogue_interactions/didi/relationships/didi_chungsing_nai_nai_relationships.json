@@ -1,0 +1,78 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "NAI NAI: [Ai-ya. My son would never let this happen if he were here.]",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "CHUNGSING: [Ma, stop nagging me.]",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "NAI NAI: [Ai-ya. You really are an incompetent mother.]\nNAI NAI: [No wonder my son doesn\u2019t want to be home.]",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          9
+        ],
+        "text": "NAI NAI: [ME? BURDEN? All I offer to do is help because clearly you can\u2019t handle it. And if my son weren\u2019t out there working, making money, this family would have nothing and we would all be homeless.]",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "NAI NAI: [Nai Nai is so old. How many years do I have left?...I won\u2019t even be here to see you finish high school.]\nCHUNGSING: [Nai Nai. Lie down.] [Kids, it\u2019s fine. You can leave. Let Nai Nai rest.]",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "CHUNGSING: [Ma. It\u2019s okay.]",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

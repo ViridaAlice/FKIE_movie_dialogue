@@ -1,0 +1,25 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9,
+          10,
+          16
+        ],
+        "text": "AVERY: You know how I feel about you, Berniece. Now...I done got the place from Mr. Cohen. I get the money from the bank and I can fix it up real nice. They give me a ten-cents-a-hour raise down there on the job...now Berniece, I ain\u2019t got much in the way of comforts. I got a hole in my pockets near about as far as money is concerned. I ain\u2019t never found no way through life to a woman I care about like I care about you. I need that. I need somebody on my bond side. I need a woman that fits in my hand.\nBERNIECE: Avery, I ain\u2019t ready to get married now.\nAVERY: You too young a woman to close up, Berniece.\nAVERY: Who you got to love you? Can\u2019t nobody get close enough to you. Doaker can\u2019t half say nothing to you. You jump all over Boy Willie. Who you got to love you, Berniece?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": []
+  }
+}

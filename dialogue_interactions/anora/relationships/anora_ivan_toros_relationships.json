@@ -1,0 +1,22 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "IVAN: Get out now or I'll have my father fire your fucking ass!",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  }
+}

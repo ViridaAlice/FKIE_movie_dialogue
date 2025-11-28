@@ -1,0 +1,38 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "NAI NAI: [Look. What kind of mother allows their children to behave like this? You should really just let me raise them. This house is chaos. It\u2019s a zoo.]",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "VIVIAN: ...try and be nice to Mom, okay?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "ELISABETH: I'll fucking show you Jurassic fitness.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          6,
+          7,
+          8,
+          9
+        ],
+        "text": "ELISABETH: YOU'RE TAKING IT FROM ME!! That's your secret!! YOU'RE TAKING IT ALL\nELISABETH: Stop it stop it stop it you have to...\nSUE: She's GROSS...\nSUE: Fat...\nSUE: Old...\nSUE: Disgusting.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

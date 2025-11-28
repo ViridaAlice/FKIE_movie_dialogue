@@ -1,0 +1,21 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "FAITH: I'm Faith Killebrew a prosecutor with the District Attorney\u2019s Office. Can we talk?",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "FAITH: Sorry for the intrusion. I won't be long. I'm following up on a possible hit and run from last October, just doing a routine check on any cars that were serviced for major body damage around that time.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

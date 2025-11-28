@@ -1,0 +1,67 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          45,
+          47
+        ],
+        "text": "THELMA: You won\u2019t clean it. Who raised you?\nTHELMA: Nice try. This is your father\u2019s influence. There\u2019s coins everywhere. They fall out of his pockets because he\u2019s got no waist. Every time I ride with him I make five bucks. What\u2019s this?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

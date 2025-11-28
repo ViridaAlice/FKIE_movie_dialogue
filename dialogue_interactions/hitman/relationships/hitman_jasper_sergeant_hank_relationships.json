@@ -1,0 +1,47 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "text": "JASPER: ...I'm tellin' ya, I just don't think it's the best use of my skills.\nSERGEANT HANK: Just remember, Jasper, if it weren't for the police union, you wouldn't even have a job right now.\nJASPER: Understood, but now that I am back, I should have my job back.\nJASPER: At least I'm trained for it.\nSERGEANT HANK: Maybe you hadn't heard since you were on suspension, but Gary's done a great job. His conviction rate is higher, and frankly, he's got a better range than you do.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "JASPER: Well, shit. Why don't you just have me clean the toilets around here, Sarge? I can do that!\nSERGEANT HANK: Since you're being the asshole, I'll just come right out and say it: we're trying to hide your face, okay?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "KAKI: I won\u2019t take them... any more.\nDOCTOR SUPRIYA: What is wrong?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "KAKI: Please doctor... I want to go home... please... Every night he comes, just after dinner when I watch TV .",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

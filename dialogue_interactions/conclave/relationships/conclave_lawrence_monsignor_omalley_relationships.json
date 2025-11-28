@@ -1,0 +1,55 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "MONSIGNOR O'MALLEY: Archbishop Wozniak has asked if he may have a word, Eminence? Lawrence stands again, prods the cushion.\nLAWRENCE: I don\u2019t think that\u2019s possible. The cardinals will begin arriving in an hour. What\u2019s it about?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

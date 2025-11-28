@@ -1,0 +1,44 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "TOM: And I'll ask you again... who the fuck are you?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "TOROS: Give me your phone, you little fuck.\nTOM: I don't think so.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "TOROS: Call Ivan now or my friend here is going to practice his stroke on your fucking face.\nTOM: Fuck you.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2,
+          4
+        ],
+        "text": "PHIL: Jasper better watch his ass with this Craig guy. Several assault charges, possession...\nCLAUDETTE: Look, we just heard - Jasper can't go in. Chief officially suspended him for those teenagers he jacked up.\nCLAUDETTE: Anyway, we're thinking you're up.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "11": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "12": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

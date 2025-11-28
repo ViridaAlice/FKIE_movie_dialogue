@@ -1,0 +1,24 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8,
+          9
+        ],
+        "text": "LEE: We wanted to ask you... about the vegetation in the area.\nCOTTER: The vegetation?\nCOTTER: I suppose I would be the right person to ask about that.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

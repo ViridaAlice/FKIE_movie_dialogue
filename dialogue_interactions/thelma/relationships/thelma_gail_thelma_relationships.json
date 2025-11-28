@@ -1,0 +1,53 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "GAIL: Mom, wait, wait. Slow down--",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          9
+        ],
+        "text": "GAIL: Mom, Alan is calling--",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "GAIL: Why, mom? It\u2019s okay! You\u2019re here. You\u2019re safe. That\u2019s all that matters.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "GAIL: What happened, mother?! Where were you? God, you must be exhausted--",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

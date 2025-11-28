@@ -1,0 +1,726 @@
+[
+  [
+    {
+      "character": "EDDIE",
+      "dialogue": "Do you girls mind moving a little, a little fucken faster? Everyone else is out there, you\u2019re the only ones taking your time like you\u2019re at fucken brunch.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Excuse me, you know who gives a shit? I do. I give a shit. My job that you girls get on stage.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Have we ever not made it on stage, Eddie?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Cue 453, go.",
+      "movie": "the-last-showgirl"
+    }
+  ],
+  [
+    {
+      "character": "SHELLY",
+      "dialogue": "Are you okay?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "...Muffy told me that the show is closing.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Sorry, what?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "The show is closing.",
+      "movie": "the-last-showgirl"
+    }
+  ],
+  [
+    {
+      "character": "SHELLY",
+      "dialogue": "She\u2019s not senile. Are you-- I mean, what did she say?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "These new casino owners, they want to put their own stamp on a place. They brought in the circus-- that show\u2019s doing really well--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "It is?? I just think who puts money into a circus that\u2019s not Cirque du Soleil, right? That\u2019s dumb--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "That\u2019s the whole point. It\u2019s alternative, it\u2019s dirty--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "A dirty circus?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Yeah, you know, it\u2019s edgy-- it\u2019s for adults.",
+      "movie": "the-last-showgirl"
+    }
+  ],
+  [
+    {
+      "character": "EDDIE",
+      "dialogue": "Le Razzle Dazzle-- it\u2019s old, it\u2019s the only show left of its kind on the strip.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "But the fact that it\u2019s the only one left-- that\u2019s why it\u2019s so special! I mean our show is a show! Come on! -- The costumes, the sets.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "I think we\u2019re gonna get notice tomorrow.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Are you kidding? You heard this from-- from Muffy?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Yeah.",
+      "movie": "the-last-showgirl"
+    }
+  ],
+  [
+    {
+      "character": "EDDIE",
+      "dialogue": "Oh hey, Shell--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Thanks. Since we lost those shows, these checks feel like they\u2019re getting slimmer and slimmer, you know?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Yeah.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Hey Eddie? Are you sure this is right? It\u2019s less than I thought it would be.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Well it\u2019s less because less shows.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Well, I know that, obviously, but I thought it would just be eight hundred divided by eleven shows a week, minus the three shows we lost.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "You might have been making slightly more for the ones we lost cuz those shows were better sold. Generally.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "If you want I can check with accounts payable?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Nah, it\u2019s okay. They\u2019re not gonna do anything about it, right?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Probably...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I had just... I had done the math and kinda re-worked my budget according to what I thought it was gonna be... Organic milk is so expensive-- Oh... they docked me for the wing.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Oh--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "The rip--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Shit--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I guess it was harder to fix than... It wasn\u2019t on a seam so--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Yeah I think Ida had to re-order the fabric.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh, she did?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Yeah, just to repair one wing, you know-- and now the show\u2019s gonna end so it\u2019s--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Sure, no I get it--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "They\u2019re never gonna need that fabric again, you know, for anything else--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Right-- I\u2019m sorry.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Shouldn\u2019t be sorry, it came out of your paycheck.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Well then... well I\u2019m sorry to me then...",
+      "movie": "the-last-showgirl"
+    }
+  ],
+  [
+    {
+      "character": "SHELLY",
+      "dialogue": "No, God no, they\u2019ll dock me again.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "How long you think you\u2019re gonna be?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I dunno... Not that long...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "It doesn\u2019t have to be perfect-- only a few shows left.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "You know, I\u2019ve been thinking that, for you more than anyone, the end of the show might be kinda upsetting...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Yeah...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "You know what\u2019s next?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "...No... You?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "I\u2019m staying on. Work with the circus.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh right-- full schedule.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "With the circus. Yeah.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "It\u2019s a much easier gig for the money than the R.D. so that\u2019s good.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "That\u2019s so lucky. And you\u2019ll still be contributing to your pension, getting health insurance?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Yeah. Anyway, just wanted to check on you.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "And... if it means anything,... you\u2019re a real legend, Shell.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "...Okay.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Hey Eddie?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Yeah.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Do you want to have dinner with me one night this week?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Do you want to have dinner with me?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Yeah.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Sure. Yeah, of course. That\u2019d be nice.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Okay!",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Okay.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Great.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Okay.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Hi, I\u2019m here, Hi Eddie.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Sorry I\u2019m a little late--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "No, you\u2019re not--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I was debating dresses-- but I shouldn\u2019t tell you that--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Oh--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Funny story: I didn\u2019t have time to get my nails done so I went to the drug store and right next to my nail files: Your favorite, right?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Thank you, that\u2019s so thoughtful.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "I don\u2019t have anything for you.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "That\u2019s okay. You look nice.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Thank you.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Do... I look nice?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Oh yes, sorry-- You look really beautiful tonight.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Thanks.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "You always look beautiful though.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Aw, thanks Eddie.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "But it\u2019s rare I see you in an actual dress and you know, not in like a rhinestone bustier with your breasts... you know... hanging out.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Well. I wouldn\u2019t say hanging.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "You do though-- you look really pretty even all covered up.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "...Maybe we should order.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "How\u2019s Hannah?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "She\u2019s about to finish up school--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "I wondered for such a long time, where she was and what she was up to, and... and if she looks at all like me--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "She doesn\u2019t--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "I know, thank God.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "What?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "What.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "What did you say?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Well I ...I met her--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "What??",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "In your dressing room the other night.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh-- What did you-- you introduced yourself?? You met her??",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "No, I mean, I didn\u2019t say who I was--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Thank God--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Does she still live with the Kelly\u2019s?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "--She lives-- at college.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "I thought that was just going to be a temporary solution.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "You\u2019re not in her life so I don\u2019t see how it\u2019s any of your business.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "I\u2019m just curious.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "She was best friends with Becky and Theo, and Lisa had all the time in the world to devote to her kids, so, you know--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "You couldn\u2019t have gotten a sitter?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I made it work, that\u2019s all that matters--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Or I was thinking... you could\u2019a gotten job where you worked when she was at school. You didn\u2019t have to stay with the show.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Of course I did!",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "You could have worked at a supermarket, waited tables, worked retail--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I can\u2019t win-- cannot just be right in the choices I made! God, this is what women have to deal with. You know, all the time, we\u2019re told: do the thing you didn\u2019t want to do, take the road you chose not to take! Jesus, and how are you saying all this when really-- you were never there? Where were you?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "We weren\u2019t even in a relationship...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Well what do you want now? You want to be her father now all of a sudden?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "No--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "What do you want with me, Eddie??",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "I just want to to be your friend.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Oh God, this is so embarrassing. I have to go. My friend?? This was a bad idea. This was the worst fucken idea--!",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Shelly, wait--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Like you\u2019re in a position to judge me-- You think that\u2019s what a friend does??",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "I didn\u2019t mean to sound like that--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "I should have been in retail?? I love the show! I love it. I feel so good about myself in the show.",
+      "movie": "the-last-showgirl"
+    }
+  ],
+  [
+    {
+      "character": "SHELLY",
+      "dialogue": "Hannah.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "What are you doing here?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "...Hey.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Hi Shell.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "You\u2019re lucky, you\u2019re probably never gonna leave this theater, huh?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Maybe not-- that\u2019s-- you\u2019re probably right-- probably not.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "One day your ghost will probably haunt this theater.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Ha-- I never thought about that.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "...I can\u2019t believe this is gonna be my last time setting foot on that stage...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "...I\u2019m gonna go to Hannah\u2019s graduation. Was thinking about maybe even moving there...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Oh... wow--",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "...But Annette also said she could help me get a job cocktailing...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Cute outfits.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Not quite like this one...",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "One last chance to give \u2018em hell.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "SHELLY",
+      "dialogue": "Ha.",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "Shelly?",
+      "movie": "the-last-showgirl"
+    },
+    {
+      "character": "EDDIE",
+      "dialogue": "You look great, Shell.",
+      "movie": "the-last-showgirl"
+    }
+  ]
+]

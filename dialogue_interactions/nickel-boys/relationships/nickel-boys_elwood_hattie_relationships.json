@@ -1,0 +1,57 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "HATTIE: At least tell the child you're leaving.\nELWOOD: Nanna!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "ELWOOD: Nanna. Nanna. Harriet!\nHATTIE: Shhh... I ain't going nowhere, baby.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "HATTIE: I love you Elwood.\nELWOOD: I love you, too, Nanna.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

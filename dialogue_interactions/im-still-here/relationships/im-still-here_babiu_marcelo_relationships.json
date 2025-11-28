@@ -1,0 +1,48 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "MARCELO: Scat! \nBABIU: Mommy, Marcelo broke my doll. ",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "BABIU: Mom, you did it. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10
+        ],
+        "text": "MARCELO: I think it was when I saw Mom donating his clothes. About a year and a half later. What about you?\nBABIU: I think it was when we left Rio. Seeing the house all empty.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": []
+  }
+}

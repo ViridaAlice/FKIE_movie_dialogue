@@ -1,0 +1,128 @@
+[
+  [
+    {
+      "character": "THE JUDGE",
+      "dialogue": "Does the defense accept or challenge?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "We accept him, Your Honor.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "Good. Then please enter \"Justin Kemp\" as Juror #2.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "THE JUDGE",
+      "dialogue": "Mr. Resnick. Your witness.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Mr. Reed, you hike those trails in the woods frequently, don't you?",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "THE JUDGE",
+      "dialogue": "All right, then. Now seems like a good time to break for the day.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Tomorrow, it's your turn up there.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Just remember what we talked about. Tell your story.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "RESNICK",
+      "dialogue": "The defense calls James Sythe, Your Honor.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "Do you swear to tell the truth, the whole truth and nothing but the truth, so help you God?",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "RESNICK",
+      "dialogue": "I move for a mistrial, Your Honor. He's a former COP. Who knows what ideas he's put in the jury's heads?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "Failure to elicit his previous employment during voir dire is on you, Mr. Resnick.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "It's misconduct!",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "RESNICK",
+      "dialogue": "Your Honor--",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "As for you two --",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "You violated your oath as jurors.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "RESNICK",
+      "dialogue": "Your Honor, I would ask that a copy of these documents be made a part of the Court\u2019s record for purposes of appeal. And I would again, move for a mistrail.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "The documents will be marked as a Defendant\u2019s exhibit. The motion for mistrial is denied, Mr. Resnick. Is that understood?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "RESNICK",
+      "dialogue": "Yes, Your Honor.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "All right. Then we're done here.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "RESNICK",
+      "dialogue": "No, Your Honor.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "THE JUDGE",
+      "dialogue": "Is you client good with this?",
+      "movie": "juror-2"
+    }
+  ]
+]

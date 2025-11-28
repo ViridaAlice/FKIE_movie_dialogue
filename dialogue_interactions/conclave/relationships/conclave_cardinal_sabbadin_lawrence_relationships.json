@@ -1,0 +1,27 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "CARDINAL SABBADIN: Third place. Not what we had hoped. Your sermon didn\u2019t exactly help us. And your five votes... with the greatest respect Thomas, you have far too little support to emerge as a serious candidate. There hasn\u2019t been an English Pope f or a thousand years.\nLAWRENCE: My position is an embarrassment to me. If I find out who my supporters are I\u2019ll plead with them to vote for someone else. And I\u2019ll tell them I\u2019ll be voting for Bellini.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

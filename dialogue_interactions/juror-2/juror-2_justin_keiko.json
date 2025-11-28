@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "character": "JUSTIN",
+      "dialogue": "Like what?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "KEIKO",
+      "dialogue": "Like a car.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "JUSTIN",
+      "dialogue": "That's... an interesting theory.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "KEIKO",
+      "dialogue": "A dark road, on a rainy night? It could have been a hit and run.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "JUSTIN",
+      "dialogue": "Shit.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "KEIKO",
+      "dialogue": "He was playing out a hit and run.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "KEIKO",
+      "dialogue": "Kendall was 5'5. If she was hunched over and the car was an SUV or a truck, she could've easily been hit smack across the head and torso. Look at the way her shoulders are fractured...",
+      "movie": "juror-2"
+    },
+    {
+      "character": "JUSTIN",
+      "dialogue": "I'm sorry, are you a doctor?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "KEIKO",
+      "dialogue": "Not yet. 3rd-year med student.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "JUSTIN",
+      "dialogue": "Well, then I think we should leave this to the professionals who actually examined the body.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "JUSTIN",
+      "dialogue": "Good, because we're not here to solve a mystery. All we're here to do is decide if we're positive that James Sythe killed Kendall Carter.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "KEIKO",
+      "dialogue": "I'm not. Old Quarry Road feeds into the highway. When traffic's heavy, GPS will send you that way. It can get busy.",
+      "movie": "juror-2"
+    }
+  ]
+]

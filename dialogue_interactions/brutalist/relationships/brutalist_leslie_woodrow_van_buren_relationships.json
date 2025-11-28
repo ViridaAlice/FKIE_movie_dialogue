@@ -1,0 +1,54 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "LESLIE WOODROW: Sir, is this really what you imagined? Am I missing something? When Harry called, he described this to me as a personal project. If this is what we ultimately settle on, something of this scale, the timeline would need to be considerably adjusted.\nVAN BUREN: I'd rather be alive at 18% than dead at the prime rate, Leslie.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "text": "LESLIE WOODROW: What would you like me to do in the meantime?\nVAN BUREN: With what?\nLESLIE WOODROW: Our crew.\nVAN BUREN: Let them go.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "LESLIE WOODROW: Laszlo, in the interest of transparency, before I came to retrieve you, I had already advised Mr. Van Buren to cut his losses-",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

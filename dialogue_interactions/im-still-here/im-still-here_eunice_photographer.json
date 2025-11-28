@@ -1,0 +1,61 @@
+[
+  [
+    {
+      "character": "PHOTOGRAPHER",
+      "dialogue": "Closer, get closer in. ",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "PHOTOGRAPHER",
+      "dialogue": "Just scooch in a little more. Got to fit all of you.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "Is everyone in the picture?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "PHOTOGRAPHER",
+      "dialogue": "Yep. All ready? Three... two... ",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "Smile. ",
+      "movie": "im-still-here"
+    }
+  ],
+  [
+    {
+      "character": "PHOTOGRAPHER",
+      "dialogue": "The editor asked for it.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "For what?",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "PHOTOGRAPHER",
+      "dialogue": "He asked for a photo that's more... more... you know, less happy.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "He wants a sad photo? ",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "PHOTOGRAPHER",
+      "dialogue": "It doesn't have to be sad, but just no smiling.",
+      "movie": "im-still-here"
+    },
+    {
+      "character": "EUNICE",
+      "dialogue": "We're going to smile. ",
+      "movie": "im-still-here"
+    }
+  ]
+]

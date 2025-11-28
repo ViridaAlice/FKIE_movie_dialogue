@@ -1,0 +1,15 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "VAN BUREN: What's this? What is all this? Who has authorized you to come into my home and tear everything apart?\nVAN BUREN: Who the hell are you?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

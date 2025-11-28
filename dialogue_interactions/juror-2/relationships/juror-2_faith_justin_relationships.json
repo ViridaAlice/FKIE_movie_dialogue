@@ -1,0 +1,34 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          3,
+          9,
+          10,
+          11
+        ],
+        "text": "JUSTIN: That felt kinda personal.\nFAITH: Sometimes it is... Mr. Kemp. You're a magazine writer?\nFAITH: Ever write about a murder trial?\nJUSTIN: I write for a regional lifestyle magazine. It's not exactly \"Vanity Fair.\"\nFAITH: I'll take that as a no. Being a writer, I imagine you read a lot. Have you read anything about this case?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "RESNICK: Okay, James. Let's talk about what happened on the night of October 25th.\nRESNICK: There's been testimony that you guys argued. Is that true?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

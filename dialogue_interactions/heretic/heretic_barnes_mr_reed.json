@@ -1,0 +1,959 @@
+[
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Are you Mr. Reed?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Hello. Paxton. Barnes.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Mr. Reed we wanted to give you this booklet, as it will help you understand the restoration...",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "No, yes. I have one. Already, thank you. Thank you. Yes.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Do you have a girl roommate?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "A girl, who?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "A roommate, a girl roommate who is living with you?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "No, I\u2019m not sure I understand?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "We can\u2019t come inside unless another woman is present. But we can stay in the doorway if that\u2019s fine?",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "We never seem to turn them down.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "My wife loves to bake. May I take your coats?",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "We don\u2019t mind.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "I\u2019ll check on the snacks, have a seat? She\u2019s being shy. Just a minute longer on the pie.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "And she\u2019ll have to be in the room with us.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Of course, I understand. Have a seat, have a seat.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Social media too.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Everybody worships social media. The only choice we get to make, as celestial beings on this planet, is who to worship. And I believe, anything other than worshiping a God will eat you alive.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "I think we\u2019d consider that... ...refreshing to hear. Sometimes, it feels like, maybe, Religion is not at the center of the culture anymore.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "It\u2019s been fading, hasn\u2019t it? Interest in religion.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Over time.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "There are so many distractions. First it was theater. Then the symphony. The novel. Video games. And now, you\u2019re right, social media. I say this with no judgement. It is neither good nor bad. It is just... true.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "-- Philadelphia, originally.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Were you both raised in the church?",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Lou Gehrig's disease.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Blueberry disease? Oh that\u2019s wonderful. Who wouldn\u2019t want that?",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "No.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Strange. I\u2019m really sorry. And I\u2019m sorry about the blueberry thing.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "It\u2019s okay.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Time for what?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Time for... pie. Time for... enlightenment.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "It doesn\u2019t specifically mention soda. Sure, it may be healthier to avoid caffeinated drinks. But we\u2019re just not thirsty.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "How do you feel about \u201cAwkward Questions\u201d?",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Are you asking from a biblical perspective?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Mormonism has a controversial history with the misogynist practice of men claiming multiple wives. But I\u2019m fascinated by the idea of Modern Revelation, which was used to erase this behavior from the church in 1890. I find that worthy of conversation.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "That\u2019s, that\u2019s somewhat of a distortion, I think, of --",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Joseph used local newspapers to print advocacy for the concept of polygamy under pen names, years before God\u2019s prophecy about celestial marriage landed, in order to prepare his followers for future revelations that he would invent.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Is that true?",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Let us talk with our bishop about some of the points you\u2019re raising. I\u2019m sure you don\u2019t have all the information.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "What\u2019s your favorite fast food?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Fast food? Try not to eat it.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "None of us do, but what\u2019s your favorite?",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "MR. REED",
+      "dialogue": "What about Taco Bell?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "We don\u2019t talk about Taco Bell.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Why don\u2019t we talk about Taco Bell?",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "I think it\u2019s trash.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "So not Jack in the Box, right?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "I vote Wendy\u2019s.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Can we meet your wife? Please?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Of course.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "MR. REED",
+      "dialogue": "This way.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "wait One moment, Mr. Reed, we\u2019re getting a call from the Relief Society president. We\u2019ll be right there!",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Do you need a minute?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "This is Sister Barnes... Only a moment, yes.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "I\u2019ll wait for you on the other side.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "should we leave?",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "So we just need your help with the door, it\u2019s a little tricky.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "I\u2019m sorry?",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Which door leads outside?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Either. If you\u2019re ready to leave, it\u2019s just through the next room.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Can you just unlock the front one, please? We\u2019d like to go that way.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "It\u2019s a little unusual to have a door that locks on a timer.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "I see that.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "And a little unusual that it can\u2019t be unlocked.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Yeah I know, had a habit of blowing open in the middle of the night. Gusty out here. I don\u2019t mean to pressure you. I\u2019m self-aware enough to know how this looks. Older man. Two young women in his house. But I assure you, you\u2019re welcome to exit through the back - you saw my house from the outside, right?  Right, then you know it\u2019s a tiny footprint, so the back of the house is right through there. But I will leave you space to make that decision freely, of course. To clarify: I\u2019m trying to make it a point not to pressure you. You shouldn\u2019t even feel the need to fabricate an excuse about someone from your ward calling you to leave. You can leave at anytime you want - it\u2019s absolutely fine.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "It wasn\u2019t an excuse, they just need us back.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "I know, but you\u2019re saying you took a phone call with someone from your ward.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "What do you mean?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "I mean the metal obstructs cell phone signals. So I know you didn\u2019t receive a call. And I just want to be clear, so that you feel comfortable, that it\u2019s totally fine if you\u2019d like to leave on your own accord. You should never feel like you have to make excuses.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Which door leads outside?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Do you have a preference?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Why would we have a preference?",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Can we use your phone, please?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "I do not have a phone.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "I\u2019m going to leave through the back of your house now, is that okay?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Of course.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Just like you said. It\u2019s okay and we can leave. Right?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "That\u2019s right.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Are you coming? I want the door that takes us outside.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "That is both of them.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Okay. I want the door that takes us outside the fastest.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "That is both doors.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Doesn\u2019t seem like this goes outside.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Didn\u2019t you just say you saw the outside of my house?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Yes, when we were walking up... we would\u2019ve seen it.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Then you clearly saw the back of my house hangs over a hill. So you would know that you must go down in order to go out.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "MR. REED",
+      "dialogue": "It\u2019s a weird detail to remember, I understand why you wouldn\u2019t.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "I think you can tell, that we\u2019re regrettably uncomfortable with this situation, here, tonight. And we... we... need your help to go home. And I think it\u2019d be best, for you, and all of us, if you help us get home. Because the Stake President knows where we are. And the Ward Missionaries know. And they\u2019ll be expecting us.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Right. But I think we\u2019re scared, because you lied to us earlier --",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "-- have I lied?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "There\u2019s no pie...",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "If this is going to work, we must ONLY tell each other the truth.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "...yes",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Please stand over here. It\u2019s a simple choice. But it should not be made simply. You must reflect deeply. And make a sincere decision. Have you ever played the Parker Brothers game Monopoly?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "What do games have to do with us leaving?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Everything.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "No.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "I disagree. I think that you have heard this song many times before. We\u2019ll come back to that in a moment. You are monotheistic?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Monothe--? Yes.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "You believe in one omni-present God, correct?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "We believe in Heavenly Father, yes.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "A God that is all-knowing, all- powerful? A God that supernaturally intervenes in our lives?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Yes.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "There are three major monotheistic religions.  Judaism. Christianity. And Islam. I call them: \u201cThe Big Three\u201d.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "MR. REED",
+      "dialogue": "My argument is that the holy texts before us are just mythological iterations of stories primitive people told each other for centuries, in order to cope with sickness, and death, and a cruel world that modern science could not yet explain. They are not real or true in any literal sense.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "But there is evidence that supports the existence of Jesus of Nazareth. Mentioned by both Jewish and Roman historians --",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "I agree. This is true.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "-- within decades of his life. It is historically accepted that Jesus lived and died.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "It doesn\u2019t matter if Jesus lived and died. It matters if Jesus died and lived.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "There is Horus, the Egyptian God, who predates Mithras by 2,000 years. Born to a virgin mother. Baptized in a river. Healed the sick. Cast out demons. Walked on water. Was crucified. Had 12 disciples. And was resurrected on the 3rd day. There is Krishna, the Hindu God, who predates Christ by 3,000 years. A carpenter who was born to a virgin mother. Baptized in a river. Tempted by demons. Performed miracles. Rose from the dead and ascended into heaven.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Yes.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "It is either all true. Or none of it is true.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Yes.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Then I want you to choose which door to go through based on your faith. The girls look at the doors.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "I don\u2019t understand.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "How you respond to my argument should determine which door you take.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "What happens, then?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "What happens?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "What happens if we choose the wrong door?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "There is no wrong door.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "I want to know what\u2019s going to happen to us. Before we choose.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "How can I even begin to answer that, if it hasn\u2019t happened yet.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "What\u2019s happening to her?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Follow my voice. The basement is too dark. Are you old enough to remember when taking a \u201cselfie\u201d was considered a humiliating display of insecurity?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Where are you?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "There was this five second blip, circa 2011, where you wouldn\u2019t be caught dead posting a selfie to your social media page.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "Sure about what?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Don\u2019t be scared. This is a beautiful moment. You are in the presence of a living Prophet of God.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Mr. Reed --",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Are you afraid to die?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Yes.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Our fear of death is what makes us gullible to false prophets. Don\u2019t be scared. What if I told you that death is a warm bath. Something that can be tasted, sampled. Like self serve at Yogurtland.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "MR. REED",
+      "dialogue": "Acknowledge that it is just you and the Prophet alone together.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Yes.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Feel her pulse. Both of you. The girls don\u2019t move. I want you to feel her pulse. RIGHT",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "No pulse.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Acknowledge that she is no longer breathing. Place your hand over her mouth. Do you feel a breath? Acknowledge.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "No.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Is she dead?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Yes. Nothing happens.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Just a moment.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "No.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "She will return. And she will tell us what she saw in the afterlife. Is she moving yet?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "No. Not yet.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Then it will only be a moment longer. I have been witness to the death and resurrection of the Prophet seven times. Tonight will be the eighth. It will be the first with an audience.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "No, she has not.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "In a moment. Nothing happens.",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "I don\u2019t know-no...",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Are my findings misguided or are they real? Let\u2019s start with that.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "I don\u2019t kno...",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "No, if you didn\u2019t see something transcendental, you must tell me...",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "MR. REED",
+      "dialogue": "What did you witness?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Was the Elder here?",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "She was dead, we thought --",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "If I\u2019m wrong, I need to hear it. That\u2019s why you\u2019re here.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "-- but do-do you not see --",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Did you witness a miracle?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "-- it\u2019s a contrived experiment, we are your prisoners. It makes no sense for us to have an opinion --",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "We are prisoners together. You must understand by now that any of us may leave when we want, but why would we WANT after what we\u2019ve seen?",
+      "movie": "heretic"
+    }
+  ],
+  [
+    {
+      "character": "BARNES",
+      "dialogue": "It all makes sense. I\u2019ve been asking myself all night... \u201cHow is he going to kill us?\u201d \u201cHow is he going to make killing us our idea?\u201d",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "You\u2019re confused.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "I know. I can\u2019t tell if you\u2019re playing chess or checkers.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Monopoly!!! It was right there.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "You didn\u2019t show us a miracle.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "What did I show you?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "You didn\u2019t show us a miracle.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Not a miracle.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "A magic... trick. Paxton\u2019s ears perk up on the word \u201cmagic\u201d. The girls share a knowing look. A hint that the \u201ccode word\u201d is on its way.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "A magic trick?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "Do you want to know why we don\u2019t talk about Taco Bell?",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "What?",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "I died when I was four years old. Ate a Chalupa Supreme that killed me. Fifty people were hospitalized from an E-Coli outbreak. The kids at school called me \u201cTaco Hell\u201d, because I was clinically dead while doctors operated on my kidneys. Paxton\u2019s hand discreetly moves into her coat pocket. She touches the LETTER OPENER. BARNES When I was dead, I saw exactly what your Prophet described. A blinding white light. Clouds, but not heaven. A sense of wanting to return. A feeling that my state of reality wasn\u2019t real. Paxton takes a deep breath. Mentally preparing. BARNES That wasn\u2019t a prophecy, that was a near death experience. As common to a dead person, as a wet dream to a drunk. When the oxygen leaves your brain, or your heart stops pumping, your mind creates unbelievable things. I think you\u2019ve been keeping this woman on the edge of death, in order to ask her questions about meaningless hallucinations, so that you can substantiate your idea of what the one true religion really is.",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Did you know... that when you remember something, you\u2019re only remembering the last time you remembered that experience. You\u2019re not actually recalling the event. So your memory of dying at Taco Bell isn\u2019t of dying, it\u2019s of the memory of the memory of the memory of dying. Which is why you\u2019re remembering a false correlation to the experience you just witnessed. But this is happening right now. It\u2019s why you need to pay attention. We\u2019re not talking about \u201ca magic trick\u201d.",
+      "movie": "heretic"
+    },
+    {
+      "character": "BARNES",
+      "dialogue": "No, we\u2019re talking about \u201cMAGIC UNDE-------\u201d",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "Do not be scared!",
+      "movie": "heretic"
+    },
+    {
+      "character": "MR. REED",
+      "dialogue": "She will come back to us! I promise!",
+      "movie": "heretic"
+    }
+  ]
+]

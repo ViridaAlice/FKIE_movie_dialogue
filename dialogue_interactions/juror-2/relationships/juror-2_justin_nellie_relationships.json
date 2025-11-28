@@ -1,0 +1,31 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "NELLIE: That's enough. Both of you. Please continue, Mr. Kemp.\nJUSTIN: Thank you, Ma'am. All I'm trying to say is: Let's put everything else aside for a minute and remember two key points: 1) Sythe went to trial instead of taking a plea. And 2) He testified instead of taking the fifth. Now, that doesn't mean he's innocent. But I think he's earned a few hours of our time to be sure.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

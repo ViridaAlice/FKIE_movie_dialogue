@@ -1,0 +1,110 @@
+[
+  [
+    {
+      "character": "ARCHBISHOP MANDORFF",
+      "dialogue": "Security say they\u2019d like to test the electronic jammers one last time, your Eminence.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Then they\u2019d better be quick. Is this really necessary, Willi?",
+      "movie": "conclave"
+    },
+    {
+      "character": "ARCHBISHOP MANDORFF",
+      "dialogue": "Apparently so. Security say... ...eavesdroppers can use lasers to \u201cread the vibrations on the glass?\u201d",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Let\u2019s hope none of our brothers suffer from claustrophobia. Who knows how long we\u2019ll have to be in here.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "I assume we are going to finish in time?",
+      "movie": "conclave"
+    },
+    {
+      "character": "ARCHBISHOP MANDORFF",
+      "dialogue": "They will work through the night if they have to. It will be fine, Eminence. It always is. Italy, you know.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Sorry to fuss. .",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "ARCHBISHOP MANDORFF",
+      "dialogue": "Here they come, Your Eminence.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Brothers, welcome.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "ARCHBISHOP MANDORFF",
+      "dialogue": "One hundred and three, Eminence.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "I wonder where Tedesco has got to.",
+      "movie": "conclave"
+    }
+  ],
+  [
+    {
+      "character": "ARCHBISHOP MANDORFF",
+      "dialogue": "His name is Vincent Benitez, Eminence. He\u2019s the Archbishop of Kabul.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Archbishop of where?",
+      "movie": "conclave"
+    },
+    {
+      "character": "ARCHBISHOP MANDORFF",
+      "dialogue": "Kabul. He\u2019s Mexican. The Holy Father appointed him last year.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Last year? And how has this been kept a secret?",
+      "movie": "conclave"
+    },
+    {
+      "character": "ARCHBISHOP MANDORFF",
+      "dialogue": "I thought, perhaps, you would be aware of his elevation.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "No. I am not.",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Ray, ask Father Bellini to join us. Perhaps he knew of this.",
+      "movie": "conclave"
+    },
+    {
+      "character": "ARCHBISHOP MANDORFF",
+      "dialogue": "He has a letter of appointment from the Pope addressed to the archdiocese of Kabul, which they kept secret at the Hol y Father\u2019s request. You don\u2019t think he could have forged it?",
+      "movie": "conclave"
+    },
+    {
+      "character": "LAWRENCE",
+      "dialogue": "Where is he now?",
+      "movie": "conclave"
+    }
+  ]
+]

@@ -1,0 +1,58 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "EUNICE: Brazilian Bar Association. Can you put the coffee on?\nMARIA JOS: Sure, Mrs. Paiva. Want me to fix you dinner?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "EUNICE: Stay calm. You take care of the kids, and I'll deal with these men. ",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2,
+          3,
+          4
+        ],
+        "text": "MARIA JOS: Mr. Machado's out front. Should I put some coffee on?\nEUNICE: I'll pick the kids up at school. Just taker care of lunch, please.\nMARIA JOS: What would you like me to make?\nEUNICE: Whatever there is. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          11
+        ],
+        "text": "MARIA JOS: And... Mrs. Paiva, could you see about my pay, too? I know you've got an awful lot on your plate, but Mr. Paiva only paid me through December.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

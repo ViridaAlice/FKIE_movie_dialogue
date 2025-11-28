@@ -1,0 +1,35 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "MICHAEL HOFFMAN: What was your focus?\nLASZLO: Theaters, synagogues- Restorations. Some, quite unusual.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "MICHAEL HOFFMAN: This allocation of 850,000 is inclusive of fees for yourself and Leslie... Also, we've gone ahead and made arrangements to start securing you a license here in Pennsylvania-",
+        "type": "Implied"
+      }
+    ]
+  }
+}

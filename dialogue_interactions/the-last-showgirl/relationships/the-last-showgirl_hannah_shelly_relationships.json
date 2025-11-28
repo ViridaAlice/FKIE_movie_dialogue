@@ -1,0 +1,26 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          19,
+          22,
+          23,
+          25
+        ],
+        "text": "SHELLY: Oh! Hey sweetie, oh my gosh.\nHANNAH: I keep forgetting that you\u2019re not actually a reasonable person: that you left me in the casino parking lot with a Gameboy while you did two shows a night.\nSHELLY: I couldn\u2019t afford help, Hannah--\nHANNAH: You are so lucky that when Lisa saw me in the car, she didn\u2019t turn me in to child services.\nHANNAH: Career?!! What kind of career is this?? You\u2019re in the goddamn back of 80 topless dancers! This was worth missing bedtime for most of my childhood?? ...Was it?",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

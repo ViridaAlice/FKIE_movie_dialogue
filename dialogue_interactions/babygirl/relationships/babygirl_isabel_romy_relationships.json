@@ -1,0 +1,57 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "ISABEL: Can Mary spend the night?\nROMY: No!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "ISABEL: Mom! Stop.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          4,
+          9
+        ],
+        "text": "ISABEL: Hey- Are you ok? You look like grandma.\nISABEL: Mom, you need to come home. Dad needs you. He refuses to leave the theatre, he doesn't eat, he is reading the bible.\nISABEL: It\u2019s ok, mom. He\u2019ll forgive you.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+[
+  [
+    {
+      "character": "BARTENDER",
+      "dialogue": "You looking at that cane?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "BARTENDER",
+      "dialogue": "That\u2019s Teddy Roosevelt\u2019s cane. Jesus, boss, you\u2019re bleeding. Here, wipe yourself.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "BARTENDER",
+      "dialogue": "There\u2019s something strange about you. Different.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Yeah, yeah, you noticed, huh?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "BARTENDER",
+      "dialogue": "What is it?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "You can\u2019t place it.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "BARTENDER",
+      "dialogue": "Something with your face, right?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "Uh-huh.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "BARTENDER",
+      "dialogue": "What, it\u2019s so obvious? I\u2019m near-sighted, man. Can\u2019t see shit. Look, you got an interesting thing going on, but you\u2019re all nervous. You this nervous all the time?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "What makes you think I\u2019m nervous?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "BARTENDER",
+      "dialogue": "Just your fucking energy, man. Makes me nervous.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "BARTENDER",
+      "dialogue": "For christ\u2019s sake. You can keep the rag.",
+      "movie": "a-different-man"
+    }
+  ],
+  [
+    {
+      "character": "BARTENDER",
+      "dialogue": "Rocks?",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "EDWARD",
+      "dialogue": "I don\u2019t want to dilute its medicinal value.",
+      "movie": "a-different-man"
+    },
+    {
+      "character": "BARTENDER",
+      "dialogue": "You what?",
+      "movie": "a-different-man"
+    }
+  ]
+]

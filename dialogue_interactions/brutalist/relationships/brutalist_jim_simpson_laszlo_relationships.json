@@ -1,0 +1,32 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9,
+          10
+        ],
+        "text": "JIM SIMPSON: I'll tell you- we are not going back inside until you look us in the eye and you tell us where you are willing to compromise?!\nLASZLO: Jim, tell us again what you've built?\nJIM SIMPSON: I'll tell you about what I've built, whatever-the-hell-your-name- is! A shopping center in New Hope, a hotel in Stamford Connecticut-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "LASZLO: Everything we see that is ugly- stupid, cruel, and ugly. Everything is your fault.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": []
+  }
+}

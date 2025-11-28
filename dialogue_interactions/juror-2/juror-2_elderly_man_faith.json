@@ -1,0 +1,101 @@
+[
+  [
+    {
+      "character": "FAITH",
+      "dialogue": "... On October 25th of last year, you lived on Old Quarry Road, correct?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "ELDERLY MAN",
+      "dialogue": "Yes.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Did you see anything unusual that evening?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "ELDERLY MAN",
+      "dialogue": "I saw a man get out of his car in the middle of a storm.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Do you remember what time this was?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "ELDERLY MAN",
+      "dialogue": "Twelve-forty-eight on the button. I looked at the clock. I heard thunder, so I went to the window. Lightning lit up the sky, and there he was.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "What was he doing?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "ELDERLY MAN",
+      "dialogue": "He looked around. Then he went to the side of the road, peered over the railing, got back in his car and drove away.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Is the man you saw that night here in the courtroom today?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "ELDERLY MAN",
+      "dialogue": "Yes. He is here today. That's him right there.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Let the record show the witness identified the man he saw as the defendant, James Michael Sythe.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "The State rests, Your Honor.",
+      "movie": "juror-2"
+    }
+  ],
+  [
+    {
+      "character": "FAITH",
+      "dialogue": "Did they show you any other pictures?",
+      "movie": "juror-2"
+    },
+    {
+      "character": "ELDERLY MAN",
+      "dialogue": "Oh no, they knew it was him. They just wanted me to confirm it.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "Right.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "ELDERLY MAN",
+      "dialogue": "I was glad to help. Everyone was so grateful. And if I do say, it felt pretty good. To be needed again.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "FAITH",
+      "dialogue": "I'm sure it did.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "ELDERLY MAN",
+      "dialogue": "Right. Well, if there's anything else I can do, just give a holler. Tea's always hot.",
+      "movie": "juror-2"
+    },
+    {
+      "character": "ELDERLY MAN",
+      "dialogue": "James Sythe did kill that girl, right?",
+      "movie": "juror-2"
+    }
+  ]
+]

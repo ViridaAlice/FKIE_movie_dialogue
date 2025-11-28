@@ -1,0 +1,604 @@
+[
+  [
+    {
+      "character": "PINKY",
+      "dialogue": "The Potatoes! ",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Potatoes? ... Pinky ... what do you mean? ",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Oh ... ",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Farewell Pinky.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Be free guys ... be free Sylvia ... ",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Don't worry, I'll be ok ... I wasn\u2019t always this alone ... ... my childhood was full of people.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Dad used to say that childhood was like being drunk ... everyone remembers what you did ... except you! ",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "But my childhood was sobering, Sylvia ... I remember everything ... right from the get-go. ",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "I\u2019d always liked feeling caged in ... snug and protected. ",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "It was a shock to be born premature ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "... I wasn\u2019t fully baked ... ",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "... and looked like a baby rabbit. ",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "I was named Grace Prudence Pudel ... my twin ... brother ... Gilbert. ",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "The nurse said we had two souls but one heart ... I liked that.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Our birth was very strenuous for mum ... we left her womb ... she entered her tomb.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Mother snails did the same after they\u2019d had their babies.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "As I grew older I suffered a smorgasbord of afflictions ... and was always back in hospital for something.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "The doctors said I was like a china\ufffedoll you could shatter with just a stare. ",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Eventually they needed to fix my floppy lip. ",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Things went bad ... I lost so much blood I needed a transfusion. ",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "The doctor asked Gilbert if he\u2019d give me his. ",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "He said yes, even though he thought he\u2019d have to die to save me. ",
+      "movie": "memoir-of-a-snail"
+    }
+  ],
+  [
+    {
+      "character": "PINKY",
+      "dialogue": "Oh poo ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Don\u2019t worry, I won\u2019t turn you in.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Thankyou Dear. Bless your cotton socks ... What\u2019s your name?",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Grace Pudel.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "I\u2019m Pinky ... just Pinky ... like Cher or Liberace. People call me Pinky coz of this.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Lost it dancing in Barcelona.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Why are you dressed like an ant?",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Oh um ... no I\u2019m a snail.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Ha ... kooky ... I used to think I was a pigeon.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "She was a true eccentric and smelt like ginger and op-shops.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "She clothed herself in corduroy and her face had more wrinkles than her pants ... It was hard to know where the fabric ended and her skin began ... She seemed so tactile ... a blind person would\u2019ve loved to touch her ... she became my first Canberra friend ... my only Canberra friend.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "She\u2019d lived an amazing life ... I thought one day I might make a film about her.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "She\u2019d seen the northern lights ... floated in the dead sea ... been an exotic dancer in a schnitzel bar ... won a bee beard contest ... bathed with snow monkeys ... made love to John Denver ... and once played pingpong with Fidel Castro.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "She\u2019d never been sick ... her secret to longevity were coffee enemas ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "... and a daily shot of green ginger wine.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "She\u2019d outlived two husbands ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "... the first had died just a week after they'd got married ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Her second husband, Bill, had been a postman ... who wrote love notes on her mail.",
+      "movie": "memoir-of-a-snail"
+    }
+  ],
+  [
+    {
+      "character": "PINKY",
+      "dialogue": "You know Gracie, biscuit tins rarely contain biscuits ... .",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "I\u2019d never seen her mysterious tin ... she was always hiding it in different places ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "... and often couldn\u2019t remember where.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Her home was also full of seedlings ... which she later confessed were marijuana.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "She loved to bake gingerhashmen ... She said they relieved her arthritis.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "She also enjoyed gardening ... especially when she felt a bit blue.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "She called it her pitypit ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Gardening fixes everything!",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "... she\u2019d say. She wanted her ashes sprinkled in her pitypit ... be returned to nature ... fertilise her veggies.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "She also enjoyed minigolf ... and had built her own course.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Hole in one!",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "She was brilliant.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "But the thing that made Pinky truly remarkable ... was what she did every Monday.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "She\u2019d visit the lonely and hold their hands ... she said the thing the elderly craved most ... was human touch ... They were often treated as if they had a disease ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "She\u2019d sit with them calmly in silence ... something so simple ... yet so comforting.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "An occasional gingerhashman helped as well.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Pinky told me she\u2019d never got to hold her own parent\u2019s hands ... she never said why ... her childhood was off limits.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Life isn\u2019t about looking backwards, Gracie, it\u2019s about living forwards.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "She was the jewel in the Canberra junkheap ... she had crammed so much into her life ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "... I had crammed so little.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Pinky\u2019s friendship helped ease my sadness, my feelings of loss ... She was the medicine I needed ... a vitamin for hope.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "The years fluttered past, Sylvia ... as I tried to stay positive ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "... and better myself.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Ian and Narelle still obsessed about my mental health and sent me to self help classes ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "... which were supposed to raise my endorphins, free my radicals, balance my chakra and cleanse my third eye.",
+      "movie": "memoir-of-a-snail"
+    }
+  ],
+  [
+    {
+      "character": "GRACE",
+      "dialogue": "Part of me died in those classes ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Self help was just a shallow quick fix. None of it worked ... I felt wounded and betrayed ... wanted to divorce myself from society ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "... I wanted the earth to stop so I could get off.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Puberty arrived and brought its gifts ... I\u2019d have loved a boyfriend ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "... but my self esteem shrivelled away ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "... as my bottom bloomed.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "I didn\u2019t help matters when Pinky convinced me to get a perm ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Yer Fucker!",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "There-there ... ignore him ... I think we look fabulous.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Thank god for Pinky ... she became my real foster parent, especially as Ian and Narelle weren\u2019t around much anymore.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "They\u2019d discovered nude cruises and were gone for weeks at a time.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "I still grieved the loss of my family and continued filling the void with",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "... as did food.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "My obsession had blossomed ... my room had become a snail shrine ... I\u2019d become a snail hoarder.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Apart from Pinky, letters from Gilbert were the only things that confirmed I existed ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "I desperately wanted to fly and see him more than ever.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "... but my compulsions kept me poor.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "His letters still gave me hope ... but he began to worry me ... I felt he wasn\u2019t telling me everything.",
+      "movie": "memoir-of-a-snail"
+    }
+  ],
+  [
+    {
+      "character": "PINKY",
+      "dialogue": "I'm looking for something!",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "What?",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "I dunno ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Roles reversed ... it was my turn to care for her.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Ahh ... my medicine.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "One day she decided to not get out of bed ... she became grumpier and more frustrated.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Did I tell you that thing I can't remember? That thing I was looking for but don't know what it is? ... Stupid brain! ... Stupid disease! ... What's the name of that German guy whose disease I got? ... Guggeinheimers?",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Relax Pinky ... it doesn't matter.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Ah Gracie, such a great friend.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "The Potatoes !",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Potatoes? ... Pinky ... what do you mean?",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Oh ... Pinky.",
+      "movie": "memoir-of-a-snail"
+    }
+  ],
+  [
+    {
+      "character": "PINKY",
+      "dialogue": "The Potatoes.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Potatoes ... The POTATOES!",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Dear Grace ... if you\u2019re reading this, then I\u2019m as dead as a doughnut and you\u2019ve found my biscuit tin ... and my secrets.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "You\u2019ve been asleep for days and I need to tell you important stuff before my brain fully rots ... Old age is such a bastard ... creeps up without you knowing ... one day you sink your teeth into an apple, and they stay ... F",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "... you go to straighten the wrinkles in your pantyhose ... and then realise you\u2019re not wearing any.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Anyway, I digress ... My secrets ... Firstly, I\u2019m an orphan ... and was raised in an orphanage after the Great War. It was a terrible place where I was kept alone, day and night ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "... never held or hugged ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "... the only contact, the little boy next to me.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "I won\u2019t tell you the horrors I remember, but do want to tell you what it\u2019s like to feel imprisoned ... caged ... it was dreadful.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "But in the years since, I\u2019ve learnt that the worst cages are the ones we create for ourselves ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "... you have created a cage for yourself Gracie ... A",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "... and the only way to escape is by overcoming your fears. Your cage has never been locked ... but your fears have kept you trapped. Get rid of those snails ... unshackle your mind forged manacles ... set yourself free.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "There\u2019ll be pain ... but that\u2019s life ... you have to face it head on ... be brave.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "A bit of self pity is ok ... but it\u2019s time to move on ... you got rid of that creepy Ken ... now seize life while you\u2019re young.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Life is about striving for simplicity ... but it\u2019s hard to achieve ... it\u2019s a long process of distillation ... trial and error. It\u2019s time for you to shed your shell ... purge your hoard ... start anew ... those snails you think are protecting you, are stopping you ... they\u2019re a bandaid for your pain.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Snails are considered lucky in many cultures ... they have brought you joy ... but in your case ... no luck.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "GRACE",
+      "dialogue": "Be free.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Anyway, I want to thank you Gracie ... You\u2019ve been terrific ... Not long now til my number's up ... time to close my curtains ... For the first time in my life I feel older than I look ... and I look like a testicle.",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "Life\u2019s a beautiful tapestry that needs to be experienced ... its small pleasures savoured ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "... like smoking a cigar in the rain ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "... or wearing clothes straight from the dryer ... enough rambling, time for both of us to let go ... Like I\u2019ve said, life can only be understood backwards, but we have to live it forwards ... snails never go back over their trails ... always moving forward ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "... time for you to leave some glittering snail trails all over the world ...",
+      "movie": "memoir-of-a-snail"
+    },
+    {
+      "character": "PINKY",
+      "dialogue": "... and remember ... never ... never go back.",
+      "movie": "memoir-of-a-snail"
+    }
+  ]
+]

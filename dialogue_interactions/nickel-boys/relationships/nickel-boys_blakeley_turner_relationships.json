@@ -1,0 +1,21 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "text": "BLAKELEY: Boys, you gotta toughen up. Spider bite, busted ankle, what's next? The count's been off. We can't have those inspectors coming out here thinking that y'all are lazy or that I'm not working you hard enough.\nTURNER: Mr. Blakeley. Mr. Blakeley, sir!\nTURNER: Elwood's been reassigned.\nBLAKELEY: Reassigned by who?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": []
+  }
+}

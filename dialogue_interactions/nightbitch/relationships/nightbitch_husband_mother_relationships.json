@@ -1,0 +1,117 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "HUSBAND: Hon? Can you get him a piece of toast?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          10
+        ],
+        "text": "MOTHER: No. It\u2019s your turn.\nHUSBAND: What? He doesn\u2019t want me.\nMOTHER: I don\u2019t care that he doesn\u2019t want you. I have been doing night nights every night of every day for two hundred years and they are fucking killing me. You have to do night night. IT\u2019S YOUR NIGHT NIGHT TURN!\nMOTHER: I\u2019m sorry, I\u2019m just in so much fucking pain, you have no idea.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          14,
+          16,
+          18,
+          20,
+          22,
+          23,
+          24,
+          26,
+          27,
+          30
+        ],
+        "text": "MOTHER: I guess I\u2019m getting used to doing things by myself.\nHUSBAND: Oh.\nMOTHER: This has made some things really clear to me though-\nHUSBAND: Like what?\nMOTHER: I\u2019m not doing okay. You must see that. I\u2019m not okay. I\u2019m not happy.\nMOTHER: You were so quick to support me when I said I didn\u2019t want to be an artist anymore -\nMOTHER: Because somewhere you were getting what you\u2019ve always wanted. For me to be a stay at home mom.\nMOTHER: Just like your mother. And her mother. A sweet deal for you. You have your job and I have mine. Only my job has no pay and no appreciation and no vacation days and includes washing your underwear.\nMOTHER: You feel trapped? Do you have any fucking clue how trapped I am? I\u2019ve found myself in a fucking 1950s marriage somehow and I have no idea who I am anymore and all I do is take care of our son and you and the fucking cat- before I killed her.\nMOTHER: You\u2019re right. I agreed to it, but I had no fucking idea what I was agreeing to. I didn\u2019t realize I would feel like a single parent who has zero help and has to give up my dreams to take care of everyone! I don\u2019t even know who I am anymore!\nMOTHER: HOW CAN YOU NOT SEE ME? I\u2019m wilting while you\u2019re out succeeding.\nHUSBAND: You think I want it like this? I don\u2019t want to be married to my mother. I don\u2019t want to feel your resentment the moment I enter my house.\nHUSBAND: If you were so fucking unhappy why didn\u2019t you tell me? You expect me to read your mind? If you tell me that everything is fine, then I think that everything is fine. If you tell me that you want to quit being an artist and stay home with our son, and I say ok, I think I\u2019m supporting you. That\u2019s just some passive-aggressive bullshit.\nHUSBAND: You aren\u2019t the person I married either. The person I married let things go that weren\u2019t important, and was tough as shit. She was weird and excited about things in the world, like reading books and not just watching reality tv and passing out after her second glass of wine.\nMOTHER: Oh my fucking god. I can\u2019t believe you\u2019re saying that to me.\nMOTHER: She fucking died in childbirth. And she\u2019s not coming back.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5
+        ],
+        "text": "MOTHER: This agreement we made, that I would stay home and you would go to work isn\u2019t working for me anymore. I need... space. I don\u2019t even know how to - I don\u2019t know who I am or what I need. I need to dig around in the dark and find myself again.\nMOTHER: No. I don\u2019t. But I had no clue what we were actually getting into. If I could go back in time, I would have made us sit down and work out a more equitable way to do this parenting thing.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "14": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "15": {
+    "relationship": "Romantic",
+    "evidence": []
+  }
+}

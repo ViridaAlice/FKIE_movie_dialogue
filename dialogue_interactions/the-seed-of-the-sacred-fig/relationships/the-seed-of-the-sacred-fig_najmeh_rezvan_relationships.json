@@ -1,0 +1,242 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "REZVAN: Mom, please don't ruin my night, Sadaf is coming back from her town. In fact, she is coming earlier because of tonight's plan. I asked her to come earlier, how does it look like if I don\u2019t show up myself?",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "NAJMEH: My darling, this is an exceptional night, you and your friends can go to the cafe another day.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "REZVAN: Mom, you're killing us! Just tell us what it is!",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "REZVAN: Yes, Mom.\nNAJMEH: My darling, did your friend eat her food?",
+        "type": "Definitive"
+      },
+      {
+        "line_indices": [
+          25
+        ],
+        "text": "REZVAN: Mom, this is still too thick, make it thinner.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "REZVAN: Mom! She says natural eyebrows are fashionable.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2,
+          6
+        ],
+        "text": "REZVAN: Ma, Sadaf is my only friend.\nREZVAN: Mom, I don't understand. What do you exactly mean by Dad's job conditions? What conditions does it have?\nREZVAN: Mom, Sadaf\u2019s dormitory is on our way! Also, you said she shouldn't come to our home. I'm 21 years old and you\u2019re controlling all my relationships.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "REZVAN: Mom\u2026 Najmeh looks at Rezvan.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "REZVAN: Mom, don\u2019t you understand what I'm saying, I was with her, she didn't do anything.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "REZVAN: Mom, what are you talking about? I was speaking to my classmate.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          3,
+          4
+        ],
+        "text": "REZVAN: what's wrong, Mom?\nNAJMEH: My darling, your dad's gun is missing. do you know where it is?\nREZVAN: A gun? Does Dad have a gun?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "REZVAN: what happened Mom? Until a few days ago, it was no one's fault that thousands of people had strokes every day. A stroke was just a stroke. Now today if Dad has a stroke, it is our fault?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "REZVAN: Mom, I understand that you had a rough childhood, but that is no reason to think that everything Dad says is true. Why would Sana and I take Dad's gun?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "REZVAN: I do not know. How do we know that you didn't get it yourself, Mom?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "REZVAN: Mom, how can we be sure you didn\u2019t do it?",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Familial",
+    "evidence": []
+  },
+  "23": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          3
+        ],
+        "text": "REZVAN: We were involved in this from the beginning. Get up Mom, stand up.\nREZVAN: I have the gun. it's right here. I will call Uncle to come and take Mom and Sana, when they leave, I will give you the gun.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "24": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "REZVAN: Don't you want your gun? I have it with me, in this orchard. Let Mom and Sana go, I will give you the gun.",
+        "type": "Definitive"
+      }
+    ]
+  }
+}

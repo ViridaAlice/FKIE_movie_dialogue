@@ -1,0 +1,23 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "DIANE: Uh hi, Diane and Mark Binder.\nDIANE: We're boring. Uh, Recently retired. From Shaker Heights. Mark's family was from here, down in Lublin, but left way before the war, the turn of the century.",
+        "type": "Definitive"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": []
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": []
+  }
+}
