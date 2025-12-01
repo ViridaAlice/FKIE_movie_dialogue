@@ -1,0 +1,12 @@
+[
+  {
+    "char1": "MOTHER",
+    "age": "Adult",
+    "sex": "Female"
+  },
+  {
+    "char2": "SON",
+    "age": "Toddler",
+    "sex": "Male"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "char1": "CLARK",
+    "age": "Adult",
+    "sex": "Male"
+  },
+  {
+    "char2": "GIRLIE",
+    "age": "Young Adult",
+    "sex": "Female"
+  }
+]

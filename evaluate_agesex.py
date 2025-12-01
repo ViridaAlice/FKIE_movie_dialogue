@@ -7,7 +7,7 @@ import requests
 # ==========================================
 
 # Toggle to process all movies or just "a-different-man"
-PROCESS_ALL_MOVIES = False 
+PROCESS_ALL_MOVIES = True 
 TARGET_MOVIE_FOLDER = "a-different-man"
 
 # Path to the root folder
