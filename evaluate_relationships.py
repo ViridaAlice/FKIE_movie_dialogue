@@ -8,8 +8,8 @@ import re
 # ==========================================
 
 # Toggle to process all movies or just "a-different-man"
-PROCESS_ALL_MOVIES = False 
-TARGET_MOVIE_FOLDER = "a-different-man"
+PROCESS_ALL_MOVIES = True 
+TARGET_MOVIE_FOLDER = "hitman"
 
 # Path to the root folder
 ROOT_DIR = "dialogue_interactions"
