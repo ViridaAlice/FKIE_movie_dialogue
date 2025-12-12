@@ -1,24 +1,18 @@
-Here is the structure of a standard GitHub `README.md` based on your dataset description. I have formatted it in Markdown, ready to copy and paste.
-
-I have used **`[INSERT ...]`** placeholders for information that is standard in READMEs but was not provided in your description (e.g., license, installation, sources).
-
-***
-
 # Movie Dialogue & Relationship Dataset (2024-2025)
 
-**[INSERT VERSION NUMBER, e.g., v1.0.0]** | **[INSERT DATE]**
+v1.0 - 12.12.2025
 
 ## Overview
 
-This dataset contains a corpus of official movie scripts released between **January 1, 2024, and March 1, 2025**. The corpus focuses on screenplays nominated or submitted for scriptwriting awards, excluding biographies or stories based on real people. 
+This dataset contains a corpus of official movie scripts released between 1.1.2024, and 1.3.2025. It focuses on screenplays nominated or submitted for scriptwriting awards and excludes biographies or stories inlcuding real people. 
 
-In addition to raw scripts, the dataset provides processed data focusing on character interactions, specifically isolating dialogue between character pairs and providing annotated relationship classifications (e.g., Romantic, Platonic, Antagonistic) with textual evidence.
+In addition to raw scripts, the dataset provides processed data focusing on character interactions, specifically isolated dialogue between character pairs and provides a groundtruth of character attributes (sex, age, age-class, location, occupation and relationship status) as well as annotated relationship classifications between character pairs (Romantic, Platonic, Antagonistic, Professional, Familial) with textual evidence.
 
 ## Dataset Criteria
 
 *   **Release Window:** Jan 1, 2024 – Mar 1, 2025.
 *   **Source:** Official scripts (Award season nominations/submissions).
-*   **Exclusions:** Biopics and stories based on real people were removed to focus on fictional character dynamics.
+*   **Exclusions:** Biopics and stories based on real people were removed
 
 ## Included Movies
 The dataset currently includes the following titles:
@@ -79,7 +73,7 @@ root/
 Located in `movies/[movie-name]/`:
 
 *   **`chars`**: A text file listing all characters found in the script, lowercase, separated by `\n`.
-*   **`chars_dict`**: **[INSERT FILE TYPE, e.g., JSON or CSV]** containing characters and their frequency of appearance.
+*   **`chars_dict`**: Json file containing characters and their frequency of appearance.
 *   **`script`**: The full official script text.
 
 ### 2. Dialogue Interactions (`/dialogue_interactions`)
@@ -137,33 +131,8 @@ Keyed by the Interaction ID (index) corresponding to the dialogue file.
 *   **Relationship Categories:** `Platonic`, `Romantic`, `Antagonistic`, `Professional`, `Familial`.
 *   **Evidence Type:** `Implied` or `Definitive`.
 
-## Usage
-
-**[INSERT INSTRUCTIONS ON HOW TO LOAD THE DATA, e.g.:]**
-
-```python
-import json
-import os
-
-# Example: Loading a dialogue interaction
-with open('dialogue_interactions/anora/anora_ani_ivan.json', 'r') as f:
-    data = json.load(f)
-    print(data[0]) # Prints first interaction block
-```
-
 ## Source & Attribution
 
-*   **Scripts Source:** **[INSERT SOURCE OF SCRIPTS, e.g., Deadline "Read the Screenplay", Studio sites, etc.]**
-*   **Processing Method:** **[INSERT BRIEF NOTES ON HOW CHARACTERS WERE EXTRACTED/PAIRS IDENTIFIED]**
+*   **Scripts Source:** Imsdb.com, indiewire.com, scriptslug.com
+*   **Processing Method:** Mostly manual
 
-## License
-
-**[INSERT LICENSE HERE, e.g., MIT, CC-BY-NC, or "For Educational Use Only" due to copyright of scripts]**
-
-## Citation
-
-If you use this dataset in your research, please cite:
-
-```text
-[INSERT CITATION FORMAT HERE]
-```
