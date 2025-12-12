@@ -1,0 +1,45 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "text": "Person B: We have to go outside to smoke that.\nPerson B: It\u2019s been requested.\nPerson A: We\u2019re watching a game.\nPerson B: It\u2019s alright. It\u2019s not worth it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5,
+          7,
+          9
+        ],
+        "text": "Person B: C\u2019mon. Those are my sisters. I can call them bitches, you can\u2019t.\nPerson B: Shhh! Stop. For real, I don\u2019t need the drama.\nPerson B: Just lower your voice.\nPerson B: Quiet. For real, just shut up. You\u2019re yelling.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: I want to say bye to Vincent.\nPerson B: Okay, you coming in with me?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8
+        ],
+        "text": "Person B: We can\u2019t let them down now, this is when the people need us most.\nPerson A: That\u2019s true, but still extremely dangerous. But then you know that.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You can photograph the mission, and me, but he doesn\u2019t want to risk his family in Spain seeing him.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

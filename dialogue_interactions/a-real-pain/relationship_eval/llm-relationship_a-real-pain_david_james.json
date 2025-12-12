@@ -1,0 +1,100 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Dziki bardzo, Marta. Let me guess: David and Benjamin.\nPerson A: Yes! Hi! I didn't mean to accost you! I just wanted to intercept you in case you couldn't find us.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: You sure don't want to go up?\nPerson A: Uh, yeah, I'm great. I got s ome good shots earlier when it was empty, so...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Benji, is everything okay?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Hey, James? I should probably go back there. At least bring him his food.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I wan t today to be as vibrant as it is melancholic. Lublin has such a rich Jewish history. It was actually called The Jewish Oxford. It was diverse, intellectually and culturally. It was progressive, open, welcoming. And it's hard to say whether the Jewish community was attracted to Lublin for these reasons or if the Jewish community was responsible for these local virtues. It's probably a little o f both. But I want today to feel enlightening. To understand the scope and importance of Jewish contributions. This is the Lublin of Rebbe Horowitz, the Seer of Lublin, of Isaac Bashevis Singer, of poets, writers, merchants, intellectuals.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yeah, she was just one of    these bygone, realist types you    don't see anymore. Blunt and tough--   I was scared shitless of her my    whole childhood.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: But grandma never pitied herself -- she said she was grateful for her struggle.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: No, it's okay. David, I'm sorry.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person A: And did you give him one?\nPerson B: Yeah?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Got your whale?\nPerson A: I give it two weeks, bitch.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Where is he?",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

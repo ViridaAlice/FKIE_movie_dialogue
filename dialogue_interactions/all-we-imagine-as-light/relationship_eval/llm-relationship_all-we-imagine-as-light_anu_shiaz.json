@@ -1,0 +1,156 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person B: oh wondrous rain clouds...don\u2019t thunder too loudly... my lover is sleeping ...\nPerson B: Clouds with your naughty ways, are only causing a flutter in my heart. My lover is far away and maybe you can carry this message to him.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: I am thinking of U...wen do I C U",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Same time :) But we better not get late today. Prabha is getting suspicious",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: I know you had that pet duck as a kid!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6,
+          7
+        ],
+        "text": "Person A: He got some 4 likes on tiktok and now he wants to put up new songs every week. That fucker... he saw my t shirt and forced me to swap with him. He said it was more \u2018youtube appropriate\u2019 Then when I asked him for it back he started abusing me... !\nPerson B: Well..you do have nice clothes.. He must be jealous of you!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          13,
+          14,
+          15,
+          16
+        ],
+        "text": "Person B: I feel your heartbeat.\nPerson A: It is beating very fast...\nPerson B: Can you feel mine?\nPerson A: Yea....",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          12
+        ],
+        "text": "Person A: Aunty and Uncle are going to a wedding tomorrow night.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          9,
+          13
+        ],
+        "text": "Person B: Why would I have a burqa, Shiaz!\nPerson A: No need to scrunch up your pretty face, detective.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: U can\u2019t come here!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Everyone came back early..Nikah cancelled.... the Harbour Metro Line is flooded... :( Dnt b mad.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I wish I cd sit w U.\nPerson A: I like your yellow dress!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Will you be long?\nPerson A: Kiss me again...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          25,
+          26,
+          27
+        ],
+        "text": "Person A: I have been scared since I met you.\nPerson A: I used to ask myself many times... if I was doing the right thing being with you....or it would have been best to stay apart.\nPerson A: But then ...when I am with you\u2026 I don't know what it is\u2026 I feel not afraid at all.. As if this Is the most natural way for us to be.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          30,
+          31
+        ],
+        "text": "Person B: Our love is endless like the sea.. We shall flow with it wherever it takes us...\nPerson B: You wrote it... didn't you?",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

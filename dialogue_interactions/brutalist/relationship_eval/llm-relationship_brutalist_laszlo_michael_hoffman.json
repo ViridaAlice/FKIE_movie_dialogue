@@ -1,0 +1,52 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Theaters, synagogues- Restorations. Some, quite unusual.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Where is it you come from, if you don't mind my asking? I can't place the accent.\nPerson A: Ravaged during the war- just terrible.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: He is gone, but everyone is still frightened that people like me are a threat to your national defense-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          11
+        ],
+        "text": "Person B: I can feel you nearer to me now than ever before.\nPerson B: Your love, Laszlo",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

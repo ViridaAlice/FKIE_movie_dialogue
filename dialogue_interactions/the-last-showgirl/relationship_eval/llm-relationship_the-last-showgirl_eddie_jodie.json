@@ -1,0 +1,41 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Hi girls, Annette. Nice to see you.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          6,
+          7,
+          8
+        ],
+        "text": "Person B: That is insane!! Did the tiger swat at you?\nPerson B: ...They\u2019re very well-trained, huh?\nPerson A: Very. It\u2019s impressive.\nPerson B: I mean that\u2019s scary though.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Eddie, you okay? I swallowed a teeny fish bone, did you too?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: We are here for our honeymoon you see, and our train got very late so...",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          13
+        ],
+        "text": "Person B: Can\u2019t you make an exception? It is our honeymoon after all?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

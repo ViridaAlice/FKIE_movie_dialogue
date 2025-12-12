@@ -1,0 +1,35 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Desideria. It only grows here. This place is really special. The people are beautiful. We're fully sustainable. Everything we use here is native to the island. The fabric, the produce, got our organic herb garden, got our chickens. Cody's a great chef, cooks all of our meals. Got our cold plunge, the sauna's up and running. That's not from here. So yeah, a little slice of paradise.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: There is no forgiveness. There's only forgetting. Which you're incredible at by the way. You forgot the entire place. I didn't know it could do that. I mean, this is amazing. You're amazing. You inspire me! You make me think bigger. Imagine what humans can do if we were just free from our trauma. Oh, this is gonna be great. Like, my sister. She's so fucked up, cuz she remembers everything. \"How could you play tennis with that man after everything he did to us when we were little?\" And I'm over here like, \"What'd he do?\" You know this was never about sex right? This is about creating a safe space. Where we can learn about ourselves. With no judgement, no shame. Because There is no past. No future. Just me and you. Right here. Right now. And you came back. You didn't leave me. Let's Start fresh. What do ya think?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          8,
+          9
+        ],
+        "text": "Person B: SLATER Oh my god, what happened to Vic?!?\nPerson B: Oh shit--",
+        "SLATER Oh my god, what happened to Vic?!?": "",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

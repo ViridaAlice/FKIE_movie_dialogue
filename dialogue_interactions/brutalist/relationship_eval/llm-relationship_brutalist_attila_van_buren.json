@@ -1,0 +1,15 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          6
+        ],
+        "text": "Person B: Your son, Harry, told us not to expect you until tomorrow-\nPerson A: -we brought her here for some peace and respite only to discover a strange Negro man roaming around our property.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

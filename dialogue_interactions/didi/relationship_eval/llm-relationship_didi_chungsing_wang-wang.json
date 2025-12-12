@@ -1,0 +1,54 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: [Didi.] [Didi. Eat a little more.]",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: [I can\u2019t look at you?]\nPerson B: [I\u2019m looking at you! I\u2019m looking at you!]",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Mom, no. Leave. Just get out, get out, get out.\nPerson A: Sorry guys...my mom\u2019s like...super annoying....",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10,
+          11
+        ],
+        "text": "Person A: [Do you remember when Vivian ran away when she was 14?]\nPerson A: [She asked me to sleepover at Annie\u2019s house, and I didn\u2019t let her. She got so mad at me. I still remember she looked at me and said, Mom,] I just want you to know that I hate you...I feel so hurt. [And then, she ran away. She was gone for three days. I was so scared. Then, one day, she just came home. She didn\u2019t talk to me. Wouldn\u2019t look at me. But I was so happy...] [Compared to her, you are not as stubborn. So I knew you would come home.]\nPerson A: [Didi, you know. Sometimes I sit and think about how I ended up here. Just an ordinary housewife. And it is true. I do wonder sometimes...is this it? What would my life be like if I didn\u2019t marry your father and have you and Vivian. Would I be happier? Maybe now I would be a successful artist in New York City with my own studio and gallery. I allow myself to dream. But then, as soon as I see you, I know - this is where I want to be. Didi, being your mother is really difficult, but getting to watch you and Vivian grow up here, make friends, and learn so many things I can\u2019t teach you, I realize...you are my dream.] I\u2019m so proud. [But with your dad not around, and Nai Nai always criticizing me for how I raise you and Vivian - sometimes it\u2019s really too much. And sometimes I think...maybe I failed as a mother. But I know - no matter what - I must do my best to love you both. That is my duty.] But it is a little hard.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

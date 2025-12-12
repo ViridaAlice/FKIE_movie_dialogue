@@ -1,0 +1,63 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I know predators, and those, are predators.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Only one animal is big enough to stop this.\nPerson A: We, have suddenly taken an interest in your project.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: We can fight them off as many times as we need to.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You know, I\u2019ll be chasing you again tomorrow. Nah, just kidding.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Well, if I know Roz, she\u2019s making a plan to come back. And a Rozzum always completes its task.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

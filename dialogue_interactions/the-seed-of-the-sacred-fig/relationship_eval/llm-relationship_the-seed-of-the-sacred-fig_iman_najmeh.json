@@ -1,0 +1,405 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: May God rest his soul; I wish your father was here with us to see this.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          7
+        ],
+        "text": "Person A: Tonight, four of us will go to a restaurant. We'll have a little celebration for your promotion, and then we'll have a conversation as well and share some things with the kids.\nPerson A: Sana, keep it down dear, your dad is sleeping.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          17,
+          18
+        ],
+        "text": "Person A: Hello Hello, do you feel better? Oh, good, thank God No, I couldn't sleep last night I fell asleep near dawn where? why?\nPerson A: No, in the afternoon, the kids and I are going to do some shopping together. Rezvan needs to buy some clothes for the university, and Sana also wants to buy her school stationery okay no, if it's like what you\u2019re saying, we won't go okay.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Yes, my darling?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          12,
+          13
+        ],
+        "text": "Person A: Remember you promised to buy a dishwasher in a good opportunity? The hands of me and the girls are getting damaged. Can't we do it sooner?\nPerson B: sure honey, next week we\u2019ll go and buy it together.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7,
+          9,
+          10,
+          11,
+          12
+        ],
+        "text": "Person B: There is always work. Do you know when was the last time we sat at the same table with the kids?\nPerson A: You explain to them and calm them down.\nPerson B: Can you please spend some time with the kids tomorrow morning before you leave?\nPerson A: I like to very much, but I must be at the prosecutor's office early in the morning. Tomorrow night\u2026 Tomorrow night I will come home early so that we can have dinner together.\nPerson A: By the way, don\u2019t let them go to school or university until I tell you otherwise.\nPerson B: How can they not go to school and university?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: how are you honey, how is Alireza?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "text": "Person A: Rezvan wasn\u2019t in these riots, was she?\nPerson B: No, she wasn't. But they took one of her close friends. she is worried about her and is very sad. She doesn\u2019t come out of the room.\nPerson B: Does anyone know who arrested them? Where do they take them?\nPerson A: Why does Rezvan have such friends?\nPerson B: My dear, she can't do an entry test for making friends. They met at the university and became close. The poor girl didn't do anything at all.\nPerson A: anyone who is arrested, and their family says that they didn\u2019t do anything.\nPerson B: My dear, I am telling you. This girl truly hasn\u2019t done anything. She\u2019s been pushed into the crowd.\nPerson A: It is enough that she got arrested at a gathering.\nPerson B: Now, can't you get any news about this child and relieve her family from worry?\nPerson A: How do I do that? God knows where she is now. They have to wait.\nPerson B: For how long?\nPerson A: Until she starts talking. They keep her in solitary until she sits in front of the camera and confesses everything.\nPerson B: What to say when she didn't do anything?\nPerson A: There is always something to confess in front of the interrogators' cameras.\nPerson B: Does that mean you can't do anything?\nPerson A: At this stage, no.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Enough, don't argue with your father like that, have some respect.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Not even as a father, but as someone who has been working in this system every day as long as you lived, don't I know what's going on better than you?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          15
+        ],
+        "text": "Person A: Relax, my dear... sit down. Sit down.\nPerson A: Yes, darling?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I told you. The kid is frightened. They didn't even know you had a gun. Go to the prosecutor's office, maybe you don't remember and you left it there.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: One of you took it, am I right?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: Your father is about to have a stroke. If something happens to him, it's your fault!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Who can these children trust in the future? you? me? their friends?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5,
+          9
+        ],
+        "text": "Person B: What do you suggest I should do then? Who can I trust? Can't you see I'm stuck? This house is poisoned with mistrust. Do you know what will happen if anyone finds out in the prosecutor\u2019s office? Do you know what will happen if they say that his children or his wife have stolen his weapon?\nPerson A: You said yourself that they record the interrogations.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          11
+        ],
+        "text": "Person A: I\u2019m worried about this family.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          9,
+          12,
+          16,
+          26
+        ],
+        "text": "Person A: Iman Sana is just a kid. This is your house, not the courthouse. don't look at them like criminals.\nPerson A: Why? Whatever happens, you have your family in the end.\nPerson B: You know better than anyone that I came from the lowest social class, without any acquaintances or help, I was able to reach here only with personal effort and honesty.\nPerson A: Then go to their room and hug them.\nPerson A: You should spend more time at home. Get close to them. Shape their mindset.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: My dear, no one rang the doorbell.\nPerson A: Are you alright honey?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person A: what are you worried about?\nPerson B: where is your phone?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Be at the table in five minutes, I want to talk.\nPerson B: Until today, I tried my best to provide for your comfort and peace. But now I am worried about this situation. Strange things have been happening for a while. We are all tired and we don't want these bad incidents to continue. We will leave Tehran for a few days. We are going to my father's house. You have loved that place since you were a child, but I haven't had a chance to take you there in a few years. Now is a good time. We are going to be the family we used to be again. For now, phones stay with me. In these few days, we stay away from news and events and instead try to solve our problems. We will leave in an hour.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I will not allow anyone to harm me and my family.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: I swear on your father\u2019s grave, let it go.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Don't you get out of the car.\nPerson B: Lie down on the ground, come on, quick. Drop your phones and lie down on the ground.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Find the keys before it gets dark because there are many wolves out here. Thank God that I let you live, out of respect for my wife and children. I hope it will be a lesson and you will not make such mistakes again.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: Why didn't you say that the gun was found?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5,
+          10,
+          11
+        ],
+        "text": "Person B: It was me... I have the gun.\nPerson B: I did not lie to you.\nPerson A: You are lying!\nPerson B: I\u2019m not lying.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2,
+          4,
+          12
+        ],
+        "text": "Person A: Ah... So, it was you? It\u2019s hard to believe... are you sacrificing yourself for them? Are you taking the blame for one of the girls? Does that mean more lies on top of lies, again?\nPerson A: So I lived with a liar for twenty years! What other lies have you told me?\nPerson A: Ah, the deception of you women. \u201cHe said, It is part of your plot. Indeed, your plot is great.\u201d",
+        "type": "Implied"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Dear mom, come and sit on this chair, and answer your dad's questions, please. Don't be bitter, let things calm down.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Rezvan, honey, you have the gun with you? Give it back and we\u2019ll go back to Tehran. I swear to God, I'm about to have a stroke.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Iman, what\u2019s wrong with you? Open the door, Iman, we are your family.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Iman, where is Sana?\nPerson A: In a few hours, the weather gets cold, the child will get sick. The night here is not safe, there are wild animals out there. Let's go find her.\nPerson A: Iman, what\u2019s wrong with you? Open the door, Iman, we are your family.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6
+        ],
+        "text": "Person A: Don't move.\nPerson B: I\u2019ll move. what do you want to do? Is there anything left that you haven\u2019t done already? You just didn't shoot...shoot then.\nPerson A: Be quiet, don't speak, sit down.\nPerson B: I\u2019ll speak, we won\u2019t sit.\nPerson A: I\u2019m telling you to sit down.\nPerson B: I won\u2019t.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "23": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: For the love of God, let it go, Iman. Don't hurt the children, you destroyed everything, but why?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

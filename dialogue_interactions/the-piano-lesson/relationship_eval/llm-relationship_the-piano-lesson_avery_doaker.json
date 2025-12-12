@@ -1,0 +1,63 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Berniece say you all going down to the bank.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Tell him what you told me. Tell him about the three hobos.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Go on. I told him you was a preacher. He didn\u2019t want to believe me. Tell him about the three hobos.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: That\u2019s what I told Berniece. You working every day you ought to be able to borrow some money.\nPerson B: That be nice. You ought to go ahead and get married. Berniece don\u2019t need to be by herself. I tell her that all the time.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Well, let her find that out then. If Avery blessing the house is gonna make her feel better...what you got to do with it?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

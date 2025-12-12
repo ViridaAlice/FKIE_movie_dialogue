@@ -1,0 +1,131 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Cousin.\nPerson B: Cousin.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: I have a letter from her - your Erzsebet is alive and she is with little Zsofia. LASZLO lets out a deep emotional wail and holds his blood relative tight in his arms.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: For the employee restroom, you just exit the front door, and walk around back where I parked the car. There's a staircase there, it takes you up to our apartment. If you need anything just knock.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          14,
+          15,
+          16,
+          17
+        ],
+        "text": "Person A: Next month, I can put you on the payroll. You're welcome to eat with us upstairs on Sundays.\nPerson B: You and your wife have done quite enough.\nPerson A: Don't mention it.\nPerson B: No, I do mention- thank you, Attila.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: On the last job, they paid okay. They took on a lot of pieces though. Kept adding to the order. Even at a discount, it adds up...\nPerson B: Christ, is this guy trying to shake us? Does he think he's in a drag race? Come on, already!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9,
+          10
+        ],
+        "text": "Person A: I wasn't doing that. I was just telling him how much it will cost.\nPerson B: I thought he was about to blow it for us!\nPerson B: I did! I honestly did! I thought you were going to completely blow it but you held your ground. That's what makes you a professional.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: The long panels, yes. The shelves themselves, however, can vary in height to accommodate the larger volumes our client had been stacking on the floor.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Everyone all right down there?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Laszlo is a licensed architect. He supervised the renovation. And I- I've done business with your son before. I have a furniture shop, Miller and Son's, down in Kensington.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: You run my clients out the door? You make a pass at my wife? She told me! Of course, she told me. What did you expect?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          10
+        ],
+        "text": "Person A: Hell, what did I expect? You couldn't keep your hands to yourself even when we were kids. Listen up, I won't tell Erzsi this time. I know you've been through a lot. That's what I told Audrey, too. I'm not going to hurt you, but I can't help you anymore either, got it?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

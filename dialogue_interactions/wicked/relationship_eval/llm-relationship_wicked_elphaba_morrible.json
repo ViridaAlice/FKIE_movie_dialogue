@@ -1,0 +1,124 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: Oh, Miss Elphaba...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6,
+          8,
+          9,
+          10
+        ],
+        "text": "Person A: I hear there was an unfortunate disturbance in Doctor Dillamond's class today. That must have been distressful for you.\nPerson B: Someone wrote those horrendible words, on purpose, for him to see-- I just wish--\nPerson B: That there was something I could do! Because no one should be--\nPerson A: No one should be what?\nPerson B: Scorned, or laughed at, or looked down upon, or told to stop jabbering AND KEEP QUIET!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          8
+        ],
+        "text": "Person A: This is your chance. To make good. Of course, you'll have to prove yourself first.\nPerson A: Don't be so pessi-mystical. You'll find a way. I have faith in you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Don't be discouraged if you can't decipherate it, Dearie, I myself can only read a word or two, and that took years and years of--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Chistery! Are you all right?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: It's just the transition, Dearie...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: I knew it! I knew she had the power, I told you!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Spies??!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: You've known all along... from the moment you met me.\nPerson A: You w ill benefit, too, Dearie. You must trust me--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: You can't read this book at all, can you?\nPerson B: That's why you need spies. And cages... and an enemy. You have no real power.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

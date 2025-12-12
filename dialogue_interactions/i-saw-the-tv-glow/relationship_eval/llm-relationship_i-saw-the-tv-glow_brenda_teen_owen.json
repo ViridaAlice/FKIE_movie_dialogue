@@ -1,0 +1,39 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: All they found was her TV set burning in the backyard.\nPerson B: You have a fun time?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Mom?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: After that first sleepover, I couldn't work up the courage to say more than three words to Maddy Wilson at a time. But when I told her I still wasn\u2019t allowed to watch the show, she started leaving tapes for me...",
+        "type": "Implied"
+      }
+    ]
+  }
+}

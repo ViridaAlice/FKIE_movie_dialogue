@@ -1,0 +1,49 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Whoo! Slam it girlfriend. Has anyone seen my glasses? I feel like I'm losing my mind.\nPerson B: Whoo! Tangy. [BURP] Uhm, Stan just radioooo'd, by the way, on the thingey.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: STACY Do you like this? Do you like being a victim? They're gonna do what they're gonna do. You child. Do you think we bent over and took it because we're a bunch of idiots? You think you're special? You're the idiots.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person A: Forgetting is a gift, hon.\nPerson B: Well then merry fucking Christmas!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3
+        ],
+        "text": "Person A: Help... me ~~\nPerson B: ... Bitch, I tried.\nPerson B: `Check your vanity'.....",
+        "type": "Implied"
+      }
+    ]
+  }
+}

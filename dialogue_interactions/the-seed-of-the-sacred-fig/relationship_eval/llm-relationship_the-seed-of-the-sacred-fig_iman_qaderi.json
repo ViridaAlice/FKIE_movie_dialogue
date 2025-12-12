@@ -1,0 +1,58 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          8,
+          10,
+          12
+        ],
+        "text": "Person B: Whether you read it or not, you must write the sentence and sign it. It\u2019s the prosecutor's order.\nPerson B: The boss doesn't like you. He was against your transfer here right from the beginning. He wanted to bring his person. I insisted. And now he\u2019s waiting for the tiniest mistake on your part.\nPerson B: especially in this case which is a direct order from the prosecutor.\nPerson B: Prosecutor's order... is the law, do you understand?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5
+        ],
+        "text": "Person A: Now, the prison sentence aside, the main issue is your professional credibility. It hasn\u2019t even been two weeks since you came here. It\u2019s a disgrace! All the gossip! They\u2019ll say he couldn\u2019t manage to keep a gun for two weeks.\nPerson A: Based on what you say, I have no doubt that the gun is still in the house. Maybe if you don't do anything for a few days, the one who took it brings it back.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          9,
+          11,
+          19
+        ],
+        "text": "Person B: Is it possible not to?\nPerson B: I can't believe that my children did this.\nPerson B: No, I trust her completely.\nPerson B: How though? Alireza is my friend, he has been to our home many times. We\u2019ve been to their place. His wife is friends with my wife. His children are friends with my children. How can I ask him to interrogate them now?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person B: Take this situation seriously. Write a letter to the head of the prosecutor's office right now. explain that your private\nPerson B: information has been leaked in cyberspace, and you are in danger. Request an institutional home with high-level security in a safe area. Take this letter to the president's office, register it, and go back home quickly. Take your wife and children and go to a safe place for a few days until things clear out.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

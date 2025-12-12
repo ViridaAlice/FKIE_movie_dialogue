@@ -1,0 +1,59 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Your cousin better show some respect around here or he ain't getting shit from the girls.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Gentlemen, please meet Ani. She'll take care of you tonight. Let me know if you need anything.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Thank you Ani! Love you! Thank you very much.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          4
+        ],
+        "text": "Person A: What? We just gave you New Year's.\nPerson A: Thank you Ani! Love you! Thank you very much.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: She hit the Lotto, PowerBall and Mega Millions, bitch.\nPerson A: So this is for real? Because if so, I got to stop letting high rollers in. They're stealing my girls.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Just this one. She offers the box of costume jewelry to her sister.\nPerson B: Just don't let Eliana touch it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Let me get the dishes for you today, Eliana.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Where's Veroca going to sleep now that I'm in her bedroom?\nPerson A: Can't Eliana sleep with Marcelo and Babiu and I stay with Veroca?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I think Joaquim does her good.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

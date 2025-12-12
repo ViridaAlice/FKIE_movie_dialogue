@@ -1,0 +1,34 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Open the gate.\nPerson B: Ani crawls off of him.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Ivan having one of his tantrums?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person A: Fucking Russians.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

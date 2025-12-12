@@ -1,0 +1,149 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What was you and Lymon doing over in Stoner County?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          3
+        ],
+        "text": "Person A: Berniece, what\u2019s the matter? You alright? What\u2019s the matter?\nPerson A: That\u2019s alright. Take your time. You alright. What\u2019s the matter?\nPerson A: Hey, Boy Willie?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Go on, Berniece.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I told the nigger he left out of here with that sack of money, we thought we might never see him again. Boy Willie say he wasn\u2019t gonna see him till he got broke. I looked up and seen him sitting on the doorstep asking for two dollars. Look at him laughing. He know it\u2019s the truth.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Come on, Berniece...let it go, it ain\u2019t his fault.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Mama\u2019s here, baby. What happened?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Come on in, Avery, and have a seat. Don\u2019t pay neither one of them no mind. They been arguing all day.\nPerson B: Here, set this comb back over there on that stove. Don\u2019t pay Boy Willie no mind. He been around here bothering me since I come home from work.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Avery get him his church you all can make it nice. Berniece said you was coming by to bless the house.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I wish Boy Willie would go on and leave my house. That\u2019s what I wish. Now, he can respect that. \u2018Cause he\u2019s leaving one way or another.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Maretha, get on out the way. Get her out the way, Doaker.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Wining Boy, sit down somewhere. You been out there drinking all day. Come in here smelling like an old polecat.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Avery, go on and bless the house.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

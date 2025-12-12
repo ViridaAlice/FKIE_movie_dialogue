@@ -1,0 +1,188 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          11
+        ],
+        "text": "Person A: Zsofia, dear.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          12
+        ],
+        "text": "Person A: Welcome to America.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          11
+        ],
+        "text": "Person B: I love you, you cow.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          17,
+          18,
+          19
+        ],
+        "text": "Person A: Laszlo, I know. I know. I know everything. You see, I became sick. Very sick. I could hardly breathe. I yearned to be with you and it made me sick. I almost died. Between life and death, I began having fantasies about you but I realized they were not fantasies at all, but visions! I was with you. All the time I was with you.\nPerson A: Laszlo, I know what you've done. I'm not jealous because I was with you the all the time. I know everything that has happened to you, and I am here now and I will never leave you.\nPerson B: Oh god! MY LOVE. MY LOVE!     I CANNOT",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          11
+        ],
+        "text": "Person B: I am forfeiting the remainder of my fee due to some expenses unforeseen.\nPerson B: -your salary?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          6
+        ],
+        "text": "Person B: Oh, I'm just looking at you.\nPerson A: Yes. Inside, you must look upwards.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: It's too much!\nPerson A: The pain is too much. I need Zsofia! She has my medication.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person B: Darling, it's over.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Please. Zsofia, go ahead.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          6
+        ],
+        "text": "Person B: I don't like that man.\nPerson B: He dropped you as quickly as he took you on.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: It's not just this trip. You'll be at Doylestown again now... I'll be fine on my own.\nPerson A: Promise you won't let it drive you mad.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Your childish show-boating puts everyone else here at risk! Are you thick?! Are you lame?! You report to the subcontractor. You tell him that you've been let go.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Gordon, can you get him to stop shouting at everyone?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          15,
+          23,
+          35,
+          36
+        ],
+        "text": "Person A: Speak for yourself! I am NOT finished. Living with you is impossible. You've become a selfish old bastard right before my very eyes!\nPerson A: You would never do that.\nPerson A: You poor man. My poor husband. What's been robbed of you-\nPerson A: Do you have more?\nPerson B: I love you.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          34,
+          37
+        ],
+        "text": "Person B: Shh. You'll feel better soon, just listen to my voice, dear.\nPerson A: Keep going. Harder.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4
+        ],
+        "text": "Person A: What did you do to me, my Laszlo?\nPerson A: Do you remember everything you confessed to me at home in our bed?\nPerson A: You needn't be ashamed, my darling. The harm done unto us were done only to our physical bodies.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5,
+          6,
+          7,
+          9
+        ],
+        "text": "Person B: I'm sorry about this, Jasper. Claude sent me to...\nPerson B: Uh, Claude said to get your mic and transmitter.\nPerson A: So, who's going in my place?\nPerson A: You? Oh...\nPerson A: Yeah, yeah. Eh, makes sense - you got this unreadable face, perfectly forgettable.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You only get one first impression. Don't fuck it up. You're not wearing those in there, are you?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Public good?! What you did was one of the most unprofessional things I\u2019ve ever witnessed. See? This is what happens when you send an untrained boy to do a man\u2019s job.\nPerson A: You let the jury decide that - at least you got 'em in custody.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Well, we'll never know since this weirdo let her off before she could start incriminating herself. It was, let's say, an unusual outcome, and it'll be written up as such.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Okay, well I'll let you guys get back to your dessert. Just wanted to say hi. Have a good night. Enjoy the weekend.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: What are we doing? I got no notice, I got no research, feel like I'm going in naked.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: This is when you actually have to be good at your job. Halloween's over. No more costumes, man.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Mike?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "text": "Person A: No, you sure can't with that attitude. If they're uneasy, you put 'em at ease. From my perspective, you're getting a little sloppy.\nPerson B: Maybe so. Look, I wanted to talk with you about the other night...\nPerson A: Oh?? What about it?\nPerson A: Oh, her? Hey, I get it, man. All makes sense to me now. It's cool - I've fucked my share of suspects. It's no big deal - it's good for ya.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          12
+        ],
+        "text": "Person A: Nothing. Look, we're friends, right, Gary? I'll let you in on something, over the years, I've sort of learned to follow my nose on these hunches that I have and - usually something turns up pretty interesting... valuable.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          10
+        ],
+        "text": "Person A: You see, I went back and listened to that conversation that you guys had, and it just took on a whole different layer of meaning for me. You really knew what button to push with that whole boyfriend line, huh?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Yeah, that was Madison.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "text": "Person B: Yeah. Question: when you ran into her, were you Gary or were you the hitman - which one were you going under on that one?\nPerson B: Okay, so you're still Ron the hitman to her?\nPerson A: Who else would I be?\nPerson B: This is great. Look - she forever knows that he knows that she wanted to kill the guy, and she must like him or trust him enough to be sharing a Sundae at Ted's Frostop. Let's face it - they got the goods on each other, I mean, she'd never in a million years suspect he's recording their conversation. I think we got an opportunity here.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Nail her on the insurance policy.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Yeah, I tend to agree. I don't think she did it. Great work in there, Gary.\nPerson A: Nah, he just seems like some guy who pulled a gun on an asshole in an alleyway. Nothing much happened.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I was literally just telling Madison what phenomenal actors you guys are. So, I had to get backstage, poke my head inside the green room. Your performance was flawless, but you, you my friend, knocked my fucking socks off. Maybe I never gave you enough credit, Gary. Or... Ron. Sorry. Gary...Ron... I get them mixed up sometimes. Do you?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: You think anybody gives a shit? You've already played your hand here, so fuck you, get lost!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Because there isn't anything. That we're dating?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh, Jesus Christ, Gary! Enough. Ok?! Enough! Ok?! Cut the bullshit. Here, I'll go first, alright? I've been following both of you. And I'll be even more honest, I wanted my job back. Nothing against you personally, ok, but holy shit! I've got enough evidence to put you away for life, and you... accomplice to murder? Whoooa dogggie. You're gonna be there for a while, and the only reason that I'm 100 percent sure you did it, is because I'm 100 percent sure that your Mr. Tough Guy here couldn't fucking kill a thing.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

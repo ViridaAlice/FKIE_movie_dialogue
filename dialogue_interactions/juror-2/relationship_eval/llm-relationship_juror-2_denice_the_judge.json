@@ -1,0 +1,31 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: With all due respect, Your Honor, this has not been a typical deliberation.\nPerson B: I see. Mr. Resnick. Any objections?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "text": "Person B: Yes, your honor.\nPerson A: In the matter of State V. James Michael Sythe, Case No. CR2021- 1715532, Count 1, Malice Murder\nPerson A: \u201cWe the jury find James Michael Sythe GUILTY of Malice Murder.\u201d Dated and signed this day, Denice Aldworth, foreperson.\nPerson A: Madame Foreperson, to the best of your knowledge, was that your verdict in the jury room, was it freely and voluntarily given, and is it still your verdict?\nPerson B: Yes, Your Honor.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

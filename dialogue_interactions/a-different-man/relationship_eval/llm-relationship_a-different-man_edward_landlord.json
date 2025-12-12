@@ -1,0 +1,38 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: A little lumpy. See, Ollie? He knows. Salamunovich says, nah, don\u2019t worry about it, it\u2019s just a gland. You know Salamunovich?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Must be somebody else.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person A: Rodriguez moved to Key West, married some guy he met on his iPhone. Nestor\u2019s his relation of some sort. A good man, and then his mother died, very sudden as I understand it.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

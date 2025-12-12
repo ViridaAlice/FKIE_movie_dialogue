@@ -1,0 +1,322 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I just wanted to tell you... Mary was in Lola\u2019s a little while ago. She asked me to tell you she would be in the Ship Ahoy later on, around five.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Will you be around tonight?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5,
+          6,
+          9
+        ],
+        "text": "Person B: At this point we\u2019d really had enough of his bullshit, so we locked him up in a cellar.\nPerson B: He kept typing out confessions, enormous things...\nPerson B: I went to the door and there he was with a branch in his mouth.\nPerson B: It was about two feet long!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: You think he\u2019s queer?\nPerson B: I\u2019ve been seeing him for a few weeks --",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Enjoyed parts of it.\nPerson A: Yes... So did I.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: Hey, Jack! Dos martinis, much dry. Seco. And dos plates Sheeska Babe. Sabe?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Yes... But he\u2019s not a person I would confide too much in. That is... anything I wanted to keep private.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: A curse... Been in our family for generations... The Lees have always been perverts.\nPerson B: Poor Bobo came to a sticky end... He was riding in the Duc de Ventre\u2019s Hispano-Suiza when his falling piles blew out of the car and wrapped around the rear wheel.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7,
+          16,
+          17
+        ],
+        "text": "Person B: Can I show you over the house?\nPerson B: Over here we have the bedroom.\nPerson B: Let\u2019s get this sweater off.\nPerson A: Okay.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ],
+        "text": "Person B: No, no.\nPerson B: Oh, by the way...\nPerson B: You said you had a camera in pawn you were about to lose?\nPerson A: Yes. In for four hundred pesos. The ticket runs out next Wednesday.\nPerson B: Well, let\u2019s go down tomorrow and get it out.\nPerson A: Okay.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ],
+        "text": "Person B: I know telepathy to be a fact, since I have experienced it myself.\nPerson B: I have no interest to prove it, or, in fact, to prove anything to anybody.\nPerson B: What interests me is how I can use it.\nPerson B: In South America, at the headwaters of the Amazon grows a plant called Yage that is supposed to increase telepathic sensitivity. Medicine men use it in their work. A Columbian scientist, whose name escapes me, isolated from Yage a drug he called Telepathine. I read all this in a magazine article.\nPerson B: Later, I see another article: the Russians are using Yage in experiments on slave labor. It seems they want to induce states of automatic obedience and ultimately, of course, \u201cthought control.\u201d The basic con. No buildup, no spiel, no routine, just move in on someone\u2019s psyche and give orders. I have a theory the Mayan priests developed a form of one-way telepathy to con the peasants into doing all the work. The deal is certain to backfire eventually, because telepathy is not of its nature a one-way setup, nor a setup of sender and receiver at all.\nPerson B: By now, the U.S. is experimenting with Yage, unless they are dumber even than I think. Yage might be a means to usable knowledge of telepathy. Anything that can be accomplished chemically can be accomplished in other ways.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ],
+        "text": "Person B: How about the T-bone steak for two?\nPerson A: That\u2019s fine...\nPerson B: They list baked Alaska here. Ever eat it?\nPerson A: No.\nPerson B: Real good. Hot on the outside and cold inside.\nPerson A: That\u2019s why they call it baked Alaska, I imagine...\nPerson B: Got an idea for a new dish: Take a live pig and throw it into a very hot oven so the pig is roasted outside and, when you cut into it, still alive and twitching inside. Or, if we run a dramatic joint, a screaming pig covered with burning brandy rushes out of the kitchen and dies right by your chair. You can reach down and pull off the crispy, crackly ears and eat them with your cocktails.\nPerson A: Well, if you insist.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          42,
+          43,
+          44
+        ],
+        "text": "Person A: I want a rum and coke.\nPerson B: Sure. Sounds good.\nPerson A: Let\u2019s go to the Ship Ahoy.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10
+        ],
+        "text": "Person B: I wanna speak... without speaking.\nPerson B: I wanna touch you... like the Russians... The Mayans...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person B: So who\u2019s going to cut in on your independence? You can lay all the women in South America if you want to.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          7,
+          9
+        ],
+        "text": "Person B: All I ask is be nice to Papa, say... twice a week? That isn\u2019t excessive is it?\nPerson A: I\u2019ll think it over.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3
+        ],
+        "text": "Person B: You know, I\u2019m thinking about buying a half interest in this place.\nPerson B: You exist on credit here, right? Tom says you owe 400 pesos.\nPerson B: Maybe, if I were half owner of the joint, you wouldn\u2019t be in a position to ignore me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          9,
+          10,
+          11,
+          12
+        ],
+        "text": "Person A: Are you awake, Gene?\nPerson A: Cold?\nPerson B: Yes.\nPerson A: Can I come over with you?\nPerson B: All right.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Right. High temperature.\nPerson B: The, uh, the prescription that works best is paregoric with bismuth.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person B: Of course, if you get hot pants between times, don\u2019t hesitate to let me know...\nPerson A: I\u2019ll give you... a buzz...",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          9,
+          10
+        ],
+        "text": "Person B: While we\u2019re in Ecuador, we must score for Yage.\nPerson B: Think of it: thought control. Take anyone apart and rebuild to your taste. Anything about somebody bugs you, you say: \u201cYage! I want that routine took clear out of his mind.\u201d I could think of a few changes I might make in you doll. You\u2019d be so much nicer after a few alterations.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          11
+        ],
+        "text": "Person B: You\u2019re nice now, of course, but you do have those irritating little peculiarities. I mean, you won\u2019t do exactly what I want you to do all the time.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ],
+        "text": "Person B: Come on out and dig the town with me. I saw some beautiful boys on the waterfront. The real uncut stuff. Such teeth, such smiles. Young bodies vibrating with life.\nPerson A: No.\nPerson B: They have maleness of course. So have I. I want myself the same way I want others... I can\u2019t use my own body for some reason.\nPerson B: What\u2019s the matter?\nPerson A: I thought you were going to run your hand down my ribs.\nPerson B: I wouldn\u2019t do that. Think I\u2019m queer or something?\nPerson A: Frankly, yes.\nPerson B: You do have nice ribs. Show me the broken one...\nPerson B: Is it this one here?\nPerson B: Or is it further down?\nPerson A: Oh, go away.\nPerson B: But, Gene... I am due, you know.\nPerson A: Yes, I suppose you are.\nPerson B: Of course, if you\u2019d rather wait until tonight... These tropical nights are so romantic. That way we could take twelve hours and do the thing right... L\nPerson A: Maybe it would be better now... You know how I like to sleep alone.\nPerson B: Yes, I know... Too bad.\nPerson B: If I had my way, we\u2019d sleep every night all wrapped around each other like hibernating rattlesnakes...\nPerson B: Wouldn\u2019t it be booful if we should juth run together into one gweat big blob? Am I giving you the horrors?\nPerson A: Indeed you are.\nPerson B: Do you mind that?\nPerson A: Not terribly.\nPerson B: But you do enjoy it sometimes? The whole deal I mean?\nPerson A: Oh, yes.\nPerson B: I\u2019m sorry.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5
+        ],
+        "text": "Person A: What is it?\nPerson B: Gene! Help me!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4,
+          7
+        ],
+        "text": "Person B: You think the doc and her husband are trying to go to bed with us?\nPerson A: What? All together?\nPerson B: Yeah... I guess you\u2019re right. The husband though... That\u2019s one horny bitch if I ever saw one.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

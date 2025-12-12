@@ -1,0 +1,26 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: I did tell them not to bother you.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I\u2019m so sorry, but I\u2019d be remiss if I didn\u2019t ask you one more question ...I wondered if you had received this booklet.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

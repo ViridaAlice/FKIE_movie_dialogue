@@ -1,0 +1,22 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: Okay, just..just be safe....promise me you won\u2019t do anything stupid.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Hey Chris. Can you give me a hand with something?\nPerson A: What happened to Fahad and Soup?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

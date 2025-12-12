@@ -1,0 +1,30 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          7,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "text": "Person B: We said goodnight. And then I went upstairs and I stayed up late reading a book that Martha had recommended\u2026 it\u2019s called Erotic Vagrancy\u2026 It\u2019s about Elizabeth Taylor and Richard Burton. Do you know it?\nPerson B: Martha and I both thought it was a lot of fun.\nPerson A: What did you do the following morning?\nPerson B: I had lunch with a friend\u2026 And then, when I came back, I called out to her, and when she didn\u2019t answer, I went straight to her bedroom, but she wasn\u2019t there. So I went out to the back yard, and that\u2019s when I saw her. At first, I thought she\u2019d fallen asleep on the lounge chair\u2026 I got very nervous. I called the ambulance\u2026 They came pretty quickly and, when the EMTs saw her, they said there was nothing they could do.\nPerson B: About what?\nPerson A: About her being in possession of this illegal compound.\nPerson B: No\u2026 I mean\u2026 I know she was taking medication for the pain, but she never shared specifics with me\u2026\nPerson A: Nobody buys this pill by accident unless they\u2019re thinking of suicide or killing someone.\nPerson A: So\u2026 it is strange, if the two of you were\nPerson A: I think that when she rented the house, she already knew what she was going to do\u2026 right?\nPerson B: It\u2019s very possible, but she didn\u2019t tell me about it. She was exhausted from the last treatment, and she wanted to take a month off before going back for the next round of chemo\u2026 Martha wasn\u2019t the type to throw in the towel.\nPerson A: She didn\u2019t complain? She didn\u2019t say anything that made you sense\u2026 the end? It\u2019s a great responsibility for you.\nPerson B: She complained, sometimes\u2026\nPerson A: What did she complain about? What did she say?\nPerson B: She\u2019d lost the capacity for attention, she couldn\u2019t read or write\u2026 for example. Her life had been reduced to surviving\u2026\nPerson A: I find it very hard to believe she didn\u2019t say anything\u2026 that made you suspect the end.\nPerson B: It was more than evident that she was very sick, but Martha wanted to go on vacation before going back to the hospital\u2026 I told you this already. I",
+        "type": "Implied"
+      }
+    ]
+  }
+}

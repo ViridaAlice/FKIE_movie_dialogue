@@ -1,0 +1,52 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Whatever. I'm busy, man. The fuck.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Get out now or I'll have my father fire your fucking ass!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: Ivan.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yes, you little shit. They are leaving Russia now.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Well, I'm out of here so fuck you.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

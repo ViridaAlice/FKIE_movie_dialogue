@@ -1,0 +1,175 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Hey dude, you got my lighter?\nPerson A: The super should be here soon, Will you grab the rent money?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person A: Missed that audition waiting for the super who never showed. So we still have black mold so I guess we're just gonna die now. How was your day?\nPerson A: Rich people have no sense of time.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person A: It's not. Stop giving away your power. You're not a human phone charger. Have some self-respect. I'm sorry. I love you. I just don't understand why you keep going back.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          9
+        ],
+        "text": "Person A: You're not alone. You have me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: Careful, you're gonna sprain your neck.\nPerson A: Yo. Seriously?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Ok, do this thing my aunt taught me. It's easy. East. West. East. West.\nPerson B: Oh, shit, it's Jennifer.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: But then, without warning. He's back.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: He's not a stranger. He's Slater King.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Do we consider that a red flag?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Is it weird there's like, clothes for us?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: Right. So, you think the human sacrifice is before or after dinner?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: No, no, no. Don't go.\nPerson A: Hi, we're just having a moment, do you mind?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9,
+          10
+        ],
+        "text": "Person B: Last night?\nPerson A: Yeah, did you have a good time?\nPerson B: I had a great time.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: It's like no one knows. Everyone's just laughing like nineteen sixties fucking flight attendants like \"you havin' a good time?\" \"Oh yeah, I'm havin' a great time.\" I'm scared Frida.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2,
+          4
+        ],
+        "text": "Person A: Okay, okay, we'll figure it out.\nPerson A: You scared me.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

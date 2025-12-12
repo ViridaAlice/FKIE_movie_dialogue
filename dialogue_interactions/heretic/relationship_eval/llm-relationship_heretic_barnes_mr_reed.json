@@ -1,0 +1,563 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Are you Mr. Reed?\nPerson B: Hello. Paxton. Barnes.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Mr. Reed we wanted to give you this booklet, as it will help you understand the restoration...",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: We can\u2019t come inside unless another woman is present. But we can stay in the doorway if that\u2019s fine?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: My wife loves to bake. May I take your coats?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I\u2019ll check on the snacks, have a seat? She\u2019s being shy. Just a minute longer on the pie.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Everybody worships social media. The only choice we get to make, as celestial beings on this planet, is who to worship. And I believe, anything other than worshiping a God will eat you alive.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Everybody worships social media. The only choice we get to make, as celestial beings on this planet, is who to worship. And I believe, anything other than worshiping a God will eat you alive.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "text": "Person A: I think we\u2019d consider that... ...refreshing to hear. Sometimes, it feels like, maybe, Religion is not at the center of the culture anymore.\nPerson B: It\u2019s been fading, hasn\u2019t it? Interest in religion.\nPerson A: Over time.\nPerson B: There are so many distractions. First it was theater. Then the symphony. The novel. Video games. And now, you\u2019re right, social media. I say this with no judgement. It is neither good nor bad. It is just... true.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Were you both raised in the church?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Blueberry disease? Oh that\u2019s wonderful. Who wouldn\u2019t want that?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Strange. I\u2019m really sorry. And I\u2019m sorry about the blueberry thing.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: No.\nPerson A: It\u2019s okay.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Time for... pie. Time for... enlightenment.\nPerson B: How do you feel about \u201cAwkward Questions\u201d?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Mormonism has a controversial history with the misogynist practice of men claiming multiple wives. But I\u2019m fascinated by the idea of Modern Revelation, which was used to erase this behavior from the church in 1890. I find that worthy of conversation.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Joseph used local newspapers to print advocacy for the concept of polygamy under pen names, years before God\u2019s prophecy about celestial marriage landed, in order to prepare his followers for future revelations that he would invent.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Let us talk with our bishop about some of the points you\u2019re raising. I\u2019m sure you don\u2019t have all the information.\nPerson A: Fast food? Try not to eat it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: We don\u2019t talk about Taco Bell.\nPerson A: Why don\u2019t we talk about Taco Bell?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: So not Jack in the Box, right?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Can we meet your wife? Please?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: wait One moment, Mr. Reed, we\u2019re getting a call from the Relief Society president. We\u2019ll be right there!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: So we just need your help with the door, it\u2019s a little tricky.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Which door leads outside?\nPerson A: Can you just unlock the front one, please? We\u2019d like to go that way.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Yeah I know, had a habit of blowing open in the middle of the night. Gusty out here. I don\u2019t mean to pressure you. I\u2019m self-aware enough to know how this looks. Older man. Two young women in his house. But I assure you, you\u2019re welcome to exit through the back - you saw my house from the outside, right?  Right, then you know it\u2019s a tiny footprint, so the back of the house is right through there. But I will leave you space to make that decision freely, of course. To clarify: I\u2019m trying to make it a point not to pressure you. You shouldn\u2019t even feel the need to fabricate an excuse about someone from your ward calling you to leave. You can leave at anytime you want - it\u2019s absolutely fine.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: I know, but you\u2019re saying you took a phone call with someone from your ward.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I mean the metal obstructs cell phone signals. So I know you didn\u2019t receive a call. And I just want to be clear, so that you feel comfortable, that it\u2019s totally fine if you\u2019d like to leave on your own accord. You should never feel like you have to make excuses.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Can we use your phone, please?\nPerson B: I do not have a phone.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "23": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Are you coming? I want the door that takes us outside.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "24": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Didn\u2019t you just say you saw the outside of my house?\nPerson B: Then you clearly saw the back of my house hangs over a hill. So you would know that you must go down in order to go out.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "25": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I think you can tell, that we\u2019re regrettably uncomfortable with this situation, here, tonight. And we... we... need your help to go home. And I think it\u2019d be best, for you, and all of us, if you help us get home. Because the Stake President knows where we are. And the Ward Missionaries know. And they\u2019ll be expecting us.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "26": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Right. But I think we\u2019re scared, because you lied to us earlier --\nPerson A: There\u2019s no pie...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "27": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Please stand over here. It\u2019s a simple choice. But it should not be made simply. You must reflect deeply. And make a sincere decision. Have you ever played the Parker Brothers game Monopoly?\nPerson B: Everything.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "28": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5,
+          6
+        ],
+        "text": "Person B: I disagree. I think that you have heard this song many times before. We\u2019ll come back to that in a moment. You are monotheistic?\nPerson A: We believe in Heavenly Father, yes.\nPerson B: A God that is all-knowing, all- powerful? A God that supernaturally intervenes in our lives?\nPerson A: Yes.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "29": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          4,
+          5
+        ],
+        "text": "Person A: My argument is that the holy texts before us are just mythological iterations of stories primitive people told each other for centuries, in order to cope with sickness, and death, and a cruel world that modern science could not yet explain. They are not real or true in any literal sense.\nPerson B: But there is evidence that supports the existence of Jesus of Nazareth. Mentioned by both Jewish and Roman historians --\nPerson A: It doesn\u2019t matter if Jesus lived and died. It matters if Jesus died and lived.\nPerson A: There is Horus, the Egyptian God, who predates Mithras by 2,000 years. Born to a virgin mother. Baptized in a river. Healed the sick. Cast out demons. Walked on water. Was crucified. Had 12 disciples. And was resurrected on the 3rd day. There is Krishna, the Hindu God, who predates Christ by 3,000 years. A carpenter who was born to a virgin mother. Baptized in a river. Tempted by demons. Performed miracles. Rose from the dead and ascended into heaven.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "30": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5
+        ],
+        "text": "Person B: It is either all true. Or none of it is true.\nPerson B: How you respond to my argument should determine which door you take.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "31": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: I want to know what\u2019s going to happen to us. Before we choose.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: What happens, then?\nPerson A: What happens if we choose the wrong door?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "32": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Follow my voice. The basement is too dark. Are you old enough to remember when taking a \u201cselfie\u201d was considered a humiliating display of insecurity?\nPerson B: There was this five second blip, circa 2011, where you wouldn\u2019t be caught dead posting a selfie to your social media page.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "33": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4
+        ],
+        "text": "Person B: Don\u2019t be scared. This is a beautiful moment. You are in the presence of a living Prophet of God.\nPerson B: Are you afraid to die?\nPerson A: Yes.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "34": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Acknowledge that it is just you and the Prophet alone together.\nPerson A: Feel her pulse. Both of you. The girls don\u2019t move. I want you to feel her pulse. RIGHT",
+        "type": "Implied"
+      }
+    ]
+  },
+  "35": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: No pulse.\nPerson B: Acknowledge that she is no longer breathing. Place your hand over her mouth. Do you feel a breath? Acknowledge.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "36": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: Then it will only be a moment longer. I have been witness to the death and resurrection of the Prophet seven times. Tonight will be the eighth. It will be the first with an audience.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "37": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Are my findings misguided or are they real? Let\u2019s start with that.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: No, if you didn\u2019t see something transcendental, you must tell me...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "38": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Was the Elder here?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "39": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: If I\u2019m wrong, I need to hear it. That\u2019s why you\u2019re here.\nPerson A: -- it\u2019s a contrived experiment, we are your prisoners. It makes no sense for us to have an opinion --",
+        "type": "Implied"
+      }
+    ]
+  },
+  "40": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          12
+        ],
+        "text": "Person A: I died when I was four years old. Ate a Chalupa Supreme that killed me. Fifty people were hospitalized from an E-Coli outbreak. The kids at school called me \u201cTaco Hell\u201d, because I was clinically dead while doctors operated on my kidneys. Paxton\u2019s hand discreetly moves into her coat pocket. She touches the LETTER OPENER. BARNES When I was dead, I saw exactly what your Prophet described. A blinding white light. Clouds, but not heaven. A sense of wanting to return. A feeling that my state of reality wasn\u2019t real. Paxton takes a deep breath. Mentally preparing. BARNES That wasn\u2019t a prophecy, that was a near death experience. As common to a dead person, as a wet dream to a drunk. When the oxygen leaves your brain, or your heart stops pumping, your mind creates unbelievable things. I think you\u2019ve been keeping this woman on the edge of death, in order to ask her questions about meaningless hallucinations, so that you can substantiate your idea of what the one true religion really is.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          13
+        ],
+        "text": "Person B: Did you know... that when you remember something, you\u2019re only remembering the last time you remembered that experience. You\u2019re not actually recalling the event. So your memory of dying at Taco Bell isn\u2019t of dying, it\u2019s of the memory of the memory of the memory of dying. Which is why you\u2019re remembering a false correlation to the experience you just witnessed. But this is happening right now. It\u2019s why you need to pay attention. We\u2019re not talking about \u201ca magic trick\u201d.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

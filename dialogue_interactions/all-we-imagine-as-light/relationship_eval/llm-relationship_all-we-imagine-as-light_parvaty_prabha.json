@@ -1,0 +1,117 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          9
+        ],
+        "text": "Person A: I had a word with doctor Supriya.\nPerson A: Oh no Parvaty, what did you do?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "text": "Person A: But when did he speak to you last?\nPerson B: Maybe... last year... or I think a little bit more. He called to wish me for Onam.\nPerson A: You know Nurse, when people live abroad for a long time, they can lose their mind or memory. It happens like that.\nPerson A: What are you going to do?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: That\u2019s Suresh...my son.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: Good for nothing lout...drunkard, like his father, isn\u2019t it? Its good you don\u2019t have kids, nurse... they are more of a burden than any help.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person B: What ? Of course there is Parvaty..We can still-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: We would know.... If you vanished... all of us at the hospital. We will miss you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You are the youngest, isn\u2019t it!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: You can take me to the city but I won\u2019t forget my traditional dishes.\nPerson A: The bungalow is an hour away from here. If I leave now, I can be back by 5...I only need to tell them I\u2019m here for the job...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: Anu\u2019s boyfriend.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person B: She should hold on to him if he followed her this far.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

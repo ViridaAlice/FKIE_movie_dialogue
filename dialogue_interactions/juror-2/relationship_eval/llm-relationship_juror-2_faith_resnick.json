@@ -1,0 +1,146 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          4,
+          6,
+          7,
+          8,
+          9
+        ],
+        "text": "Person B: Do you have something for me?\nPerson A: Voluntary manslaughter, with a recommendation of 20 years - 15 to serve, followed by 5 on probation. Standard conditions.\nPerson A: I\u2019ll even waive the recidivist statute, if he pleads before we strike the jury.\nPerson B: And admit to something he didn't do...?\nPerson A: Save that for the jury. Or better yet, plead your guy out and go back to your three-figure caseload.\nPerson B: My client wants a trial.\nPerson A: Then you're wasting my time. And your \"client's.\"",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10,
+          11
+        ],
+        "text": "Person A: He beat her viciously, pushed her over a railing -- into the creek below -- and left her to die.\nPerson B: James Sythe didn't attack her and couldn't have pushed her. Because he wasn't there.\nPerson A: James Sythe took an innocent life!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9,
+          10
+        ],
+        "text": "Person A: You were his favorite student. And now you're a...\nPerson B: A what?\nPerson A: A politican.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You saw him walk down Old Quarry Road?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          5,
+          7,
+          11,
+          13
+        ],
+        "text": "Person B: An eyewitness saw him at the crime scene AT the time of death.\nPerson B: When she broke up with him that night, and he realized she meant it, he snapped. And so he bludgeoned her.\nPerson B: The defendant's DNA was found all over the victim. No one else's.\nPerson B: Until they weren't.\nPerson B: That person is James Sythe.\nPerson B: Find him guilty.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person A: What can I tell you? They're taking their job seriously. I gave them a lot to think about.\nPerson B: I've got a mountain of evidence. You gave them smoke and mirrors.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Close enough.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: \"Our resources are already stretched so thin?\" You are something.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: So, I\u2019m right. You have doubt.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: You know something isn\u2019t right here, hell, even the jury knows it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Well, you did it. Hope it was worth it.\nPerson B: Ale House later. You're buying.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

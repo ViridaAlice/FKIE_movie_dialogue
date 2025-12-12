@@ -1,0 +1,66 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          5
+        ],
+        "text": "Person A: It's not funny, man. Don't laugh. If it's true, Toros and I are fucked. Well, I'm not as fucked as Toros but still.\nPerson A: Probably. But look... if things get crazy, don't get rough with Ivan. Actually, don't even touch Ivan. Let me deal with him.\nPerson A: In case his boys are here... and they want to play games.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Impressive.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Help me. She's crazy.\nPerson A: She's crazy. Come and help me please!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: You want me to keep her from going or what?\nPerson A: She's out of fucking control. Look!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yes, hurry man, that cord.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

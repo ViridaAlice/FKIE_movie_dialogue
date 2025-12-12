@@ -1,0 +1,62 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: There you are! Miss Nessarose, isn't it? The Governor's daughter ? How tragically beautiful you are. It's an honor to-- AHHH!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh good. Though I'm sure you're... very bright.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Forgive me Nessa, Father insisted--",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Students, remain calm, please, there's no cause for alarm--",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You can't permit this!",
+        "type": "Implied"
+      }
+    ]
+  }
+}

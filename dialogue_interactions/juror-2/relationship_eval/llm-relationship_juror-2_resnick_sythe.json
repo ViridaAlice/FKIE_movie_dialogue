@@ -1,0 +1,52 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You're gonna be fine.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          9,
+          10,
+          11,
+          12
+        ],
+        "text": "Person B: She was going on about us moving in together. When I told her I didn't think I was ready, she said I didn't love her. So she stormed out.\nPerson B: I followed her. But it was cold and rainy.\nPerson A: You didn't go after her?\nPerson B: When she got like that, there was no talking to her. I figured the best thing to do was to leave, and we'd work it out the next day like we always did.\nPerson B: Did I say some things to her I didn't mean? Yeah. Am I guilty of not always being the greatest boyfriend? Sure. Of not moving forward as fast as she wanted to because I was stupid? Absolutely. But I'd never hurt her. I loved Kendall with all my heart. And I know what you see when you look at me. But I left that life behind. I'm not that guy anymore.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          14
+        ],
+        "text": "Person B: It's date night with my sexy and oh\ufffeso-spicy better half.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5,
+          6
+        ],
+        "text": "Person B: I did.\nPerson A: And where?\nPerson B: Rowdy\u2019s Hideaway.\nPerson A: Thank you, James. No more questions.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

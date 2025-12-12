@@ -1,0 +1,348 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Where are you from that things don\u2019t eat each other?\nPerson A: Well who made you?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: So what you gonna name him?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: I assign to you Gosling zero-zero-zero- one.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Just have a little fun for once?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person B: My name has numbers.\nPerson A: It\u2019s gotta be personal.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: Storytelling is lying adjacent, and I lie for a living. Watch and learn. Just fill in the blanks.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: How do we reset Brightbill?\nPerson A: That will damage him.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Not yet. And what this little gosling needed, was a mother. So he looked up at the stars, and asked the brightest one if it could send him one of their extras. Funny thing is, there\u2019s this beautiful robot that happened to be sitting on the edge of that star. And she hears him.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Very lucky to be a mother.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Yeah, well. When you grow up without something, you spend a lot of time thinking about it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Beats me. Nothing weird about you two.\nPerson A: Show me, deer!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Skuuuuuunk. Skunkie, skunkie, skunkie!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Roz. He needs to become independent if he\u2019s gonna migrate.\nPerson B: I prefer he be independent, closer to home.\nPerson A: He won\u2019t die. Well, probably won\u2019t die. It\u2019s unlikely he would die just, right now.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          10
+        ],
+        "text": "Person A: Don\u2019t take this the wrong way, but I\u2019m not sure I\u2019d want to see the sort of place you actually fit in.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I\u2019m fine. Go again.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Then we\u2019ll find someone who can.\nPerson A: We have a proposition.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Remember. There\u2019s nothing he can do that you can\u2019t!\nPerson A: So, he\u2019s safe, right?\nPerson B: Hm? Maybe.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          12
+        ],
+        "text": "Person B: Unless you want to stay. Cause we could hang out and do stuff.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          13,
+          14,
+          15
+        ],
+        "text": "Person A: How do you know if you love, something? Someone?\nPerson B: If you do, you should probably tell them.\nPerson A: What if it is too late?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: It is good to see a friend.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          11,
+          14
+        ],
+        "text": "Person B: Are you sure about this? We could have the whole island to ourselves come spring.\nPerson A: Nor me. But right now we are their only chance. Funny, how life works.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: That is not funny.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Whoa, whoa, whoa! What are you doing? Take it outside. Hey! Those are Brightbill\u2019s baby pictures. Put that down! What the... No, no, no, no, no! Knock it off! You think those grow on trees?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2,
+          4
+        ],
+        "text": "Person A: Mmmmmmmaybe one more...\nPerson A: Hey, no! Fink only.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Fink.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Hey, kid.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Roz! What are you doing? Quit messing around!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: It\u2019s Brightbill. He needs to talk to you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What are you saying, you\u2019re leaving?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: You don\u2019t need to.\nPerson A: Yes. To protect all of you, there are things there that I must put right.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: Ugh, squirrels.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

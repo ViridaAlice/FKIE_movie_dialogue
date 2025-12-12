@@ -1,0 +1,38 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Mr. Sythe, you just stated you loved Kendall Carter, is that right?\nPerson B: Yes. More than anything.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          10,
+          11
+        ],
+        "text": "Person A: Then, she walked out and you went after her. Is that right?\nPerson B: Well yeah, but--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          6,
+          7
+        ],
+        "text": "Person B: Have a seat.\nPerson A: Okay, What do you want?\nPerson B: No jury, no Judge, no cameras. Tell me what happened that night.\nPerson A: I told you. I went home.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

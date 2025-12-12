@@ -1,0 +1,27 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: Better luck next time, bitch.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          5
+        ],
+        "text": "Person A: Red Rabbit.\nPerson A: Red Rabbit. Red Rabbit.     Red Rabbit.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

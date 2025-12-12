@@ -1,0 +1,117 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Daddy, the kitchen's asking if we could please go ahead and take our seats.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Hello, Mr. Toth. We love the library.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: As you all know, these last years have been especially hard on Harry, Maggie, and myself.\nPerson B: Daddy, it's very cold out here. Shouldn't we go back inside?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Quiet for a moment, Maggie... I brought you all here this evening, not to glance over my shoulder towards the past, but to invite you to look forward with me towards the future!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Extraordinary. Your grandmother loved marble. Maggie will you call for some coffee?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Erzsebet- pardon me, am I pronouncing that correctly?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I AM NOT, I swear it! They looked exactly like that popular painting, you know the one-?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Daddy tried to explain everything that had made us late as she prepared for us what appeared to be a delightful looking little trifle!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4
+        ],
+        "text": "Person B: He began gagging like a house cat!\nPerson B: `Dear... I am allergic.' to which our concerned hostess replied, ` allergic to what?!', and he says...\nPerson B: `TO THAT. I am very allergic to whatever THAT is.'",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Your husband is sick. He is an alcoholic and a drug addict. I don't know why he wishes to hurt me, humiliate me.\nPerson A: I have offered him nothing but kindness. He's a sick, senile old dog and when dogs get sick, they often bite the hand that's fed them before someone mercifully puts them down.\nPerson A: Now, if you'll excuse me, I've withstood enough abuse for one evening. You can tell your husband he's off the payroll now and forever, as well.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

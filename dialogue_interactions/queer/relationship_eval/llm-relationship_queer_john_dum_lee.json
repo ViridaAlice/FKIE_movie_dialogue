@@ -1,0 +1,34 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          12
+        ],
+        "text": "Person A: You don\u2019t know him, do you?\nPerson A: I asked if you know that boy and you still haven\u2019t given me an answer.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person A: God help whoever\u2019s trying to crack that nut. Oh God, you\u2019re not making it with him, are you?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: You\u2019ve got enough problems already, don\u2019t you think, Bill?",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

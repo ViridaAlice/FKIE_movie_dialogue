@@ -1,0 +1,34 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Oh, yes, hello. My father said that you placed rocks on the stoop of the apartment.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person B: Oh, I see. Sentimental. I understand. This is very sweet, I think.\nPerson A: Thanks.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Hey, I was thinking: why don't we grab a cab back to the city and you could come over for dinner?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yo, thank you Marcia, you're a sweetheart. And things have been kinda downhill fo r me. She was my favorite person in the world. Shit, I'm sorry.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I'm so sorry, Benji.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: People will eat you alive if you give them a fuckin inch.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Marcia Marcia Marcia!   Your country needs you!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2,
+          5
+        ],
+        "text": "Person A: You're very persuasive, Benji.\nPerson A: No, I'm a fighter.   Gimme a gun.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Just the creepy feeling of being, like, royalty on this train, you know? Does anyone not see the irony here?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person A: You know, last year, my daughter married a very rich man-",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          9
+        ],
+        "text": "Person A: -And she can barely have a conversation with any depth anymore. She's lost any perspective on the real world.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Thanks Marcia.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7
+        ],
+        "text": "Person B: Everyone knows it's sacrilege to put a rock on the north side of a grave.\nPerson A: Well, that's fine because I'm an atheist.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh, Marcia, I'm sorry, fuck them. I wouldn't miss a week. She was tough on me. She was the only one in the whole fuckin family who would keep me honest. Ev eryone else just disappeared when I needed them most.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Y ou're a very special person.\nPerson A: Oh, god, no I'm not. Anyway, you have my information. Send me a picture from your grandma's house. I'm genuinely curious.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

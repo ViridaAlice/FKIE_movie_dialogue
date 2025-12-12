@@ -1,0 +1,72 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Now, THAT'S none of your FUCKIN'",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Sooo... you're assessing me. Am I the right guy to eliminate your problem? And, just so you know, I'm assessing you too - are you full of shit? Some big talker who's not serious? And if you're serious now, are you going to one day find Jesus and be so overburdened by guilt and remorse and confess your sins? Are you going to break under pressure, Craig, and point a fucking finger at me?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          14,
+          16,
+          18
+        ],
+        "text": "Person A: So, what's your proximity afterwards?\nPerson A: You going to the funeral?\nPerson A: So, no funeral?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          5,
+          7,
+          9,
+          11
+        ],
+        "text": "Person B: A faked suicide or botched robbery, I'm in and out. What you're talking about requires me to spend a lot of time with the body, to make sure it's never discovered.\nPerson B: Look, I'll let you in on a few of my secrets. I got different ways, but in this case I'll probably go full on - separate the head from the body and do what I call a bayou burial. You know the Bayou Gauche?\nPerson B: Well, my family has land out there, so, late at night, I'll drift in undetected, drift out in a little boat, and let the alligators take it from there.\nPerson B: Body. Head... Head is a different story. Head means teeth. And teeth are a fuckin' problem.\nPerson B: Well, I find a spot in the middle of nowhere, a stick of dynamite in the mouth...BOOM. No more teeth, no more problem.\nPerson B: I can tell you're very thorough in your thinking, which is good. Now, in case the headless, uneaten body is discovered, which has never happened with me, but, yeah, no more fingertips, I would have already removed those, and dispersed them separately. Sounds kind of weird, but I've got a ritual. So, I divide the number of miles by the number of fingers, so when I'm driving out to the location, in this case 50 miles...I roll down the window, toss one out every 5 miles or so.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          13
+        ],
+        "text": "Person B: And by the way, I'm not running a fuckin' charity here - did you bring the cash?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Gotta say, man - hell of a profession you're in.\nPerson B: I guess so.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

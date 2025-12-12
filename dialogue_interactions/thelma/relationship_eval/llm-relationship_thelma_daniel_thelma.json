@@ -1,0 +1,220 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ],
+        "text": "Person B: Have you spoken to Allie?\nPerson A: We\u2019re still on a break. I\u2019m trying to give her a little space... And just not really sure what my selling points are at the moment.\nPerson B: Psh! You\u2019re a wonderful grandson. You know computers. You have your hair.\nPerson A: I think it\u2019s gonna start to go early.\nPerson B: You can\u2019t get hung up on that.\nPerson A: We\u2019re just in different places... as people, you know? She\u2019s thinks I\u2019m stuck.\nPerson B: You\u2019re too young to be stuck.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: He was going on and on about how you hit someone and it\u2019s worse than you think - she\u2019s pregnant! And--\nPerson A: Oh, yes, that makes more sense.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: ...I\u2019m so embarrassed!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I\u2019ll call you tomorrow. You sure I can\u2019t stay over?\nPerson A: For my mental health?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          46,
+          47
+        ],
+        "text": "Person A: Your daughter.\nPerson B: Nice try. This is your father\u2019s influence. There\u2019s coins everywhere. They fall out of his pockets because he\u2019s got no waist. Every time I ride with him I make five bucks. What\u2019s this?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Grandma?! Oh my god! Are you alright?! WHAT THE FUCK IS HAPPENING?! SORRY! Are you okay?!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: It\u2019s an ad. You need to find the x.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: It\u2019s not always red. Sometimes they hide it. Look closer.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: ...Are you talking to me?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: I\u2019m asking the machine.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: She\u2019s not there. Just in your phone. And you don\u2019t need her\ufffe",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2,
+          4
+        ],
+        "text": "Person A: Hit enter. Thelma runs her fingers over the keys, finds it, and clicks.\nPerson B: What\u2019s the password?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: The password... is \u201cpassword.\u201d Harvey scoffs and rolls his eyes.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person A: Classic. Now click inside of that box and type it in. She begins to enter it.\nPerson B: That\u2019s cute.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8
+        ],
+        "text": "Person B: Im assuming it was you on the phone pretending to be Danny. He doesn\u2019t have the range. I\u2019m not your grandma.\nPerson B: He called you a dumbass. He said it quietly but I heard it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: ...Oh, Danny, you remember Ben?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: We got it.\nPerson B: Hi, Ben. Sorry, yes nice to see you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Break a leg, Ben!\nPerson B: I\u2019m not sure. He\u2019s new to the theater. And his hip is titanium.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9
+        ],
+        "text": "Person B: I love you. And if you ever do die, I\u2019m really going to miss you. I know you know that. But I just wanted to say it. While we\u2019re here.\nPerson A: Wherever I go, I won\u2019t worry about you. You\u2019re gonna be okay, Danny.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

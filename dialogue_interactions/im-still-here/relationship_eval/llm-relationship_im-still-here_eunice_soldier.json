@@ -1,0 +1,60 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Sit down, kid.\nPerson B: Let me stay with my daughter. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Please don't let them do anything to my daughter. She's just a child. ",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Your daughter only stayed one night.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          4,
+          5
+        ],
+        "text": "Person A: She's not here anymore.\nPerson B: What about my husband?\nPerson A: Don't know about him. He steps out and locks the door. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Where are you taking me?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

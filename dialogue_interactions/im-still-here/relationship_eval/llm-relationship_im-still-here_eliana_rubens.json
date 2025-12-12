@@ -1,0 +1,71 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: No, that was the German ambassador. This one's Swiss, honey.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: How would you know, Dad?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Go on, do as your mother says.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I'll take it, Zez\u00e9.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Nobody serious, okay? Attention. \"Ditch the Ditchtators\"!\nPerson B: Hello? He's not at home. Who's this? Hello?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Guys, this is no ordinary letter. It's a sensory experience... \nPerson A: Sit with me. ",
+        "type": "Implied"
+      }
+    ]
+  }
+}

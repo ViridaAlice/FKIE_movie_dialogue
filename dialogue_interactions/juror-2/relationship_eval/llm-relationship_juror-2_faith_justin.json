@@ -1,0 +1,85 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Thanks. You're a lifesaver.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "text": "Person B: I saw you getting out of your car with all that stuff --\nPerson A: Right.\nPerson B: You need a hand with it...?\nPerson A: Nope, I'm good.\nPerson B: Well, have nice day then.\nPerson A: You, too.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5,
+          6,
+          7,
+          9,
+          10,
+          11
+        ],
+        "text": "Person B: Sometimes it is... Mr. Kemp. You're a magazine writer?\nPerson B: What kind of articles do you write?\nPerson A: Features mostly.\nPerson B: So you write about a variety of topics?\nPerson B: Ever write about a murder trial?\nPerson A: I write for a regional lifestyle magazine. It's not exactly \"Vanity Fair.\"\nPerson B: I'll take that as a no. Being a writer, I imagine you read a lot. Have you read anything about this case?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Hey, it's me. Can we talk? Yeah, an hour's fine. I'll meet you there.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Ally, hey. Everything all right?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "text": "Person B: Congratulations on winning your election. I saw it in the paper.\nPerson A: Thank you.\nPerson B: Pretty big deal. Must've worked hard for it.\nPerson A: I did.\nPerson B: There's a lot of good you can do in that job I'd imagine.\nPerson A: Sometimes. It's not as easy as you'd think, though.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

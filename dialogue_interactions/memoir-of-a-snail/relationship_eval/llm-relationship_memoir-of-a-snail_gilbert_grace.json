@@ -1,0 +1,75 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4,
+          5
+        ],
+        "text": "Person B: To cheer me up, Dad gave me Mum\u2019s old jewellery box ... \nPerson B: ... inside it had her snail collection and her ring ... She\u2019d loved snails as well and had been a malacologist at the Melbourne Museum ...\nPerson B: ... I thought Gilbert should have it.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "text": "Person A: I\u2019m gonna wear this till the day I die, Gracie ... \nPerson B: Despite my woes, Sylvia ... I believed in glasses half full and silver linings. \nPerson B: Our home was our sanctuary ... especially my bedroom.\nPerson B: Right angles brought me enormous comfort ... as did my snails. \nPerson B: They were tangible memories of a mum I never met ... They were my friends ... \nPerson B: ... so I made more of them ... I knew they\u2019d never leave me ... hurt me ... or die. \nPerson B: I didn\u2019t like people dying ... Suddenly he shifts his weight. \nPerson B: ... I wanted to save people ... save the homeless ... my favourite was James. \nPerson B: One Christmas I covered him in decorations so he could feel some Christmas cheer. Grace looks happy and proud of herself. She takes some coins and teabags from her pocket and places them next to his drunken head. \nPerson B: He loved tea. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          21,
+          22,
+          23,
+          24
+        ],
+        "text": "Person A: We got little scars and when we put our arms together ....\nPerson A: ... they formed a face.\nPerson A: It felt great when we did this. Our feelings aligned ...\nPerson A: ... A lot of twins say this Sylvia, and it\u2019s true. I felt his emotions ... his happiness ...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          11,
+          13,
+          14,
+          15
+        ],
+        "text": "Person A: I\u2019d rather eat glass ... Anyway, they can all get stuffed, coz as soon as I\u2019m old enough and got money I\u2019m comin to get you.\nPerson A: ... we\u2019ll escape to Paris. I\u2019ll become a fire-eater ...\nPerson A: ... and you\u2019ll become an amazing animator.\nPerson A: ... it\u2019ll be great!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7
+        ],
+        "text": "Person B: Gilbert still smelt like burnt matches ... The setting sun tingled our skin ...\nPerson B: ... our two souls and single heart.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

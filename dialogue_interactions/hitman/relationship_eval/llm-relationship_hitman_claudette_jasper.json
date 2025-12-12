@@ -1,0 +1,65 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: New Billy's got to make moves. Craig's here.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Gary, did you ever talk to her again after that time at The Please\nPerson B: You talked to her, too?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: So we manufacture a random encounter where he can get her talking.\nPerson B: Not random - surprise encounter. I say we put a wire on Gary and we go now. I'm thinking you can just play this as just a concerned check-in.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person A: You good?\nPerson B: Really? Does he need that?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh my god! Yeah! There he is. The man himself. I figured you\u2019d be coming by here, man. C\u2019mon, celebration beer?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

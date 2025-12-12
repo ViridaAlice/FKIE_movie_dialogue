@@ -1,0 +1,117 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: [Nai Nai, don\u2019t feed him. He can grab it himself.]\nPerson B: [Only one more month until my little bird flies away, hmm?]",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: [Didi! Apologize.]",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          4
+        ],
+        "text": "Person A: [Vivian. Don\u2019t be loud.]\nPerson A: [DON\u2019T SAY DIRTY WORDS!]",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: [Didi! You didn\u2019t finish eating!] *",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: [Vivian! Dishes!]\nPerson A: [Don\u2019t put the camera on the ground!] It\u2019s a bad angle. [Your composition will be ugly.]",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          4,
+          5,
+          6
+        ],
+        "text": "Person B: [Why were you guys fighting?]\nPerson A: [PLAYING!? THIS IS PLAYING!? [See? You let them go out and this happens. Children are supposed to be playing with crickets by the creek and your son\u2019s fighting like a gangster! If the police sees, they\u2019re going to think you beat him and take him away! He\u2019s gonna go blind and then he won\u2019t be able to get into college or get a good job which means he won\u2019t be able to find a beautiful wife to have children with and the Wang family legacy is over!] *\nPerson A: [Ai-ya. My son would never let this happen if he were here.]\nPerson B: [Well, he\u2019s not here.]\nPerson A: [Didi. Does it hurt?]",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: [Let me do the dishes. You don\u2019t wash them clean enough anyways.]",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: [Ma, stop nagging me.]",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          6,
+          9
+        ],
+        "text": "Person B: [See? This is why the house is so chaotic! Because you never let me help.]\nPerson B: [No wonder my son doesn\u2019t want to be home.]\nPerson B: [ME? BURDEN? All I offer to do is help because clearly you can\u2019t handle it. And if my son weren\u2019t out there working, making money, this family would have nothing and we would all be homeless.]",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: [Nai Nai is so old. How many years do I have left?...I won\u2019t even be here to see you finish high school.]\nPerson A: [Nai Nai. Lie down.] [Kids, it\u2019s fine. You can leave. Let Nai Nai rest.]",
+        "type": "Implied"
+      }
+    ]
+  }
+}

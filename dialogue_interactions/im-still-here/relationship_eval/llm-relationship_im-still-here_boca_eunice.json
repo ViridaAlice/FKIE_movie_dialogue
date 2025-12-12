@@ -1,0 +1,46 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Talk about being arrested. Eliana, too. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "text": "Person B: Don't give me that, Boca. I was there, in that place. I saw it. I deserve to know what my husband was up to. Don't you think?\nPerson A: I do. \nPerson A: There's no way to just stand by, Eunice. Especially us. We have the means to help. So me, Rubens, Gaspa, Raul, we all do what we can. One talks to the foreign press, another one provides shelter to people on the run, deliver letters to families with no news. \nPerson A: But we're not involved in the armed struggle. Much less Rubens. \nPerson B: So you decided not to say a word to me, to Dalal, to Dalva to protect us.\nPerson A: Of course.\nPerson B: Of course. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6
+        ],
+        "text": "Person A: I'm so sorry, Eunice. I wish I could've done more--\nPerson B: -It wasn't your fault.\nPerson A: If you need anything, anything at all, for you or for the kids, just let me know. ",
+        "type": "Implied"
+      }
+    ]
+  }
+}

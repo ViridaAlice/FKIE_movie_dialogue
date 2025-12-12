@@ -1,0 +1,36 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Hey\u2026 Easy, I\u2019m here\u2026 it\u2019s all over now, Fred. You\u2019re back home.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Fred! What happened!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          5,
+          6,
+          7
+        ],
+        "text": "Person A: I have some news for you too. I\u2019m pregnant.\nPerson B: Pregnant?!\nPerson A: Yes.\nPerson B: But I\u2026 I was planning to move to San Diego next week\u2026",
+        "type": "Implied"
+      }
+    ]
+  }
+}

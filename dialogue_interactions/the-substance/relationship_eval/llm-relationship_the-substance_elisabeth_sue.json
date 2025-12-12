@@ -1,0 +1,52 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: I'm sure you've never heard of it... in fact, it's not even a town... I'm not really sure you could even call it a village... A farm perhaps? .",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person B: MY dream!\nPerson A: ...as a child I used to put on shows for my family...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5
+        ],
+        "text": "Person A: I'll fucking show you Jurassic fitness.\nPerson A: \"Some sort of connection?!\"\nPerson A: Without ME YOU DON'T EVEN EXIST!!!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "text": "Person B: The delicate silk material on that horribly old and disgusting leg...\nPerson B: She's GROSS...\nPerson B: Fat...\nPerson B: Old...\nPerson B: Disgusting.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

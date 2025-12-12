@@ -1,0 +1,55 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: You're going to give your mother a heart attack if you keep on disappearing like that.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2,
+          6
+        ],
+        "text": "Person A: No, sweetie. That's who pays for your matin\u00e9es. What did you \"not see\"?\nPerson A: Look, while this ambassador thing's still going on, I don't want you going out at night.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: ... a photo of me crossing Abbey Road, just to make you jealous.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: Might I have the honor of a dance with this young lady?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5,
+          6,
+          7
+        ],
+        "text": "Person A: Why are you asking him?\nPerson B: Will you put me on your dance card?\nPerson A: No way.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

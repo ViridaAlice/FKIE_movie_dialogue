@@ -1,0 +1,145 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9
+        ],
+        "text": "Person A: You called me. You pretended to be my grandson. You took advantage of me--\nPerson B: Whoa! That\u2019s a hefty accusation. But you\u2019ve got the wrong idea.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: I need to call my husband.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: That\u2019s not going to work for me. And you should know that if I\u2019m not out in five minutes, my partner calls the cops.\nPerson B: What am I gonna do, huh? Give it back? I\u2019ll lose the store. I\u2019ll be on the street! Nobody cares. Nobody gives a fuck what happens to me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: My money. Harvey.\nPerson A: Michael, you coward!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person A: You know how to use that thing--\nPerson B: No.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          13,
+          14
+        ],
+        "text": "Person B: What do you mean you can\u2019t?\nPerson A: Michael did the computers!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: My friend.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: What happened to Michael?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Ben, don\u2019t look at it. Look at him.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: That\u2019s a... baby.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Is this Sari? Sere? Or is she not in here?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Goddamn dumbass password, Michael...",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: Oh god!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: ...What?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

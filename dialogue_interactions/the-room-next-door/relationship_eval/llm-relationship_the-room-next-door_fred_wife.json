@@ -1,0 +1,29 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Isn\u2019t that smoke?\nPerson B: Yes. Something\u2019s on fire\u2026",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7,
+          11
+        ],
+        "text": "Person A: Fred! Stop. Stop! This is crazy!\nPerson A: Fred, don\u2019t go in! It\u2019s dangerous. Look at me! Look at me! Let\u2019s go find a gas station and call the fire department.\nPerson A: Fred!",
+        "type": "Implied"
+      }
+    ]
+  }
+}

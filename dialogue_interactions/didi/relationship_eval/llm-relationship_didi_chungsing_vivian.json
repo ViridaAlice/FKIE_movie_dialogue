@@ -1,0 +1,60 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: [Don\u2019t forget to eat fruit. It will help your digestive system so your poop isn\u2019t so hard.]\nPerson B: [And floss. You must floss. You won\u2019t be able to see a dentist as easily in college.]",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person A: Is Dad coming home to see me before I leave?\nPerson B: [He doesn\u2019t know yet.]",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You know you were only born because I wanted a little brother and I wish you died in the womb.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Mom, can you not?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8
+        ],
+        "text": "Person A: Bye-bye, [Nai Nai.]\nPerson A: [Nai Nai. I don\u2019t need it.]",
+        "type": "Implied"
+      }
+    ]
+  }
+}

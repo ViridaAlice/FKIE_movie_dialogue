@@ -1,0 +1,36 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Madi!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yorya!!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5,
+          7
+        ],
+        "text": "Person B: Okay! You wanna come hang with us?\nPerson B: Muah!\nPerson A: Kbyeeeee.\nPerson B: Wanna try?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

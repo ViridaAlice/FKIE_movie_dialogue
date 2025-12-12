@@ -1,0 +1,375 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          27
+        ],
+        "text": "Person B: And you gotta keep them there ok? This is a no-no. But I like you.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          28,
+          29,
+          30
+        ],
+        "text": "Person A: Do you work outside the club?\nPerson B: Give me your phone.\nPerson B: Text me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          17,
+          18,
+          19,
+          20,
+          22,
+          23
+        ],
+        "text": "Person A: Sex.\nPerson B: Yeah, I know. I mean... anything special?\nPerson A: Yeah, special sex.\nPerson B: Special sex. So... a little bit of everything.\nPerson B: Want to take your clothes off?\nPerson A: Yes, I do.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          25,
+          26
+        ],
+        "text": "Person B: Do you want to put this on or do you want me to put in on for you?\nPerson B: There we go.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9
+        ],
+        "text": "Person B: So you paid for an hour and there's still like 45 minutes if you want to go again.\nPerson A: Oh shit, yeah!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "text": "Person A: Are you available tonight?\nPerson B: Maybe.\nPerson A: Maybe?\nPerson B: Well it's New Year's Eve.\nPerson A: Yeah?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2,
+          3
+        ],
+        "text": "Person A: You look great.\nPerson B: Thank you. You were right. This is bangin'.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yeah?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "text": "Person B: So... I want you to be exclusive with me. For the week. And we can have... fun.\nPerson A: What's 'exclusive'?\nPerson B: I don't know... only with me.\nPerson A: Exclusive.\nPerson B: Yes, exclusive.\nPerson A: Like how... exclusive?\nPerson B: Hang with me and my boys for the week. We can have fun. Party. Like... be my girlfriend for the week.\nPerson B: My horny girlfriend for the week.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yeah, my mom thinks it makes her younger. Want to try?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: I got the keys confiscated because I brought the Porsche to a take- over and fucked up the bumper. My parents are assholes.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          10,
+          20,
+          21,
+          22,
+          24
+        ],
+        "text": "Person B: I'm gonna miss you. Does that sound weird?\nPerson A: You?\nPerson A: Will you marry me?\nPerson B: Seriously?\nPerson A: Seriously.\nPerson A: Because I like what we have going on here and I think you do too... I think you'd like it even if you weren't paid to. And I become American! And my parents can go screw!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          11
+        ],
+        "text": "Person B: Well, no matter what. I hope they like me... You know... Like, when we meet.\nPerson B: Well, if you want to go to Miami... my mom lives there with her man. and you can meet my sister anytime although I'm sure she'll try to steal you... she's loves Russian guys.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          11
+        ],
+        "text": "Person B: Well, if you want to go to Miami... my mom lives there with her man. and you can meet my sister anytime although I'm sure she'll try to steal you... she's loves Russian guys.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Expecting guests?\nPerson A: What?\nPerson B: What? What do you want?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Nobody, baby.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: Nothing. My parents are just being assholes.\nPerson A: What's going on here?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Time to say goodbye. My wife and I would like some privacy, thank you. And tell Toros to go fuck himself.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You Armenian piece of shit!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: The fuck I can't. Let's go!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Going where? What? What's going on?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Ivan! Wait! Are you fucking kidding me?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Ivan. I've been calling and texting. Why didn't you...Why didn't you wait for me. I was coming but they forced me to stay. They tied me up and fucking gagged me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Stop screaming. That's fucking loud. Shit.\nPerson A: Are my parents here yet?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What? What do you mean? I... I... I want to stay married to Ivan. Don't you?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person B: Yes! Ivan! Yes! Right now! This isn't fair. He's drunk. He doesn't know what's going on.\nPerson B: Fuck off! Can you get her the fuck out of here...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: C'mon. I can't handle this right now.\nPerson B: And I can? Ivan. This is fucked up.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Ok, and I can come with you. Whatever you're going through with your family, I'm here for you because I'm your wife.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: No, if I have to live there until we sort things out, that's what we'll have to do. Because we're in this together, right?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: So we're just going to get divorced!?!\nPerson A: Yes! Of course! What are you stupid?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I'm sorry, ok! God. Look, She   was my escort for the week and we   got drunk and got married. Sorry!   But we're going to fix it so come   on, stop. Jesus.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: I'm glad to be divorcing your sorry ass. You're pathetic, man.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

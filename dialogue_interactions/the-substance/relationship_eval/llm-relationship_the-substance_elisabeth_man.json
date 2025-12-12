@@ -1,0 +1,31 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: I know it's hard! Walk it back! That's great, couple more ladies! Think about your bikini this summer! You don't want to look like a giant jellyfish on the beach, do you? So keep moving! Couple more... we're almost there... aaand...\nPerson A: ... give yourselves a hand! That was a GREAT workout!\nPerson A: I'll see you next week to work more on the lateral abs, those are the hardest to sculpt. In the meantime... Take care of yourself!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          4,
+          5
+        ],
+        "text": "Person A: ...Did you follow me here?\nPerson B: I was just curious to see how things were going for you... And actually I wouldn't be against a little bit of company... It's just good to... talk to someone... you know. Each time you feel a little more lonely... don't you think?\nPerson B: It gets harder each time to remember that you still deserve to exist...\nPerson B: ...That this part of yourself is still worth something... That you still matter...",
+        "type": "Implied"
+      }
+    ]
+  }
+}

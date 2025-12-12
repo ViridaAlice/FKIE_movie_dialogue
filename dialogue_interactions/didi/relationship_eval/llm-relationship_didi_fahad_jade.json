@@ -1,0 +1,75 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What was your name?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: That\u2019s cool. My mom loves David Letterman.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Never thought I\u2019d live to see the day. My boy is finally a man. Madi gave you a handjob AND a bar mitzvah.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person B: You\u2019re quiet.\nPerson A: Yeah, quit being weird.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: It\u2019s nothing.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: There\u2019s only room for one more in the car though.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

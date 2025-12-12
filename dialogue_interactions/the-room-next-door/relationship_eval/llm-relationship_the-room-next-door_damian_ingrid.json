@@ -1,0 +1,91 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          10,
+          11,
+          12,
+          13
+        ],
+        "text": "Person A: Really? I\u2019m glad. Our relationship was mostly physical. She was always about to go off somewhere else, that\u2019s why our lovemaking had that sense of urgency. It was like having sex with a terrorist, it always felt like the last time.\nPerson B: She rates you pretty highly as a lover.\nPerson A: I\u2019d like to know what rating you give me\u2026 They take their drinks and sit in the dining room, on a large couch that had a previous life, but it is still pretty and special.\nPerson B: Damian, I can\u2019t believe you\u2019re still flirting with me.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          14
+        ],
+        "text": "Person A: I\u2019m serious.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: No. In that case, no. This is an absolute secret. She doesn\u2019t even know I\u2019ve told you.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Okay, but if there\u2019s anything you need, just let me know. I worry about you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          13,
+          19,
+          20,
+          22
+        ],
+        "text": "Person B: Don't you go to galleries? You used to love that. When we were together we'd talk about the power of art. Are you interested in that at least?\nPerson B: Yes, I remember that\u2026\nPerson A: I\u2019m not nostalgic, but I miss the nights when we\u2019d drink, take drugs and have sex, and all that didn\u2019t distract us from what we really wanted to do\u2026\nPerson A: I don\u2019t know how much you drank but you always acted like you were as blitzed as the rest of us, but you were always an essential part of the party. That is, until you got bored and went off to discover Europe. Do you want us to talk about that?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: But you were with me!\nPerson A: He doesn\u2019t care\u2026 He insists that I\u2019m implicated. He spoke to a friend of Martha\u2019s, Stella Byrne, who had refused to help her\u2026",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person A: Martha\u2019s daughter.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5,
+          8
+        ],
+        "text": "Person B: I need to go back to the house. I still have to pack up Martha\u2019s things.\nPerson B: Yes\u2026 Of course you can come\u2026 I\u2019m headed there now\u2026 I\u2019ll text you the address\u2026 See you soon.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: At 10:30? I called you at 10:30--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Mom, did you really think you were talking to Daniel? How did you think this was real?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: He\u2019s making a joke.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yes, more than before. Her eyes open. And her face falls. She gets up and shuffles to the doorframe, listening in...",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: She\u2019s gotten these calls in the past.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: That\u2019s a lack of presence, darling.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: I wouldn\u2019t be able to forgive myself if something happened to her. Did you know Susan\u2019s mother fell into a fire pit? Completely died--",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: It\u2019s a nice idea but I\u2019m not sure it\u2019s realistic. You\u2019ve got enough on your plate and we should be free to focus on our job search.\nPerson A: Of course, you know what I mean--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: She doesn\u2019t need a nurse. You think she\u2019s gonna listen to a stranger? She barely listens to dad.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: She\u2019ll listen to me. It was one bad day. And if it doesn\u2019t work out, all options are on the table. Okay?\nPerson B: She got confused at Shutters. She forgot she ordered those spicy tuna rolls.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Well, the food is good not great.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I thought I lost her at Souplantation once but she was just going back for more little pizzas.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: It had things she can chew.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Everybody. Doctors. Professionals.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Why would you keep that from us?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Because I\u2019m going to do it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You need to be taking care of your vehicle, Daniel--",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          4
+        ],
+        "text": "Person A: Can we not talk about Allie--\nPerson B: I\u2019m sorry! I know. It\u2019s very hard. I don\u2019t like to see you suffer like this. It makes me very sad. I feel like I want to cry.\nPerson B: ...Do you need us to sit down with you and order a new license?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: She posted!\nPerson A: I think by accident. Five minutes ago. Look--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Thank you! GOD!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What\u2019s it saying?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Not on its own.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: She likes her independence from that thing.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: She didn\u2019t want me to.\nPerson A: I don\u2019t know, mom!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5,
+          7,
+          9
+        ],
+        "text": "Person B: I can\u2019t... do anything. I literally can\u2019t do anything. I\u2019m such a little bitch!\nPerson B: What? Nothing! I just... I don't know any facts. I'm not qualified for any job. I can\u2019t do math! That\u2019s basically why Allie and I aren\u2019t together--\nPerson B: It\u2019s just another thing I can\u2019t do! I haven\u2019t gotten my ID replaced because every time I log on to that stupid website I get confused about the terms and classifications--\nPerson B: Sure! Or maybe I\u2019m just a little bitch who can\u2019t do anything!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Do you have your phone? Please don\u2019t keep it on silent. Can you do that for me? For my mental health?",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

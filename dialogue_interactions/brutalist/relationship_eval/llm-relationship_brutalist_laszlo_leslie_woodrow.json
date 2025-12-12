@@ -1,0 +1,74 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "text": "Person A: What's the height of those things? Six or seven meters also? And did I understand you correctly? 108 meters of surface area for the facade?! That's eleven square feet, If we can afford these materials at all, Mr. Van Buren, Sylacauga Marble ships out of Talladega County and that might be possible if I manage to swing some favors but I can't make any promises.\nPerson B: Afford these materials? The concrete is sturdy and cheap.\nPerson A: The concrete- it's not very attractive. Perhaps you'd like to split the difference on materials?\nPerson B: Fortunately, the building's aesthetic is not yours to resolve, Mr. Woodrow. And Sylacauga marble is white like a sheet of paper; it's nothing. What I have here is blue and grey with softer veining.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Morning Leslie.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "text": "Person B: Don't tell me you're just now getting up?\nPerson A: Two minutes, and I am ready.\nPerson B: I'll give you three if you use it to rinse off.\nPerson A: Three.\nPerson B: Let me inside so I can get the model on the truck.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          7,
+          9,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "text": "Person B: How dare you.\nPerson B: You go behind the back- and have them meet with another goddamned designer! Who in the hell is James T. Simpson? You're trying to get me sacked!\nPerson A: I didn't tell him to meet with anyone. Of course, I didn't. You think I feel like working with you hating my guts for the next two godforsaken years?\nPerson A: I'm afraid it's not up to you. The casts are already finished. We put in that order over a month ago. This is the first time you're hearing about it?\nPerson A: Harrison said he would talk it over with you. I'm sorry you found out this way. I really am.\nPerson A: We can't afford all this! I'm already over-budget this quarter!\nPerson B: Use what you need to of my fee.\nPerson A: What's the difference between forty and fifty feet, anyway?! The ceilings are still plenty high!\nPerson B: Get it approved, Leslie.\nPerson A: We have a walk-thru next week and Jim is supposed to be there. Just hear him out. You can state your case to Harrison and Harry Lee. I won't open my mouth, I swear it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: How far is it? Can we see what can be salvaged?\nPerson B: The accident put two brakemen in the hospital. It's a real mess out there.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

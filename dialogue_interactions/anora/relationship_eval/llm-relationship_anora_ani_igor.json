@@ -1,0 +1,213 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: I'm Igor.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: I'm Ivan's wife.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "text": "Person B: Get out of my way.\nPerson B: Get your hands off me.\nPerson A: Calm down.\nPerson B: Don't fucking touch me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I'm not fighting you. I'm not going to run. You're fucking hurting me. Let me go.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person B: I will make sure you go away for this. Look, there are cameras everywhere. You're so fucked.\nPerson B: Just wait until Ivan sees what you did to me.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Fucking piece of shit. I bet you like this, don't you. You getting off on this? Psycho fuck.\nPerson A: I can feel you getting hard motherfucker.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Fuck!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I don't want him talking to me.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8
+        ],
+        "text": "Person B: In case you had to gag me again motherfucker?\nPerson B: Yeah, that's what I thought. Fuck you, you piece of shit. Unfuckingbelievable.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: No.\nPerson B: It's fucking real, asshole. But it's not mink. It's fucking sable. Worth a lot more than mink. And don't fucking touch it again.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: Pfft. Faggot ass bitch.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6,
+          9
+        ],
+        "text": "Person A: Yeah right, a gopnik who can afford to live at Brightwater and not deal drugs, ok?\nPerson B: Why am I faggot ass bitch.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: This wasn't the deal. Vanya doesn't know what's happening.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Fuck no.\nPerson B: Like I would have toasted you. Pfft.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          6
+        ],
+        "text": "Person B: Are you macking on me right now?\nPerson B: You find this the opportune time to mack on my ass right now?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          12
+        ],
+        "text": "Person B: Fuckin' scumbag, man. Now? Pffft. And asking my favorite color? That's like junior high school level macking. Fucking Russian girls must be easy, shit.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          9,
+          11,
+          15,
+          17,
+          21,
+          25,
+          27,
+          29,
+          31,
+          33,
+          35,
+          39,
+          41,
+          43,
+          45,
+          47,
+          49
+        ],
+        "text": "Person A: Happy Fucking Birthday.\nPerson A: Says the fuck head named Igor. Fucking... Igor.\nPerson A: Yeah? Igor means hunchback weirdo you, fucking clown. Can you shut the fuck up, please?\nPerson A: Touch\ufffd? You fucking moron?\nPerson A: Try figuring out English before attempting French you, dumb fuck.\nPerson A: What does what mean?\nPerson A: Did I ask for your fucking opinion?\nPerson A: Exactly.\nPerson A: Nice? You fucking assaulted me, dude. So go fuck yourself.\nPerson A: You don't call that assault? You're right... it's fucking BATTERY... as well as fuckin' kidnapping and I'm sure a million other felonies. Fuck you, dude.\nPerson A: What? You attacked me, tied me up, gagged me. You're psychotic.\nPerson A: Pffff. If Garnik wasn't there, you'da raped me, guaranteed.\nPerson A: I can see it. You sick motherfucker would've raped me. You have rape eyes.\nPerson A: Yes.\nPerson A: Oh yeah... why?\nPerson A: Yeah.\nPerson A: Why wouldn't you have raped me?\nPerson A: Nope, because you're a faggot ass bitch.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

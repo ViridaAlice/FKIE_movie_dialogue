@@ -1,0 +1,30 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9,
+          10,
+          11
+        ],
+        "text": "Person A: Is the man you saw that night here in the courtroom today?\nPerson B: Yes. He is here today. That's him right there.\nPerson A: Let the record show the witness identified the man he saw as the defendant, James Michael Sythe.\nPerson A: The State rests, Your Honor.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5
+        ],
+        "text": "Person B: I was glad to help. Everyone was so grateful. And if I do say, it felt pretty good. To be needed again.\nPerson B: Right. Well, if there's anything else I can do, just give a holler. Tea's always hot.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: You eat that oatmeal like your mama made it.\nPerson A: I ain't never seen someone eat this food like that- like they liked it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I didn't do shit.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person A: Aren't you worried they'll know you're faking it? Whistling happy like that?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Go look. See who it is. Ask what's wrong with him.\nPerson B: I ain't asking nobody shit.\nPerson A: Scared?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          6,
+          8,
+          9
+        ],
+        "text": "Person A: Sometimes they throw you in Hell. A sweatbox up in the eaves below that tar roof. Sweat your soul outta you.\nPerson A: Sometimes they take you and we never see your ass again.\nPerson A: Your family asks the school what happened and they say you ran away. I'll show you sometime, show you something that's not in books, where it is. Boot Hill.\nPerson A: Problem is Elwood, you didn't know how it works. You wanted to do some Lone Ranger shit- run up and save a boy. Mike and them punked out Corey a long time ago. They play rough. That's how they do.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4
+        ],
+        "text": "Person B: Uh-huh.\nPerson B: For a fee?\nPerson A: \"Community Service\".",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I can smell it on him in the morning. Whoo...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: My Aunt Mavis made sure I had nice clothes for school and three meals. A guy at the Houston airport started seeing her. He taught me how to box. The day I put myself between Aunt Mavis and his fist, he took me out for ice cream. \"Bring this boy the biggest sundae you got.\" Every bite was like another sock in the mouth.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          9,
+          12
+        ],
+        "text": "Person A: Used to be worse around here. When you graduated you didn't go back to your family, you had parole and they sold your monkey ass to people in the town. You had to work off your debt.\nPerson B: Debt from what?\nPerson B: My grandma got me that lawyer, man. Make a move there, first.\nPerson A: How many people done that, El? Only four ways outta Nickel.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: She says she visited and they wouldn't let her see me. \"He's sick and can't have no visitors.\" \"What's wrong with him?\" \"How the hell should I know, lady?\" How can they do that! Sick? I'm sick?! Look what they did to me!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Ain't that some shit?\nPerson A: Every year. That match tides us through a whole 365 days of humiliations.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Cracker looks like Frankenstein. Square head, long arms. Look at those arms, man. Those things are pistons. Smoked hams.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: This is it El.\nPerson B: Jab! Jab! Roll that shoulder. Left, left hook, Griff!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I'm sorry, El. I don't know why I didn't give you that letter. I guess I was...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          16,
+          17
+        ],
+        "text": "Person B: Our `community service' The deliveries, the pay-offs, the yard work, the chores. The names of everybody and the dates.\nPerson A: Why would you do a thing like that?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          20,
+          21
+        ],
+        "text": "Person B: It's not an obstacle course, Turner. You can't go around it, you have to go through it. Walk with your head up no matter what they throw at you.\nPerson A: I get it, you mad and need to get it off your chest, that's cool, but-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: That notebook you got in your pocket. I'll get it to them, I'll do it. Look at you, you look sick.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Goddam... C'mon. Now or never.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Blakeley.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          10
+        ],
+        "text": "Person B: They were going to kill me and bury me out there?\nPerson B: You got me out.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

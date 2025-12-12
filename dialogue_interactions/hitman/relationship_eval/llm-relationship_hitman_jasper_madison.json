@@ -1,0 +1,104 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7
+        ],
+        "text": "Person A: Do you see a ring on my finger? DO you see a ring on my finger?\nPerson A: Exactly.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: Okay, what's up with all these questions? Fine! I fucked up. I broke the contract. But I will happily sign a new one when we get home...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Mm... So ex-husband, ex-co- worker... are we even?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Yes. I'll sign the contract again.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: I don't know his name. We were having fun on the dance floor, I asked him if he wanted to go somewhere else. He said yes. We walked out, all that stuff with Ray happened. So, you know what, if he said his name, I didn't hear it.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: Hey, fuck off. I'm a grown woman. I'm single, and he wasn't random. He was a damn good dancer.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: She's awesome.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: I was literally just telling the lovely Madison that I was going to be fine with whatever way it went this afternoon. If it all blew up in your face, well, at least I'd get my job back.\nPerson B: This is where you'd go \"what money, Jasper?\" or \"money from where?\" and then I would say \"the dead husband's insurance policy.\" Okay. This'll be our little understanding, okay? The one that keeps me silent, and you guys out of prison.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Hey!! Stop. Stay. Babe, sit down. We're gonna hear him out.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yeah, babe, you're being a... dick.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

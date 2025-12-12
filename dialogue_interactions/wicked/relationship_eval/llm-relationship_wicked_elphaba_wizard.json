@@ -1,0 +1,92 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: For you. My special guest.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: Thank you, your Ozness.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Well- it doesn't have to be.\nPerson B: Is that-- your heart's desire?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: I thought you might say that. It's the darndest thing, it's almost like-- I already know you.\nPerson B: Oh, your Ozness-- I knew you'd understand! That makes me so happy.\nPerson A: Well, that's what I love best. Making people happy.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: No. Let me prove myself... Please. At least, let me try!\nPerson B: So. Which spell will you start with?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You're right. That's a harsh word. How about... scouts? They'll fly around Oz-- and report back any seditious Animal activity!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Elphaba... when I first got here, there was discord and discontent-- and back where I come from, everyone knows the best way to bring folks together is-- give them a really good enemy.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: Read it. Cast a spell.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

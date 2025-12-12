@@ -1,0 +1,33 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: Audrey, of course he doesn't know it. He just got here.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person B: I cleared out some space for you in the back. Audrey made you a bed. There's just the cot and the lamp for now but feel free to take anything you want from the showroom.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: Don't keep her waiting, cousin. It's her favorite song.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

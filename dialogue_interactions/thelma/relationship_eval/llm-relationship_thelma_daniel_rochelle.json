@@ -1,0 +1,63 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Has she ever wandered off before?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: It\u2019s confusing the things she can and can\u2019t chew. Like, she can\u2019t have a salad but last week she ate a cashew?\nPerson B: You know one of our residents is missing too. Ben Halpern. Are the two of them... involved?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: And she had the TGA, right?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: But she\u2019s a tough cookie. Obviously we want help tracking her down. But there\u2019s still a chance it\u2019s a \u201cgoing back to the buffet\u201d type situation.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Where\u2019d our family go?",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

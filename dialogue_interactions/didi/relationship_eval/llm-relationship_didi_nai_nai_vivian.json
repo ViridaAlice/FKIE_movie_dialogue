@@ -1,0 +1,79 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: [Didi, when you go to college, don\u2019t go so far. Just go to Stanford. You can live at home and I can cook for you if I haven\u2019t died yet.]\nPerson B: Stop wearing my clothes.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: [Look. What kind of mother allows their children to behave like this? You should really just let me raise them. This house is chaos. It\u2019s a zoo.]",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: You beautiful! I love you!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I swear to god if you ever pee in my lotion again, I\u2019m gonna period in your mouth.\nPerson B: [AI-YA! Not so close. I\u2019m too ugly!]",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: [I fell...I was there for three hours. I call, I call. Nobody heard me...I just couldn\u2019t stand up.]",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: ...try and be nice to Mom, okay?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: [Take it! Take it!]\nPerson B: Umm...bye. I guess.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

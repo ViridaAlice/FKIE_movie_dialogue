@@ -1,0 +1,368 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person A: Paper towels - bad for the earth. Now, let\u2019s examine the wound... Huh, maybe it needs stitches. What do you think?\nPerson B: Yeah - I mean, no -",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          10,
+          11
+        ],
+        "text": "Person A: Good. I think that\u2019s good. Brave man. Potent.\nPerson A: Oh no, I got it on the couch. Paper towel. Let me know if it doesn\u2019t come out. You should get that checked out.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          14,
+          15
+        ],
+        "text": "Person A: Mine\u2019s a war zone. Can I look around?\nPerson B: Be my - go ahead.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          10
+        ],
+        "text": "Person B: The answer should be clear to you! Whom else would I love but the most beautiful woman in the world? Of course! The most beautiful of all women! The most captivating, the most intelligent...it's perfectly transparent. I have no illusions. Sometimes in the blue shadows of evening, I give way to tender feelings. I go into a garden, smelling the fragrance of spring with my poor monstrous nose, and watch a man and a woman strolling together in the moonlight. I think how much I, too, would like to be walking arm in arm with a woman, under the moon. I let myself be carried away, I forget myself - and then I suddenly see the shadow of my profile on the garden wall.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7
+        ],
+        "text": "Person A: You have this teeny blackhead and I\u2019m dying to get at it.\nPerson A: Your skin is very oily. I have a good cream for that. Got a tissue? Ah, I see.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "text": "Person A: Would you kill yourself?\nPerson B: I don\u2019t know. Maybe. Depends on the circumstances.\nPerson A: Don\u2019t say maybe. Say no.\nPerson B: Would you?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          18,
+          19,
+          20,
+          21
+        ],
+        "text": "Person A: I just feel embarrassed talking about - especially when it\u2019s still in progress. I call myself a writer, but it\u2019s - it\u2019s sort of aspirational. I mean, I do write. I\u2019ve done a few translations of this Italian - I - he\u2019s nobody, you wouldn\u2019t know him. I won an award for it. Small, but...but I\u2019m trying to write my first original play. I\u2019m still figuring it out. Gee, you probably want your typewriter back.\nPerson B: Throw it out for all I give a shit.\nPerson A: I wouldn\u2019t throw it out. At the very least, it makes me look like a writer. Its presence mocks me.\nPerson B: Inspires you.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          42
+        ],
+        "text": "Person B: I\u2019d like to come see your play when it\u2019s all done.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: What the hell was that?\nPerson A: What the fuck? Lot of weird things happening tonight.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Is he on the call sheet?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4,
+          5
+        ],
+        "text": "Person B: It\u2019s a prototype.\nPerson A: A prototype of...what?\nPerson B: For the face...the eventual... we\u2019ll use makeup, I don\u2019t know, however you wanna do it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: I don\u2019t think we can afford makeup. This is an off-broadway production. Do I know you? You sound familiar. Can you take off that mask, please?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: Where did you get that mask?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          21,
+          22,
+          23,
+          24
+        ],
+        "text": "Person A: The question is, do you cast someone with a condition, even if he\u2019s not the best fit? Is it wrong to cast someone because of their disfigurement? Exploitative even? Will people come to gawk? Where is the ethical line? It\u2019s funny... Edward, he has an awkwardness in his own skin, so, it\u2019s kind of brilliant in a way - seeing you - who looks like- you, and you\u2019re not yourself, you\u2019ve got this mask, this other persona, and there\u2019s this dissonance...it clicked - for me - it was strangely affecting. It was like I saw my creation come to life.\nPerson B: You might need to convince them.\nPerson A: I don\u2019t have to convince anyone. It\u2019s my play, pal.\nPerson A: Hi, Mr. Sablosky.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: You don\u2019t want to look at me?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          12
+        ],
+        "text": "Person B: You look ridiculous!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: How do you know what kind of experience he\u2019s had?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: I think I know my own character\u2019s \u201cbackstory,\u201d thank you very much.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Great idea. Guy, talk like Oswald.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Sure you can. \u2019ello matey.\nPerson B: \u2018ello matey.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person B: Yeah, and you called me a prima donna. But, oh, if Oswald says it...",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5,
+          7
+        ],
+        "text": "Person A: I don\u2019t know. He\u2019s just...Edward. Look, you wanted more lines. You said it yourself.\nPerson A: Come on.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Well, I\u2019ve been thinking about - and to your credit, Guy, you were right - and Oswald too - the suicide was...ludicrous. This wasn\u2019t meant to be a tragic love story. Why can\u2019t they be happy? And Oswald and I were talking about Beauty and the Beast, and how in the end, he becomes a beautiful prince.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: I don\u2019t understand why he transforms. How is that possible?\nPerson A: He doesn\u2019t transform, not literally.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: So I\u2019m the idealized version of Oswald?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Whereas Oswald has a photographic memory.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Well, he\u2019s been giving me feedback and...",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: They\u2019re talking about you like you\u2019re a beast!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I\u2019m not going home. Have a drink. Don\u2019t be mopey.\nPerson A: That\u2019s not my problem. Come or go, it\u2019s up to you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          11
+        ],
+        "text": "Person B: So, do we fancy a flat like this perhaps?\nPerson B: I\u2019ll miss you most of all, darling.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: It\u2019s a long story. We met this woman, when we were -",
+        "type": "Implied"
+      }
+    ]
+  },
+  "23": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: What about your career?\nPerson B: I\u2019ve accomplished everything I ever wanted. I\u2019m ready for the next phase.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

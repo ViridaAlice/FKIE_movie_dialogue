@@ -1,0 +1,358 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: You don't seem to understand what I'm saying. Your dad should be there, it is both a celebration and some sort of family meeting.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Mom, please don't ruin my night, Sadaf is coming back from her town. In fact, she is coming earlier because of tonight's plan. I asked her to come earlier, how does it look like if I don\u2019t show up myself?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Mom, you're killing us! Just tell us what it is!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: We only hang out with Dad's friends.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          6,
+          12,
+          16,
+          22
+        ],
+        "text": "Person B: My darling, did your friend eat her food?\nPerson B: My dear, tell me what was she going to do if she didn't have a friend named Rezvan?\nPerson B: We talked about it. I explained to both of you that the circumstances of our family have changed, and we have to be careful.\nPerson B: Rezvan, Dad is busy with work, we should not disturb him. Also, he entrusted me with such issues.\nPerson B: Rezvan, why is it so important to you?\nPerson B: The first condition is that you promise it's the last time you make such a request again. The second is that you make sure",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: So even later I have to do whatever my husband wants? When will I do anything for myself?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Mom! She says natural eyebrows are fashionable.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Well, great! Now you\u2019ve become the defender of the rioters.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Well, she must have been so scared that she ended up having a stroke.\nPerson A: Thousands of people are not having heart attacks out of fear from the police.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Because it is God's order. It is the law of the land.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: What\u2019s going on with you two? Well go on then, get up and go start chanting in the street. Go and dance bareheaded in the middle of the street. Your father has no idea what is going on in this house.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5
+        ],
+        "text": "Person B: Dad's work is sensitive. Just like your uncle. Your uncle is always traveling, right? But does anyone know where he is? Do you know exactly what your uncle's job is? I don't know, and I\u2019m his sister. I only know that he is in the military.\nPerson B: I\u2019m saying his job is just as sensitive. We should not draw too much attention to ourselves. When you get close to people, you might say something by accident that you shouldn\u2019t. Why did you plan last night to pick up Sadaf today?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          8
+        ],
+        "text": "Person B: I just arrived; we got stuck in the crowd. They cut off the mobile phone network.\nPerson A: Thank God you\u2019re okay. Here are your pads. I\u2019m going to call your father, he is worried.\nPerson B: Mom\u2026 Najmeh looks at Rezvan.\nPerson A: What\u2019s going on?\nPerson A: It's like you don't want to take my words seriously.\nPerson A: Where? Bedroom. Rezvan, Sana, and Najmeh rush into the bedroom. Sadaf is lying on the bed, and it\u2019s obvious that she is in pain. She is breathing with difficulty. Najmeh removes her scarf that covers",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4,
+          9
+        ],
+        "text": "Person B: You see? I told you not to let her go. Girls from the dormitory recorded this video. They took Sadaf.\nPerson A: Don\u2019t you see that I was right? If she stayed here, now they were raiding our house! Then what could you tell your father?\nPerson B: I want to know where they took her. No one knows who they were, or where they took her. What has Sadaf done?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: She didn't do anything; I was with her.\nPerson B: This is the last time you say you were with her. You weren\u2019t with her anywhere!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Mom, don\u2019t you understand what I'm saying, I was with her, she didn't do anything.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          6,
+          10,
+          12
+        ],
+        "text": "Person B: Did you tell someone you can do something? Did you talk about your father?\nPerson B: You\u2019re playing dumb? What did you tell your friends? Did you say how are you looking for her?\nPerson B: You had no right to mention your uncle's name. I swear to God, if I find out you said one word about your father\u2026 or your uncle\u2026\nPerson B: Wow! Since when do you say such things? Where do you think you are? Do you think you can do whatever you want?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3
+        ],
+        "text": "Person B: Sweety\u2026 sweety wake up. I have to ask something important.\nPerson A: what's wrong, Mom?\nPerson B: My darling, your dad's gun is missing. do you know where it is?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: what happened Mom? Until a few days ago, it was no one's fault that thousands of people had strokes every day. A stroke was just a stroke. Now today if Dad has a stroke, it is our fault?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You have no shame...I came here to say you are playing with his professional reputation of twenty years. You are dishonoring him. If this gun is not found, your father should go to prison for three years!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: You do not understand what you two are doing to your father. If, like me, you grew up with an irresponsible father whose only",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: Mom, I understand that you had a rough childhood, but that is no reason to think that everything Dad says is true. Why would Sana and I take Dad's gun?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: You are playing with your father's 20-year reputation, with the fate of the family.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I do not know. How do we know that you didn't get it yourself, Mom?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Mom, how can we be sure you didn\u2019t do it?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Why didn't we tell him that the first liar was you who hid your job from your family for all these years?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Is this your final answer?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "23": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: We were involved in this from the beginning. Get up Mom, stand up.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: I have the gun. it's right here. I will call Uncle to come and take Mom and Sana, when they leave, I will give you the gun.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "24": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Please talk to him my darling, I beg you.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

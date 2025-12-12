@@ -1,0 +1,78 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person B: Will you take these upstairs for me?\nPerson B: Me li porta di sopra, per favore?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          8,
+          9,
+          10
+        ],
+        "text": "Person B: Please, sit, my child. My name is Cardinal Lawrence. How are you feeling?\nPerson B: Could you tell me your name?\nPerson A: Her name is Shanumi.\nPerson B: Please, do sit down.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          12,
+          13,
+          14
+        ],
+        "text": "Person B: Would you be so good as to leave us now, S ister Agnes?\nPerson B: Sister Shanumi, I want you to understand, first of all, that you are not in any sort of trouble. The fact of the matter is, I have a responsibility before God to make sure that the decisions we make here are the right ones. Now it\u2019s important that you tell me anything that is in your heart and that is troubling you in so far as it relates to Cardinal Adeyemi. Can you do that for me.\nPerson B: Even if I give you absolute assurance that it will go no further than this room?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Sister Shanumi is on her way home to Nigeria. There was a flight to Lagos this evening. I thought it was best for everyone if she was on it.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: The information is of value to me now.\nPerson B: I know you were close to the late Pope. When I tried to resign as dean, the Holy Father wouldn\u2019t let me. I didn\u2019t understand why at the time. But now I think I understand. I think he knew he was dying and for some reason he wanted me to run this Conclave. And that is what I\u2019m trying to do. For him.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: I\u2019ll do that for you, Your Eminence.\nPerson A: How many copies do you require?\nPerson B: One hundred and eight.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

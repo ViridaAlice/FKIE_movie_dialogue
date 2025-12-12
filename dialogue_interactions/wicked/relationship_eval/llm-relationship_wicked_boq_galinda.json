@@ -1,0 +1,42 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I'm Boq. From Munchkinland. And I know we don't know each other, but--\nPerson A: Boq. I mean-- what.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: What were you saying, about the Ozdust, and fun, and you and me...?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          6,
+          7,
+          8
+        ],
+        "text": "Person B: I hope you'll save a dance for me tonight. I'll be right there. Waiting. All night.\nPerson A: But you know what would be even kinder?\nPerson B: Well, maybe I could invite her.\nPerson B: I would do anything for you.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: If it was me, I\u2019d just move out of the building, forfeit my deposit. I couldn\u2019t live next to that. Every time you step outside, not knowing if he\u2019s gonna be there. Always being on guard - Jesus. I\u2019d have nightmares.\nPerson A: I sure as hell do mean it, and I don\u2019t feel bad about it either. Humans are hard-wired to fear and despise the sick and the ugly. Used to leave deformed babies out to die in the cold. Put \u2018em in institutions at least. I\u2019ve got science on my side. You know it\u2019s true, but you\u2019re just being politically...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Good. Hey...that photo..is that you, as a boy?\nPerson A: Yeah.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          9
+        ],
+        "text": "Person A: You have an eyelash. Let me get it. She touches his eye. He grabs her hand and holds it in place. They stare at each other. Edward leans in to kiss her.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          13
+        ],
+        "text": "Person B: It\u2019s just no one\u2019s ever touched my...my...face...before...",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: I know, always so helpful, aren\u2019t you? I don\u2019t want your pity. I know that I disgust you.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: You think I don\u2019t know what your little friends say about me? \u201cWhy do you hang out with that, that freak. He\u2019ll get the wrong idea.\u201d But you...you\u2019re the worst of all...with your kindness and caring and fussing and...God, how I hate you.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I\u2019m Edward! You\u2019re not Edward!",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

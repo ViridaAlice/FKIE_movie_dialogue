@@ -1,0 +1,195 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6,
+          7,
+          10
+        ],
+        "text": "Person A: You don't care if your father is an important person?\nPerson B: No\nPerson A: Seriously?\nPerson B: What does my father's job have to do with me?\nPerson A: I mean, wouldn't you care if Dad was selling cigarettes in the streets right now?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: What do you mean? No way! I don't like it to be loose like this.\nPerson B: Please fix the front as well. Thank you.\nPerson B: When will it be ready?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Mom, I told you. Now, why are you so strict about Sadaf all of a sudden? \u2026 Okay.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: What are you doing Sadaf?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: What are you saying? Do you have to do everything that I do?\nPerson B: It is not possible to stay home all the time.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I don\u2019t know. Why do we argue with her when we know she doesn\u2019t accept anything?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6,
+          7
+        ],
+        "text": "Person A: The only way is to tell Mom to help us.\nPerson B: Mom? what do you want to say?\nPerson A: We have to tell the truth, there is no other way.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Mom, why do you think we took it? Do you think it\u2019s okay if I do the same to you and blame you for it?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: What if Dad is lying, did you see him bring the gun home with your own eyes?\nPerson A: There was no weapon, Dad is so busy he got confused. He gave away his gun somewhere else and prefers to say that someone took it at home.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Hello Dad.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Here, wear a mask. While he was filling in the gas, a guy took photos and videos of him and the car.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: what is Dad doing?\nPerson B: He still has a gun!\nPerson A: Has he gone crazy? let's take the phone and call Uncle Asad!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: Sana?\nPerson B: Yes, my dear?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Dad, can we see your family album on this trip?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Dad's voice stopped.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

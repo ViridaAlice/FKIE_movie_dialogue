@@ -1,0 +1,54 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Now, hold on. The witness was a few hundred feet away, looking from across the bridge. In the middle of the night, through pouring rain.\nPerson B: I've done landscape work up there. The ridge-line's covered by trees.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: She got a sister?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "text": "Person B: How old is your daughter? That's her on your keychain, right?\nPerson A: She turns sixteen in March.\nPerson B: How often do you see her?\nPerson A: Not often enough.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "text": "Person B: Not exactly, no. But during the trial, my seat was right in Kendall's parents' eye-line. I saw their pain. And each day I'd ask myself: \"What if she were my daughter?\"\nPerson A: I'd want justice. Eye for an eye.\nPerson B: Okay. James Sythe's family was also in court each day. His Grandma, his niece. What if he were your son? Wouldn't you want justice for him, too?\nPerson A: I suppose I would, yeah.\nPerson B: Well then?\nPerson A: All right. You got me.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

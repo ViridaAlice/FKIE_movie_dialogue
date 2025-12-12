@@ -1,0 +1,65 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I didn\u2019t get that. I feel like you have to come from a certain background to feel that irony.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Oh, my kid and I have this joke about fiddlehead ferns.\nPerson A: You probably have to be there. He has this little two year old accent. It\u2019s like a lisp. \u2018feeeedle dee dee\u2019.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person B: Burning a hole in me. And the woman I used to be - the talented and plucky young woman with big ideas-\nPerson B: She\u2019s down there also. In my intestines, buried in kale, biding her time. Or maybe she\u2019s dead. Suffocated.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I\u2019m dying to get to the nighttime exhibit at the Rubin!\nPerson B: Oh no. Here it comes.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I\u2019m really into this show- like blown away. It\u2019s very provocative. Very you.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

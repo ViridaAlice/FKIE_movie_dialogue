@@ -1,0 +1,78 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Harry, you remember each other, don't you?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person A: Harry, what do you think about the gymnasium off to the side like that? I had imagined it differently.\nPerson A: Perhaps that's because you never enlisted, Harry. I think it's all a great surprise. Carry on, Laszlo.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: They are waiting on us.\nPerson B: Push things along and see where we land with them.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Perhaps you can help your poor husband to sound less like he shines shoes for a wage.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Send their families flowers for Christ's sake-\nPerson A: Wait. Don't. Looks guilty.\nPerson B: I'll call Michael.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Mrs. Toth, you're up on your feet!",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

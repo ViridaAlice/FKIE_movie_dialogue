@@ -1,0 +1,141 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: He is with God.\nPerson B: Aldo...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Well, I\u2019m sure you acted for the best.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "text": "Person A: Thomas, I\u2019m so sorry. I know His Holiness had no closer colleagues than you and Aldo... But I asked Janusz to hold off calling you. I... I wanted to ascertain all the facts.\nPerson A: I\u2019ve prepared a time-line of His Holiness\u2019 last day.\nPerson A: The Holy Father\u2019s most recent medical records. He had an angiogram last month.\nPerson A: You can see the evidence of a blockage...just here. \nPerson B: Joe, perhaps...perhaps we could release the data, but not the photograph? It feels too...too....\nPerson A: I know, Thomas, I know. But there will have to be an autopsy.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Thomas!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: Is he smuggling in his private Chef?\nPerson B: How many is that, Willi?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5,
+          7,
+          9,
+          12,
+          13,
+          14,
+          16,
+          22
+        ],
+        "text": "Person B: Your last meeting with the Holy Father.\nPerson B: I\u2019m sorry to have to ask this, Joe, but... To be specific, I was told that the Holy Father demanded your resignation.\nPerson B: Archbishop Wozniak.\nPerson B: So, there isn\u2019t any truth in the allegation?\nPerson A: No, I understand, of course. But, no. You can ask Monsignor Morales. He was at the meeting.\nPerson B: I would but at the moment we happen to be sequestered.\nPerson B: Can you think of any reason why Archbishop Wozniak would circulate such a story?\nPerson A: Do you think...?\nPerson B: What did you discuss with the Holy Father in that final meeting?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: If anyone brings up my name please tell them of my intentions. All I want to do is serve the Conclave. I can\u2019t do that if I\u2019m seen as a contender myself.\nPerson B: Of course, a more Machiavellian mind might say it will make you look like a paragon of virtue.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person B: I know there was some kind of report into your activities. I know the Holy Father raised the matter with you hours befo re he died and that he dismissed you from all your posts. And I know that, somehow, you discovered Adeyemi\u2019s surrender to temptation thirty years ago and arranged for the woman involved to be brought to Rome, with the express intention of destroying Adeyemi\u2019s chance of becoming Pope.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          9,
+          10
+        ],
+        "text": "Person A: I deny that accusation.\nPerson B: You deny asking our Superioress to transfer one of her sisters to Rome?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          7
+        ],
+        "text": "Person B: You would libel the Holy Father in his own home?\nPerson B: That is a d espicable accusation.\nPerson A: Is it? I wonder if you really are so very reluctant to have the chalice passed to you! He makes a visible effort to catch his anger.\nPerson B: It\u2019s the report on the activities of Tremblay. It\u2019s an overwhelming prima facie case that he is guilty of simony - an offence that is stipulated in the Holy Scripture as...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5
+        ],
+        "text": "Person B: No, Your Eminence. You are.\nPerson A: He did no such thing! As Monsignor Morales, who was at the meeting will confirm.\nPerson B: And yet Archbishop Wozniak insists that the Holy Father told him personally of the conversation...",
+        "type": "Implied"
+      }
+    ]
+  }
+}

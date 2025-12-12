@@ -1,0 +1,115 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Sorry. It's an original Hatori, and it's very special. And very sharp. Just don't want you to hurt yourself, brother.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Slate's Mom's recipe.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Alright kids. Sail's up. Who's ready to catch some beautiful grouper?\nPerson B: Yeah baby! Can I bring the muffins?\nPerson A: Bring the muffins!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: When I was like, four, my sister, she shoved me, like, by accident, she's not like a sociopath, and my teeth, my baby teeth, went right back up into their teeth holes. They grew back. How's your nose?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Stop moving. Babe, just stop moving.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: They just went crazy! What the fuck?! We were just hanging out!!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: But we're such nice guys!\nPerson B: Bro, I'm so sorry, bro. You didn't know. It's not your fault.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: You still don't know.\nPerson B: What does he mean????\nPerson A: What is it?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: So why don't you go?!",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          9
+        ],
+        "text": "Person B: I told you, Lymon. Lymon talking about you might be sleep. This is Lymon. You remember Lymon Jackson from down home? This my Uncle Doaker.\nPerson B: Well, she can get up and say hi. It\u2019s been three years since I seen her.Hey, Berniece! It\u2019s me...Boy Willie.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5,
+          7,
+          8,
+          10,
+          11
+        ],
+        "text": "Person B: Me and Lymon selling watermelons. We got a truck out there. Got a whole truckload of watermelons. We brought them up here to sell. Where\u2019s Berniece? Hey, Berniece!\nPerson B: Well, let her get up. Hey, Berniece!\nPerson A: She got to go to work this morning.\nPerson A: Berniece don\u2019t like all that hollering now. She got to work.\nPerson B: Me and Lymon been riding two days in that truck...the least she can do is get up and say hi.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: When this happen, Boy Willie?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: About three weeks ago. Me and Lymon was over in Stoner County when we heard about it. We laughed. We thought it was funny. A great big old three-hundred-and- forty-pound man gonna fall down his well.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Boy Willie and Lymon got more sense than to ride all the way up here in a stolen truck with a load of watermelons. Now they might have stole them watermelons, but I don\u2019t believe they stole that truck.\nPerson A: You don\u2019t even know the man good and you calling him a thief. And we ain\u2019t stole them watermelons either. Them old man Pibterford\u2019s watermelons. He gave me and Lymon all we could load for ten dollars.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Berniece alright. She don\u2019t want you making all that noise. Maretha up there sleep.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          10,
+          11
+        ],
+        "text": "Person A: I know Avery. Boy Willie goes to the kitchen and picks bacon out of Doaker\u2019s pan.\nPerson A: I know him from when he used to work on the Willshaw place. Lymon knew him too.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          14,
+          15
+        ],
+        "text": "Person B: He supposed to come past here this morning. Berniece going down to the bank with him to see if he can get a loan to start his church. That\u2019s why I know Berniece ain\u2019t gonna sell that piano. He tried to get her to sell it to help him start his church. Sent the man around and everything.\nPerson A: What man?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: It ain\u2019t gonna do you no good. Berniece ain\u2019t gonna sell that piano.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Boy Willie!\nPerson A: Hey, Doaker, what\u2019s wrong with her? Berniece, what\u2019s wrong?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I\u2019ll take your word for it. Berniece talking about what she seen. She say Sutter\u2019s ghost standing up there. She ain\u2019t just make all that up.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: She up there dreaming. She ain\u2019t seen no ghost.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Let Berniece tell it.\nPerson A: What happened, Berniece?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Let her finish. I want to hear what she got to say.\nPerson B: Go on, Berniece. Don\u2019t pay Boy Willie no mind.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: How you doing, sugar?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I ain\u2019t got nothing to do with that. I don\u2019t get in the way of Berniece\u2019s raising her.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: Look at him... look at him... he don\u2019t know what to say. He wasn\u2019t expecting to see me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Berniece be ready in a minute, Avery.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Lymon say preachers don\u2019t have to work. Where you working at, nigger?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: We got it running and got halfway out there on Centre and it broke down again. Lymon went out there and messed it up some more. Fellow told us we got to wait till tomorrow to get it fixed. Say he have it running like new. Lymon going back down there and sleep in the truck so people don\u2019t take the watermelons.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I don\u2019t try and talk that stuff with Berniece. Avery got her all tied up in that church. She just think it\u2019s a whole lot of nonsense.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Hey Doaker...give me a drink. I see Wining Boy got his glass. Doaker exits the room.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You wanna sit up here and drink up my whiskey, leave a dollar on the table when you get up.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I don\u2019t want to see them either. Hey, Wining Boy, come on play some piano. You a piano player, play some piano. Lymon wanna hear you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "text": "Person B: I\u2019m talking to the man...let me talk to the man. See, now...to understand why we say that...to understand about that piano...you got to go back to slavery time. See, our family was owned by a fellow named Robert Sutter. That was Sutter\u2019s grandfather. Alright. The piano was owned by a fellow named Joel Nolander. He was one of the Nolander brothers from down in Georgia.\nPerson B: So Sutter lined up his niggers and Mr. Nolander looked them over and out of the whole bunch he picked my grandmother...\nPerson B: ...her name was Berniece...same like Berniece...and he picked my daddy when he wasn\u2019t nothing but a little boy nine years old.\nPerson B: They made the trade off and Miss Ophelia was so happy with that piano that it got to be just about all she would do was play on that piano.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: All that\u2019s in the past. If my daddy had seen where he could have traded that piano in for some land of his own, it wouldn\u2019t be sitting up here now. He spent his whole life farming on somebody else\u2019s land. I ain\u2019t gonna do that. See, he couldn\u2019t do no better. When he come along he ain\u2019t had nothing he could build on. His daddy ain\u2019t had nothing to give him. The only thing my daddy had to give me was that piano. And he died over giving me that. I ain\u2019t gonna let it sit up there and rot without trying to do something with it. If Berniece can\u2019t see that, then I\u2019m gonna go ahead and sell my half. And you and Wining Boy know I\u2019m right.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Let\u2019s see if we can lift it up, Lymon. Get a good grip on it and pick it up on your end. Ready? Lift! With difficulty Boy Willie and Lymon move the piano a bit.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "23": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Come on now, Berniece, ain\u2019t no need in getting upset.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "24": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: That\u2019s Lymon\u2019s daddy. That was one bad luck nigger.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Look like you ready to railroad some.\nPerson A: Yeah, I got to make that run.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "25": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Come on, I\u2019m ready. You ready Lymon? Come on, let\u2019s go find some women.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "26": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: This is my house, nigger! I ain\u2019t gonna let you or nobody else carry nothing out of it. You ain\u2019t gonna carry nothing out of here without my permission!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "27": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Leave that piano set over there till Berniece come back. I don\u2019t care what you do with it then. But you gonna leave it sit over there right now.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "28": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Boy Willie ain\u2019t done nothing for me to put him out of the house. I told you if you can\u2019t get along just go on and don\u2019t have nothing to do with each other.\nPerson B: There! Now I\u2019m out of your part of the house. Consider me done left your part.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "29": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Why don\u2019t you stop all that! Boy Willie, go on and leave her alone. You know how Berniece get. Why you wanna sit there and pick with her?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "30": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: What Avery gonna do? Avery can\u2019t do nothing with me. I wish Avery would say something to me about this piano.\nPerson B: Ain\u2019t nothing but a house full of ghosts down there at the church. What Avery look like chasing away somebody\u2019s ghost?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "31": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: Why don\u2019t you leave her alone? What you got to pick with her for? Why don\u2019t you go on out and see what\u2019s out there in the streets? Have something to tell the fellows down home.\nPerson B: You ain\u2019t got to worry about me. You ought to be talking to Berniece. Sitting up there telling Maretha she wished she was a boy. What kind of thing is that to tell a child? If you want to tell her something tell her about that piano. You ain\u2019t even told her about that piano. Like that\u2019s something to be ashamed of.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: I got to stay around here and keep you all from killing one another.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "32": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: That\u2019s what I tried to tell Berniece. I don\u2019t know where she got that from. That sound like something Avery would say. Avery think \u2018cause the white man give him a turkey for Thanksgiving that makes him better than everybody else. That\u2019s gonna raise him out of the bottom of life. I don\u2019t need nobody to give me a turkey. I can get my own turkey. All you have to do is get out my way. I\u2019ll get me two or three turkeys.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2,
+          3
+        ],
+        "text": "",
+        "type": "Implied"
+      }
+    ]
+  },
+  "33": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Boy Willie ain\u2019t bothering you. Boy Willie ain\u2019t bothering nobody. I\u2019m just waiting on Lymon to get back. I ain\u2019t thinking about you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "34": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You worse than Berniece believing all that stuff. Talking about...if he here. Go on up there and find out. I been up there I ain\u2019t seen him. If you reading from that Bible gonna make him leave out of Berniece imagination, well, you might be right. But if you talking about -",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Boy Willie, why don\u2019t you just be quiet? Getting all up in the man\u2019s business. This ain\u2019t got nothing to do with you. Let him go ahead and do what he gonna do.\nPerson A: I ain\u2019t stopping him. Avery ain\u2019t got no power to do nothing.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "35": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Boy Willie, don\u2019t start nothing now. Leave the piano alone.\nPerson A: You just can\u2019t take the piano. How you gonna take the piano? Berniece ain\u2019t said nothing about selling that piano.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "36": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Come on, Berniece, leave him alone with that.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: What you mean one way or another? What\u2019s that supposed to mean? I ain\u2019t scared of no gun.\nPerson A: I don\u2019t care what Berniece say. I\u2019m selling my half. I can\u2019t help it if her half got to go along with it. It ain\u2019t like I\u2019m trying to cheat her out of her half. Come on, Lymon.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "37": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: If you and Maretha don\u2019t keep playing on that piano...ain\u2019t no telling...me and Sutter both liable to be back.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

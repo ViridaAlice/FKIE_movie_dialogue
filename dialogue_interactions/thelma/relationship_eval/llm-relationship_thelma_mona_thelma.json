@@ -1,0 +1,85 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Thel, darling. Did we make a date?\nPerson A: I would have put shoes on.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Sit, dear. Don\u2019t clean--",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: Fine, fine.\nPerson A: Is it a roach?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: That\u2019s what makes them worthy adversaries. You get one and there\u2019s ten more to replace him. I\u2019ve learned to pick my battles.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Good, dear.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Thel, darling! Did we make a date?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: I would have put shoes on.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

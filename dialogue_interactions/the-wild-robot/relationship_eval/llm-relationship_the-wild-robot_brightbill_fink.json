@@ -1,0 +1,133 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Bear. Porcupine. Squirrel. Turtle/opossum. Otter/moose.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Uh, you know, suddenly I\u2019m thinking I should maybe just stay with you guys this winter--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: It\u2019s Rockmouth. Get him out of there.\nPerson B: Roz! Hurry!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I\u2019ll see you all for dinner. This is not over.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Why didn\u2019t you tell me?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Look, Roz, whatever task you think you\u2019re doing, you\u2019re done. You can just leave.\nPerson A: Wow. And after all we\u2019ve done for him. Are you gonna let him do that?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You can\u2019t be up there with him.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Hey, little guy. Fly like you. Not like them.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: No, no, it\u2019s okay, he\u2019s with me. I did it, Fink. I led them to the summer nesting grounds.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4,
+          5,
+          6
+        ],
+        "text": "Person B: Sorry kid. But hey, you really did it. Roz is gonna be so excited--\nPerson A: Roz? Wait, she\u2019s here?\nPerson B: She stayed, for you. I thought I saw her right over...there.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: But you\u2019re my friend, and I never had one before, and, and I need you and--and what if I get lost--or he\u2019s hurt--or--or-- what if I need to tell you something and you\u2019re not here?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

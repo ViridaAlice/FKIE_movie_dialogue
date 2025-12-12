@@ -1,0 +1,424 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Hey, Berniece. Doaker said you was sleep. I said at least you could get up and say hi.\nPerson B: Hell, I ain\u2019t done nothing but come in and say hi. I ain\u2019t got in the house good. I come eighteen hundred miles to see my sister I figure she might want to get up and say hi. What you got, Doaker? Where your bottle? Me and Lymon want a drink. This is Lymon. You remember Lymon Jackson from down home.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: They can come over and join the party. We fixing to have a party. Doaker, where your bottle? Me and Lymon celebrating. The Ghosts of the Yellow Dog got Sutter.\nPerson A: Ask Lymon, they found him the next morning. Say he drowned in his well.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I told you it\u2019s Lymon\u2019s. Doaker, where your bottle? I know you got a bottle stuck up in your room. Come on, me and Lymon want a drink.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: What the sheriff looking for you for, Lymon?\nPerson B: The man don\u2019t want you to know all his business. He\u2019s my company. He ain\u2019t asking you no questions.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5
+        ],
+        "text": "Person B: I was fixing to get her now. Hey, Maretha! Maretha!\nPerson B: You going up there...wake her up and tell her her uncle\u2019s here. I ain\u2019t seen her in three years.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4,
+          6
+        ],
+        "text": "Person A: Don\u2019t you wake that child up!\nPerson A: I ain\u2019t waking that child up...and don\u2019t you be making all that noise.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: That\u2019s all in Berniece\u2019s head. Ain\u2019t nobody up there. Go on up there, Doaker.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: What he look like?\nPerson B: Sutter couldn\u2019t find his way from Big Sandy to Little Sandy. How he gonna find his way all the way up here to Pittsburgh? Sutter ain\u2019t never even heard of Pittsburgh.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: He bending over looking down his well, woman...how he know who pushed him? It could have been anybody. Where was you when Sutter fell in his well? Where was Doaker? Me and Lymon was over in Stoner County. Tell her, Lymon. The Ghosts of the Yellow Dog got Sutter. That\u2019s what happened to him.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person B: You can talk all that Ghosts of the Yellow Dog stuff if you want. I know better.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Boy Willie, I want you and Lymon to go ahead and leave my house. Just go on somewhere. You don\u2019t do nothing but bring trouble with you everywhere you go. If it wasn\u2019t for you Crawley would still be alive.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: I want you and Lymon to go on and take all this confusion out of my house!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Come on, Doaker, walk up here with me. Let me get Maretha up and get her started. I got to get ready myself. Boy Willie, just go on out there and sell them watermelons and you and Lymon leave my house.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Maretha, run back upstairs and get my pocketbook. And wipe that hair grease off your forehead. Go ahead, hurry up.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: How you doing, Avery? You done got all dressed up. You look nice. Boy Willie, I thought you and Lymon was going to sell them watermelons.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Doaker. I\u2019m gonna stop down there on Logan Street. You want anything?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I knew it. I knew it when I first seen you. I knew you was up to something.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: I ain\u2019t selling that piano, Boy Willie. If that\u2019s why you come up here you can forget about it. Doaker, I\u2019ll see you later. Boy Willie ain\u2019t nothing but a whole lot of mouth. I ain\u2019t paying him no mind. If he come up here thinking he gonna sell that piano then he done come up here for nothing.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: I don\u2019t want to go through none of your stuff. I done told you to go back where you belong.\nPerson B: Wining Boy, when you get here?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You ain\u2019t cooked me nothing when I come.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Boy Willie, go on and leave me alone. Come on, Maretha, get up here and change your clothes before you get them dirty.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Look at this piano. Look at it. Mama Ola polished this piano with her tears for seventeen years. For seventeen years she rubbed on it till her hands bled. Then she rubbed the blood in...mixed it up with the rest of the blood on it. Every day that God breathed life into her body she rubbed and cleaned and polished and prayed over it. \u201cPlay something for me, Berniece. Play something for me, Berniece.\u201d Every day. \u201cI cleaned it up for you, play something for me, Berniece.\u201d You always talking about your daddy but you ain\u2019t never stopped to look at what his foolishness cost your mama. Seventeen years\u2019 worth of cold nights and an empty bed. For what? For a piano? For a piece of wood? To get even with somebody? I look at you and you\u2019re all the same. You, Papa Boy Charles, Wining Boy, Doaker, Crawley...you\u2019re all alike. All this thieving and killing and thieving and killing. And what it ever lead to? More killing and more thieving. I ain\u2019t never seen it come to nothing. People getting burned up. People getting shot. People falling down their wells. It don\u2019t never stop.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: See, that\u2019s ignorant. That\u2019s downright foolish for you to say something like that. You ain\u2019t doing nothing but showing your ignorance. If the nigger was here I\u2019d whup his ass for getting me and Lymon shot at.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: We told the man about the wood. Ask Lymon. He knew all about the wood. He seen we was sneaking it. Why else we gonna be out there at night? Don\u2019t come telling me Crawley ain\u2019t knew about the wood. Them fellows come up on us and Crawley tried to bully them. Me and Lymon seen the sheriff with them and give in. Wasn\u2019t no sense in getting killed over fifty dollars\u2019 worth of wood.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: All I know is Crawley would be alive if you hadn\u2019t come up there and got him.\nPerson A: Crawley\u2019s dead and in the ground and you still walking around here eating. That\u2019s all I know. He went off to load some wood with you and ain\u2019t never come back.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Come on now, Berniece...don\u2019t do this now. Doaker, get her.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: I done told you now. Doaker, get her. I ain\u2019t playing.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: I ain\u2019t in you\u2019 house. I\u2019m in Doaker\u2019s house. If he ask me to leave then I\u2019ll go on and leave. But consider me done left your part.\nPerson B: Doaker, tell him to leave. Tell him to go on.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Carry it out of here just as big and bold. Do like my daddy would have done come time to get Sutter\u2019s land.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: She trying to scare me. Hell, I ain\u2019t scared of dying. I look around and see people dying every day. You got to die to make room for somebody else. I had a dog that died. Wasn\u2019t nothing but a puppy. I picked it up and put it in a bag and carried it up there to Reverend C.L. Thompson\u2019s church. I carried it up there and prayed and asked Jesus to make it live like he did the man in the Bible. I prayed real hard. Knelt down and everything. Say ask in Jesus\u2019 name. Well, I must have called Jesus\u2019 name two hundred times.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: That\u2019s why I don\u2019t talk to him, Doaker. You try and talk to him and that\u2019s the only kind of stuff that comes out his mouth.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          6,
+          8
+        ],
+        "text": "Person A: Be still, Maretha. If you was a boy I wouldn\u2019t be going through this.\nPerson A: You ain\u2019t got nothing to do with this child.\nPerson A: Boy Willie, go on and leave me alone.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "23": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          6
+        ],
+        "text": "Person A: Let me take care of my child. When you get one of your own then you can teach it what you want to teach it.\nPerson B: Hey, Doaker...Berniece say the colored folks is living at the bottom of life. You think you living at the bottom of life? Is that how you see yourself?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "24": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5
+        ],
+        "text": "Person B: See now...I\u2019ll tell you something about me. I done strung along and strung along. Going this way and that. Whatever way would lead me to a moment of peace. That\u2019s all I want. To be easy with everything. But I wasn\u2019t born to that. I was born to a time of fire. The world ain\u2019t wanted no part of me. I could see that since I was about seven. The world say it\u2019s better off without me. See, Berniece accept that. She trying to come up to where she can prove something to the world. Hell, the world a better place \u2018cause of me. I don\u2019t see it like Berniece. I got a heart that beats here and it beats just as loud as the next fellow\u2019s. Don\u2019t care if he black or white. Sometime it beats louder. When it beats louder, then everybody can hear it. Some people get scared of that. Like Berniece. Some people get scared to hear a nigger\u2019s heart beating. They think you ought to lay low with that heart. Make it beat quiet and go along with everything the way it is. But my mama ain\u2019t birthed me for nothing. So what I got to do? I got to mark my passing on the road. Just like you write on a tree, \u201cBoy Willie was here.\u201d That\u2019s all I\u2019m trying to do with that piano. Trying to put my mark on the road. Like my daddy done. My heart say for me to sell that piano and get me some land so I can make a life for myself to live in my own way. Other than that I ain\u2019t thinking about nothing Berniece got to say.\nPerson A: Boy Willie...I done told you to leave me alone.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "25": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You keep messing with me.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I ain\u2019t thinking about you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "26": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Boy Willie ain\u2019t taking nothing out of my house but himself. Now you let him go ahead and try.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "27": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "text": "Person A: I want you to help me/I want you to help me/I want you to help me/Mama Berniece/I want you to help me\nPerson A: Mama Esther/I want you to help me\nPerson A: Papa Boy Charles/I want you to help me\nPerson A: Mama Ola/I want you to help me/I want you to help me",
+        "type": "Implied"
+      }
+    ]
+  }
+}

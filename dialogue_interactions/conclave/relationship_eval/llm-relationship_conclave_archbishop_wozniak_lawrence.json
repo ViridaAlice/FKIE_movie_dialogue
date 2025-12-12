@@ -1,0 +1,54 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Janusz, your presence made him so happy.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Well, thank God, that\u2019s something. What did you do?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5,
+          6,
+          7
+        ],
+        "text": "Person B: Janusz, Janusz, I\u2019m sorry I don\u2019t have time to hear your confession. There is so much still to do.\nPerson B: Promised who?\nPerson A: Cardinal Tremblay.\nPerson B: Janusz, the doors close soon and you\u2019ll have to leave. Now if you promised Father Tremblay then perhaps it isn\u2019t right for you to...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          11
+        ],
+        "text": "Person A: No, Your Eminence. The Holy Father told me about it afterwards, when we had supper.\nPerson B: Why hasn\u2019t he mentioned anything to me? He was there in the apartment with us the night the Holy Father died.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

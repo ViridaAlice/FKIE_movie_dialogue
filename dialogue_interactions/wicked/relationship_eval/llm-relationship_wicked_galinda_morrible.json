@@ -1,0 +1,102 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: I am Galinda Upland. Of the Upper Uplands?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          4
+        ],
+        "text": "Person A: Madame Morrible?!\nPerson A: But you can of course come visit me whenever you want!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: I do not teach my seminar every semester. Of course, if someone very special were to come along---\nPerson A: Well, naturally! Which is why I wanted to talk to you...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Magic is merely the mind's attempt to wrap itself around the impossible. Yes: I did that... ...to prepare you to expect th e unexpected here at Shiz.\nPerson B: Did you visually see that? I simply must get into her seminar!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person A: You. Come with me.\nPerson A: No. Not you. You.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: I shall tutor you privately. And take no other students. Now come.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person B: Madame Morrible, you are-- no, seriously, I admire you so, soooo--\nPerson A: Enough.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          8,
+          11
+        ],
+        "text": "Person A: I have no faith in you, dear. This was your roommate's idea, not mine.\nPerson A: I'm a sorceress, not a mind reader! I've no idea why! But I cannot risk losing her. So-- here I am.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: My powers are purely meteorological. I can stop and start rain, make a bit of wind. But you, Dearie, I believe--\nPerson B: Your powers could be...",
+        "type": "Implied"
+      }
+    ]
+  }
+}

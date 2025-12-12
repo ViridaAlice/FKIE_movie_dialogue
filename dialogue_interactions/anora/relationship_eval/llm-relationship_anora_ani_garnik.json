@@ -1,0 +1,138 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Are you married? To her?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: No, Ivan. You can't leave.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What did you do to her?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "text": "Person A: You two are fucking dead for this. I'm Ivan's fucking wife.\nPerson B: She broke my fucking noce man. You broke my nose you fucking bitch!\nPerson A: Good. I'm glad I broke your fucking nose.\nPerson A: You two are fucking dead for this. I'm Ivan's fucking wife!\nPerson A: Let me the fuck go.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yo! Boss man! I'm talking to you! What's happening? Tell this fuck to let me go!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: She happened!\nPerson B: Yo! Boss man! I'm talking to you! What's happening? Tell this fuck to let me go!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: No, don't let her go.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Tell him!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Untie me now, motherfucker. This is so fucking illegal!\nPerson B: Don't do that!\nPerson A: You fuck! Untie me now!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Shut the fuck up.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I'm leaving if you untie her!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Why don't we drive?",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Ray? O\u2019Malley pops his head in.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7
+        ],
+        "text": "Person B: Good. And I noticed in the Sistine that you found someone to vote for?\nPerson A: Yes. I voted for you. Forgive me! Am I not supposed to say?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          16
+        ],
+        "text": "Person A: Any man who is truly worthy must consider himself unworthy. Isn\u2019t that the point you were making in your homily? That without doubt there can be no faith? It resonated with my own exper ience. In my ministry I have witnessed scenes which would make any man skeptical of God\u2019s mercy.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "text": "Person B: The other night you were kind enough to say yo u had voted for me. I don\u2019t know if you\u2019ve continued to do so, but if you have I would like to repeat my plea to you to stop.\nPerson A: Why?\nPerson B: First, because I lack the spiritual depth to be Pope. And secondly I can\u2019t possibly win. A long drawn out Conclave would be seen by the media as proof that the Church is in crisis.\nPerson A: You have come to ask me to vote for Cardinal Tremblay?\nPerson B: Yes. A nd to urge your supporters to do the same.\nPerson A: Cardinal Tremblay has already spoken to me about this.\nPerson B: I\u2019m sure he has.\nPerson A: You want me to vote for a man you see as ambitious?\nPerson B: I do not want to see Tedesco as Pope. He would take the Church back to an earlier era.\nPerson A: I\u2019m sorry. I cannot vote for a man unless he is the one I deem most worthy to be Pope. And for me, that is not Cardinal Tremblay. It is you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: No one who follows their conscience ever does wrong, Your Eminence.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "text": "Person A: < In the name of the whole College of Cardinals, I ask you, Cardinal Benitez, do you accept your canonical election as Supreme Pontiff?>\nPerson A: Acceptasne electionem de te canonice factam in Summum Pontificem?\nPerson A: < Do you accept? >\nPerson A: Acceptasne electionem de te canonice factam in Summum Pontificem?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "text": "Person A: < And by what name do you wish to be called? >\nPerson A: Quo nomine vis vocari?\nPerson B: < Innocent. >\nPerson B: Innocentius.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          13,
+          14,
+          15,
+          16
+        ],
+        "text": "Person A: Monsignor, I\u2019m sorry to interrupt you...\nPerson A: Ray...? Startled, O\u2019\nPerson A: I think you should start gathering the cardinal\u2019s notes. The sooner we light the stoves, the sooner the world will know we have a new Pope.\nPerson A: Are you alright?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You too, Father.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: It seems that even the smallest vestments are too large... I was waiting for you to come.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: I am what God made me. And perhaps it is my difference that will make me useful. I think again of your sermon. I know what it is to exist between the world\u2019s certainties.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6,
+          7
+        ],
+        "text": "Person A: And one other of course.\nPerson A: God.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

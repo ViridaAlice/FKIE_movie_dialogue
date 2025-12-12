@@ -1,0 +1,37 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ],
+        "text": "Person A: Hello sir, how are you? How is dear Faati?\nPerson B: please have a seat.\nPerson B: You must know that I am here at your service due to Iman\u2019s request so that we can solve this problem with each other's help.\nPerson A: yes, yes, I know.\nPerson B: I generally do not mix professional issues and friendship, but sometimes friends have to help each other out.\nPerson A: I\u2019m very grateful. Thank you.\nPerson B: I ask you to please patiently and carefully, answer the questions that I am writing.\nPerson A: I know, he told me too.\nPerson B: You know the impact of a lost gun on Iman\u2019s career path.\nPerson A: Of course, I know, but it is not okay that he insists the gun is missing in the house and that he suspects the kids took it. This really bothers me.\nPerson B: What about you?\nPerson A: What about me?\nPerson B: It is not possible that you yourself know where the gun is?\nPerson A: what do you mean? You mean I took his gun?\nPerson B: Anyway, in my job, this is a possibility.\nPerson A: Wow, thank you for that\u2026 and many thanks to Iman\u2026\nPerson B: No, no, Iman told me that he trusts you one hundred percent. Please don\u2019t be upset. You know better that sometimes there are secrets between children and their mothers.\nPerson A: There is no such thing at all. If I know something, why should I hide it from my husband? In the past twenty-two years, I have always been completely transparent and honest with Iman.\nPerson B: But I know there are some cases that Iman does not know about.\nPerson B: Please sit down.\nPerson A: No, your words are insulting.\nPerson B: Please, I am talking to you with the utmost respect. This room has never seen such respect for the person who sits in that chair. I assure you; whatever is said between us, won\u2019t leave this room. I\u2019m your confidant. I just wanted to say that this case can be similar to the issue you didn\u2019t want to tell Iman for some reason.\nPerson A: You\u2019re saying I don\u2019t understand the disaster that is happening?\nPerson B: It is important to tell me everything you know.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

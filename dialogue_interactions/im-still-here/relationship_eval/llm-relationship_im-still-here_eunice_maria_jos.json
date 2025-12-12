@@ -1,0 +1,89 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Brazilian Bar Association. Can you put the coffee on?\nPerson A: Sure, Mrs. Paiva. Want me to fix you dinner?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: I'm a bundle of nerves, Mrs. Paiva, my hand won't stop shaking. \nPerson B: Stay calm. You take care of the kids, and I'll deal with these men. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "text": "Person A: Yes. She said you were coming back with Rubens. \nPerson B: How is she?\nPerson A: She's never at home anymore. Always out playing volleyball.\nPerson B: And the little ones?\nPerson A: Shaken up.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          10,
+          11
+        ],
+        "text": "Person B: What about Vera? Have you heard from her?\nPerson A: She called the other day... I told her you'd gone to S\u00e3o Paulo.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          15,
+          16
+        ],
+        "text": "Person A: Nalu's in your bed. Since you've been gone, she only sleeps there.\nPerson B: Sweetie. C'mere. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Mr. Machado's out front. Should I put some coffee on?\nPerson B: I'll pick the kids up at school. Just taker care of lunch, please.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "text": "Person A: Your apron's frayed. I told you should buy a new one.\nPerson B: The cash ran out, so I had to use the money Mr. Paiva gave me to buy groceries while you were away. There wasn't enough for a new one. \nPerson A: Of course. I'll go by the bank tomorrow and get us some more cash.\nPerson B: And... Mrs. Paiva, could you see about my pay, too? I know you've got an awful lot on your plate, but Mr. Paiva only paid me through December.\nPerson A: I'm sorry Zez\u00e9, I'll sort it out.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

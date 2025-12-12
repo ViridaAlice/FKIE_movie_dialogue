@@ -1,0 +1,53 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: We've quite a full house this evening so I took the liberty of making up a place for you in the guest house. We can have your things sent for in the morning.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: The Chapel's interior is more generous in its expression; the vernacular concrete contrasted by an altarpiece of marble from the mountains of Carrara will serve as the institute's centerpiece.\nPerson B: Oh, how wonderful! The town is sure to be over the moon when they see you've kept faith and values at the forefront of your design.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: Sugar?\nPerson B: Black.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: I see Zsofia.\nPerson B: Zsofia!",
+        "type": "Implied"
+      }
+    ]
+  }
+}

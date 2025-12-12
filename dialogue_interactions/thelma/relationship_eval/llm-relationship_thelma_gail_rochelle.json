@@ -1,0 +1,59 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: What are you insinuating?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: No, no, they\u2019re old friends. But she doesn\u2019t even really like him.\nPerson A: What are you insinuating?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What can we be doing here? Can you guys send out some kind of senior alert?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Does Thelma have any significant medical history we should be aware of?\nPerson B: She\u2019s had breast cancer, a double mastectomy, colon cancer, sepsis, edema, valve replacement, hip replacement, arrhythmia, brain tumor--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Allie was very good for you in that way. She was very organized, left brained. A grounding force.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

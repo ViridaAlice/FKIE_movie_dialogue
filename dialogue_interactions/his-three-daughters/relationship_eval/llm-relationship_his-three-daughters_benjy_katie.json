@@ -1,0 +1,31 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          10,
+          11,
+          13
+        ],
+        "text": "Person B: I\u2019m gonna guess it was the last time you were here, maybe. Because that was a while ago, right? It was actually right here. In this room. Me and Vinnie were watching a game. Bucks Bulls. Yeah. We did that a lot actually. We watched a lot of games together.\nPerson B: Sure was. He always made me feel at home here. And I always looked forward to seeing him. Sometimes we\u2019d not even say anything, just watch. Other times we\u2019d talk, just bullshit, you know, talking about life, things like that.\nPerson B: Old people... Some are like that. I mean, not all, but I can usually get along with them. They sometimes got this wiseness. It\u2019s just there or it isn\u2019t. That\u2019s what I liked about Vincent right from the jump. The man can see people. I could tell the moment he saw me, he understood certain things that I\u2019m not going to say. I don\u2019t need to say. Because I\u2019m like that too.\nPerson B: I mean, I can figure out people too. They don\u2019t even have to say anything, and I can get the whole deal. Most of it at least. It\u2019s easy when someone is looking at me, but really looking through me. You understand?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          5
+        ],
+        "text": "Person B: Yes, but who do you think has been here? She\u2019s not going to stick up for herself. I mean, Rachel can handle herself, that\u2019s one of the things I love about that girl, but she doesn\u2019t stick up for herself. Especially around you two. Who do you think\u2014\nPerson B: No, no, you did not, because just maybe you wouldn\u2019t be acting the way you are, like this is your place, like you\u2019ve been here all this time. Who has been taking your old man to the bathroom? Who split up his pills into that stupid plastic container with the days on it? Just the way I watched my mom do the same thing for her father when he was passing.\nPerson B: The fucking poor girl fed him. And when he stopped wanting to eat anything but apples, who was slicing them and feeding them to him? You don\u2019t understand a goddamn\u2014",
+        "type": "Implied"
+      }
+    ]
+  }
+}

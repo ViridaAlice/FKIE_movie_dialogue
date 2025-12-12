@@ -1,0 +1,66 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I'm good. Thanks Mama.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Mmmm. Cody. What in the fuck.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Wild berry.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh, I think she's, uhm... freshening up.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person B: Wait!\nPerson B: We were just going to smoke a FAT BLUNT!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Yeah, uhm. It's great. It's been great, you know, meeting all of you guys, and connecting with all of you guys. I've made some really nice... connections... with... all of you... guys. So, yeah, that's been nice. I've always had a really hard time making girlfriends.\nPerson A: Oh. Ok. Well, I guess, women are taught to compete with each other, when we should be helping -- I mean, supporting each other. So, I was thinking when I get home that it might be cool to start like a program thing, where I teach women, I mean people--survival skills.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

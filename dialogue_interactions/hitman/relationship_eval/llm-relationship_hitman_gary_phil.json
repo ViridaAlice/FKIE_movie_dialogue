@@ -1,0 +1,119 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: Why don't you do it?\nPerson A: We got your back. We'll move in if it starts getting pear-shaped.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: You're Billy. You're a killer! You kill for a living!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person B: Grab your shit. Sit down.\nPerson B: Listen, this whole thing has got to be based on trust.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You got him, man! Great job, Gary. That was so smooth... who WAS that guy in there?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Hey, can I have my pants back now?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Oh no, I made that part up. I have been out there a few times, birding.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yeah. Just these big, beautiful kinda pterodactyl-looking guys - technically, it's the first cousin to the illusive Ivory Bill, which there was rumored sighting of back in 2005 - first in over a hundred years. Caused a big stir, because most people think they're extinct, but others think that they might have just developed a successful strategy to avoid people.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: ...let me be your therapist?!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Okay, talk soon, Gary.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: ..there's a bunch of shit coming down that we gotta figure out quick or we are both fucked.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

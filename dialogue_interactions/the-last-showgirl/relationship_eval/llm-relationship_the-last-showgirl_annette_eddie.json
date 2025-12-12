@@ -1,0 +1,54 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: But it\u2019s awful good to see ya, Eddie!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: You too, the show\u2019s not the same without you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Way to bury the lead, ya shithead!\nPerson B: Don\u2019t call me a shithead, Annette.\nPerson A: Well then don\u2019t fucken drop a bomb an hour after you\u2019ve arrived!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: I regret to inform you that Le Razzle Dazzle will have it\u2019s final performance in two weeks. On behalf of Muffy, as well as our long-time producing partners at the casino, the decision to close the show was a hard one to make, but it\u2019s been an incredible thirty-eight year run, and they thank everyone for their hard work over the years.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: This is your fifteen minute call, ladies and gentlemen. Fifteen minutes to curtain.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

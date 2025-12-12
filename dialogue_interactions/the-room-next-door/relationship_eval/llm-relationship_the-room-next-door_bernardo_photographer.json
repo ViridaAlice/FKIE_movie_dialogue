@@ -1,0 +1,33 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Martha, let me present Bernardo and Paco. Martha is a brilliant journalist for the New York Times. They are the Carmelites I was telling you about.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Five years\u2026 Do you remember Liberia?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: I have some photos of you that we didn\u2019t publish. If you give me an address, I can send them to you. Maybe to the embassy.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

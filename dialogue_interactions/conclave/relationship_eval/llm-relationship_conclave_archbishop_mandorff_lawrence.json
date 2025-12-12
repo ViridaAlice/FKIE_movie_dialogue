@@ -1,0 +1,70 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Then they\u2019d better be quick. Is this really necessary, Willi?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Let\u2019s hope none of our brothers suffer from claustrophobia. Who knows how long we\u2019ll have to be in here.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Brothers, welcome.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: One hundred and three, Eminence.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I wonder where Tedesco has got to.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          7
+        ],
+        "text": "Person A: His name is Vincent Benitez, Eminence. He\u2019s the Archbishop of Kabul.\nPerson B: Archbishop of where?\nPerson A: Kabul. He\u2019s Mexican. The Holy Father appointed him last year.\nPerson B: Last year? And how has this been kept a secret?\nPerson A: I thought, perhaps, you would be aware of his elevation.\nPerson B: No. I am not.\nPerson A: He has a letter of appointment from the Pope addressed to the archdiocese of Kabul, which they kept secret at the Hol y Father\u2019s request. You don\u2019t think he could have forged it?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ],
+        "text": "Person A: It really was. Sometimes I swear they don\u2019t realize I have a life and would rather be home with you guys than typing up reports at 11pm on a Thursday from my hotel room.\nPerson A: I thought you hated Book Babies?\nPerson B: Oh I do. It was an accident, truth be told, but he loved it.\nPerson A: You\u2019re still alive, ya ol\u2019 furball?\nPerson B: She is the cat who will never die. Even though nobody really pays any attention to her anymore. Baby, no! Don\u2019t chase the cat.\nPerson B: Speaking of furballs - I\u2019m like... I don\u2019t know.\nPerson A: What?\nPerson B: No. I shouldn\u2019t have brought it up. I\u2019m just having some odd side effects maybe of perimenopause? I\u2019m not sure. Weird hair sprouting up?\nPerson A: You talking about your nipples?\nPerson B: No! Lower back. And kind of my toes too. I don\u2019t know. I just feel off. I feel like I have this heightened sense of smell - kind of like when I was pregnant. The cat\u2019s butt smells disgusting to me.\nPerson A: That\u2019s not just you.\nPerson B: And my teeth seem to be getting sharper. Look!\nPerson A: Oh yeah. Definitely. Your teeth look so weird. This is real and not in your head.\nPerson A: I\u2019m sorry, but honey you always think something is wrong with you.\nPerson B: Well, that\u2019s the thing about being a hypochondriac - one day I will be right! And then you\u2019ll be sorry.\nPerson B: I can\u2019t remember the last time I washed this shirt. *\nPerson A: I never washed any of my clothes * for all of college. You\u2019re just * like a bachelor.\nPerson B: I mean, it\u2019s just like... what\u2019s the point? I always hated hard pants. I\u2019m giving in to just a soft- pants lifestyle.\nPerson A: You\u2019re living the dream.\nPerson B: I\u2019m the housewife I never wanted to be! You know what\u2019s the hardest part? It\u2019s like I\u2019m on suicide watch and I can\u2019t look away for even a second. Or he might stick a fork into a light socket, or like walk off a cliff. Why does he want to kill himself? It\u2019s so much more mentally exhausting than I expected.\nPerson A: It\u2019s better than leaving him with those awful ladies at the awful daycare, right?\nPerson B: I guess. That was heartbreaking.\nPerson B: If you wake him up I will rip your throat out.\nPerson A: I thought this is what you wanted. No more long hours at the gallery and crying while you pumped your boobs in a bathroom.\nPerson B: I did, I do. But maybe I need to find a part-time job or something? So I don\u2019t lose my mind.\nPerson A: It\u2019s just the math doesn\u2019t totally add up. The likelihood of you making more than we would have to pay a sitter-\nPerson B: I know. And there aren\u2019t really part time gallery jobs. Or part time nannies.\nPerson A: Right.\nPerson B: Maybe when he starts school.\nPerson A: Yeah. You just gotta hold on till Kindergarten.\nPerson B: Then I think - how dare I complain? What a gift - to get to be with my baby all day long. I should be grateful- on the scale of people who have things to complain about I\u2019m at the bottom. I\u2019m just a fucking privileged white lady who gets to stay home and make cookies all day.\nPerson A: Do you make cookies?\nPerson B: Not once.\nPerson A: I would kill to get to stay home with him every day, for what that\u2019s worth.\nPerson B: You think that. But I can assure you, you would not.\nPerson B: HEY! His fucking binky! Do you not hear him? The husband wakes, totally confused, and she turns her back * to them to let him figure it out. He fumbles and puts the * binky back in his son\u2019s mouth, who quiets.\nPerson A: Did you make coffee?\nPerson B: Not yet - will you do it?\nPerson A: Uh... sure. Is it two scoops?\nPerson B: I do three.\nPerson A: So, last night... you were kind of a-\nPerson B: Bitch?\nPerson A: You said it not me.\nPerson B: Yep. Night bitch. I am Nightbitch.\nPerson B: I sort of said it like that so that he could see I\u2019m a good sport. I\u2019m not like uptight, or not able to poke fun at myself. But once I said it, I knew the horrible truth. Nightbitch has always been there.\nPerson A: What\u2019s next?\nPerson B: Bath time.\nPerson A: I\u2019ll do it. Let\u2019s go little dude.\nPerson B: Thank you.\nPerson B: He is a good man. He is. He wasn\u2019t always so literal and cut off-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7,
+          8
+        ],
+        "text": "Person B: It\u2019s just - when you\u2019re gone, I do this by myself every day.\nPerson B: Say \u2018bye-bye dada\u2019\nPerson A: Bye-bye dada!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Honey- I...",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: I know. I know. But I\u2019m telling you... it\u2019s like I have a tail - you know those babies who are born with a tail? A fucking- Sorry, a freakin- tail.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          12
+        ],
+        "text": "Person B: You are free to go to the market with our son and pick some up if you want. And while you\u2019re there get me some tampons, ok? I\u2019m about to start bleeding and I have a feeling this one is going to be a doozy!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          11,
+          12
+        ],
+        "text": "Person B: This is the first shower I have had this week. I\u2019ve been to the supermarket three times, but I haven\u2019t gotten to wash my body in at least four days. So clearly I didn\u2019t realize that we were out of milk or I would have gotten some.\nPerson B: You are free to go to the market with our son and pick some up if you want. And while you\u2019re there get me some tampons, ok? I\u2019m about to start bleeding and I have a feeling this one is going to be a doozy!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          9,
+          10,
+          11
+        ],
+        "text": "Person A: Nooooo.\nPerson A: I just... don\u2019t want one more thing needing me or touching me.\nPerson B: Uh huh. Pretty harsh.\nPerson A: I\u2019m sorry, I\u2019m just in so much fucking pain, you have no idea.\nPerson B: Oh, gotcha. Sorry.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          13,
+          14,
+          15,
+          16
+        ],
+        "text": "Person A: It\u2019s under the bed! You wanna see what I got you?\nPerson A: Now baby. Doggies go to night night in their beds right?\nPerson A: And do doggies use binkies? Noooo.\nPerson A: Night night doggie.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          17
+        ],
+        "text": "Person A: Dare to be stupid, dare to be stupid. What did I say? Dare to be stupid. Tell me, what did I say? Dare to be stupid. It\u2019s alright. Dare to be stupid. We can be stupid all night.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          6,
+          7,
+          9,
+          10,
+          11,
+          12,
+          16
+        ],
+        "text": "Person A: Yes. He wanted to be domesticated. I was against that.\nPerson B: What now?\nPerson A: But I haven\u2019t had to lie with him for hours on end to get him to fall asleep - I just give a little growl and he goes to bed on his own. Without a B.I.N.K.Y.\nPerson A: For him? Or for you?\nPerson B: You have to see how weird this is!\nPerson A: No I don\u2019t. What\u2019s the problem? He\u2019s sleeping, which means I\u2019m sleeping for the first time in two fucking years. We are getting so much exercise - I\u2019m not waking up with pain in my back anymore. We\u2019re having fun. When did you become so uptight?\nPerson A: A woman, when pushed to her limit, will call on all her faculties to care for her young.\nPerson A: This is where my son rolled in the grass -sweet hot breath, little banana cream breath. And mine. Mine when I was... human.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh honey - do you feel left out?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          4,
+          5,
+          6
+        ],
+        "text": "Person A: Kitty! I\u2019m going to throw you onto the roof and let you starve to death up there.\nPerson B: Maybe a chicken hawk will swoop down and grab her with its talons while she\u2019s up there.\nPerson B: Then take her up into the sky and drop her from a great height into a deep quarry where heaving mining equipment with caterpillar treads will repeatedly run over her broken corpse.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          10,
+          11,
+          12,
+          14,
+          15,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ],
+        "text": "Person B: I am just a mom now. I should focus on being the best mom I can be - enjoying these moments with him, because this isn\u2019t going to last. He\u2019s growing up so fast.\nPerson A: That\u2019s true.\nPerson B: And being an artist is such a silly, self-absorbed thing to be. It\u2019s truly an embarrassing job to say out loud. What am I, six? Picking between an artist or a princess?\nPerson A: Okay. If that\u2019s what you want.\nPerson B: That\u2019s what I want.\nPerson B: I\u2019m taking your advice. I\u2019m making a plan for the week. A schedule for us.\nPerson A: Oh. Good.\nPerson B: See- Monday is gymnastics at the play space. Tuesday is Book Babies at the library- my fave. Wednesday: mommy/baby yoga in the park. Thursday is free day and Friday is Tyke Hike!\nPerson A: Wow. Okay.\nPerson B: I mean, if I\u2019m gonna do it, I should just commit. Right?\nPerson A: Right.\nPerson B: And you remember that I said I would meet up with my grad school friends in the city tonight, right?\nPerson A: Yes. I\u2019m babysitting.\nPerson B: It\u2019s not babysitting when it\u2019s your own kid.\nPerson A: Whatever. You know what I mean. I\u2019m on bedtime duty. And you are going to go have a grown up dinner.\nPerson B: Yep. At 9 pm. Four hours later than I usually eat.\nPerson A: Yowsa. You look nice.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Nobody in this fucking family can clean their own butts.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Oh god, she does that when she has a shit stuck on her butt. This- fucking cat. Someone has to wash her.\nPerson A: Come on! I can\u2019t. I never get to go out.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          10
+        ],
+        "text": "Person B: Okay, fine - I got a little drunk. It was really weird seeing all those people again after all this time. It made me feel like shit. So I drank my dinner and missed the * last bus. I\u2019m sorry. *\nPerson B: Because I\u2019m not doing anything with my life. Because they think I\u2019m just a mother now. Which I am. I mean, I know I am. But they think it\u2019s pathetic and it made me feel pathetic.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          11,
+          15
+        ],
+        "text": "Person A: They don\u2019t have any clue. They don\u2019t have kids. They don\u2019t know what they\u2019re missing.\nPerson A: At some point you\u2019re going to have to start accepting that we\u2019ve made some choices over the years that landed us here. I don\u2019t know about you, but I wouldn\u2019t trade those choices for the world.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          12,
+          14,
+          16,
+          18,
+          20,
+          22,
+          24
+        ],
+        "text": "Person B: So quick. No protestations from you! And I keep running over that conversation in my head. Because it would have been so nice for you to encourage me at least a little bit not to quit. Tell me that I was good at what I did, and it would be a shame to give it up. Say that I would return to it one day. But you just smiled.\nPerson B: Because somewhere you were getting what you\u2019ve always wanted. For me to be a stay at home mom.\nPerson B: Just like your mother. And her mother. A sweet deal for you. You have your job and I have mine. Only my job has no pay and no appreciation and no vacation days and includes washing your underwear.\nPerson B: You feel trapped? Do you have any fucking clue how trapped I am? I\u2019ve found myself in a fucking 1950s marriage somehow and I have no idea who I am anymore and all I do is take care of our son and you and the fucking cat- before I killed her.\nPerson B: You\u2019re right. I agreed to it, but I had no fucking idea what I was agreeing to. I didn\u2019t realize I would feel like a single parent who has zero help and has to give up my dreams to take care of everyone! I don\u2019t even know who I am anymore!\nPerson B: HOW CAN YOU NOT SEE ME? I\u2019m wilting while you\u2019re out succeeding.\nPerson A: If you were so fucking unhappy why didn\u2019t you tell me? You expect me to read your mind? If you tell me that everything is fine, then I think that everything is fine. If you tell me that you want to quit being an artist and stay home with our son, and I say ok, I think I\u2019m supporting you. That\u2019s just some passive-aggressive bullshit.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5,
+          6,
+          7
+        ],
+        "text": "Person B: This agreement we made, that I would stay home and you would go to work isn\u2019t working for me anymore. I need... space. I don\u2019t even know how to - I don\u2019t know who I am or what I need. I need to dig around in the dark and find myself again.\nPerson B: No. I don\u2019t. But I had no clue what we were actually getting into. If I could go back in time, I would have made us sit down and work out a more equitable way to do this parenting thing.\nPerson A: I would have been open to that.\nPerson B: I\u2019m sorry.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: Me too.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40
+        ],
+        "text": "Person B: There\u2019s my baby!!\nPerson A: We had a good night, didn\u2019t we, dude? It was hard. I\u2019m not gonna lie. It was... hard. He missed you. And my place is... a little weird. Sterile.\nPerson B: Sure. I get it.\nPerson A: How was your first night alone?\nPerson B: It was really wonderful, actually. I think I have an idea for a new project. I\u2019m just really focused. It\u2019s amazing how efficient I can be now that I never have any time. Give me an hour and I\u2019m doing more than I used to do in a week.\nPerson B: You want some hashbrowns, baby?\nPerson B: So I\u2019ll drop him off Friday morning?\nPerson A: Okay. Yeah. I need to get some toys at my place. He was so bored. And maybe a stuffy or something?\nPerson B: That\u2019s a good idea. I\u2019ll send you the link for that dinosaur he loves. You could get him one for your place. And I\u2019ll pack more for him too.\nPerson A: Okay yeah.\nPerson A: He\u2019s really sweet. But he\u2019s also not used to me. I kinda felt like he thought he\u2019d been kidnapped.\nPerson B: That will change. This is gonna be good for both of you.\nPerson A: He\u2019s like \u2018who is this weird man living in this sad apartment complex with all the other sad men?\u2019 I swear the whole place is newly divorced dads. All these kids at the pool kind of just confused - not a mom in sight.\nPerson B: I just picture all the kids getting sunburned because nobody remembers the sunscreen.\nPerson A: Oh man, I didn\u2019t even think of sunscreen.\nPerson B: See you Friday?\nPerson A: Yep.\nPerson B: Okay! What do we want to do today? I missed you so much.\nPerson B: May we pet your dog?\nPerson B: We love dogs!\nPerson B: That one?\nPerson B: May we chase your dog?\nPerson B: It\u2019s so cool right?\nPerson B: You know that I love being your mom, right?\nPerson B: It makes me so happy. You are a wonderful kid.\nPerson B: I want to go back and grab you by the shoulders...\nPerson B: ...And scream at you \u2018you\u2019re amazing! You\u2019re my mother!\nPerson B: Go to Europe. Insist on your joy! Time is short...\nPerson B: ...Don\u2019t just do it for you, do it for me too!\u2019\nPerson B: I always thought motherhood was sort of a weak state of being - like very basic and passive. But motherhood is a far more primal active thing than that.\nPerson B: It is probably the most violent experience a human can have aside from death itself.\nPerson B: A child\u2019s first act is violence against the woman who created it. Yet still the mother loves the child with the most powerful love known in this universe. Miriam is a wild boar, Liz is a moose. And Norma is there as a wise owl.\nPerson B: This thing comes from us. It rips its way out of us, literally tears us in two, in a wash of blood and shit and piss.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          10,
+          11,
+          12,
+          15,
+          16,
+          20,
+          21,
+          22
+        ],
+        "text": "Person A: You are the giver of life to our * son, and I should have been so much * more ... I don\u2019t know what. I * should have given that so much more * respect. *\nPerson A: I should have told you to not give * this up. I really fucked up. And I * am so sorry. *\nPerson B: Thank you. Thank you for being * willing to say that. *\nPerson A: You can\u2019t give this up - you have * too much to say. You\u2019re so weird * and I love you. *\nPerson B: I love you. *\nPerson B: Really? You sure? *\nPerson A: Are you kidding me? This is your night. Please go enjoy it. I\u2019m going to go hug our sleeping child, and think about what magic it is that brought him into the world. *\nPerson A: I\u2019m proud of you. *",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: This must be what it is to be an animal. To look at another and say \u2018I am so much that other thing that we are part of one another\u2019.\nPerson B: I want salmon.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: This is how it\u2019s always been and how it will continue to be. From outside their blanket cave, we see the warm light of their game, their shadows look like real bears in the cave - the sounds of bear roars fill the warm bedroom, which is now transformed into a forest with trees having sprouted up all around the tent.\nPerson B: AHHHHH! I can\u2019t. I can\u2019t do it.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

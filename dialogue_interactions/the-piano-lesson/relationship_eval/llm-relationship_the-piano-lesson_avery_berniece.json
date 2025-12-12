@@ -1,0 +1,41 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Me and Avery gonna drop you off at the settlement house. You mind them people down there. Don\u2019t be going down there showing your color. Boy Willie, I done told you what to do. I\u2019ll see you later, Doaker.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          8,
+          16,
+          17
+        ],
+        "text": "Person A: Berniece...I be at home and I get to thinking you up here an\u2019 I\u2019m down there. I get to thinking how that look to have a preacher that ain\u2019t married. It makes for a better congregation if the preacher was settled down and married.\nPerson A: You know how I feel about you, Berniece. Now...I done got the place from Mr. Cohen. I get the money from the bank and I can fix it up real nice. They give me a ten-cents-a-hour raise down there on the job...now Berniece, I ain\u2019t got much in the way of comforts. I got a hole in my pockets near about as far as money is concerned. I ain\u2019t never found no way through life to a woman I care about like I care about you. I need that. I need somebody on my bond side. I need a woman that fits in my hand.\nPerson A: Who you got to love you? Can\u2019t nobody get close enough to you. Doaker can\u2019t half say nothing to you. You jump all over Boy Willie. Who you got to love you, Berniece?\nPerson B: You trying to tell me a woman can\u2019t be nothing without a man. But you alright, huh? You can just walk out of here without me - without a woman - and still be a man. That\u2019s alright. Ain\u2019t nobody gonna ask you, \u201cAvery, who you got to love you?\u201d That\u2019s alright for you. But everybody gonna be worried about Berniece. \u201cHow Berniece gonna take care of herself? How she gonna raise that child without a man? Wonder what she do with herself. How she gonna live like that?\u201d Everybody got all kinds of questions for Berniece. Everybody telling me I can\u2019t be a woman unless I got a man. Well, you tell me, Avery - you know - how much woman am I?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Boy Willie...Berniece...why don\u2019t you all sit down and talk this out now?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

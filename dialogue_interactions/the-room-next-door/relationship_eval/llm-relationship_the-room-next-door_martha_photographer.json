@@ -1,0 +1,34 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Here, stop here.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: We met in Sierra Leone. We became lovers there.\nPerson B: Of course. Bernardo never renounced physical pleasure. He was always in the most conflictive places and\u2026 I think that sex was his best shield\u2026 I\u2019m sure the Carmelite is his partner.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person B: Definitely. That\u2019s the only way you can stay in Baghdad and not be afraid of the war.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          9,
+          10,
+          11
+        ],
+        "text": "Person A: No harm, no foul! Oh, it\u2019s so good to see you, Thel. You look terrific.\nPerson A: I think about Teddy often. Such a special guy. What\u2019s it been, two years now?\nPerson B: Just about two.\nPerson A: Five since Sheryl. Still feels like a dream. How are you holding up?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          14,
+          15
+        ],
+        "text": "Person B: Let\u2019s not be maudlin. You gonna show me your place?\nPerson A: Got a TV. Plants. Window-- You mind? Most infections start from the hands. I read that. Our director\u2019s been trying to get me to touch Gloria in the scene where I adopt her. But I won\u2019t do it.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          9
+        ],
+        "text": "Person B: My grandson is parked a block away. I don\u2019t have much time...\nPerson B: He\u2019s 24.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I need to be back by eight! It\u2019s opening night. I can\u2019t miss it.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          5,
+          7,
+          9,
+          11,
+          13,
+          15
+        ],
+        "text": "Person B: We\u2019re stopping by Mona\u2019s.\nPerson B: That was a fun trip, wasn\u2019t it? When was that-- \u201895?\nPerson B: Whatever you say, buddy. If you\u2019re right, maybe we can use it. Then--\nPerson B: To get a gun.\nPerson B: It\u2019s just a precaution! A couple of shmegeggies like us turning up unannounced? I like to be prepared.\nPerson B: How hard could it be? Idiots use them all the time.\nPerson B: So what if we get there and he has a gun? Then what?\nPerson B: You\u2019ll have to distract her. Mona\u2019s still sharp. It\u2019s not gonna be so easy.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Good to see you, doll.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: ANNIE, GET YOUR BLASTED, FLEA\ufffeRIDDEN, GODDAMN HOUND OUT OF MY",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9,
+          19,
+          20
+        ],
+        "text": "Person A: What is it with you-- you miss that place?\nPerson B: I like it there.\nPerson B: Sheryl used to cook. Pick up our socks, keep the place together. I\u2019ll take help where I can get it. I\u2019m not ashamed. God forbid someone makes life a little easier, right?\nPerson A: It\u2019s not the same.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Isn\u2019t that interesting. They\u2019re different Gary\u2019s. But both Gary.\nPerson A: I guess we don\u2019t.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: It\u2019s my grandson.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          12,
+          15,
+          16,
+          26,
+          27
+        ],
+        "text": "Person A: If I listened to you I\u2019d be your roommate by now! Go home, Ben. You don\u2019t want to be here.\nPerson B: What about your grandson?\nPerson A: ...No, no--\nPerson B: We\u2019re the only ones left, Thel.\nPerson B: The least we can do is take care of each other. Call your family.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: I am sorry. About all of it. We gave it a good try didn\u2019t we?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5,
+          6,
+          7
+        ],
+        "text": "Person B: I lived with my parents until I was 23. Then I moved in with Teddy. And I lived with him until I was 91. I\u2019ve lived, just me, for two years now. It\u2019s lonely sometimes. I miss Teddy. But I tried sushi. And I liked that quite a bit. I\u2019ve enjoyed my time alone. I guess I wanted more.\nPerson B: I think I know her.\nPerson B: Lois?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: There is no show without Daddy Warbucks.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5,
+          6,
+          7
+        ],
+        "text": "Person B: ...You want bread? We have bread. Ben pulls a piece of bread in a ziploc out of his jacket pocket. They tear it in half and share it.\nPerson A: It\u2019s like a rock.\nPerson A: Come on, we\u2019re gonna lose him.\nPerson A: Keep a lookout. I\u2019m gonna try to talk to them. If things get funny, you go for help.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Thel? ...Thelma?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Talk to me, Thel! What\u2019s going on?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I\u2019m terribly sorry for the imposition...",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I beat him up.\nPerson B: What is this? A shoe?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I x\u2019d it!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person B: Don\u2019t take people\u2019s money. Clean up your store. Be nicer to Michael.\nPerson B: And don\u2019t smoke.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: I hope you know I\u2019ll be buying you a new scooter. And a new phone.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: Both good options. We\u2019ll make a plan, dear.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

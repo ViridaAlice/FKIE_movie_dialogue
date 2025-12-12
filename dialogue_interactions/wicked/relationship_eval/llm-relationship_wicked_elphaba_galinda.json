@@ -1,0 +1,182 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: What? What are you staring at? Oh-- do I have something in my teeth?\nPerson A: But... you're... green.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Yes, and it's my intention to major in sorcery, so-- if at some future time you wanted to-- address the problem? Perhaps I could-- help.\nPerson A: Offering to help someone you don't know with a skill you don't have. I'm sure everyone's duly impressed.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4,
+          6
+        ],
+        "text": "Person A: Couldn't.\nPerson A: You \"couldn't\" care less what other people think. Though I doubt that's true.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: But, Madame Morrible--",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          7
+        ],
+        "text": "Person A: For instance, and this is just an example, I could lend you some clothes, til your luggage arrives. Since you've-- nothing to wear.\nPerson A: And in return, perhaps you could-- let's see-- put in a good word for me? With Madame Morrible? Deal?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          12,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "text": "Person A: Dearest darlingest Momsie and Popsical...\nPerson A: \"Guess what?\"\nPerson B: \"In regards t o your request that I move in with Nessa--\"\nPerson A: \"I can't hear your guesses because this is a letter.\"\nPerson B: \"I know she wouldn't want me to--\" \"I know how much she wants to be--\"\nPerson A: \"So I'll just tell you.\"",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Maybe the pronuncifi-cation of your precious name is not the sole focus of Doctor Dillamond's life. Maybe he's not like every other Professor, maybe some of us are different!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: And there he is, with Galinda of course. They deserve each other.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: And we were just talking about you! How you should join us tonight!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "text": "Person B: You. Join. Us. A t the Ozdust. I'm inviting you!\nPerson A: Why.\nPerson B: Because everyone will be there. And don't tell me you've nothing to wear, you could wear-- let's see--\nPerson B: She looks around, then-- holds the black hat out to Elphaba.\nPerson B: --this!\nPerson B: I mean, it goes with everything you own!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "text": "Person B: I know! Let's each tell the other something we've never told an yone! I'll go first: Fiyero and I are getting married!\nPerson B: Oh, he doesn't know yet. Now you tell me a secret.\nPerson A: It was my mother's, that's all.\nPerson A: My father hates me.\nPerson A: That's not the secret. The secret is. .. He has a good reason. It's my fault.\nPerson B: What, what is?\nPerson B: Green?\nPerson A: He was so worried, he made our mother chew milk flowers, day and night. Only it made Nessa c ome too soon... with her little legs all tangled. And our mother... never woke up.\nPerson A: None of which would ever have happened... if not for me.\nPerson B: But that was the milkflowers' fault, not yours.\nPerson B: That may be your secret, Elphaba. But it doesn't make it true.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: Now, you're sure you have everything? Elphie!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Nessa...\nPerson B: There are other boys. Who you may not have noticed. Who've noticed you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Elphie!\nPerson B: Where's Nessa?\nPerson A: She left with your father. She said to wish you safe travels. She'll be fine, Elphie. She'll have to manage without you. We all will.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Stella! I didn\u2019t even see you\u2026",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Could you sign mine?\nPerson B: Why didn\u2019t you come straight up?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Our Martha? Martha Hunt?\nPerson B: No\u2026 To be honest, I haven\u2019t seen her in years. Martha, sick? I can\u2019t imagine it\u2026",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I\u2019m living in Boston now. I\u2019ve come to see my son, and visit Martha in the hospital. You know that she has cancer, right? It\u2019s a bad one.\nPerson A: Yes. She\u2019s at Manhattan Memorial Cancer Center. I thought you\u2019d have heard\u2026",
+        "type": "Implied"
+      }
+    ]
+  }
+}

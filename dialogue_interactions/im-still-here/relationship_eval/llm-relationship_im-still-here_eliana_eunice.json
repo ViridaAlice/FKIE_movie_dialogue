@@ -1,0 +1,192 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: No. Bedtime. And Marcelo, the dog goes in the garage.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Come have lunch, sweetie. ",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          9
+        ],
+        "text": "Person A: He went out. Let's go to your room.\nPerson A: Calm down, honey. It'll be okay. Just don't tell the little ones. They don't know what's going on.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "text": "Person A: They're armed, Mom.\nPerson B: I know.\nPerson A: Can I sleep in your bed?\nPerson B: Best stay with your sisters.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "text": "Person B: Not yet. They want to ask us some questions.\nPerson B: Yes, sweetie. But don't worry, we'll be back soon. \nPerson B: C'mon, get dressed. \nPerson B: Stay with the children, please.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Mom? \nPerson B: Honey, are you all right?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Don't cry, honey. \nPerson A: Did they do anything to you?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          8,
+          10
+        ],
+        "text": "Person B: Mom, no. They said not to use the phone. C'mon, I'll go with you.\nPerson B: But I want to know what's happening, why Dad still hasn't--",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          9,
+          11
+        ],
+        "text": "Person A: No, Eliana. You have to go to school. \nPerson A: -Go get ready for school, honey.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I don't feel like practicing. ",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I miss the beach, the souffl\u00e9, and you all. I miss everything, Vera. ",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Stay here.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person A: You skipped the part about Dad and me--\nPerson B: -Enough, Eliana. Give it to me. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: We're going back to S\u00e3o Paulo.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I know it's hard to understand, but you'll just have to be patient. This process is--",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person B: This house is already rented out. It's going to become a restaurant. I want each of you to pack your things, and on Friday, a moving truck will pull up out front. \nPerson B: Pass the rice, Marcelo. ",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

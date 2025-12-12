@@ -1,0 +1,82 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5,
+          6
+        ],
+        "text": "Person B: Just remember, Jasper, if it weren't for the police union, you wouldn't even have a job right now.\nPerson B: Maybe you hadn't heard since you were on suspension, but Gary's done a great job. His conviction rate is higher, and frankly, he's got a better range than you do.\nPerson A: You believe that, Gary?\nPerson A: You guys think that's true? They don\u2019t know what to say.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: Since you're being the asshole, I'll just come right out and say it: we're trying to hide your face, okay?\nPerson B: Maybe you've forgotten, Jasper, unlike the 9 million other people who watched your video, but we got an angry public out there, and we don't want them in our business. So take my advice, do yourself and all of us a favor - lay low and keep your goddamn mouth shut. Can you do that?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: You remember the lady that came in, trying to have her husband killed, that we let go?\nPerson A: No, that HE let go.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          3
+        ],
+        "text": "Person A: Maybe it's a new boyfriend or something? Should we go try to find this guy, talk to him?\nPerson B: I'm liking that. Let us know what you find out.\nPerson B: Sure.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Well, we could pull her in for questioning anytime, but she'll probably just get a lawyer, clam up...if she's really behind this, she's probably got all her lies and alibis in order.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: I'm liking this. There's no tellin' what she'll say, but once you get her talking, you'll be able to tell if she's lying to you.\nPerson B: Exactly.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

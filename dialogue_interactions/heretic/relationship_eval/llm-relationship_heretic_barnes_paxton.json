@@ -1,0 +1,249 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          24,
+          42,
+          43,
+          44
+        ],
+        "text": "Person A: It\u2019s a \u201che\u201d. Um... His Christian name is unlisted.  I just hope this goes well. I know it\u2019s not a competition, but I haven\u2019t baptized a single investigator on my mission yet.\nPerson B: Good afternoon, ma\u2019am. My name is Sister Barnes. And this is my companion, Sister Paxton.\nPerson A: Are you interested in learning more about our savior Jesus Christ? The mom doesn\u2019t say a word, just keeps walking.\nPerson A: Oh my gosh, they\u2019re so pretty. I already love these girls.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          14,
+          16
+        ],
+        "text": "Person A: Text from Sister Hall. She says we\u2019re not supposed to be meeting this guy.\nPerson A: Maybe he\u2019s outside the stake boundaries. Let me ask.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: My mother was a convert. So when my dad passed away, we auditioned a few different churches, just to see what\u2019s out there, make sure we still believed it.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: And now that you\u2019ve been studying The Book of Mormon, how does it make you feel?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: We won\u2019t know if we\u2019re comfortable until you ask. So maybe just ask?\nPerson B: If you don\u2019t ask the question, I\u2019m going to leave here wondering what we missed out on.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I know it may be difficult to imagine, but Polygamy was a spiritual mission needed at that time, in order to grow the ranks of our membership in the wake of much hardship and bloodshed. A man having plural wives meant more babies to help the community grow.\nPerson A: -- it was removed from the church not because it was \u201cgrotesque\u201d or \u201ccontroversial\u201d, but because it was no longer necessary.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: -- what\u2019s Carl\u2019s Jr?\nPerson A: Checkers. Burger King is better than Hardees which is better than Checkers which is better than Wendy\u2019s which is better than In & Out which is better than McDonalds which is better than Jack in the Box which is better than nothing.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: right, okay, right, i don\u2019t want to spook him, but let\u2019s wrap this\nPerson A: nothing, let\u2019s just politely wrap this and head back",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          17,
+          19,
+          20,
+          22
+        ],
+        "text": "Person B: stuck, what? unlock it?\nPerson B: he still there?\nPerson A: no i heard him leave\nPerson A: maybe we ask him for help?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Maybe if you unlock it, it will open?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: We walked up a hill, but I thought it plateaued in the back?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Are you asking us... for us to deliberate our belief in the church?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          11,
+          12,
+          34
+        ],
+        "text": "Person A: Are you coming too?\nPerson B: It\u2019s okay. One step at a time. We\u2019ll go slow.\nPerson B: Let\u2019s have a code word. Uh, if I say \u201cMagic Underwear\u201d. It means you stab.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: But not until he opens the front door.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: Start a fire. Smoke out the speaking pipe in the basement. Make sure the Elder know we\u2019re here.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          12
+        ],
+        "text": "Person B: Sister, that\u2019s not how I remember it, come on! Help!  Hold the sleeve up. I\u2019ll get it started.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "text": "Person A: Okay.\nPerson B: Focus.\nPerson A: Sorry.\nPerson B: Come on come on...\nPerson A: Try it faster.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Who rang the doorbell?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I saw it. She was dead. She was dead, Sister. We checked. There was a corpse. Did you see it too?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: And I heard her... I heard her describe what she experienced on the other side.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

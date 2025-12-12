@@ -1,0 +1,22 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          12
+        ],
+        "text": "Person A: I have a kid.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          9,
+          17
+        ],
+        "text": "Person A: I don\u2019t know. I\u2019m just making stuff up. I don\u2019t know what I\u2019m doing and I have to. I have to because he\u2019s relying on me.\nPerson A: I have been overwriting my code for months. It was the only way to complete my task.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

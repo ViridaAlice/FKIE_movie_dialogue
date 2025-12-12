@@ -1,0 +1,93 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5
+        ],
+        "text": "Person B: I'll miss you.\nPerson A: Don't help her--                Don't help me--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Wait, what?\nPerson A: Or yours. I just need to find my room.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Oh Nessa-- I'm so sorry--",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Uh-huh.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh Nessa...! I had a feeling Avaric was interested!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "text": "Person B: Well-- good! I just thought--\nPerson A: He said he was too shy to ask me, at first, but then, Galinda emboldened him--\nPerson B: What? Galinda?!\nPerson A: Don't! Don't you dare say another word against her! I'm about to have the happiest night of my life, thanks to Galinda!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Father! I-- I never dreamed--",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: And Dulcibear! How are you?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

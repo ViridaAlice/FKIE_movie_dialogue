@@ -1,0 +1,46 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Oh, come on, Benji, stop that--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Exactly. She used to tell me that first generation immigrants work some menial job -- they drive cabs, they deliver food -- but they move their family up to the middle class. Then the second generation goes to good schools, good colleges, they become a lawyer or a doctor. And the third generatio n lives in their mother's basement and smokes pot all day.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: We used to take lessons together.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Like six months ago. My aunt Leah -- Benji's mom -- found him on the couch. I probably shouldn't have sa id anything. And I know he looks so charming and funny to you and you're all gonna walk away with the impression of this amazing man - which he totally is in so many ways - but when I picture him, it's passed out on this ratty basement couch and I'm in New York City with my nice wife and adorable child and it just fucking kills me.\nPerson A: Jesus Christ, they're back again--",
+        "type": "Implied"
+      }
+    ]
+  }
+}

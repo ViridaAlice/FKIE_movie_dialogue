@@ -1,0 +1,187 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          6
+        ],
+        "text": "Person A: He think you\u2019re an escort on the side?\nPerson A: Guys think that! Well they do.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Well then I won so what the fuck does it matter if I previously lost? You wanna maybe not eat an orange before dinner?\nPerson A: I know this is impromptu but I got enough-- I got a lot. Men like to be fed.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: He was divorced-- he didn\u2019t have a ring.\nPerson A: He liked me, okay?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: No way, she\u2019s not 83.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yes she is, she\u2019s 83. I got an invitation to the party but I didn\u2019t go, I hate soft foods.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Guys, I like my life, okay? I like it. I like my job, not everyone likes playing grab-ass with a bunch of coked up gamblers at ten am--",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Annette is a bon vivant!\nPerson B: Who\u2019s that?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Look who\u2019s here!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: So, Eddie brought some wine. Should I... should I open it up? It\u2019s a Malbec. A little Malbec for anyone? Annette? Mary-Anne?\nPerson A: Okay.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: There\u2019s a Cup a\u2019 Noodles above the fridge.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: You\u2019re gonna gamble it all, I know you. And then I\u2019m gonna lose my house, just like you lost yours--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: What?! That\u2019s a first--",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person B: I\u2019m not kidding--\nPerson B: Lemme get a Jack and ginger.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person B: You know that. But Eddie lives here, you two have a history--\nPerson A: We have a bad history.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          16,
+          17
+        ],
+        "text": "Person B: Fuck.\nPerson A: It\u2019s... no... it\u2019s okay... They hold each other.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          18
+        ],
+        "text": "Person A: I read somewhere: Our mothers are not saints or saviors, just regular people doing the best they can with the tools they have. I know that\u2019s not an excuse but I really just want you to know that... I love you... however imperfect that may sound. I just want you to always know that. You know, life is full of contradictions. And this probably sounds crazy, but I\u2019ve always only wanted the best for you. I\u2019ve always been with you. I\u2019ve always just wanted you to be safe and happy. And I just want you to follow your dreams. Just be you. I love you.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

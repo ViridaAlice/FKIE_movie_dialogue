@@ -1,0 +1,137 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Garnik! Garnik, you fucking idiot!\nPerson A: Jesus fucking christ.\nPerson B: I need your help. Grab that cord and tie her legs.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Why did you let him leave?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: He told me not to touch the guy. And I was dealing with her.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: And c'mon. This is overkill. Untie her. Ridiculous.\nPerson B: I don't suggest that. Get what you need first. She's not co-operative.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "text": "Person B: We have to shut her up. The guard will hear!\nPerson B: Oh, don't give me that shit. They're landing at noon. You get us in front of the judge first thing or the family will be cutting ties with the firm tomorrow. Simple as that.\nPerson A: Just do what they say. It'll be so much easier.\nPerson B: We'll see you at 9. Yeah, I have it. Yes. Ok.\nPerson B: Ok, time to break this broad.\nPerson B: Ok? Calm now? Going to behave?\nPerson B: Trust me. I know. I know what you're thinking.\nPerson B: You're thinking that this little shit betrayed you. I know how you feel because he's betrayed me too.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Leave her alone man.\nPerson A: Goddamn it!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: It's faster if we walk. I'm not finding parking again.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I don't have Instagram. I'm an adult.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: He vomited because he has a concussion, not because of Oxycodone.\nPerson B: Clubs should be opening now. Which ones did you go to with him?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Igor is going to take you back. You can stay at the house tonight but you need to be out in the morning. Igor will get your money when the bank opens.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2,
+          3
+        ],
+        "text": "Person A: And thank you.\nPerson B: Happy Birthday to me.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: So you\u2019ve been good, right? I mean other than this. He seems okay, at least better than how I was picturing. Not too different than last time I was here. Hard to tell whether he\u2019s in pain, I mean at least while he\u2019s asleep. But you\u2019ve been on top of that, yes? Because I think that\u2019s the thing, is for it to be as painless as possible. The trick is, I guess the thing I\u2019m saying, is that I hope we can make this easy, on him. Just not make a thing out of anything. If we disagree, we talk it out without getting heated, or yelling, or anything that\u2019s going to upset him. We handle it like adults, like the age we are. I don\u2019t really see what there is to disagree about, anyways. At the end of the day, the hard truth is, is that he\u2019s dying and there\u2019s nothing either one of us can do to stop that from happening. I\u2019m not trying to be cold, but it\u2019s a matter of being there for him, being here. Things from the past don\u2019t matter, not right now. If there are things to work out, they can wait. I really hope you agree. I\u2019m upset. I know you are too. We all are. It\u2019s hard. It sucks. Let\u2019s not make it harder, ok? I did see...I did see that the DNR never got signed like I asked. Quite a few times. I got it, it\u2019s not that easy...well it was easy, actually. And now, it\u2019s a lot harder\u2014I\u2019m not making this a thing\u2014 I\u2019m just saying it\u2019s harder now that he\u2019s not seeing doctors.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: He opened his eyes for a bit. That was nice. He knows we are here. I could tell that made him happy. I know... I know... I promise, I won\u2019t be like this the whole time. I\u2019m not going to just cry through it all. Just for now. It\u2019s weird to be away, you know, from Mirabella and David. That\u2019s part of it. It\u2019s really my first time.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: \u2014and for her just to take her shitty weed and smoke it outside.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yes. She did. Breast cancer. About twenty years ago. Right?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5,
+          6
+        ],
+        "text": "Person A: Are you sure? Ok, well. If you change your mind. I don\u2019t want you to feel like we\u2019ve invaded your space at all.\nPerson A: I can run out now and do some shopping.\nPerson B: No. I\u2019ll go. But that\u2019s not the point. Damien is nine and he can take better care of himself. The moment dad wasn\u2019t able, I mean, this is all she got. That\u2019s just the last few weeks. What the hell is going to happen to her afterwards?\nPerson A: \u2014she\u2019s out shopping right now. Yes. Staying here too. We\u2019re taking shifts, watching over him. There\u2019s a nurse in with him now, she comes for four hours each day around now. It\u2019s...good. I\u2019m not sure. He\u2019s kind of in and out, sometimes he says something, but mostly he is asleep. Just think the pain medication is...you know. It\u2019s weird. It\u2019s fine. I can\u2019t guess how long, no one can. I don\u2019t want to guess. But I think. I will be home. Soon. It\u2019s fine, it\u2019s fine, thank you. But really want to hear how things are there. Are you guys having fun?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          7,
+          8,
+          9
+        ],
+        "text": "Person A: I miss her so much. I miss you. I miss you both so damn much. What, it hasn\u2019t been a day yet, and all I can think of is being back there with you both. This is so not home anymore. I\u2019m so lucky. You have no idea, trust me, I know.\nPerson B: How does he seem?\nPerson A: He\u2019s still asleep. We have another half hour with the nurse. Alejowon. Alezown? Alejown. She\u2019s nice.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "text": "Person B: Do we feed her? There\u2019s enough.\nPerson A: I can ask.\nPerson B: Maybe, yes. She probably wants to get home. Who knows how long she has to travel. But, yes, I think. Let\u2019s offer. If anything, it will help if she doesn\u2019t hate us.\nPerson B: And, what about her?\nPerson B: I don\u2019t want to intrude on her privacy\u2014\nPerson A: Iitherg doitugnt we woelitugd be.\nPerson B: If yoitherg thitugnk so.\nPerson A: I\u2019ll let her know there\u2019s food and she\u2019s invited.\nPerson B: Right. Right. I made food for her. You can tell her that, I made food for her. If she wants. Let the nurse know, and then let her know.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          19,
+          20,
+          21,
+          22,
+          23
+        ],
+        "text": "Person A: \u2014 anything green. I have no idea why. If it\u2019s green, she won\u2019t eat it. We have seriously considered dyeing her food. Just a little fruit color. Seriously. She wouldn\u2019t know if a cucumber was purple. I mean. Maybe it will confuse her when she gets older.\nPerson B: Well, you can count on that. Won\u2019t be the only thing. Lots of things to confuse them when they get older.\nPerson A: Have things become a bit better?\nPerson B: With Tracy? Better is relative. What do you mean \u201cbetter\u201d? Is she talking to us, yes. Is she a full of shit, snotty teenager most of the time, treating us\u2014 me especially\u2014 like an enemy whose only job as a parent is to stop her from doing what she wants? Yes. I don\u2019t... I don\u2019t... Let\u2019s not, ok?\nPerson B: How do you like the food?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "text": "Person A: Sure. Family is family. Why aren\u2019t you asleep? You were with him till four.\nPerson B: I can\u2019t sleep when I know they have to get to school. I was texting all three of them. Jay\u2019s worse than the kids. But he got them there, that\u2019s something. Tracy skipped breakfast, of course. I slept a bit before, I\u2019ll get some more later. You know she hasn\u2019t done a shift, right?\nPerson A: Who?\nPerson A: Oh...yeah. I\u2019m not sure. I should probably get back in there with him, I was just getting some water.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: \u2014 I was given your number from Dr. Robert Sanders\u2019 office, as a potential place that can make a house call. Well, my father, my father is very sick. He\u2019s dying. Thank you. Yes, and he wants to sign a \u201cDo Not Resuscitate\u201d form, but is too sick to come in. Yes, he\u2019s conscious. I mean, not all the time. He\u2019s in hospice care, here at home. Do you think the doctor would\u2014\nPerson B: Katie! Katie!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh I know, and he is. Trust me, I appreciate it. But I\u2019m not aiming to overdose our dad, \u201caccidentally\u201d as Angel was suggesting. I just don\u2019t want him to be hurting.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: Rachel. Rachel.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Think you should go a bit easier on her.\nPerson A: \u2014yeah it\u2019s ok, now. I mean, it was terrifying. I was so sure he was going. His breathing sounded crazy, his face, I hope I can get that image out of my mind. Yes. Yes, they\u2019ve given him more now, he\u2019s sleeping. I don\u2019t know if there will be any more windows. I\u2019m okay. At least that means I should be coming home soon. It\u2019s okay. It\u2019s okay. Katie started drinking a few hours ago, and you know her and Rachel. It\u2019s just... Anyways, it doesn\u2019t matter, everything is okay. Tell me, how are things there? Did she get her bath yet?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: She had rings on her fingers and Bells on her shoes And I knew without asking she was Into the blues She wore scarlet begonias Tucked into her curls I knew right away She was not like other girls Other girls...",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: Rachel...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Well, I was trying to apologize to her, but\u2014",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "text": "Person A: I hate you both. You\u2019re both fucking assholes. You\u2019re little fucking kids.\nPerson A: Hey.\nPerson B: I just left his room to pack. He\u2019s doing ok.\nPerson A: Why did you pack?\nPerson B: I think I should head home for a bit.\nPerson A: It\u2019s late.\nPerson B: It will be fine. I think it would do good if I leave. If something changes, just let me know and I\u2019ll come back.\nPerson A: Something is going to change. You know that.\nPerson B: Christina, I don\u2019t know what you want of me. Clearly there is an issue with the three of us. I didn\u2019t even know it was between us. Regardless, she lives here, you live far away, it makes sense for me to be the one to step out for a while.\nPerson A: He is going to die, and you will not be here. And you will never forgive me. I am sorry. I don\u2019t want you to leave. I want you to stay. I want the three of us to figure something out. Some way, that we can do what we can to get along. At least for now.\nPerson B: I thought we were just fine. You and I. That was a surprise.\nPerson A: Katie. I was mad. I got angry. Allow me to say things. I was scared.\nPerson A: Let\u2019s sit down. All three of us. We can leave the door open, we will hear if something is happening.\nPerson B: I don\u2019t know.\nPerson B: You know he\u2019s going to die while we are talking.\nPerson A: I don\u2019t think so. Especially if he can hear that we\u2019re all talking, together.\nPerson B: I don\u2019t think she\u2019s going to join.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Yeah, it\u2019s fine, Christina. Apology accepted. Of course. I apologize you got caught between things.\nPerson A: I was trying to say sorry too. Earlier. Before things went out of hand.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: I think, what Rachel is asking, is what connects us, after he\u2019s gone?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          13,
+          14
+        ],
+        "text": "Person B: Her mother died. And so did ours.\nPerson B: It\u2019s something else we have in common. Besides dad. We never talked about it, when it happened to her. I mean, I didn\u2019t.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          19
+        ],
+        "text": "Person A: Dad. Dad! How are you doing?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: I\u2019m not planning on our relationship just ending when he\u2019s gone.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person B: Do you want a break? I can go in and sit with him, if you\u2019d like.\nPerson A: I\u2019m fine. Do you want to be in there? Of course, we can be there together. It\u2019s fine. I\u2019m just reading to him.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          6
+        ],
+        "text": "Person B: Just when I can. I usually don\u2019t have the time. But it helps. Want to join me?\nPerson A: Thanks. Maybe I\u2019ll start when the kids are older. Out of the house. I\u2019m struggling with writing this.\nPerson A: I\u2019m trying to write this thing. His obituary, and was hoping you could help with it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: One day, this is after Sarah passed, and Katie, you just left for college, or it was the summer before, but you weren\u2019t in the city, and Rachel, you were spending a lot of nights out, so it wasn\u2019t that uncommon that dad and I found each other in the home alone together at night. I didn\u2019t need much help with school work, and you know, he was still mourning, but we\u2019d watch a film together sometimes after dinner. Or a TV show. This is a time I still think about a lot. It was...calm. Well, one night, he got really upset by what we were watching. I don\u2019t know what it was other than someone was dying in it. He wanted to explain to me that the death we were watching in the film had no relationship to how it really was in life. How movies and books and everything else that tried to show death, got it wrong. That the act itself, of putting it into words, into images, is where it all went wrong. A big lie, like the thing we were watching.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Me too. This is crazy. I mean, we are all just on edge. It feels so wrong.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: What\u2019s that? Dad? I don\u2019t understand. You want me to move you? Please say it again.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I can...you...ok, hold up\u2014",
+        "type": "Implied"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: What\u2019s that, dad?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: I don\u2019t understand. Someone else try.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Dad!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Dad is gone.\nPerson A: Five little ducks went out one day Over the hills and far away Mother duck said, \"Quack, quack, quack, quack\" Only four little ducks came back.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

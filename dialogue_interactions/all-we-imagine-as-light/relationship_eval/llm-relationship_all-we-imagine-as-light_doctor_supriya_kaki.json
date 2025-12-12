@@ -1,0 +1,50 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "text": "Person A: The heart is fragile.\nPerson A: Take a deep breath.\nPerson A: Breathe out.\nPerson B: Haaaaaa.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: I won\u2019t take them!\nPerson A: I won\u2019t take them... any more.\nPerson B: What is wrong?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Jairam! My husband! ...I was watching kaun banega karodpati I started to hear some sounds... I didn\u2019t see anything at first. Mr Bacchan was talking on the show - you know his voice always calms me down? .. And ... and that horrible smell... of tobacco. I turned and Jairam! He was sitting on that chair...",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: Well... one can\u2019t really call it sitting. He was... ummm... hovering. You see doctor... he had no legs! He was only a torso!",
+        "type": "Implied"
+      }
+    ]
+  }
+}

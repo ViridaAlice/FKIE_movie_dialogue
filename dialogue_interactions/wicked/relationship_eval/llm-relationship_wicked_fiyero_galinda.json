@@ -1,0 +1,87 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Were you looking for something? Or-- someone?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          6,
+          7
+        ],
+        "text": "Person B: Oh, wait... are you...?\nPerson A: I am. Though I'm sure I won't last longer at this school than at any of the others.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: What do you do for fun around here?\nPerson B: Nothing. Until now.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: It was nothing. I love helping others. Oh, and I happen to be free tonight. After all--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: I feel awful.\nPerson B: Why? It's not like it's your fault.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Elphaba. I'm happy for you.\nPerson B: Yes, we are both so happy for you!\nPerson A: I've been thinking.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Since Doctor Di llamond had his own, Goat-like way of pronouncifying my name-- in solidarity, and to express my... uh... outrage...",
+        "type": "Implied"
+      }
+    ]
+  }
+}

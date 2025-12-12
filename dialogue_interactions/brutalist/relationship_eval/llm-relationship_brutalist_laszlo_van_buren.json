@@ -1,0 +1,246 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: And who the hell are you?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Your Negro is waiting for you outside the gates so I suggest you pack your things up and leave. I'll confirm all this with my son in the morning. My mother is sick! She needs to be let inside to sleep.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          16,
+          17
+        ],
+        "text": "Person B: Attila.\nPerson A: Yes, that's right. First, I apologized then lauded him with praise, however, he quite honorably redirected me to you!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          27,
+          31,
+          36
+        ],
+        "text": "Person A: They are very artistic.\nPerson A: I am ashamed. Really, I am. I acted a fool. My mother was dying - and it's not an excuse - but she died that very weekend at the house.\nPerson A: I don't just appreciate it Mr. Toth; I cherish it.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          37
+        ],
+        "text": "Person A: I hate surprises. My fatheaded son should have known better, but listen, I haven't come here to boast or to grieve, I've come to pay you the monies you are owed.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: He won't tout his own accomplishments but Mr. Toth's work is celebrated throughout much of Western and Central Europe. There have been many features about him in the architecture journals if you follow that sort of thing.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          5
+        ],
+        "text": "Person A: As did my Erzsebet. It required a great deal of commitment and study, and yet, few at home recognized her for it.\nPerson A: I'm afraid that it's not so simple. My wife cannot leave my niece behind because she is young, motherless, and very sick.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Of the United States!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Pardon me, but I was just in the middle of telling our friend a story.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          9
+        ],
+        "text": "Person A: On the drive over, I had time to think and finally arrived at a figure I felt comfortable offering the two of them - seeing that they were, whether I liked it or not, our only living relatives...\nPerson A: That is how much I loved my mother, Mr. Toth. We did things for each other!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: It is no coincidence that fate brought us together on the eve of my mother's death! I am good at reading the signs.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          8,
+          10,
+          12,
+          13,
+          15
+        ],
+        "text": "Person B: I have some sketches, also- something I have been working on which might be applicable here, if you care to look-\nPerson A: But it could be. If there were an auditorium, it could host a theater festival.\nPerson A: In the off-season, of course, the local students could access it.\nPerson A: And what do you think of a gymnasium? I practiced wrestling as a teenager and I have fond memories of my mother accompanying me to matches in the neighboring towns.\nPerson B: Perhaps a swimming pool?\nPerson B: And perhaps it's too expensive-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: I know someone talented, an Italian mason whom I have commissioned before.\nPerson B: There's one detail before I forget; the name. I'd like to place it somewhere more visible. What do you think?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Harry, where are we in our discussions with the Mayor's office?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10
+        ],
+        "text": "Person B: I'm sorry. I remembered you as a little girl.\nPerson B: Look at your mother. My sister was beautiful, wasn't she? Even while she was ill, she was so beautiful.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: You don't want to join us for dinner at the house?\nPerson A: Does he ever take a rest?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: People are going to write about this! I'm staring down the barrel of the next two years of my goddamned life, Mr. Toth! What if one of them dies? What if both of them die? Who's going to pay for it? Are you going to pay for it?!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Don't beg. It's unbecoming. You're welcome to stay here until you've found your footing elsewhere. I have a mess to clean up.\nPerson A: I'm sorry, Gordon.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I must say, Mr. Toth, you look a mess. I'd expect your Elizabeth to be taking better care of you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Dangerous work-",
+        "type": "Implied"
+      }
+    ]
+  }
+}

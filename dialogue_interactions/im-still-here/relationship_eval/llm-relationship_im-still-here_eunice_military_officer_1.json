@@ -1,0 +1,51 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8
+        ],
+        "text": "Person B: I'll answer them after I see my daughter and my husband. \nPerson A: He's upstairs. He's already told us everything he knows. You just need to confirm.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          8,
+          9,
+          10,
+          12,
+          13,
+          16,
+          17,
+          18,
+          19,
+          20,
+          22
+        ],
+        "text": "Person B: Mrs. Paiva, all I'm trying to do is make sure you can keep taking care of your home, driving your kids to school and playing your backgammon. That's my job. \nPerson A: Did you do something to my daughter?\nPerson B: Did she do anything wrong?\nPerson A: Of course not. What sort of a question is that?\nPerson B: Who is this man?\nPerson A: Rubens.\nPerson A: That's Martha, my daughters' teacher. What is she doing here?\nPerson B: Her son provides logistics for the subversives in Chile.\nPerson A: What does Rubens have to do with any of this?\nPerson B: Martha was intercepted at the airport yesterday, bringing letters for your husband. I want to know how he delivers them to the terrorists.\nPerson A: I told you, Rubens has nothing to do with terrorists.\nPerson A: Will I see my daughter now? ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Have you seen my husband? They said he was upstairs. He's in a shirt and tie. He's got a mustache. \nPerson B: His name is Rubens. Please, help me. I need to see him. Please. ",
+        "type": "Implied"
+      }
+    ]
+  }
+}

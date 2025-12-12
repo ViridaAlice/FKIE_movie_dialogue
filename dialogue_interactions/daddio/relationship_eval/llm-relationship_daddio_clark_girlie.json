@@ -1,0 +1,294 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "text": "Person A: So... 44th and 9th, huh?\nPerson B: Yup.\nPerson A: Midtown.\nPerson B: Good ol\u2019 Midtown.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ],
+        "text": "Person A: It\u2019s these fuckin\u2019 apps, all of \u2018em - can get a coffee, burger, soap, socks, wine, water, weed, fuckin\u2019 Chinese takeout - you can get all that shit, and never reach for your purse, not even for tip. Nah, it\u2019s all up in that cloud up there. That big fuckin\u2019 cloud, thinkin\u2019 it knows better. Swearin\u2019 it can keep a secret. But what happens when that cloud starts leakin\u2019, huh? What happens when it starts to rain? You bet your ass we\u2019re gonna wish we\u2019d stuck with the Monopoly money, am I right? I mean... salt used to be money. Mother fuckin\u2019 salt. The same shit you sprinkle on your eggs. Yeah. Every mornin\u2019 you toss that cheap-ass-shit all over your eggs with no idea that people used to die for it. Tea, coffee, same thing. All that shit you gloss over at the grocery store, at one point in time, humans fuckin\u2019 killed each other for it. Bird\u2019s eye view of that shit? Over the years, you see money go from salt to gold to paper and now? Money? It ain\u2019t nothin\u2019 but an idea. Little numbers on a screen. You can\u2019t touch it, can\u2019t bury it, can\u2019t put a little \u201cx\u201d that marks the spot- Nah... you just tie it to a fuckin\u2019 butterfly and send it to that cloud up there. But, one of these days, I\u2019m tellin\u2019 ya, that cloud\u2019s gonna open up and it\u2019s gonna pour acid rain down, all over our dumb faces... Yellow cabs don\u2019t play that game. Not in New York. Too much bullshit. Playfully, Girlie offers a clever smirk.\nPerson B: I got ya covered.\nPerson A: Yeah?\nPerson B: Yeah. My bag in the back should settle us.\nPerson A: How?\nPerson B: It\u2019s full of salt.\nPerson A: That\u2019s good... For that- You can use a damn credit card, honey. It is what it is at this point. But, back in the day, shit, we fought it, we all fought it. Cash is king, ya know? Million dollars for a fuckin\u2019 Medallion, and they still put that credit card shit in my back seat. And one day soon, like that, they\u2019re gonna come back and rip it out again, like it was nothin\u2019... Credit card machines, they\u2019re gonna be like fuckin\u2019 pay phones. Just sittin\u2019 there. Lookin\u2019 dumb. Waitin\u2019. Waitin\u2019 for somebody, anybody to give \u2018em a ring. Havin\u2019 no idea... the world\u2019s moved on. And... I guess I\u2019m no different. I mean... cabs, yellow cabs? We\u2019re fuckin\u2019 Blockbuster, ya know? We\u2019re fightin\u2019 it all too hard, swimmin\u2019 up stream. Busy swimmin\u2019 and missin\u2019 the whole fuckin\u2019 boat... Me, too. I been fightin\u2019 it, too. Swimmin\u2019, swimmin\u2019 hard... But... I don\u2019t know... If we\u2019re Blockbuster... it\u2019s already too late. Ten years time, there ain\u2019t gonna be no yellow no more. And all those other guys, the ones with the apps, the guys takin\u2019 over? They are gonna be nothin\u2019 but a blip on the screen. Fuckin\u2019 blink of an eye... when it\u2019s all said and done.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          40,
+          41,
+          42,
+          43
+        ],
+        "text": "Person A: Nice you\u2019re not on your phone. I mean, you don\u2019t have to keep talkin\u2019 to me or nothin\u2019, but... it\u2019s just nice. You know. To see a human. Not plugged in.\nPerson B: Yeah, I need a break from it.\nPerson A: Picked up a couple this mornin\u2019, LaGuardia, older couple. And they got their-uh, I don\u2019t know, their granddaughter with \u2018em - fifteen, sixteen. And she\u2019s just textin\u2019, the whole ride. First time in the city, and she don\u2019t say a word. I make a joke to grandma - I was like, \u201cSo, what, ya ask her questions and she texts ya the answers?\u201d Grandma laughed, but Princess gives me a glare. A glare, mind you, but still no fuckin\u2019 word - barely looked out the window. And get this shit. I drop \u2018em off near Macy\u2019s, right? Pop open the trunk, start helpin\u2019 Grandpa with the bags - Empire State, right there. I point it out to Grandpa, he points it out to Princess, and all of a sudden, Princess holds out her phone and snaps a fuckin\u2019 picture - all smilin\u2019 at the camera, big toothy grin - lookin\u2019 all excited and shit. And then... she\u2019s back on her phone. Not smilin\u2019. Not talkin\u2019. Nothin\u2019. Just sendin\u2019 a fuckin\u2019 butterfly to that cloud up there. Makin\u2019 her friends all jealous she\u2019s in the big city. When the truth is? In the rearview, Clark LOCKS EYES with Girlie-\nPerson A: She never fuckin\u2019 showed up.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ],
+        "text": "Person B: What\u2019s your name?\nPerson A: Why?\nPerson B: Just like to know people\u2019s names.\nPerson A: Fuck. You really are a human, aren\u2019t ya? That\u2019s sweet.\nPerson A: Clark.\nPerson B: Clark.\nPerson A: You thought I\u2019d say Vinnie or some shit.\nPerson B: I... I don\u2019t know what I thought.\nPerson A: Ah, it\u2019s fine. I mean. Shit. We pass out these names, ya know, random ass names to these cute, little babies. Any name you want. Whatever-the-fuck has a nice ring to it. Whatever-the-fuck gives you high hopes for higher education and bullshit. But that little thing in your arms, it\u2019s never gonna be exactly what you had in mind. I mean, Clark plays tennis, he\u2019s got a house in the Hamptons, goes to opera and shit. I just ain\u2019t that guy.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68
+        ],
+        "text": "Person A: That you can handle yourself.\nPerson B: How can you possibly know that?\nPerson A: It ain\u2019t that difficult to read people. I mean. You jumped in, business as usual, ya turned off that damn little screen back there, \u2018cause you already know what fuckin\u2019 Broadway shows are playin\u2019, and you didn\u2019t even think to reach for your seat belt. Why would you? You\u2019ve had enough rides. In and out, am I right?\nPerson B: What else?\nPerson A: You gave me cross streets, not some recited fuckin\u2019 address from your phone. And I can tell you\u2019re not concerned with the meter, \u2018cause you already know JFK\u2019s a flat rate.\nPerson B: Impressive.\nPerson A: I\u2019m not claimin\u2019 to be some Sherlock or nothin\u2019. Just a guy who pays attention. You\u2019ve had a long day. You\u2019re tired. You wanna go home, take a shower, sleep in your own bed. And. You got in line for a mother fuckin\u2019 taxi. Now- That\u2019s a New Yorker that pays attention. Someone who knows what the fuck\u2019s goin\u2019 on. And-\nPerson A: You\u2019re not afraid to look me in the eye. Like I said. You can handle yourself.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: Hola\nPerson A: Bonita",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5,
+          6
+        ],
+        "text": "Person A: What about your accent?\nPerson B: My accent?\nPerson A: Yeah. Don\u2019t people from Oklahoma - - talk like this?\nPerson B: Not all of us, apparently.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ],
+        "text": "Person A: What\u2019s the town?\nPerson B: Okay, so... Oklahoma\u2019s shaped like a pan, right? So if- If my arm\u2019s the panhandle, then- I grew up here.\nPerson A: The armpit.\nPerson B: Of Oklahoma. Yep.\nPerson A: What\u2019s it called?\nPerson B: Gage.\nPerson A: Gage, Oklahoma.\nPerson B: You got it.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ],
+        "text": "Person A: Huh. I honest-to-god would have never guessed Oklahoma.\nPerson B: What would you have guessed?\nPerson A: Not an armpit, I can tell you that. How long you been in New York?\nPerson B: Nine years, in June.\nPerson A: No shit.\nPerson B: No shit. One more year, and I\u2019ll be official.\nPerson A: Yeah... but let\u2019s be honest, you\u2019re official now. Anyone who chooses for nine years to wait at the post office until the idea of \u201cgoin\u2019 postal\u201d starts to have a nice ring to it - anyone who chooses for nine years to ride around in those little sardine cans underground, some guy rubbin\u2019 up against you like some dog humpin\u2019 your leg - anyone who chooses for nine years to drag loads of laundry down the street to fight off a tough-ass-broad for some machine that eats up all your quarters and gives ya bedbugs - and all for the privilege of gettin\u2019 a whiff of that sweet \u2018n sour piss aroma every now and again as you run down the street, eatin\u2019 your mornin\u2019 bagel? You\u2019re a fuckin\u2019 New Yorker. That is... unless you got money and don\u2019t do any of that shit. That\u2019s-uh... that\u2019s a different New York, altogether. Might as well be another fuckin\u2019 planet.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ],
+        "text": "Person B: Worked my ass off.\nPerson A: What\u2019cha do? For work?\nPerson B: I\u2019m a programmer.\nPerson A: Computers?\nPerson B: Computers.\nPerson A: No shit.\nPerson B: No shit.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          41,
+          42,
+          43,
+          44,
+          45,
+          46
+        ],
+        "text": "Person A: And you drew a line in the sand. Lifted your leg and made your mark.\nPerson B: I don\u2019t mind squatting.\nPerson A: So... what\u2019s the deal with the ones and zeros?\nPerson B: Like...?\nPerson A: They\u2019re like building blocks or whatnot, right? Like. When I look at my computer, I\u2019m really lookin\u2019 at a bunch of ones and zeros or some shit.\nPerson B: Yeah. Something like that.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          58,
+          59,
+          60
+        ],
+        "text": "Person A: We all gotta choose our ones and zeros. And whatever we decide... yeah... that becomes the foundation from which we operate.\nPerson A: Or. Maybe I\u2019m just talkin\u2019 bullshit.\nPerson B: Zero.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Uh... Two weeks.\nPerson B: I have a half sister.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Power Dynamics",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          5,
+          7
+        ],
+        "text": "Person B: How she a bitch? What she do?\nPerson B: Your cankles?\nPerson B: I don\u2019t believe that.\nPerson B: But you\u2019re small.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          10,
+          12,
+          14,
+          16
+        ],
+        "text": "Person A: It\u2019s a thing.\nPerson A: Thank you, it is cute.\nPerson A: Hadn\u2019t seen her in years.\nPerson A: We just stopped talking. We didn\u2019t have a fight or anything, we just... stopped talking.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          20,
+          22,
+          24,
+          26
+        ],
+        "text": "Person A: The cloud.\nPerson A: We had a nice time. I mean- She\u2019s a total bitch, but we laughed a lot. We drank a lot and we laughed a lot.\nPerson A: She has a girlfriend.\nPerson A: Named Eagle.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          30,
+          32,
+          34,
+          36
+        ],
+        "text": "Person A: Yeah, they seem happy. Live in a trailer, just got a parakeet... saving up to do some traveling next year.\nPerson A: She-uh... she was eleven when I was born, so... she was like a mom growing up. But she was a fucked up mom, like... she used to tie me up, ankle to ankle, wrist to wrist, and put me in the bathtub and lock me in the bathroom.\nPerson A: Empty.\nPerson A: It was... her way of helping me practice.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          40,
+          42,
+          44,
+          46
+        ],
+        "text": "Person A: I liked the challenge of getting free.\nPerson A: Kidnappers be damned.\nPerson B: You get a prize or somethin\u2019? For gettin\u2019 loose?\nPerson B: And. Where was mom?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          9,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          23,
+          28,
+          29
+        ],
+        "text": "Person A: Your sister. Bein\u2019 that much older.\nPerson B: Yeah... she was only seventeen when we both left home. I was six.\nPerson A: Boyfriend?\nPerson B: He-uh... he actually... he never touched me. He just... he never touched me.\nPerson A: Not ever?\nPerson B: It\u2019s actually an easy thing to do, not touch someone.\nPerson A: Not one hug? Not once?\nPerson B: It didn\u2019t have to be a hug. Pat on the back would have been nice. A fuckin\u2019 high- five.\nPerson B: But... the day we left... I remember my sister... jumped in her car and... my dad was sitting on the porch.\nPerson B: And just before I left... I turned around and... I looked at him. And he looked at me. And then he... got up and walked over to me... and he reached out... and he shook my hand. I\u2019d never shaken anyone\u2019s hand before, I was six... I was just little, ya know...\nPerson B: Oh... he was a cowboy.\nPerson A: He have an accent?\nPerson B: Oh, yeah. A real, real good\u2019n.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          10,
+          11,
+          12,
+          13
+        ],
+        "text": "Person B: And we start talking about that day... the day she took me away. And I told my side of the story. And she told her side.\nPerson A: What\u2019d she tell ya?\nPerson B: She told me that... our dad was on the porch that day. She told me that... we passed him on our way to her car. And then... she got in the car, and then, I got in the car. And then... we just drove away. She said that... he didn\u2019t shake my hand that day. But. When I think back on it, it doesn\u2019t make any sense, because... I remember it so clearly... even the feel of his hand... I remember thinking it felt like sandpaper.\nPerson A: And. So. Which of you is right? You or your sister?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "text": "Person B: That\u2019s just the thing... Two weeks ago, when I flew to Oklahoma...\nPerson B: ... I was pregnant.\nPerson A: What\u2019d your \u201cdaddy\u201d have to say about that?\nPerson B: I never told him... I never told anyone.\nPerson A: You... get rid of the baby?\nPerson B: It got rid of me... First day in Oklahoma, I started bleeding. My sister didn\u2019t know. I just told her I was having a bad period. Like a really shitty period... She let me sleep a lot. Gave me a heating pad and ice cream. But... after seven days, when I kept bleeding... I had to hide the tampons. Pretend it was just a regular period that ended... I had to get up and go out and meet all her friends and eat fucking barbecue and drink beer and go to a Thunder game... feeling like trash. I wasn\u2019t going to keep it. I\u2019d already made up my mind. I wasn\u2019t going to keep it, and I wasn\u2019t going to tell anyone. And then... when it happened, when it just... happened on its own... I was so relieved, I\u2019ve never been so relieved in my life...\nPerson B: And then last night, when we were dancing... in my mind... I really did, I just begged the sky to rain down on me... To clean me... to wash it all away... the whole fucking thing.\nPerson B: I asked the sky to just take it from me. And then... this morning, when I woke up... I wasn\u2019t bleeding anymore. After two weeks... it stopped.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62
+        ],
+        "text": "Person B: What? The two stand, their feet planted a distance away from one another, though they seem only inches apart.\nPerson A: I always... sorta... felt like a Mikey. Not a Vinnie. Not a Clark. If it were up to me... I\u2019d choose Mikey.\nPerson B: Four to four.\nPerson A: I have met my match.\nPerson B: You play a good game.\nPerson A: You too. They smile at one another in another suspended moment of stillness. Then---\nPerson A: You, uh... you live alone?\nPerson B: You\u2019re not getting any candy.\nPerson A: Can\u2019t blame a guy for tryin\u2019.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

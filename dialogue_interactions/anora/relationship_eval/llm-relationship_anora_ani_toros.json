@@ -1,0 +1,587 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Excuse me, Father.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Hey... you guys work for Ivan's family... so I'm thinking that means you work for him. He told you to take it outside. Now, take it outside.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person A: I've seen the marriage license.\nPerson A: Oh, I can't. I'm not with him.   I'm actually not there. Garnik is.   But I'm going over there right now   to fix this. It will be fixed. Do   not worry.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Oh no. That's not necessary. Really. You don't have to... I can handle this. Ok, ok. Got it. Yes sir. And yes, ma'am.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person A: Garnik and Igor are being pushed out the door by Ivan. Igor is doing as asked and completely complying. Ani is standing, arms crossed. Garnik is delaying as politely as possible.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Put me on speaker so the hooker can hear as well!\nPerson B: What the fuck! I'm not a fuckin' hooker!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I don't check in on you in two weeks and you marry a whore?!?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I'm not a fucking whore you fucking Russian piece of shit.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: We're married, baby. They have to accept that.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: We are going down to city hall where this fake marriage will be annulled. Canceled. So be ready to go by the time I get there. And missy... you're out of that house",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Wait. Did he say he was leaving? No! Don't let him leave.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Stay away from me!\nPerson B: What's happening!\nPerson B: Are you killing her? What's happening? Stop it!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Hey! You the fuck on the phone?!?\nPerson B: What the happened? What the fuck happened?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: That's not true! What the fuck is happening!!!!\nPerson A: Yo! Fuck face!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: They scared him!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: If you mean Ivan's wife? Yes! Tell him to let me go.\nPerson A: You tell me! Please, I'm not going to run. Tell him to let me go.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: I told you, I don't know. Please untie me.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: Why is she tied up.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Untie me and I'll call him.\nPerson B: Untie me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Fuck you!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          9,
+          16,
+          22,
+          24,
+          30,
+          41
+        ],
+        "text": "Person A: Great husband you have here. Ditches you and now doesn't answer your calls. Yeah, this marriage is real, my ass.\nPerson A: Look. You two got married illegally. It's a fraud marriage and we are getting it annulled right now.\nPerson A: No you don't. He took you for a ride, lady. This is classic Ivan. Little bastard. I've been dealing with his shit since he was six- years-old. Now his parents are going to kill me and my fucking family will never speak to me again. This little prick!\nPerson A: Hey! Ivan doesn't love you. He just hates his parents. Now let's go find Ivan and get this taken care of.\nPerson A: Ha! He shamed his family, marrying somebody like you. And if you think for a minute this will be allowed to continue, you're dead wrong.\nPerson A: You married Ivan, not his father. Everything in here is Ivan's father's. The money belongs to his father. Ivan has nothing. The bedroom you two have been fucking in... that's his parent's room. His is down the hall... the one with the spaceships on the wall... cause he's a fucking child!\nPerson B: What?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5
+        ],
+        "text": "Person B: Ok, but look at me. When we find Ivan, which we will. And we get this marriage annulled, which we will. You walk away with 10K and never contact Ivan again. Yes?\nPerson B: Ok, untie her. The license and his passport.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Yeah and his friends own it or manage it or some shit.\nPerson A: I have no fucking idea.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person A: You. Call him now.\nPerson A: Where are his other friends?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person A: C'mon, you must have a photo of the man you married.\nPerson A: Give me your fucking phone!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2,
+          4
+        ],
+        "text": "Person B: You're not taking my phone again.\nPerson B: I will fucking scream if you touch me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Goddamn it!\nPerson A: Ok, well, let's go. No time to waste.\nPerson B: What? All the way back?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I'm not walking the whole way back. You can get the car and pick us up.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: The hell I am. It'll be dark soon. Move.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Where else would he be?\nPerson A: No!!!!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: I don't know. We hit a bunch.\nPerson B: Take me to every one.\nPerson B: See this guy? Has he been here tonight?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "23": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Ivan fucked me harder than he fucked you, trust me.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "24": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: No work ethic. Lazy. Stupid. Arrogant. Uneducated. Tik Tok all day. Instagram. Spoiled. What is wrong with you? I've been working since 16-years-old.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "25": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Go. Go. Get in! Get in the fucking car!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "26": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Vanya!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Fuck it!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "27": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: Not you! Sit down!\nPerson A: You son of a bitch!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "28": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: It's not a divorce because it's not a marriage, it's an annulment.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "29": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Wait. Shut up. I said I wanted to talk to him. Hold on! Ivan, what the fuck. We're married. Let's stay married. Ivan.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "30": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Ivan, your parents are going to disown you if you don't right this wrong. Your mother was crying when they called me. Crying! You made your mother cry. That is shameful.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "31": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Ok? Ok? Just like that?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "32": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Wait. Ivan. I love you and you love me. Right?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Run and I'll sic him on you.\nPerson A: And trust me, you don't want that. You do this to your family... and me... and then just go on a bender? Disgraceful.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "33": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          5
+        ],
+        "text": "Person A: Vanya! You have to listen to me right now. They are trying to get us divorced. Do you understand what is happening?\nPerson A: Vanya! Do you hear him? They want me to take money to leave you!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "34": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: You motherfucker. This isn't fair.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Yes he does. He knows he fucked up. He knows he's going back to Russia. We wouldn't have had to chase him all night if he didn't know that.\nPerson A: Yes! He should be. And when the judge asks him if he wants an annulment, he'll say yes... because if he doesn't, his father cuts him off.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "35": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Do not get a ticket, do not get towed, do not fall asleep. Keep your phone on. Hear me?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "36": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Me and my husband, who is clearly intoxicated and unable to make an informed decision, are being forced by these men to annul our legitimate marriage.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "37": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: We were in Vegas when we decided to. When Ivan fucking proposed to me!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "38": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Vanya!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "39": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Pathetic bitch ass motherfucker.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

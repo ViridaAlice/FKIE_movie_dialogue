@@ -1,0 +1,89 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: First ballot? Between twenty and twenty-five. But it\u2019s tomorrow night that the real work b egins. Somehow we have to get him a two- thirds majority.\nPerson A: By real work, you mean - what, exactly?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Let\u2019s... let\u2019s not mention women.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Brother, I have no intention of concealing my views or pretending to be anything oth er than I am in order to try and sway any of our number who are undecided. So if you are going to canvas on my behalf, make sure my message is clear... Tell them that I stand for everything Tedesco does not.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3
+        ],
+        "text": "Person B: If Adeyemi was white we\u2019d all be condemning him as more reactionary then Tedesco. It\u2019s only because he\u2019s...\nPerson A: Enough! It\u2019s too late for this talk now.\nPerson A: All too late. Lawrence is n o longer listening.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: We need to decide how we are going to proceed. This feels absurd.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "text": "Person A: I\u2019m afraid, as far as I\u2019m concerned, it is. The question arises, if I can\u2019t win, whom should I advise my supporters to vote for?\nPerson A: Obviously there is you. But...\nPerson B: But you can\u2019t win either. Even if we delivered you all of Aldo\u2019s fifteen votes - which I don\u2019t believe we could - you\u2019d still be in third place, behind Tremblay and Tedesco. No-one has enough traction to catch either of the front- runners. So, since we all agree that Tedesco would be a disaster...\nPerson A: I\u2019m no more of an enthusiast for Tremblay than you are, Thomas. But we have to face the fact that--\nPerson A: He has demonstrated a broad appeal. Perhaps he wi ll be a unifying force?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person A: What I mean is...We\u2019ve had a Pope who was in the Hitler Youth and fought for the Nazis. We\u2019ve had Popes accused of colluding with communists and fascists. We\u2019ve had Popes who have ignored reports of the most appalling sexual abuse of children...\nPerson A: The point is - we will never find a candidate who doesn\u2019t have some kind of black mark against them! We are mortal men! We serve an ideal - we cannot always be ideal.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: So what are you going to wear?\nPerson B: Who\u2019s Ed?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You can\u2019t come if you don\u2019t have hiking shoes. We\u2019ll leave you behind.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Can Mary spend the night?\nPerson B: No!\nPerson A: Why?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I thought you were in love with- Mary?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: What do you mean?\nPerson A: I am in love with Mary -I\u2019m just having fun with Ophelia.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Mom! Stop.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Yes. Are you okay? How is Mary?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "text": "Person A: Mom, you need to come home. Dad needs you. He refuses to leave the theatre, he doesn't eat, he is reading the bible.\nPerson A: He\u2019ll forgive you.\nPerson B: What did he tell you?\nPerson A: Nothing.\nPerson A: Mary forgave me.\nPerson A: It\u2019s ok, mom. He\u2019ll forgive you.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          11
+        ],
+        "text": "Person B: It\u2019s my fault. I told you I was someone else, and then I started to get angry that you didn\u2019t understand who I really was. That\u2019s my- problem, not yours. I\u2019m sorry. I\u2019m so sorry.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Heading back to the shop now, hon...",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Hey. How'd it go at the doctor? Everything... looks okay, right?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          10
+        ],
+        "text": "Person A: It was you. You killed her. You've been playing us this entire time.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          9,
+          14
+        ],
+        "text": "Person B: What are you suggesting?\nPerson B: You're reaching.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

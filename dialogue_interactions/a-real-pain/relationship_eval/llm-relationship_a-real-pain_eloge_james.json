@@ -1,0 +1,53 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person A: But I did convert to Judaism, about ten years ago. I am actually African born, Rwandan.\nPerson A: And to answer the inevitable question that you might be thinking, I am a survivor of the genocide.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: Ah, yes, Kopleman, right?\nPerson B: He's actually buried right back here. It's rather unremarkable if you don't know the history--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: And Benji had a wonderful idea of taking a moment of silence and placing a rock on Mr. Kopleman's grave. There are many theories as to why Jews follow this tradition, why they place stones on graves, but I like to think it's done to say: You are not forgotten.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Well, I'm comforted that we all shared that with each other. Now. To change gears for a moment: I don't want to rush anybody. But we are scheduled to leave quite soon for Zamosc. But also -- I wanted to sa y: we are losing our boys!\nPerson B: That's right -- Benji and David are staying here for the night and finishing their pilgrimage to their grandmother's house tomorrow.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

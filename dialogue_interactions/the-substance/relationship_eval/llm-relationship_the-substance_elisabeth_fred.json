@@ -1,0 +1,41 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: You, however, haven't changed! You're still the most beautiful girl in the whole wide world! I've followed your career, what a success! Wow wow WOW!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person B: Oh that's for me. Hey! Why don't we go out for a drink some time now that we've \"reconnected\"?!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          13
+        ],
+        "text": "Person B: So... I happen to be in town for a couple of days and... I thought maybe we could... ... go out and grab a drink? Or for a walk, or... you know, the little things that make life matter.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          17,
+          19
+        ],
+        "text": "Person B: Tonight is perfect!\nPerson A: Euh...Tonight is fine as well. I can book Luigi's at 8?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

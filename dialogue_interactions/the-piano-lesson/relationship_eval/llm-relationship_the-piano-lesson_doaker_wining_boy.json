@@ -1,0 +1,126 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          12,
+          13,
+          14,
+          15
+        ],
+        "text": "Person A: Yeah, I heard that last time I was down there. I was sorry to hear that.\nPerson B: One of her friends wrote and told me. I got the letter right here. I was down in Kansas City and she wrote and told me Cleotha had died. Name of Willa Bryant. They was nailing her coffin shut by the time I heard about it. I never knew she was sick. I believe it was that yellow jaundice. That\u2019s what killed her mama.\nPerson A: Cleotha wasn\u2019t but forty-some.\nPerson B: She was forty-six. You remember I used to run around there. Couldn\u2019t nothing keep me still. Much as I loved Cleotha I loved to ramble. Couldn\u2019t nothing keep me still. We got married and we used to fight about it all the time. Then one day she asked me to leave. Told me she loved me before I left. Told me, Wining Boy, you got a home as long as I got mine. And I believe in my heart I always felt that and that kept me safe.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You ain\u2019t got to like your job on Parchman. Hey, tell him, Doaker, the only one got to like his job is the water boy.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I give that piano up. That was the best thing that ever happened to me, getting rid of that piano. That piano got so big and I\u2019m carrying it around on my back. I don\u2019t wish that on nobody. See, you think it\u2019s all fun being a recording star. Got to carrying that piano around and man did I get slow. Got just like molasses. The world just slipping by me and I\u2019m walking around with that piano. Now, the first three or four years of that is fun. You can\u2019t get enough whiskey and you can\u2019t get enough women and you don\u2019t never get tired of playing that piano. But that only last so long. You look up one day and you hate the whiskey, and you hate the women, and you hate the piano. But that\u2019s all you got. You can\u2019t do nothing else. All you know how to do is play that piano. Now, who am I? Am I me? Or am I the piano player? Sometime it seem like the only thing to do is shoot the piano player \u2018cause he the cause of all the trouble I\u2019m having.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "text": "Person B: Alright. Time go along. Time go along. Miss Ophelia got to missing my grandmother...the way she would cook and clean the house and talk to her and what not. And she missed having my daddy around the house to fetch things for her. So she asked to see if maybe she could trade back that piano and get her niggers back. Mr. Nolander said no. Said a deal was a deal. Him and Sutter had a big falling out about it and Miss Ophelia took sick to the bed. Wouldn\u2019t get out of the bed in the morning. She just lay there. The doctor said she was wasting away.\nPerson B: See that right there? That\u2019s my grandmother, Berniece. She looked just like that. And he put a picture of my daddy when he wasn\u2019t nothing but a little boy the way he remembered him.\nPerson B: He made them up out of his memory. Only thing...he didn\u2019t stop there. He carved all this. He got a picture of his mama...Mama Ester...and his daddy, Boy Charles.\nPerson A: That was the first Boy Charles.\nPerson B: Then he put on the side here all kinds of things. See that? That\u2019s when him and Mama Berniece got married. They called it jumping the broom. That\u2019s how you got married in them days.\nPerson B: Then he got here when my daddy was born...and here he got Mama Ester\u2019s funeral...and down here he got Mr. Nolander taking Mama Berniece and my daddy away down to his place in Georgia.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          8
+        ],
+        "text": "Person B: Berniece still at work. Boy Willie went down there to meet Lymon this morning. I guess they got that truck fixed, they been out there all day and ain\u2019t come back yet. Maretha scared to sleep upstairs now. Berniece don\u2019t know, but I seen Sutter before she did.\nPerson A: Berniece say he was calling Boy Willie\u2019s name.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Got a shirt to go with it. Cost you an extra dollar. Four dollars you got the whole deal.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I ain\u2019t worried about no place to lay down. I can always find me a place to lay down in Berniece\u2019s house. Ain\u2019t that right, Berniece?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I ain\u2019t disrespecting Berniece. Berniece, am I disrespecting you? I\u2019m just trying to be nice. I been with strangers all day and they treated me like family. I come in here to family and you treat me like a stranger. I don\u2019t need your whiskey. I can buy my own. I wanted your company, not your whiskey.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: I ain\u2019t thinking about no laying down. Me and Boy Willie fixing to party. Ain\u2019t that right, Boy Willie? Tell him. I\u2019m fixing to play me some piano. Watch this.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I believe that\u2019s Sutter.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

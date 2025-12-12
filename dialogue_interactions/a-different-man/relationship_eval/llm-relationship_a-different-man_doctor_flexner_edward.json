@@ -1,0 +1,77 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: I guess this means I\u2019m not in the control group?\nPerson A: I can\u2019t disclose that information officially.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Skin particles. The growths were cleaving at fascial planes. You\u2019re healing, Mr. Lemuel. We\u2019re in uncharted territory here, full of promise and mystery. There\u2019s obviously an element of danger, as you were made fully aware of prior to your participation. All we can do is monitor closely and use our experience as a guide, but I\u2019d say this is cause for excitement. This is beyond our wildest expectations. You\u2019re a part of medical history. You may be the subject of a documentary one day.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person B: If I\u2019m not in the control group.\nPerson A: Don\u2019t waver, Mr. Lemuel. And if at all possible, I\u2019d like for you to photograph yourself - say a dozen times a day - just so we can monitor the rate of change, which appears to be rapid. Reasonable? Perhaps the risk is worth the reward? Something to think about.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: You don\u2019t...need it?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          6,
+          7
+        ],
+        "text": "Person A: George Washington. I\u2019m a history nut. And check this out.\nPerson A: Recognize her? Dr. Trutz. You know her. Good rendering, right? Beautiful. I made two of me, too, but they\u2019re not here at the moment.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: It happened - was very sudden. I\u2019m...Guy. A family friend.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6,
+          9,
+          11,
+          15
+        ],
+        "text": "Person A: Family? Is there a funeral?\nPerson B: He just - I don\u2019t know. We\u2019re trying to find out. Suicide.\nPerson B: I don\u2019t know.\nPerson B: He\u2019s really gone....just like that.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

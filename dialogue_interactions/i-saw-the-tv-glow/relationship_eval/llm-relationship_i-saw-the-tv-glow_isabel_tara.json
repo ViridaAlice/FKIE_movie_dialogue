@@ -1,0 +1,56 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: It's Mr. Melancholy! It's just a trick.\nPerson B: --They can't hurt you if you don't think about them. They can't hurt you if you don't think about them!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          10
+        ],
+        "text": "Person B: You're like me. You're special.\nPerson B: I knew it from the moment I first saw you in the dining hall. Heck, I knew it before I even met you...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3
+        ],
+        "text": "Person B: He's already here. If we don't do something today--\nPerson B: --this world will be his.\nPerson B: This psychic plane isn't enough anymore. If we're going to defeat him this time, we're going to need to harness the full potential of our shared powers. We're going to need to meet again... in person.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Tara? Tara?!\nPerson B: Isabel?!\nPerson B: Isabel?!",
+        "type": "Implied"
+      }
+    ]
+  }
+}

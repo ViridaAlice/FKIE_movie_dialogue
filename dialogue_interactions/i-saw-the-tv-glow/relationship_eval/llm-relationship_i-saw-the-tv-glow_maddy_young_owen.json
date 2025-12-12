@@ -1,0 +1,67 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          14,
+          15
+        ],
+        "text": "Person A: --Election night is cool, right? It's like Colonial Day, or when they bring in the inflatable planetarium to the gymnasium.\nPerson A: It's like the school gets transformed into something else, you know? It's special.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          25,
+          26,
+          27
+        ],
+        "text": "Person B: My dad doesn't let me stay up that late. 10pm's my bedtime.\nPerson A: Damn. That absolutely sucks.\nPerson A: My mom basically doesn't give a shit when I go to bed.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: You sure you don't want a ride home with Amanda's mom?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Nah. Just in the very first episode, back at sleepaway camp.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person B: Just be out by dawn. If my stepdad catches you he'll break my nose again.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person B: In my bed. Creep.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

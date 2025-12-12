@@ -1,0 +1,22 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          6,
+          8,
+          10,
+          11,
+          12,
+          14,
+          16
+        ],
+        "text": "Person B: Sir, please! My husband\u2019s inside!\nPerson B: My husband\u2019s inside\u2026 He thought he heard voices crying for help.\nPerson B: And he went into the house trying to save whomever was trapped by the fire.\nPerson B: Okay\u2026 No, I don\u2019t know\u2026\nPerson A: I\u2019m sorry. There was nothing we could do.\nPerson A: He didn\u2019t get to the second floor, he must have passed out from the smoke and the flames.\nPerson B: And the other bodies?\nPerson B: But he\u2026 he told me that he heard screams for help\u2026\nPerson B: It\u2019s true. I didn\u2019t hear the screams either. I tried to stop",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

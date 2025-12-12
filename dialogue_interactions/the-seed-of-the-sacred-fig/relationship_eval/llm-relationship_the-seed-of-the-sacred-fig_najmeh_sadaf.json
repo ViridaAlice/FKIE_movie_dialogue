@@ -1,0 +1,54 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          3
+        ],
+        "text": "Person A: Thank you so much, Auntie.\nPerson B: Don\u2019t mention it, honey. are you full?\nPerson B: I\u2019m happy you enjoyed it, dear.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh my God! Of course, not. I didn't mean you. I'm just saying that Rezvan is still a daughter of this house. She should be more mindful. Whenever she gets married, according to her husband's taste, she can do whatever she wants.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Hello dear, how are you? How are your parents?\nPerson B: Fine, thank you. Actually, I was just speaking to my mom on the phone, they sent their regards. Sorry for the trouble.\nPerson A: It\u2019s so kind of them. No honey, not a problem, it was on our way.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I'm going to get her a taxi, don't come out.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

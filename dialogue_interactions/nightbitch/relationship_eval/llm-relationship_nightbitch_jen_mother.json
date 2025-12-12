@@ -1,0 +1,175 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Oh, we chatted at Mommy Baby Yoga! Just for a sec though. Jen. So do you paint...or something else?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          5,
+          6
+        ],
+        "text": "Person B: Kefir. Homemade- with chia seeds and cardamom. Do you want one for your son?\nPerson A: Oh that\u2019s ok. I gotta get him home for his nap.\nPerson A: Please don\u2019t have a tantrum, please don\u2019t have a tantrum.\nPerson A: Construction site. Turn out the light. Great work today and now goodnight.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Well, look what the cat dragged in!\nPerson B: He\u2019s a dog today.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Oh I don\u2019t really hike.\nPerson A: Sounds awful.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Strawberry shampoo.\nPerson B: Sorry. My sense of smell is so strong right now.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh my god yes. My husband says the same thing. That the sounds coming out of me were pure animal. He almost passed out. But he\u2019s not good with blood.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: A wild animal?\nPerson A: Do you ever feel like the big secret is that we are gods?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Jen! Wow - hi. It\u2019s weird to see you in the wild - out of context.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2,
+          4
+        ],
+        "text": "Person A: I\u2019ve been thinking about that conversation in the library non- stop.\nPerson A: Yes. That thing you said about how mothers are mocked in popular culture -",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Are you coming to baby yoga or tyke hike this week?\nPerson B: Oh poo. Next time. Come on, kiddos! Let\u2019s go see the dinosaur bones!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5,
+          7,
+          8,
+          9,
+          10
+        ],
+        "text": "Person B: So what did you do before you had your kids?\nPerson A: Yeah. Worked 80 hour weeks. I made more money than my husband - I like to remind him of that sometimes. It was too intense though- emails at 2 am, working dinners. The corporate world does not respect mothers. It\u2019s not the life for having littles.\nPerson B: How do you like staying home? You seem really good at it. It\u2019s totally intimidating.\nPerson B: I thought I would like being a stay at home mom. But it\u2019s just not been good for me.\nPerson A: You\u2019re allowed to change your mind.\nPerson B: Can I admit something terrible? I fantasize about running away from it all sometimes. I dream about a faded beach chair and a good book and not talking to anyone for a week.\nPerson A: That\u2019s not terrible at all. Once when I really needed a break I told my husband that I had diarrhea and I locked myself in the bathroom and read magazines in a bubble bath for hours. And I was so fucking happy.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Well... I guess I\u2019ve kind of hit a breaking point. My husband and I are getting a separation and I killed our cat this week, and it just made me realize I\u2019m not doing so great. Emotionally.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: But what happened with your husband?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: He wasn\u2019t around that much before. It doesn\u2019t feel much different.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

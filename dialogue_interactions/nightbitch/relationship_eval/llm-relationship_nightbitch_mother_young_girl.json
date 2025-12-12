@@ -1,0 +1,30 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          7,
+          10
+        ],
+        "text": "Person B: I\u2019m coming baby.\nPerson B: What the-\nPerson B: No! Don\u2019t.\nPerson B: Oh baby! NO! Where did you get that? Yucky yucky.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5
+        ],
+        "text": "Person B: I didn\u2019t want you to be scared. I wanted you to know I\u2019m home.\nPerson B: I will always come back. I\u2019m your mama forever, and I will always come back.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

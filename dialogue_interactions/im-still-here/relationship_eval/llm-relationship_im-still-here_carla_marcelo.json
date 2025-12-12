@@ -1,0 +1,14 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Sorry to bother, Marcelo, but when your mom said you'd be coming in...",
+        "type": "Implied"
+      }
+    ]
+  }
+}

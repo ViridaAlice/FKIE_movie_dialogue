@@ -1,0 +1,75 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Ivan. It's Michael Sharnov, your father's attorney. Remember me?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Good morning everyone. Ok, the judge is being very kind and bumped us up... Hello Ivan.\nPerson B: He's tired.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5
+        ],
+        "text": "Person B: Ok, not sure what that means and don't want to know. Let's go. Get your ID's ready.\nPerson A: I repeat... do you want to continue working for the Zakharov family, or not?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: Toros please. C'mon man. I can't risk losing my license...",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: They got married in Nevada?\nPerson A: Um, you didn't tell me that.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: They got married in Nevada. This is New York.\nPerson B: We can file for one but if you want this now, you have to go there.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Are you fucking kidding me?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

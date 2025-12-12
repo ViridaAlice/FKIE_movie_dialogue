@@ -1,0 +1,45 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7,
+          8
+        ],
+        "text": "Person B: You\u2019re a manager. Manage.\nPerson B: Your Eminences, before we eat I should like to introduce a new member of our order, whose existence was not known to any of us until a few hours ago. This is because our brother was made a cardinal by a perfectly legitimate procedure known as creation in pectore. The reason why it had to be done this way is known only to God and to the late Holy Father. But I think we can guess well enough as our new brother\u2019s ministry is an extremely dangerous one.\nPerson B: Would you bless our meal, Eminence?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          3,
+          4,
+          5
+        ],
+        "text": "Person A: I want you to know that I very much agreed with your homily yesterday.\nPerson A: We are all tested in our faith, Dean. W e all lapse. But the Christian faith is, above all, a message of forgiveness.\nPerson B: And tolerance.\nPerson A: Exactly. Tolerance. I trust that when this election is over, your moderating voice will be heard in the very highest counsels of the Church. It certainly will be if I have anything to do with it. The very highest counsels.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          10,
+          13
+        ],
+        "text": "Person B: With respect, Joshua, how she came here is secondary to the issue of your relationship with her.\nPerson B: And the child?\nPerson B: No, Your Eminence. She was very young. Nineteen years old. You were thirty.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

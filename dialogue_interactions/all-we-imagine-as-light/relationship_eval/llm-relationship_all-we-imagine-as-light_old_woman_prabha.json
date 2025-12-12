@@ -1,0 +1,37 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          4
+        ],
+        "text": "Person A: Miss... You can sit inside with your husband.\nPerson A: Don\u2019t worry\u2026 my dear... Will you have some tea?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Where does your husband work?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "text": "Person B: He, umm, works in Germany, in a factory.\nPerson A: You too?\nPerson A: Then you must not be seeing each other often.\nPerson B: No\u2026",
+        "type": "Implied"
+      }
+    ]
+  }
+}

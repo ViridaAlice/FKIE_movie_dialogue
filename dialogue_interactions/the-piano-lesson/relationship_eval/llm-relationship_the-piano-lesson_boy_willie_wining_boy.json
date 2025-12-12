@@ -1,0 +1,195 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Aw hell...look here! We was just talking about you. Doaker say you left out of here with a whole sack of money. I told him we wasn\u2019t going see you till you got broke.\nPerson A: Doaker say Berniece asked you for three dollars and you got mad and left.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: You remember Lymon? Lymon Jackson.\nPerson A: Yeah, I used to know his daddy.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Let\u2019s not get on Berniece now. Doaker tell me you talking about selling that piano.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Yeah...hey Doaker, I got the name of that man Avery was talking about. The man what\u2019s fixing the truck gave me his name. I got his name and his telephone number. Hey Wining Boy, Sutter\u2019s brother say he selling the land to me. I got one part. Sell them watermelons get me the second part. Then...soon as I get them watermelons out that truck I\u2019m gonna take and sell that piano and get the third part.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Doaker say they had you and Lymon down on the Parchman Farm. Had you on my old stomping grounds.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I ain\u2019t worried about nobody mistreating me. They treat you like you let them treat you. They mistreat me I mistreat them right back. Ain\u2019t no difference in me and the white man.\nPerson A: I don\u2019t go by what the law say. The law\u2019s liable to say anything. I go by if it\u2019s right or not. I take and look at it for myself.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Berniece ain\u2019t gonna sell that piano. I don\u2019t see why you don\u2019t know that.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8,
+          9
+        ],
+        "text": "Person B: This my daddy\u2019s piano.\nPerson A: He ain\u2019t took it by himself. Me and Doaker helped him.\nPerson B: He died by himself. Where was you and Doaker at then? Don\u2019t come telling me nothing about this piano. This is me and Berniece\u2019s piano. Am I right, Doaker?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I know you got more than that. You ain\u2019t sold all them watermelons for that little bit of money.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: That looks nice, Lymon. Put the pants on. Let me see it with the pants. Lymon begins to try on the pants.\nPerson B: Look at that...see how it fits you? Give me three dollars and go on and take it. Look at that, Doaker...don\u2019t he look nice?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3
+        ],
+        "text": "Person A: That\u2019s all Lymon think about is women.\nPerson B: His daddy was the same way. I used to run around with him. I know his mama too. Two strokes back and I would have been his daddy! His daddy\u2019s dead now...but I got the nigger out of jail one time. They was fixing to name him Daniel and walk him through the Lion\u2019s Den. That\u2019s how the whole thing come about between me and Lymon\u2019s mama. She know me and his daddy used to run together. He got in jail and she come there and got me where I was playing at this saloon... said she had all but fifty dollars to get him out. Ask if I could help. Now the way I figured it... without that fifty dollars the sheriff was gonna turn him over to Parchman. Now I\u2019m gonna say it right... I will give anybody fifty dollars to keep them out of jail. I give her fifty dollars and she told me to come over to his house. I ain\u2019t asked her. I ain\u2019t had to say a word.\nPerson B: I went on down there and sat about three hours. Started to leave and changed my mind. She grabbed hold to me and say, \u201cBaby, it\u2019s a long night.\u201d That was one of the shortest nights I have ever spent on this earth! Lymon\u2019s daddy didn\u2019t even say nothing to me when he got out. He just looked at me funny.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You got a magic suit there. You can get you a woman easy with that suit...but you got to know the magic words. You know the magic words to get you a woman?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Man, these niggers around here! I stopped down there at Seefus...those folks jumping back and getting off the sidewalk talking about Patchneck Red is coming. Come to find out...you know who they was talking about? Old John D. From up around Tyler! He got everybody scared of him. Calling him Patchneck Red. They don\u2019t know I whupped the nigger\u2019s head in one time.\nPerson A: Hey, Boy Willie, what you got? I know you got a pint stuck up in your coat.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: Wait a minute...wait a minute. This a song I wrote for Cleotha. I wrote this song in her memory.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          9
+        ],
+        "text": "Person B: Hey, Doaker, did you feel that? Hey, Berniece...did you get cold? Hey, Doaker...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Hey Doaker, if he gonna bless something let him bless everything.\nPerson B: Ain\u2019t no ghost in this house. He need to bless Berniece\u2019s head. That\u2019s what he need to bless.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

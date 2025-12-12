@@ -1,0 +1,116 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Please make it work.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Hello mom\u2026 No, we are at the tailor\u2019s, it's not bad, it only looked a bit puffy on her shoulders, but she\u2019ll fix it\u2026 No, we'll be there in an hour, an hour and a half\u2026 Ok... do you remember Sadaf is also with Sana and me\u2026 but I told you last week\u2026\nPerson B: What do you mean Mom? First of all, I told you beforehand. Besides that, Sadaf came from her town and her dorm is not ready yet. She doesn\u2019t have anyone here. You agreed in advance and told her she could stay the night at our place.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Mom, are you plucking my eyebrows for real? I don't feel anything.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Let me make you pretty...Rezvan...Does your mom hate me?\nPerson A: Don't you see that she is constantly throwing shades at me?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Sadaf!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: can't you hear it? Listen!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: See how many files I\u2019ve sent. Go and watch them.\nPerson B: Everything has been filtered since this evening though.\nPerson A: I will send you a VPN now.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Hello Auntie, hello Rezvan.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Sadaf, you were talking to your mom, are there protests there as well?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Go back to the bedroom, Sadaf.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

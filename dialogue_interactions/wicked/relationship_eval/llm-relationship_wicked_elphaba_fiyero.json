@@ -1,0 +1,87 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Well, sometimes I'm asleep.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Well, I see that, once again, the responsibility to corrupt my fellow students falls... to me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: You've been Galinda-fied.\nPerson A: You don't need to d o that, you know.\nPerson B: Doctor Dillamond, I picked some poppies for you--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person A: They're falli ng asleep! Poppy dust. Come on!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          12,
+          14,
+          20,
+          22
+        ],
+        "text": "Person A: You think I want to be this way? You think I want to care this much?\nPerson A: You think I don't know how much easier my life would be if I didn't?!\nPerson A: So no matter how shallow and self- absorbed you pretend to be--\nPerson A: No, you're not. Or you wouldn't be so unhappy.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          26
+        ],
+        "text": "Person B: What did you mean to do, back there? And why was I the only one you didn't do it to?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: About Dillamond. And that Lion Cub. I think about that day a lot.\nPerson A: So do I.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: You folks enjoying everything?\nPerson A: Need anything else?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person B: There\u2019s always room for improvement. Well, thank you very much for your patronage. It would be so great if you could come back. Come every day. We\u2019re always open. Christmas, Passover, you name it, my door is open. Promise me you\u2019ll stop in again.\nPerson A: I promise.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person B: Halloween, D\u00eda de los Muertos, and you better bring the pretty lady. You make a lovely couple. Okay, you folks have a terrific day.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

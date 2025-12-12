@@ -1,0 +1,27 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: < Cardinal brothers, we will now proceed to the first ballot. > < You will find in front of you your ballot paper. On the top half is written... > < Eligo in Summum Pontificem. \u201cI elect as Supreme Pontiff\u201d. Beneath this you must write the name of your chosen candidate. Please make sure your hand-writ ing is legible.>\nPerson A: Fratelli Cardinali, proceder\u00e0 ora al primo scrutinio. Troverete davanti a voi la vostra scheda elettorale. Sulla met\u00e0 superiore \u00e8 scritto... Eligo in Summum Pontificem. \u201dEleggo Sommo Pontefice\u201d. Sotto di essa dovete scrivere il nome del candidato che avete scelto. Assicuratevi che la vostra calligrafia sia leggibile.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: < My brothers, in accordance with the Apostolic Constitution, we will not stop to burn the ballot papers at this point, but instead proceed immediately to the next vote... >",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

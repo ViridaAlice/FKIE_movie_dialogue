@@ -1,0 +1,54 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Comamos.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: How can I help you?\nPerson A: My apologies about the viper. He\u2019s there for security, of course.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8
+        ],
+        "text": "Person A: Do you have that confidence?\nPerson B: I\u2019ve been out here for a long time.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          10
+        ],
+        "text": "Person A: So which one of you is the fox and which one is the jaguar?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          11
+        ],
+        "text": "Person A: I\u2019ll help you.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

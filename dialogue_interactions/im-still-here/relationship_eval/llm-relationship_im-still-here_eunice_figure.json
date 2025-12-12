@@ -1,0 +1,26 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: Maria Lucr\u00e9cia Eunice Facciola Paiva. Where's my daughter? ",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Maria Lucr\u00e9cia Eunice Facciola Paiva. ",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

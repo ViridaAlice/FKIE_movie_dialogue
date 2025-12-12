@@ -1,0 +1,15 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          13,
+          18
+        ],
+        "text": "Person A: Do I look like an Indian in the jungle?\nPerson A: Who is it that you\u2019re trying so desperately to communicate with? Your wife perhaps?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

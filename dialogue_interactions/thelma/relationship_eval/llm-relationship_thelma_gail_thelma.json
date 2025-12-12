@@ -1,0 +1,74 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5,
+          7,
+          8,
+          9
+        ],
+        "text": "Person A: Mom, wait, wait. Slow down--\nPerson A: Okay. I\u2019m going to try him.\nPerson A: He\u2019s not picking up.\nPerson A: I\u2019m trying the house line.\nPerson A: No answer. OH MY GOD--\nPerson A: Mom, Alan is calling--",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Why, mom? It\u2019s okay! You\u2019re here. You\u2019re safe. That\u2019s all that matters.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Such a mean thing to do! Just sick!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: ...She gets confused.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: What happened, mother?! Where were you? God, you must be exhausted--",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Of course. Whatever you want.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

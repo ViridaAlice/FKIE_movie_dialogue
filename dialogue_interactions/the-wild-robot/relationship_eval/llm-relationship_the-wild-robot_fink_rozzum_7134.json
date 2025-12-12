@@ -1,0 +1,105 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: May I confirm that is yours?\nPerson B: Here you go. Take it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Swim.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9
+        ],
+        "text": "Person B: Why did you steal my gosling?\nPerson A: I\u2019m a fox. I do foxy things. It\u2019s in my nature.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          20,
+          21,
+          22,
+          23
+        ],
+        "text": "Person B: My power core. It is damaged. Without it I rely on my solar surfaces and batteries.\nPerson A: Yeah, you should work on that.\nPerson B: I also need a replacement transmitter.\nPerson A: Ugh, do I have to do everything? When we run across another robot we\u2019ll kill it and take its transmitter.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ],
+        "text": "Person B: Negative. Rozzum inhibition protocols prevent deliberate harm to others.\nPerson A: Look. You need to learn how things work on this island.\nPerson A: Me, the bear, everybody, we\u2019re all just trying to survive. And kindness, is not a survival skill.\nPerson A: Yeah. So, uh, how\u2019d you get a gosling, anyways?\nPerson B: There was an accident. I terminated his family.\nPerson A: For future reference, you probably want to keep all that to yourself.\nPerson B: Understood. Do not mention dead family. Fink, how long do you estimate swim and fly to take?\nPerson A: Swimming\u2019s easy. I can teach him the way my mom taught me. Swim.\nPerson B: Fink! He will not learn that way.\nPerson A: Not if you keep doing that.\nPerson A: Just between us, this whole thing may not take as long as you think. Your gosling, he isn\u2019t exactly normal.\nPerson B: I have a defective baby?\nPerson A: He\u2019s what they call a \u2018runt\u2019.\nPerson B: A runt.\nPerson A: Fact is, even if his whole family hadn\u2019t been killed, he probably wouldn\u2019t have lived very long. Just, I don\u2019t know. Don\u2019t get too attached to the little guy, that\u2019s all.\nPerson A: If you want, I could eat him right now and save you the grief later.\nPerson B: Negative. Eating this task is not the same as completing it.\nPerson A: So we\u2019re doing this. Well, if you don\u2019t want me or anyone else to eat him, you\u2019re going to need a place that\u2019s safer than out here... which is a great idea! New project!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Paddler? Local laughing stock. Spends every day trying to cut down the biggest tree on the island. He\u2019s obsessed. Kind of like you and your task hang up.\nPerson A: Hey Paddler. You\u2019re never going to finish that.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: He doesn\u2019t need to know.\nPerson B: Seriously? He needs room for me and my stuff.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

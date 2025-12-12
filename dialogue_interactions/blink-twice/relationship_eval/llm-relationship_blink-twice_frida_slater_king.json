@@ -1,0 +1,118 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: This is not what I thought it was gonna be.\nPerson A: I mean, the legendary parties of slater king. Debauchery, drugs -- sounded kinda fun.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8,
+          9,
+          12
+        ],
+        "text": "Person A: Thanks Mama. Gotta bit of a pest problem.\nPerson B: You call your house keeper mama?\nPerson A: It's her nickname.\nPerson B: Nothing, just -- she's a real person who, maybe, shouldn't have to live with a \"nickname\" because her boss has mommy issues. But, no I'm sorry, I'm sure it's fine.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: And this guy just follows you everywhere?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3,
+          4,
+          5
+        ],
+        "text": "Person B: I have bad news for you.\nPerson A: What?\nPerson B: Your life is still bananas.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          21,
+          22,
+          42,
+          43,
+          44
+        ],
+        "text": "Person A: It's -- uhhh -- shit.\nPerson A: That smells nice on you. I like your nails.\nPerson A: Really? No one likes pistachio.\nPerson B: This is scary perfect.\nPerson B: Enjoy the fantasy before it melts.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: Gotta go to bed, gotta to bed, gotta go to bed. I'm glad you came back.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          9,
+          11
+        ],
+        "text": "Person A: She watches him stumble off toward the big house.\nPerson A: Yeah. Got therapy in the morning.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I used to do my mom's nails. It would calm her down when she went to the dark side.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          20
+        ],
+        "text": "Person A: Let's be in moment. Cuz that's all that matters. No future. No past. Just me and you. Right here. Right now. Hey, I like you.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          20
+        ],
+        "text": "Person A: Let's be in moment. Cuz that's all that matters. No future. No past. Just me and you. Right here. Right now. Hey, I like you.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

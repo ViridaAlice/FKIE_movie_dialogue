@@ -1,0 +1,104 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yes princess?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person B: I WANT YOU for this show. So we'll organize around whatever mother, brother, fucking sick dog or rabbit you need to take care of.\nPerson B: Gorgeous and with a pure heart. People are gonna LOVE that!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: You'll open it at home. It's French. My wife swears by it! Oops! I've got to run! But come and visit whenever you like! We'll always be happy to see you!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I need you to come back.\nPerson A: Aaaaahh, there's   she is!!! Where have you been??!   We wanted to all have a drink for   your departure - something big to   mark the occasion.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: I couldn't believe MY EARS!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person A: You can't actually be living in ... ..ELISABETH SPARKLE'S APARTMENT??!\nPerson A: It's too much of a coincidence! I sack her and BAM! Here she is again trying to stick her foot right back in the door!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: Uh...yes we...we briefly met when she was moving out of town... she asked me if I was looking for a place to rent... which I was so... there you have it.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          6,
+          8
+        ],
+        "text": "Person B: Ratings are through the roof.\nPerson B: That's why we've decided we want you to host... THE NEW YEAR'S EVE\nPerson B: ...network's biggest show! 50 million viewers... LIVE. You can't get any higher ...\nPerson B: Anyway, I'm taking a huge gamble on you and these men can tell you I talked you up to the shareholders `til my last drop of saliva, convincing them this is the way to go. It's going to be intense. We have only a few months to pull it off, but I know we can do it. So? What do you say?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: I'll meet you there!\nPerson B: Let me introduce you to the shareholders! They've been dying to meet you!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Everything ok?",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

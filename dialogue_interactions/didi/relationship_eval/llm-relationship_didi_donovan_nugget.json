@@ -1,0 +1,93 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Not yet. I\u2019m tryna submit something for that fuckin\u2019 Berrics contest this month but we don\u2019t have a filmer.\nPerson B: Yeah, I mean, we had one, but we don\u2019t really kick it with him anymore.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person B: Wanna put yo\u2019 number in?\nPerson B: Cool...we\u2019ll hit you up next time. As long as you don\u2019t fuck my girlfriend.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: Oh shi- w\u2019sup.\nPerson A: Yay!!!!!!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: Bro, quit clipping your toenails in the whip.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Dude, fuck yeah. That could be like the perfect opener. I can imagine it already. Just fakin\u2019 him out. Boom, ride up, backside flip, BOLTS. Music drops. AHHH! So hyped you got that, Chris.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2,
+          4
+        ],
+        "text": "Person B: Nahh, son. Violence is whack! It\u2019s all love out here.\nPerson B: Aye, can you send me that clip later?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person B: Yo Donovan, I\u2019m no expert so maybe I\u2019m wrong here...but I don\u2019t think you can put that in your tape, bro.\nPerson A: Um......yeah...didn\u2019t you say you were a filmer?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: ...Yooo. You can\u2019t be talking to your mom like that...",
+        "type": "Implied"
+      }
+    ]
+  }
+}

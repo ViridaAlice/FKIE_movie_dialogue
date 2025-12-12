@@ -1,0 +1,285 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Ivan?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Did he say bye? NOOOO! Get him! What's happening!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Keep her here.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Toros, we have a situation here man.\nPerson A: She broke my fucking nose, man. You broke my nose you fucking bitch!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: She did this!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Did you touch Ivan? Where's Ivan?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: No, Ivan took off when you told him his parents are coming and this bitch freaks out. Fucking kicks me in the face, I think she broke my nose, man.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: Ran away?\nPerson A: Yes, he ran away man.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Trying? You just stop him from leaving. There's no trying. What are you talking about?\nPerson A: I can't touch the fucking guy. What are you talking about?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Let her go!\nPerson A: She's a girl. What are you talking about?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What, the two of you get beat up by a little girl?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Don't do it.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Call him and get him back here and then you'll be untied.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: He's betrayed all of us. And most importantly, he betrayed his family by marrying you. He's a spoiled brat who doesn't want to grow up. And he pushed it too far this time. But I want to help you. The way I see it... this was a green card marriage and therefore Ivan owes you a green card marriage fee. That's only fair. We get this annulled and I will see to it that you get a 10K fee, good?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: No screaming ok? You scream and the gag goes back on.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Because I'm not sitting back there with you. You're the fucking psychopath!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2,
+          3
+        ],
+        "text": "Person B: Here. No questions.\nPerson B: He hangs there?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: No, you don't. You're fine. We find Ivan and then... my wife will patch you up. She's good at that.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: If we looked at his fucking Instagram we would have known this shit two weeks ago.\nPerson B: I need everybody to take a look at this photo. We have a missing person and we need help now. Has anybody seen this kid?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: This is why we should have driven man. My fucking head is going to explode.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Did I ask you? Keep your opinions to yourself.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: You really must hate me. Really. And that is sad to me. Because I let you get away with so much shit over the years. Bailed you out countless times. But I thought you finally grew up.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: No! They fucking got married in Vegas.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: I don't care. Shit yourself for all I care. I don't care anymore.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I just want to say that it is an honor to be finally able to spend time with your wonderful family and thank you so much for trusting in Toros and I over the years...",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: You know what? Go. Go back there. Go.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

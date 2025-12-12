@@ -1,0 +1,88 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Like installations? Sorry to eavesdrop. I\u2019m a big art fan.\nPerson A: Yeah.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Not to mention that the whole concept of motherhood that we are sold is such bullshit - you\u2019re going to be expected to figure this whole thing out alone without any village to speak of, you\u2019re going to get no maternal benefits from the government, you\u2019re going to be mocked in popular culture, and there\u2019s basically a billion dollar industry that\u2019s designing products made to make you feel like you\u2019re a terrible mother! But seriously, congratulations.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: WHOAAAA. You are blowing my freakin\u2019 mind.\nPerson B: We\u2019re so powerful. Men must be terrified of us. Look at you! You\u2019re a fucking miraculous goddess who is growing bones.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I don\u2019t have any friends that are moms. As she says this she realizes it\u2019s true.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: The parakeet. I hated that bird.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I don\u2019t know yet; it\u2019s really new - he\u2019s staying at the Extended Stay America.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I feel like I should try to talk to * the reporter. *",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

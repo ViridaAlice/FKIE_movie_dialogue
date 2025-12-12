@@ -1,0 +1,20 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5,
+          9,
+          11,
+          15,
+          17,
+          19
+        ],
+        "text": "Person B: I'm Faith Killebrew a prosecutor with the District Attorney\u2019s Office. Can we talk?\nPerson B: Sorry for the intrusion. I won't be long. I'm following up on a possible hit and run from last October, just doing a routine check on any cars that were serviced for major body damage around that time.\nPerson B: Do you remember having body work done on it around that time?\nPerson B: And how was your car damaged?\nPerson B: You're sure?\nPerson B: Could it have been Old Quarry Road?\nPerson B: You're positive?",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

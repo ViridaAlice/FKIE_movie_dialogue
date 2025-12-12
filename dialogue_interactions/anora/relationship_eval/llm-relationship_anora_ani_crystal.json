@@ -1,0 +1,117 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Hey. Well cool.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: That's cool. Yeah, I'm Russian... but I was born here. Sucks.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          6,
+          7
+        ],
+        "text": "Person B: And you two are dating?\nPerson A: Tom? No! He's my cousin. Hey... Ani thought Tom and I are dating.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Calvin Klein.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: You know... I only fuck FOB's.\nPerson B: I mean... well my ex was a FOB and he's the only guy I've ever fucked... but you know, I plan to only fuck FOB's moving forward.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: Ok, hold on. You know... it could last longer and be better if you take it easy. Here... just let me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Hey Ani.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Crystal, we have a problem and I need to find Ivan.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Can you call Ivan for me?\nPerson A: Just... can you do me a favor and call him?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Stop! Tell him to stop!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Fucking call Ivan. NOW!",
+        "type": "Implied"
+      }
+    ]
+  }
+}

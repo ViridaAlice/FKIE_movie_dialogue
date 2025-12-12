@@ -1,0 +1,389 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: You always have cookies on you?\nPerson A: Do you want one?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person A: You shouldn\u2019t drink coffee after lunch. How many do you drink a day?\nPerson B: None of your business. Seven.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "text": "Person A: Oh! I chose you as my mentor.\nPerson B: What?\nPerson A: I chose you as my mentor.\nPerson B: I\u2019m not a part of that program.\nPerson A: You are.\nPerson B: No I\u2019m not.\nPerson A: You are. You\u2019re on the list. I got an email and I clicked on your name. So- You\u2019re on the list.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          9
+        ],
+        "text": "Person B: I have no idea who sent you that email but they\u2019ll have to find someone else. I don\u2019t have time.\nPerson A: There\u2019s no need for the-",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          16,
+          18,
+          24
+        ],
+        "text": "Person B: I graduated from Yale cum laude and was recruited by an investment firm. The selection process was gruesome. There were six rooms, and in every room, I had to answer certain questions and solve math formulas. One of the questions was how many ping pong balls would fit in that specific room.\nPerson B: At the end they gave me a hypothetical case of a company that was in deep trouble, and I had to figure out how to make them profitable again. For a week I tried to solve it, but I couldn\u2019t, so I went in and told them they could go fuck themselves-\nPerson B: I started my own company five years later with the goal to change the global supply chain forever. I wanted to automate repetitive tasks, to give people their time back so they can spend it in a fulfilling way\u2013",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5,
+          7,
+          12
+        ],
+        "text": "Person A: They said we are supposed to meet weekly, but you didn't answer the email. They sent an email.\nPerson A: It\u2019s very easy. The email has a link. You just click on a date and a time for the second appointment- It will pop up in your calendar-\nPerson A: Listen, if you don\u2019t want to be my mentor, I totally understand. I\u2019ll ask someone else, but I do want one. They say it makes a huge difference. There\u2019s lots of other people I can ask, so-\nPerson A: We are supposed to meet once a week, that\u2019s how it works. I didn\u2019t make the rules.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          10,
+          11
+        ],
+        "text": "Person B: Do you understand that your behavior is totally out of line?\nPerson A: Is it?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ],
+        "text": "Person B: Leaving me notes? Calling me? Sending me milk?\nPerson A: Well- you drank it all...\nPerson B: Texting me? Inviting me to this ridiculous hotel? Keeping me waiting- Are you fucking insane?\nPerson B: We need to have a very serious conversation, you and I, we need to talk this through. Get to the bottom of it. You need to realize that what you\u2019re doing is wrong-\nPerson A: I don\u2019t think I want to talk.\nPerson A: Sorry but- I\u2019m confused - You don\u2019t know me. I\u2019m a total- stranger, but you show up here, dressed like this- and you want me to just look at you- and- not do anything?\nPerson A: I\u2019m not some thing you can just pick up and play with.\nPerson B: Oh, shut the fuck up.\nPerson A: Get on your knees.\nPerson B: What? No!\nPerson A: I just feel...Is That what you want? I don\u2019t know how to- If that\u2019s what you want - Be honest.\nPerson A: Is it?\nPerson B: I don\u2019t know.\nPerson B: You\u2019re very young- I don\u2019t want to hurt you.\nPerson A: Hurt me? I think I have power over you, not the other way around. I mean, one call and you lose everything. Right?\nPerson A: Does that turn you on, when I say that?\nPerson A: Get on your knees.\nPerson B: Ok. I have to go.\nPerson A: No. Not like that. I don\u2019t like it like that. I don\u2019t want it like that-\nPerson A: Don\u2019t.\nPerson A: Stop! Stop!\nPerson A: Please take your clothes off-\nPerson B: No.\nPerson A: Why not?\nPerson B: I don\u2019t know. I don\u2019t want to.\nPerson A: Ok. That\u2019s ok.\nPerson A: Would you mind getting on your hands and knees for me?\nPerson B: Why?\nPerson A: Could you maybe try? For the sake of what we\u2019re trying to...do here?\nPerson A: No- no. It\u2019s ok-\nPerson B: I\u2019m gonna...I don\u2019t wanna pee-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          3
+        ],
+        "text": "Person A: Hey! You forgot your laptop at the office! Esme told me to bring it to you!\nPerson A: She said you couldn\u2019t survive a minute without it.\nPerson A: I thought- better in person- in case... Sensitive information... I took the train.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh! I\u2019m so sorry. Yes. Of course!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: They\u2019re so nice- You\u2019re family- That\u2019s what I want, for myself. Later.\nPerson B: My family is everything to me. Don\u2019t you ever do that again.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3
+        ],
+        "text": "Person A: I\u2019m going to talk to someone and ask to be transferred to a different department.\nPerson B: You can\u2019t do that- They will ask questions. They will investigate. You can\u2019t- You can\u2019t do that- They could- fire me.\nPerson A: I thought this was your company.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "text": "Person A: The way you look at me. As if you\u2019re expecting me to- do that. To take it all away.\nPerson B: No.\nPerson A: Until you have nothing? Until you are nothing?\nPerson A: Are you using me to do that?\nPerson B: No, of course not.\nPerson A: That scares the shit out of me.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ],
+        "text": "Person B: No- I\u2019m not doing that. I promise. I\u2019m not. I just think cause you\u2019re young and I\u2019m older than you- I want to be protective. I don\u2019t want to hurt you-\nPerson A: You keep saying that- but- I\u2019m fine. I\u2019m totally fine. I think you\u2019re the one who\u2019s hurting.\nPerson A: Listen- You don\u2019t have to worry about it. What we do is- If we continue to do this- It\u2019s totally normal. I mean... - as long as it\u2019s... you know- consensual-\nPerson B: What does that mean?\nPerson A: It\u2019s about giving and taking power, no?\nPerson B: Come on- What did you do? Go to the library, looked it up?\nPerson A: No! I\u2019m just saying- It has nothing to do with your- family or the company- It\u2019s between us.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "text": "Person B: I\u2019m sorry. I didn\u2019t mean to- I\u2019m just nervous.\nPerson A: You\u2019re nervous? Yeah you look nervous. You\u2019re all.. You\u2019re acting all...\nPerson A: Why are you nervous? Why are you so nervous?\nPerson A: Just to be safe- If we continue to do this- We need to set some rules- that you and I both agree on. Like; I don\u2019t know.... ...starting with: I tell you what to do and- you do it.\nPerson B: Oh, come on... Jesus Christ!\nPerson A: See! This is what I mean- this is what I\u2019m talking about-\nPerson B: I\u2019m sorry, I\u2019m so sorry, No, no, no, wait come on- Sit down. I\u2019m sorry- Sit down.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ],
+        "text": "Person B: Please?\nPerson A: You have to be the one to say it. That\u2019s how this works.\nPerson B: How what works? I don\u2019t-\nPerson A: This! The dynamic. It\u2019s about trust!\nPerson B: I thought you said it had to be consensual.\nPerson A: Yes, that\u2019s what consent is Romy! That\u2019s what it is. You have to agree to it. Both parties have to agree to it.\nPerson B: And if I don\u2019t?\nPerson A: Then I will have to go talk to someone-\nPerson B: No, don\u2019t do that. Please?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48
+        ],
+        "text": "Person A: Come on. Just admit that this is what you want. Be honest.\nPerson A: You don\u2019t look comfortable. You don\u2019t look comfortable at all- Why don\u2019t you sit over there?\nPerson A: Sit on the edge, right there-\nPerson A: Ok, you need to say it out loud, otherwise I\u2019m gonna have to go talk to someone and ask to be transferred-\nPerson B: No, wait wait-\nPerson B: What are the words?\nPerson A: You know the words.\nPerson B: I don\u2019t- I- don\u2019t.\nPerson A: You do. Just say it.\nPerson B: Ok, ok--I\u2019ll say it.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59
+        ],
+        "text": "Person A: I need to hear you say...\nPerson A: You can do it.\nPerson B: What do you want me to say?\nPerson A: I... will... do...\nPerson B: I will do-\nPerson A: Whatever you tell me to do.\nPerson B: Whatever you tell me to do.\nPerson B: I will do whatever you tell me to do.\nPerson A: Say it again.\nPerson B: I will do whatever you tell me to do.\nPerson A: Good.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70
+        ],
+        "text": "Person A: Hey! There\u2019s a whole living room in here!\nPerson A: Stay.\nPerson B: Don\u2019t stare at me.\nPerson A: Why?\nPerson B: I don\u2019t like to be looked at.\nPerson A: Ok. I understand that. Go make yourself a drink.\nPerson B: I don\u2019t- .\nPerson A: All of it.\nPerson B: No.\nPerson A: Don\u2019t say no.\nPerson A: Take your panties off.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82
+        ],
+        "text": "Person B: You take them off.\nPerson A: Don\u2019t tell me what to do.\nPerson A: Open your legs.\nPerson A: How does that make you feel?\nPerson B: Scared.\nPerson A: Ok. You want to take your dress off for me now? So I can see you?\nPerson A: But you\u2019re going to do it anyway?\nPerson A: -can\u2019t hear you-\nPerson B: Yes.\nPerson A: Yes what?\nPerson B: Yes, I will take my dress off.\nPerson A: Ok.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94
+        ],
+        "text": "Person A: You\u2019re beautiful.\nPerson B: No...\nPerson A: You are.\nPerson A: You\u2019re so beautiful.\nPerson A: You\u2019re my babygirl.\nPerson A: Go ahead.\nPerson A: What\u2019s the safe word?\nPerson B: What?\nPerson A: Don\u2019t we need a safe word?\nPerson B: Eh- Jacob?\nPerson A: Your husbands name?\nPerson A: Ok.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102
+        ],
+        "text": "Person A: Can you do your therapy on me?\nPerson B: No.\nPerson A: Cause you\u2019re afraid of what might come out of me?\nPerson B: No, because I\u2019m not a therapist.\nPerson A: Do you think I\u2019m a - bad...person?\nPerson B: No. You\u2019re a lovely person. You sense things- You know things- what people want- what they need-\nPerson A: I scare myself. Sometimes.\nPerson B: You don\u2019t scare me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          7
+        ],
+        "text": "Person B: Are you dating her?\nPerson B: I don\u2019t want you to see other women. You\u2019re mine-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: Do you do with her- what you do with me?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: She\u2019s not like that Romy. That\u2019s why I like her in a different way. That\u2019s why I like myself in a different way, with her.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: I could drown you, right here. No one would know it was me.\nPerson B: You should.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Well...? Don't you wanna get home to your pregnant wife?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2,
+          5
+        ],
+        "text": "Person B: Of course I do.\nPerson B: No, it's a deliberation. You were ready to send this man to prison, maybe forever, just like that.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          3
+        ],
+        "text": "Person A: He doesn't have to. The \"burden of proof\" is on the prosecution. Does anyone have even the slightest hesitation that James Sythe is guilty?\nPerson A: If you have to think, you're aren't sure.\nPerson A: We all have lives. None of us want to be here.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You just like pissing me off, then?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          3
+        ],
+        "text": "Person A: I'm just saying the man saw somebody at that railing, right? Can we all agree on that?\nPerson A: So, isn't it possible that he saw someone other than James Sythe?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: That's between him and the Judge.\nPerson B: Bullshit. You were there.\nPerson A: He was investigating the case on his own. The Judge sent him home.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: And we're just supposed to take your word for it and change our vote?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I'm just telling you what I know.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Hold up. I'm hearing way too many \"maybes.\"",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Too many maybes is reasonable doubt.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: No it's not. You're wearing people down. Talking loud and saying nothing. You go over anything enough times, you'll start to question it.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4
+        ],
+        "text": "Person B: Then how am I sitting here?\nPerson B: I should be dead.\nPerson B: Little over three years ago I wrapped my car around a tree with a blood alcohol level that probably should've killed me before I even got in the car. And somehow, I walked away with barely a scratch.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "text": "Person B: Did he ever lie to you?\nPerson B: Do you think he lied on the witness stand?\nPerson A: I'm not sure.\nPerson B: Not sure is reasonable doubt.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          4
+        ],
+        "text": "Person A: Ivan, we have to talk.\nPerson A: Ivan, please.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "text": "Person A: Ivan, your father sent us.\nPerson B: My father sent you?\nPerson A: Well, not me. Your father sent Toros and Toros sent us.\nPerson B: Where's Toros?\nPerson A: He's busy and he's very upset with you... if this is true.\nPerson B: If what's true?\nPerson A: Did you get married to some prostitute?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          6,
+          7
+        ],
+        "text": "Person B: So you and her are married?\nPerson B: Like officially with a license?\nPerson A: Yes, officially. Goodbye!\nPerson B: Wait. Wait. I need to see the marriage license.\nPerson B: Now c'mon the faster we do it, the faster we're out of here.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Oh my god. You people are pathetic.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: Ivan, with all due respect... your father sent us over.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          9
+        ],
+        "text": "Person B: Toros sent you over.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: She's not a hooker, she's an erotic dancer!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Look! Look at my face. This is your fault!",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

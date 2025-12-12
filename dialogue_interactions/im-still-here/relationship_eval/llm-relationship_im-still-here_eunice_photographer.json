@@ -1,0 +1,35 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Just scooch in a little more. Got to fit all of you.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person A: Yep. All ready? Three... two... \nPerson B: Smile. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: The editor asked for it.\nPerson A: He asked for a photo that's more... more... you know, less happy.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: My knife! I can't find my special knife!\nPerson A: Aye! Chill. You just gotta ask somebody. Has anybody seen Cody's special knife?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person B: No!\nPerson B: ... Bitch that shit is too funny!!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Yeah babe!!\nPerson A: Oh, you're a bad girl.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

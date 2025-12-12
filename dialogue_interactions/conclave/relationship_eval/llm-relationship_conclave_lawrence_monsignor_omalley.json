@@ -1,0 +1,159 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Well, Eminence, I\u2019d say this is a pretty fair vision of hell.\nPerson B: Don\u2019t be blasphemous, Ray. Hell arrives tomorrow when we bring in the cardinals.\nPerson B: How on earth does one pronounce this? Salso?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "text": "Person B: I don\u2019t think that\u2019s possible. The cardinals will begin arriving in an hour. What\u2019s it about?\nPerson B: We\u2019re going to be sequestered from six o\u2019clock. He should have come earlier.\nPerson A: Yes, your Eminence. I\u2019ll tell him.\nPerson B: Ray? Tell him I\u2019ll see him after I\u2019ve met the cardinals. The poor fellow will be worrying about his future. O\u2019",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: That would be too much to hope for.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: If we\u2019ve left someone off the list...\nPerson A: That\u2019s what I thought, Eminence. But Archbishop Mandorff has spoken to him and thinks not.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: He h as to be an imposter, surely?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: Dean, your homily... I\u2019m not entirely clear whether or not it should be placed in the Vatican archive or not? As it was not the homily you... actually... delivered?\nPerson A: Not at all, Your Eminence. It has caused quite a stir. I don\u2019t think anyone expected you to... to...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "text": "Person B: On health grounds? Look into that will you Ray? Kind of thing the press like to get hold of.\nPerson A: I spoke to Monsignor Morales. He was emphatic that he knows of no reason why Cardinal Tremblay should not be Pope.\nPerson B: Thank you.\nPerson A: However, will you forgive me if I say that I did not entirely believe the good monsignor?\nPerson A: He was just... so emphatic? My Spanish is quite poor and I may have... accidentally... given him the impression that you had seen a document that contr adicted that? And he said you weren\u2019t to worry about that. His exact words were - \u201cEl informe ha sido retirado.\u201d\nPerson B: A \u201creport?\u201d A report on what? Withdrawn when?\nPerson A: That I couldn\u2019t say, Eminence.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Good morning, Your Eminence. Did you sleep well?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Forgive me. I know you said we should forget the matter of the withdrawn report but...I wondered in light of Cardinal Tremblay\u2019s present...position? I could see if there was anything more I could find out?\nPerson B: I\u2019m sorry, Ray. No more investigations. I think we\u2019ve heard enough secrets. Let God\u2019s Will be done.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          5,
+          6
+        ],
+        "text": "Person A: Everyone has been taken to the Casa Santa Marta, Your Eminence. No one was seriously hurt. Some cuts, that\u2019s all.\nPerson B: And outside? In the city? How bad is it?\nPerson A: Your Eminence? The Conclave? Do we continue?\nPerson B: Complete privacy, Willi.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: No. But it\u2019s wonderful all the same.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: I found out... Switzerland. Cardinal Benitez\u2019 trip to Switzerland.\nPerson A: A clinic for what?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

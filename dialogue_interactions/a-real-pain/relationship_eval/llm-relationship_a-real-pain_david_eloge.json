@@ -1,0 +1,65 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Can you take a picture of me?\nPerson A: Oh.   Really? Sure, I guess so.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6
+        ],
+        "text": "Person A: Not all, but I do keep Shabbat. It's mediative, it gives me a chance to unwind, to refocus. And you?\nPerson B: No. The whole thing always seemed like a little archaic and arbitrary and mechanical to me. No offense.\nPerson A: None taken, but I think it would really benefit you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Hi, yes, I'm eavesdropping, is that okay?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yes, of course. I find myself constantly baffled by the way the world seems to carry on like there aren't a million reasons to mourn, to be shocked, to be appalled.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

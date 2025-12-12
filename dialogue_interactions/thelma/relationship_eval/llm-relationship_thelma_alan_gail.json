@@ -1,0 +1,325 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5
+        ],
+        "text": "Person B: She said she spoke to him! To Daniel.\nPerson B: No! I\u2019m trying him again.\nPerson A: I\u2019m getting in the car. Let me know what you hear.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Drinking hard liquor can make you depressed. You know Wendy Horowitz\u2019 son got hooked on Don Julio. He\u2019s been in and out of rehabs, he can\u2019t hold a job. He\u2019s got no sense of agency. He is totally lost. And he may never find himself...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Is there anything that can be done? A database of some kind?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: We\u2019ve lost our moral center as a society. This is a systemic problem.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: This wouldn\u2019t have happened a year ago. She\u2019s not as self-reliant as she was.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "text": "Person B: I didn\u2019t ask. I assume it was.\nPerson B: Ugh, she\u2019d never forgive me.\nPerson A: We could consider full time care but it\u2019s expensive.\nPerson B: I just want what\u2019s best for her.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: She just can\u2019t hear me--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Don\u2019t say that.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: ...I don\u2019t like sushi.\nPerson A: I don\u2019t--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You go for the environment.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: She can chew some things, Alan.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I think she actually has a brain tumor now.\nPerson A: Yeah, the doctors said it was growing so slowly we could just leave it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: It was a few years ago. She got very disoriented. She didn\u2019t know who she was, who we were. It passed after about an hour but it was... unsettling.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Wouldn\u2019t it be in your wallet?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: Do you recognize anything?\nPerson B: Can you make it bigger. Can you enhance it?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Isn\u2019t there a gas station on Tujunga and something?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: This is the speed limit. We\u2019re a law abiding family.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: Marci Wender\u2019s husband was obsessed with Waze. He took a psycho left and ended up inside a Vons. They had to pay thousands of dollars--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Technology is what got us into this mess! Can you go back?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: You have to ignore all of your instincts and trust the technology--\nPerson A: I can\u2019t go back.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Ugh, it added two minutes!\nPerson B: There\u2019s still cars.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Just to consider the options here, could this be another TGA?\nPerson A: Her behavior is erratic. It seems within the realm of possibility. I\u2019m going to google it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: It\u2019s in the past... why didn\u2019t you?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Duration of no more than 24 hours--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: We\u2019ve all lost her before.\nPerson A: Especially if she has the cart. She\u2019s always been like that - once she sets her mind to something...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: I\u2019d like to go, Alan--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Enjoy your walk, sweetheart. Love you.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Daniel?!",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Luckily, Pimp\u00e3o had his dad's BBA card.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Go talk to your dad. He was worried.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I've already made up my mind, Mom.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: I can take care of myself, Mom.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: All right. Take care of my coat, then, I'll want it back.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5,
+          6,
+          7,
+          8
+        ],
+        "text": "Person B: Mom, I have to tell you something.\nPerson B: Your jacket... I left it with Helena. She begged me so long I just couldn't say no. \nPerson A: That's all right, it'd been stored away for so long. Helena will make better use of it in London.\nPerson B: Are you all right? \nPerson A: Sure I am, honey. How about you? ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: I wish I could've made a welcome- home souffl\u00e9, honey, but there was no time. \nPerson A: Not hungry?\nPerson B: I think it'll take a few days for me to get over the time difference.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

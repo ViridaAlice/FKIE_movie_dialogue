@@ -1,0 +1,42 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "text": "Person B: Can, Brightbill...?\nPerson A: Endurance. Keep him in the air. All day. First light to dusk, his feet cannot touch the ground. Understand?\nPerson B: I understand.\nPerson A: Brightbill was never supposed to get this far, you know that. It is more dangerous for him than anyone else. But he has a chance, if where his wings end, his heart can pay the balance.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Attention everyone. The time has come again. This flight is thousands of unforgiving miles. It has shaped us, and tested us over millennia. Now, join your families. And good luck.\nPerson B: Ah hah! There you are. Right on time. Hello, Brightbill.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Good-bye Roz. I am honored to have met you. You are a credit to whatever species it is you belong to.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

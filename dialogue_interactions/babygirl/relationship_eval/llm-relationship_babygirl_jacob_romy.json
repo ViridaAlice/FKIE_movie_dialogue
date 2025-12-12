@@ -1,0 +1,194 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I love you.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Because Hedda wants him to end his life courageously, romantically-",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Your mother is busy with her company right now. So we need peace and quiet- It\u2019s a scary time.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          14
+        ],
+        "text": "Person B: Being a CEO is- being a collaborator- a nurturer. I see myself as a strategy expert but also- a human expert.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          9
+        ],
+        "text": "Person A: Am I-- relevant to you as a director?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6,
+          7
+        ],
+        "text": "Person B: When I\u2019m on my phone it\u2019s for work. Especially now -you know that.\nPerson A: As if that\u2019s a good excuse! That\u2019s the whole problem!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You look beautiful, and we have this shot, but it\u2019s not the style we are going for. It\u2019s not what we agreed upon.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Romy, come on. Jesus-\nPerson A: Let them wear what they want!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: It\u2019s the one night I need you by my side.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: No.\nPerson B: I know. I\u2019m so sorry. It\u2019s just there is so much pressure now-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Romy!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "text": "Person B: I\u2019ve never had an orgasm with you-\nPerson A: What?\nPerson B: Don\u2019t fucking touch me-\nPerson B: I can\u2019t- I can\u2019t come with you.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "text": "Person A: Did you- Did you mean what you said? About never-\nPerson A: I- I\u2019ve never- Normally, you know- Women- you know, they-\nPerson B: I\u2019m not normal. I\u2019m not other women! Look at me. I\u2019m not normal.\nPerson A: No. You\u2019re not.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Esme.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          13,
+          15,
+          16,
+          25,
+          26,
+          36
+        ],
+        "text": "Person B: I sometimes- tried to- But you never seem to be... into it.\nPerson B: I just want to be normal. I want to be normal- I want to be what you like. I want to be the woman you like-\nPerson A: I\u2019m sorry, Romy, I don\u2019t know what you mean- could you...be a little more specific-\nPerson A: Who?\nPerson A: What did you do? What?\nPerson A: Who is this guy? Are you in love with him?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8
+        ],
+        "text": "Person B: You sat at my fucking table. You talked to my girls.\nPerson B: How long? How fucking long? You lied to me- you fucking lied to me!",
+        "type": "Implied"
+      }
+    ]
+  }
+}

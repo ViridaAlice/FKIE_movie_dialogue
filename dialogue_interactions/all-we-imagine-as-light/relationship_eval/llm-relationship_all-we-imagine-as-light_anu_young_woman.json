@@ -1,0 +1,27 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          4,
+          5,
+          6
+        ],
+        "text": "Person B: Ummm...He is this much\nPerson B: There is one more child... I had her last month.\nPerson A: How old are you?\nPerson B: Maybe 25... or 24... ummm...\nPerson B: 22... yes... I am sure...",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          11,
+          12,
+          13
+        ],
+        "text": "Person B: I told my husband..but he is scared. He says he won\u2019t be able to lift heavy things if he gets it done. You know he is a brick layer? It makes them lose their strength!\nPerson A: Take it every day. If you want another child, stop taking it one month in -\nPerson B: No NO! I'll die before I have one more.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

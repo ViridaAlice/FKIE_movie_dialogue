@@ -1,0 +1,34 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Which parts of me do you find most beautiful? Is there a part of me you would especially like to touch or look at?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Stop it. I don't find all the parts of you beautiful. There are some parts of you which I like very much.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9
+        ],
+        "text": "Person B: My arse; is that what you like? You think it's beautiful?\nPerson A: Very... It's the space above your brow for me which is the problem-",
+        "type": "Implied"
+      }
+    ]
+  }
+}

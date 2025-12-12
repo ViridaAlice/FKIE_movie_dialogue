@@ -1,0 +1,31 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          8
+        ],
+        "text": "Person A: ) Thank you young man, thank you. What is your name?\nPerson A: Nice to know I can count on somebody round here, Turner.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          9,
+          10
+        ],
+        "text": "Person A: When's the last time you had family visit, Turner?\nPerson B: ...They... well, my kin, my parents, I mean my ma, she...",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          11,
+          13
+        ],
+        "text": "Person A: Well I came all this way. I can't hug Elwood, so you'll have to do.\nPerson A: I'll expect it the next time, Turner. The world needs strong young men like you.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

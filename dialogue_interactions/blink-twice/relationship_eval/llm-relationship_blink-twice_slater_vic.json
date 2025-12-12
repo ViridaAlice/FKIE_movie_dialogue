@@ -1,0 +1,41 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Alright, that's very cute. C'mon. Let's go.\nPerson A: Let's goooooo!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Ok, uhm, I don't wanna sound uhm... Do you guys wanna come?\nPerson B: It's good to be back.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Shit. Hey Stan. Stan the man. You were in the marines, right?\nPerson B: Are you having a good time?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

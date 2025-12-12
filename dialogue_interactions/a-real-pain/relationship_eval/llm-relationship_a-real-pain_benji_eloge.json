@@ -1,0 +1,66 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          8
+        ],
+        "text": "Person A: And in Winnipeg, I was helped by the Faintuchs, a Jewish family--\nPerson A: Yes, naturally, Benji. And when I learned about Judaism and the story of the Jewish people, I felt at peace for the first time since the war. And the more I learn about the religion and the more people I meet -- lovely people such as yourselves - the m ore I know I made the right decision.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Okay, well you can be a medic or something! Come on up! It'll be funny! Your mom will love the pictures.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Okay, so you're the medic -- maybe you just jumped out of a copter and you got a fuckin first aid kit and you're patching up this guy's leg here.\nPerson A: Oh yeah! He's got gangrene.     Holy shit! It's fuckin oozing!\nPerson B: Don't worry. I have prepared for this moment.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I want to echo what Marcia said, if that's all right.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: You're like me, Benji.    You're a seeker.\nPerson B: Yo, that means so much to me, man. I feel like you were some kind of brilliant sage in another life.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

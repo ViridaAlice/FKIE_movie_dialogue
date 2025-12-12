@@ -1,0 +1,172 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: We're a relatively small group, which will be nice and intimate.\nPerson B: Success! I found them. Everyone, this is Benji and David.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: No, that's okay, Benji. It's good to remember. That's what we're here for.\nPerson A: Of course.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yeah, she knew the two of us have a special connection, right Davercakes?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: If I can ga ther everyone over here? Thank you. I always like to start our tour at the Ghetto Uprising Memorial. It's a monument to the Jewish heroes who fought back. In two days, we'll be visiting a concentration camp so I think it's important to immediately dispel the pernicious myth that these were a people led like lambs to the slaughter.\nPerson B: Look at this shit. We'd probably live here if the war didn't happen. Isn't that fuckin crazy to think about?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Yo, Eloge, when you're done, could you take a picture of me and Dave posing with the guys?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I'm coming! And you really don't mind taking a picture?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Yeah, sorry about that J.\nPerson A: I just feel like -- is no one else feeling this?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You're like completely knowledgeable about all this shit and it's mad impressive and we all know that now but like \ufffd",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: I mean, you know your shit, don't get me wrong. And Eloge, you totally know your shit, which is doubly impressive. But it's just like, the constant barrage of stats is kinda making this trip a little cold, you know?\nPerson B: And, like, part of the problem, if we're bein honest right now, with the tour is that we've been cut off from anything real.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Benji, I'm sorry to say this, but that's kind of what these tours are. You signed up for this tour.\nPerson B: And it's a mostly amazing tour, Jimbo. Like, really. I'm lovin it and it's totally Dave's speed. But maybe just chill with the facts and figures for a little bit. Is that cool?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Thank you, Benji. So, lets find some nice stones, shall we?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Antisemitic pricks.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: And I resisted in the moment but I haven't been able put it out of my mind. You lit a fire under me, Benji. Your honesty is so rare and so welcome.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person B: Shut up, come here.\nPerson B: Check out this building.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

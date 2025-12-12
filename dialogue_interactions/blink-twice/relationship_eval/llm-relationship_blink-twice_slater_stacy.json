@@ -1,0 +1,67 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Frida, Stacy. Stacy, Frida.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Hiiii. So nice to see you. So, Miss Party Pooper, I know, but it's--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Hi friends! Godammit. I got it. Phones please?\nPerson B: It's just, better without phones.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Ok well... We haven't tried the driveway. Or the bathroom. Ooo! We could light it on fire. That might make it feel less weird.\nPerson A: No no, it's groovy. Like... deck chairs on the titanic.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: ... It's weird here. It doesn't work here. Right? Stace, is it weird here?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: What are we gonna do about this? What are we gonna do? It's...\nPerson B: Noooo. I think it's... nice. I think it's-- I think it's nice there. I'm just gonna.. I'm gonna get some water.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

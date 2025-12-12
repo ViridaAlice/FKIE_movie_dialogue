@@ -1,0 +1,60 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5
+        ],
+        "text": "Person B: Who are you?\nPerson B: And I'll ask you again... who the fuck are you?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: Enough. One of you call Ivan, now.\nPerson A: If you aided him in this fraud of a marriage, then it is your business.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: Give me your phone, you little fuck.\nPerson B: I don't think so.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Call Ivan now or my friend here is going to practice his stroke on your fucking face.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Fuck you.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

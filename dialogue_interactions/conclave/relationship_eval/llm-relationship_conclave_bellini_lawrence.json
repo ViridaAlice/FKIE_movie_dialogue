@@ -1,0 +1,177 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5,
+          6,
+          8
+        ],
+        "text": "Person B: Of course. Take it. He would have wanted you to have it.\nPerson B: Ah, Aldo, I\u2019m so sorry. What happened, do you know?\nPerson A: They say heart attack. There had been warnings.\nPerson A: He didn\u2019t want anyone to know. He thought if word got out they would start spreading rumours he was going to resig n.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          3,
+          4
+        ],
+        "text": "Person A: Has anyone telephoned Cardinal Tedesco?\nPerson A: As a courtesy.\nPerson A: I have to ring him, Aldo.\nPerson A: < The Patriarch\u2019s Palace in Venice, please. Cardinal Tedesco\u2019s private line. >",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "text": "Person B: I asked for his permission to retire as Dean. Join an order. I have been having... difficulties.\nPerson A: What did he say?\nPerson B: He refused my resignation. Said that some were chosen to be Shepherds, and some to manage the farm. Apparently, I\u2019m a manager.\nPerson B: Things were a little cold between us when I left. . And that was the last time I saw him.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          6,
+          8
+        ],
+        "text": "Person A: What if I don\u2019t want it? No sane man would want the papacy.\nPerson A: But what if I know in my heart I\u2019m not worthy?\nPerson A: I\u2019m not.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person B: That man is leg ally a cardinal, Aldo. He has a right to take part in the election.\nPerson B: Welcome to the Vatican, Archbishop. I\u2019m Father Lawrence, Dean of the College. This is Father Bellini. I\u2019m sorry you\u2019ve had to wait. We had to make checks I\u2019m afraid.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: We\u2019re neighbours, Joshua.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6,
+          8
+        ],
+        "text": "Person A: Adeyemi? A man who believes homosexuals should be sent to prison in this world and hell in the next? Adeyemi isn\u2019t the answer to anything and you know it! If you want to defeat...\nPerson B: \u201cDefeat?\u201d This is a Conclave, Aldo. You talk as if it\u2019s a war.\nPerson A: Because it is a war! And you have to commit to a side! Save your famous doubts for your prayers!\nPerson A: Oh, every cardinal has that desire! Every cardinal, deep down inside, has already chosen the name by which he would like his papacy to be known!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: The field has narrowed. If we don\u2019t change our votes, we\u2019ll be here for weeks. Which is what Tedesco wants.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2,
+          3
+        ],
+        "text": "Person A: I have been informed that, shortly before his death, the Holy Father had fallen out with Tremblay. In fact, that he intended to dismiss him from all offices in the Church.\nPerson A: There is a rumour of a report of some kind, a report that was possibly withdrawn...",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: A rumour? Thomas, in the la st weeks of his life it is possible that the Holy Father was not entirely himself. He had become increasingly secretive and paranoid...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ],
+        "text": "Person B: He only obtained all those votes on the first ballot because he bought them. Cardenas, Diene, Figarella, Baptiste...\nPerson B: Because I\u2019ve seen their bank statements.\nPerson B: Ours too. It would seem the Holy Father was spying on all of us. I don\u2019t think he trusted anyone.\nPerson A: Where did you find these?\nPerson A: You broke the seals?\nPerson B: What choice did I have? I suspected Tremblay of bringing that poor woman from Africa to embarrass Adeyem i.\nPerson A: And did he?\nPerson B: He asked for the transfer. He claims he did it at the request of the Holy Father but... You must continue with your candidacy, Aldo.\nPerson A: Put them back. Put them back or burn them or... put them back. I couldn\u2019t possibly become Pope in such circumstances, a dirty trick, a stolen document, the smearing of a brother cardinal... I\u2019d be the Richard Nixon of Popes!\nPerson B: Then keep clear of this. Leave it to me. I\u2019m willing to take the consequences and...\nPerson A: You know who will gain most from this? Tedesc o! The whole basis of his candidacy is that the Holy Father led the Church to disaster by his attempts at reform. If you reveal this report it isn\u2019t Tremblay\u2019s reputation which will suffer - it\u2019s the Church\u2019s. Accusing the Curia of institutional corruption...\nPerson B: I thought we were here to serve God, not the Curia...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: We\u2019ve had worse.\nPerson B: Five times I cast my ballot for you, Aldo. But I was wrong. You lack the courage required to be Pope.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: Ha! No, thank you. You are steering this Conclave. Exactly where I do not know, but you are certainly steering it. And that firm hand of yours has i ts admirers. I\u2019ve come to ask your forgiveness.\nPerson B: As the next most senior member of the Conclave, it will fall to me to ask you how you wish to be known as Pope. Rightly or wrongly, it would seem Tremblay is finished. This will be a contest between Tedesco and you. You\u2019re the only one who can stop him now.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

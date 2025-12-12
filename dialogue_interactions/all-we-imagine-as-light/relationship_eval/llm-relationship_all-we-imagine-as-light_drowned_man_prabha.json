@@ -1,0 +1,33 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh... Yes, it will pain but soon you will be ok...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          18
+        ],
+        "text": "Person A: Sitting next to you like this. The light on your face. I wanted to reach out and touch you, but...",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          18
+        ],
+        "text": "Person A: Sitting next to you like this. The light on your face. I wanted to reach out and touch you, but...",
+        "type": "Implied"
+      }
+    ]
+  }
+}

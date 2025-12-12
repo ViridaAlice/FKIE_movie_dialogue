@@ -1,0 +1,29 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          6,
+          8,
+          4
+        ],
+        "text": "Person A: I Slater King would like to formally apologize for my behavior. I've sought therapy, and am taking a leave of absence from my company. I'm sorry.\nPerson B: I was going to say since you stepped down and made your CFO Vic Mahoney CEO of KING-tech.\nPerson B: You completely vanished.\nPerson B: Right. Well lets get to question that everybody is dying for you to answer. Where have you been since you-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: I guess, uh, I dunno, I'm just trying to do better. I don't know how else to say I'm sorry. I've said it so many times the word has lost meaning. I have learned a lot. I hope to continue to learn. I'm here to talk less and listen more. And yeah, sure I wish everyone could forgive and forget, but like my sister says, \"forgiveness is a choice and forgetting is a gift.\" So yeah, I don't expect anything from anyone.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

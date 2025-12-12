@@ -1,0 +1,94 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: Thank you for taking care of my Laszlo.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Oh yes. I wrote for a popular national paper at home; Magyar Nemzet.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Oh, that's fine, just fine. Feel free to call me Elizabeth if you prefer it.\nPerson A: Thank you. I attended University in England!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person B: Philadelphia. To visit family.\nPerson A: Ah, yes. The American cousin! The city then! Us, as well.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Well, don't just stand there. Let us give you and your Auntie a lift.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I'm proud of you. Make love to me tonight.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          10,
+          11,
+          12,
+          13
+        ],
+        "text": "Person B: My dearest Zsofia! Mazel tov! She is so beautiful - your spitting image!\nPerson B: Don't be mad but your Uncle Laszlo insisted I enclose a few banknotes for you and Binyamin. We hope he won't be offended, and that it's not too difficult to change these into the local currency.\nPerson B: Here: I am so alone. Perhaps more alone than I have ever been. Your uncle has closed a door to me. The man I married is inside but the lock's combination, I cannot decipher...\nPerson B: He no longer attends synagogue. When I ask him why, he will not reply. Perhaps his own narcissism will no longer allow him a relationship with our community.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Shame.\nPerson B: Yes. A terrible shame.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

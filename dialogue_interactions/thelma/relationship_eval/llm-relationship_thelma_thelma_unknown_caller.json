@@ -1,0 +1,14 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Grandma! It\u2019s me. Can you hear me?",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

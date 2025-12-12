@@ -1,0 +1,61 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: You know work that is examining social media - like my piece- is tricky. We\u2019ve lost some objectivity.\nPerson A: I\u2019m working on a video piece about one woman\u2019s day, taken over 24 hours side by side with an actress who is acting out that same day in that very same space. Masturbating, shitting. All of it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Wow. Sounds interesting.\nPerson A: Me? Um. No. I\u2019m not working on anything. Nope.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: I see you, mom. I'm beginning to understand.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person B: All these years, all the things I\u2019ve given up and what do I have to show for it?\nPerson B: And the worst part is I sacrificed everything for this kid and I\u2019m not sure I\u2019m even a good mother.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: It reminds me a little bit of Charlotte Gibley\u2019s work from last year, but I mean that in a good way. Like it\u2019s not derivative, it\u2019s in conversation.\nPerson B: You\u2019re here. Thank you so much for coming.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

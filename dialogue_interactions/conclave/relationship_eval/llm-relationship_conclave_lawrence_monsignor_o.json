@@ -1,0 +1,87 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Your Eminence...",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Have we lost a Cardinal?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I need you to do something for me. Monsignor Morales. I\u2019m sure he\u2019s still in Rome. Could you try and see him? Use my authority.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Bless you.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: No, no... This is all so... unseemly.\nPerson B: The Holy Father\u2019s turtles. He was very fond of them. A gift from Angola.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Say nothing to the cardinal- electors about this Ray. We are sequestered and t hey must be shielded from any news of the outside world in case it influences their judgement. You understand?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "text": "Person B: The incident this morning, your Eminence. I have more information, if...?\nPerson A: No, Ray. I too must be shielded from any knowledge which could act as an...interference in the process of this Conclave.\nPerson B: Of course, Eminence.\nPerson A: Anything else?\nPerson B: Uhh...Oh, Cardinal Benitez. His health problems? He was issued with a return ticket to Geneva, paid for from the Pope\u2019s own account. I checked the visa application. The purpose for travel was given as \u201cmedical treatment.\u201d Anyway, whatever it was, it can\u2019t have been serious. The tickets were cancelled. He never went.\nPerson A: Alright. Thank you, Ray.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

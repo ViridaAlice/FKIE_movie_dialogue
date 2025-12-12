@@ -1,0 +1,72 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Bruh, he\u2019s just playin\u2019! He didn\u2019t die. But he did fuck my girlfriend.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: He passed away.\nPerson B: Bruh, he\u2019s just playin\u2019! He didn\u2019t die. But he did fuck my girlfriend.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: Stoked you could make it! Lets stack some clips, dawwwg.\nPerson B: ...You kinda look like a pervert when you hold the camera like that.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Chris, you get me jukin\u2019 that guy?!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Nahhh, okay! Do your thing, do your thing. I think we gotta submit something soon, but I respect the craft. Good shit, Chris. Really glad that you\u2019re here.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person B: Wait, bruh! If we\u2019re gonna watch clips then we need snacks. You got any snacks?\nPerson B: Damn...no snacks? Can I have some of these?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

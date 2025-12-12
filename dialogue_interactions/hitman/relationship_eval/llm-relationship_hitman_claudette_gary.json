@@ -1,0 +1,238 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4
+        ],
+        "text": "Person B: Congrats, Gary, you just got promoted to contract killer.\nPerson B: Hitmen don't cancel the first meeting.\nPerson A: Hitmen don't exist. What, are we following made-up rules now?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: What?\nPerson A: Oh my God, I'm gonna die.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: The reason I'm asking, is because it sounds like to me you're talking about the disposal of a body, which is more risky for me.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yeah!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Open and fuckin' shut. You might have just saved a life. How's that feel?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Feels good. Feels really good.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You know, I once saw three pilleated woodpeckers at the same time.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh, Jesus. Bye!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What? Never mind the sting operation...",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Bye, Gary.\nPerson A: Geez Louise, he's sweatin' Gary hard.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: No, but he said he'd be the guy sitting alone reading \"Catcher in the Rye.\"",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: I don't know. He just freaked out. Happens...\nPerson B: Madison, if you get this, stay out of the house. I'm hearing some stuff about Ray. Call me...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Are you cool with it, Gary?\nPerson B: What are you doing?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Gary, where are you?! We need you back at the station now.\nPerson A: Yes, now. We got a new development on this Madison Masters.\nPerson B: I'm sorry, I'm gonna, I gotta handle something really quickly and then I'm gonna be right back...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Huh. So, do you think she could be involved in his murder?\nPerson B: There's always a chance, but I would be very surprised. She just seemed so happy. She left her husband, got her own place, just seemed like she was doing really well.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I think it's a good plan. Very good. So, you send me the address, I'll meet you over there. Let's nail her.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: You guys there?\nPerson A: Can you guys hear me?\nPerson B: Loud and clear.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: What'd you think?\nPerson B: What did YOU think?\nPerson A: You gave her plenty of rope to hang herself.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What about you, Jasper?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

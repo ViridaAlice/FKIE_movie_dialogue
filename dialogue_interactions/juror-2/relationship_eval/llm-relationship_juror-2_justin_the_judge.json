@@ -1,0 +1,60 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Your Honor, my wife is in the third trimester of a high-risk pregnancy. I'd like to be available to her.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: \"...to maintain the integrity of the jury system, I remind you that you must decide this case based only on the evidence admitted during the trial and the law I will explain to you. You may not conduct any research on your own about this case, or about any people or places mentioned during the trial. You may not visit any places mentioned in the evidence, and you may not refer to any books or documents that were not admitted during the trail. \"\nPerson A: Sounds like you two violated every sentence in that paragraph.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Then how do you explain your involvement in this... transgression?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "text": "Person B: Do you think you can disregard everything you've heard just now and remain an unbiased member of this panel?\nPerson A: Yes, Your Honor.\nPerson B: I get the sense you want to be on this jury, Mr. Kemp... Which is interesting, considering you did not want to be here during jury selection.\nPerson A: I don't want to be here, Your Honor. But I took an oath. And I'd like to see it through."
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: Then I'm going to take you at your word. Bailiff, please escort Mr. Kemp back to the juror room. Mr. Chicowski, you\u2019re dismissed.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

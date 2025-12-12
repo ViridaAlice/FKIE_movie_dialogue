@@ -1,0 +1,46 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Go cue 68. Going to blackout. Standby for 70, 71-- Can we get dancers in their places before, I don\u2019t know, before hell freezes over? Thank you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: She talks about you all the time.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          10,
+          11
+        ],
+        "text": "Person A: Yeah. Sorry to keep you. It\u2019s just... A moment.\nPerson A: It\u2019s good seeing you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Mom!",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

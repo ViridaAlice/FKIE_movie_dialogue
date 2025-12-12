@@ -1,0 +1,40 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          12
+        ],
+        "text": "Person A: My husband's in danger, Martha.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          12
+        ],
+        "text": "Person A: My husband's in danger, Martha.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: ...I still can't describe the excruciating hours I spent in prison, but I can guarantee you that I was there with your husband. Although I couldn't see him, I heard him say: Rubens Beyrodt Paiva. Before I was transferred, I heard his voice one last time, asking for water. I pray that the family will be reunited soon. Give my best to my old students Vera, Eliana, and Ana. ",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: ...I still can't describe the excruciating hours I spent in prison, but I can guarantee you that I was there with your husband. Although I couldn't see him, I heard him say: Rubens Beyrodt Paiva. Before I was transferred, I heard his voice one last time, asking for water. I pray that the family will be reunited soon. Give my best to my old students Vera, Eliana, and Ana. ",
+        "type": "Implied"
+      }
+    ]
+  }
+}

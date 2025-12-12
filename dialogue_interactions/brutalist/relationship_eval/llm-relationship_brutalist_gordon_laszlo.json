@@ -1,0 +1,141 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Will he be all right-?\nPerson B: Let him sleep tomorrow. I can be here early to- hold a place.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Yes, that's right. That looks right, doesn't it? The books shall fan outwards, you see?\nPerson B: Like so.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Slowly, boys!\nPerson A: All right, good! Now left. To the left!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I said to be careful, goddammit!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Get a hold of that thing! The group is frozen, spooked. ATTILA calls out...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          14,
+          15,
+          16,
+          17
+        ],
+        "text": "Person B: A rose must remain with the sun and the rain Or its lovely promise won't come true To Each His Own, To Each His Own And my own is you-\nPerson B: To Each His Own by Eddy Howard overtakes the soundtrack.\nPerson B: Give me a few inches.\nPerson B: There's a son of a bitch here to see you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: They can wait...\nPerson B: Jesus, Gordon.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: We can take you down there in the morning if you are curious.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What do you say we get you in one of them machines?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: You have a kid. I'll give you something and you'll take it.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5
+        ],
+        "text": "Person B: Stay out of it, Gordon.\nPerson B: Stay out of it, I said, or you can go with him!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4,
+          6,
+          7
+        ],
+        "text": "Person A: What's wrong with you?\nPerson A: You shout at me again and you'll be sorry.\nPerson B: You too! Get out of here.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

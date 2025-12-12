@@ -1,0 +1,17 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          5,
+          6
+        ],
+        "text": "Person B: Hello! Yes! This is Thelma Post. My grandson Danny Markowitz was, uh, involved in an accident of some kind. He has a broken nose--\nPerson B: Yes! Daniel Markowitz. Daniel Alexander Markowitz.\nPerson B: What do you need? What can I--\nPerson A: Don\u2019t worry, ma\u2019am. We\u2019re going to handle this. I\u2019m going to need you to mail $10,000 to this address--",
+        "type": "Implied"
+      }
+    ]
+  }
+}

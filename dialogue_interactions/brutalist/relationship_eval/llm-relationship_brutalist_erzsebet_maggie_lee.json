@@ -1,0 +1,79 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: -we walked in the door, and        the table had just been         It was well after ten o'clock- cleared for dessert!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: After driving around for hours in the dark looking for this damned camouflaged mailbox-\nPerson B: -and then what?!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Stop it! I can't breathe.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: I kid you not; cow tallow and fruit pie!\nPerson B: -and poor daddy has such a sweet tooth! I didn't know how to warn him in front of everyone before he took a bite this big!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: Is your father in?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Mrs. Toth! How lovely to see you! Do you need a hand?\nPerson A: Is Mr. Toth here, as well?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Daddy, has something happened between you and Mrs. Toth?",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

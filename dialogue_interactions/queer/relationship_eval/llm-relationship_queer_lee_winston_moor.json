@@ -1,0 +1,17 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          15,
+          16,
+          18,
+          19
+        ],
+        "text": "Person B: Would you gentleman care for a drink? I\u2019ll get a bottle...\nPerson A: Well, uh... no. You see, we were hoping to work on the plans for this boat we\u2019re going to build.\nPerson A: Yes... at Zihuatanejo.\nPerson B: Boat building is a job for professionals, isn\u2019t it?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

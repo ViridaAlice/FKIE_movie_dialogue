@@ -1,0 +1,16 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          16,
+          21
+        ],
+        "text": "Person B: I hope it happens for you and Alireza too.\nPerson A: Dear Najmeh, I don't want to pry, but be more careful. These friends and acquaintances who make such demands of you... their children will go to riots, something happens to them, then they suddenly think...\nPerson A: OK, honey, I won't say a word.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

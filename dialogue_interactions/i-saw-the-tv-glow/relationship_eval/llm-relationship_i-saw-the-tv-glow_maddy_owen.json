@@ -1,0 +1,98 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4
+        ],
+        "text": "Person B: Did you like it? The show I mean?\nPerson B: Isabel's a scaredy-cat. She's kind of the main character, but she's also kind of a drip.\nPerson B: Tara's my favorite. She's super hot, and she doesn't take shit from anybody. Plus - she's an expert on demonology.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: He's always messing with time and reality. He wants to rule the world, to trap Isabel and Tara in The Midnight Realm. So each week he sends a new supernatural foe their way.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          4
+        ],
+        "text": "Person A: When I think about that stuff, it feels like someone took a shovel and dug out all my insides. And I know there's nothing in there, but I'm too nervous to open myself up and check. I know there's something wrong with me. My parents see it too, even if they don't want to say anything...\nPerson B: Afraid of what's inside you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: I'll die if I stay here... I don't know how exactly, but I know that it's true.\nPerson A: ...I won't have anyone to watch The Pink Opaque with if you leave.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Jesus, Maddy. Where... where have you been?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: ...Maddy?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Pack as much as you can in your overnight bag next Saturday. You can't tell anyone we're leaving. Not your mom. Not anyone.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: The Drain Lord. Like the Drain Lords...\nPerson B: Isabel...",
+        "type": "Implied"
+      }
+    ]
+  }
+}

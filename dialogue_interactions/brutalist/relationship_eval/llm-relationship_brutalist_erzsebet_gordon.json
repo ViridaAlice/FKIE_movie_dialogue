@@ -1,0 +1,25 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          7,
+          8
+        ],
+        "text": "Person A: William's mother, Augusta, passed away in `43- she got sick and died of a damned tooth infection of all things.\nPerson A: He's all right. He was too young then to remember much, and I was gone training two years in Arizona before they shipped us all off to Naples, Italy; 92nd Infantry Division. They wouldn't let me back home all that time, not once. Augusta's sister looked after him until I got back. Kept me alive though, knowing he was waiting for me.\nPerson A: Kept me good and alive, thank goodness.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          9,
+          10,
+          11
+        ],
+        "text": "Person B: Zsofia's mother passed.\nPerson B: Losing a mother- it's an unfathomable loss, you see. To lose one's birth mother is to lose the very foundation on which we stand.\nPerson B: The mind may not know its loss but the heart does.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Souffl\u00e9's in the oven. Who's hungry?\nPerson A: Wet bikini on the couch, Eliana? Go change.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Let me. You have to be in the photo. Lino takes the camera. Rubens pulls Eunice to the middle of the group photo, next to Veroca.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: At least now it'll be harder for them to deny that he really was arrested.\nPerson B: They denied his arrest?\nPerson A: Said it had nothing to do with the Army.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Without any concrete evidence that he was arrested, there's not much else we--\nPerson B: Rubens' car is parked in the army lot. I saw it yesterday.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "text": "Person A: Okay, then. Can we have the receipt, please?\nPerson B: Where do we make that request?\nPerson A: No use, they'll just deny it. We'll have to go through the courts. \nPerson A: But now, with this, I can file the habeas corpus. ",
+        "type": "Implied"
+      }
+    ]
+  }
+}

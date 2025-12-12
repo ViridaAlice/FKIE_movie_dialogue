@@ -1,0 +1,176 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: It's about to fall out.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Let it fall out on its own. Anybody upstairs?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Why's Daddy's car back, but not him?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Is that it? \nPerson B: That's it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Today, you can order whatever you want.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: Were you crying? ",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: C'mere, give it to me. \nPerson A: Tell the others to get dressed. Let's go out for ice cream.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Eliana, please--\nPerson A: It'll have to wait a little, sweetie.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          4
+        ],
+        "text": "Person B: Hi, honey. I rescheduled my flight.\nPerson B: Sweetie? ",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: How did you find it? Only Daddy knew.\nPerson B: Your mom knows a lot of things, too. ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Can I see it?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Take a break. Come visit me and Daniel in Bern, take a little rest.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person A: You do that, and I'll call Vera. The kids must be back from school. \nPerson A: Hi, honey. Yeah, it went fine. We just got home.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Shall we take a photo for your sisters? ",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5,
+          6,
+          8
+        ],
+        "text": "Person B: Need help, Mom?\nPerson B: You really don't need to, Mom. Daniel's coming to pick me up. \nPerson A: Oh, okay. Call me when you get in?\nPerson A: Me too, honey.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

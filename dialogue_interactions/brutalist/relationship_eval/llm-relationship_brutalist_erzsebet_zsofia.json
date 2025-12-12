@@ -1,0 +1,48 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          4
+        ],
+        "text": "Person A: We are making Aliyah.\nPerson A: Binyamin has family there.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: I am Jewish. My child is Jewish. It's time for us to go home.\nPerson A: He does.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: No, I am sorry.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: No, it isn't true.\nPerson A: No. Uncle Laszlo is leaving you only a short time.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

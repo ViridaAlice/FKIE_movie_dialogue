@@ -1,0 +1,107 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Does the defense accept or challenge?\nPerson B: We accept him, Your Honor.\nPerson A: Good. Then please enter \"Justin Kemp\" as Juror #2.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Mr. Resnick. Your witness.\nPerson B: Mr. Reed, you hike those trails in the woods frequently, don't you?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: All right, then. Now seems like a good time to break for the day.\nPerson B: Tomorrow, it's your turn up there.\nPerson B: Just remember what we talked about. Tell your story.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: The defense calls James Sythe, Your Honor.\nPerson B: Do you swear to tell the truth, the whole truth and nothing but the truth, so help you God?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: I move for a mistrial, Your Honor. He's a former COP. Who knows what ideas he's put in the jury's heads?\nPerson B: Failure to elicit his previous employment during voir dire is on you, Mr. Resnick.\nPerson A: It's misconduct!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Your Honor--\nPerson B: You violated your oath as jurors.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: The documents will be marked as a Defendant\u2019s exhibit. The motion for mistrial is denied, Mr. Resnick. Is that understood?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Is you client good with this?",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

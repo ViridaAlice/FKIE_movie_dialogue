@@ -1,0 +1,98 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: How you doing, Berniece. You look just like I thought you looked.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Why you all got to come in hollering and carrying on? Waking the neighbors with all that noise.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Where he get that truck from, Boy Willie?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: He in my house. You say the sheriff looking for him, I wanna know what he looking for him for. Otherwise you all can go back out there and be where nobody don\u2019t have to ask you nothing.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: He was standing there...had his hand on top of his head. Look like he might have thought if he took his hand down his head might have fallen off.\nPerson A: Just had on that blue suit...he just stood there looking at me...calling Boy Willie\u2019s name.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "text": "Person B: Mostly they be lonely and looking for somebody to spend the night with them. Sometimes it matters who it is and sometimes it don\u2019t. I used to be the same way. Now it got to matter. That\u2019s why I\u2019m here now. I like women to be with me in a nice and easy way. That way we can both enjoy ourselves. The way I see it we the only two people like us in the world. We got to see how we fit together. A woman that don\u2019t want to take the time to do that I don\u2019t bother with. Used to. Used to bother with all of them. How come you ain\u2019t married? It seem like to me you would be married.\nPerson A: She out there somewhere. You just got to get yourself ready to meet her. That\u2019s what I\u2019m trying to do. Avery\u2019s alright. I ain\u2019t really got nobody in mind.\nPerson B: I get me a job and a little place and get set up to where I can make a woman comfortable I might get married. Avery\u2019s nice. You ought to go ahead and get married. You be a preacher\u2019s wife you won\u2019t have to work. I hate living by myself. I didn\u2019t want to be no strain on my mama so I left home when I was about sixteen. Everything I tried seem like it just didn\u2019t work out. Now I\u2019m trying this.\nPerson A: You keep trying it\u2019ll work out for you.\nPerson B: It\u2019s getting kind of late. I don\u2019t know where Boy Willie went off to. He\u2019s liable not to come back. I\u2019m gonna take off these shoes. My feet hurt. Was you in bed? I don\u2019t mean to be keeping you up.\nPerson A: You ain\u2019t keeping me up. I couldn\u2019t sleep after that Boy Willie woke me up.\nPerson B: You got on that nightgown. I likes women they wear them fancy nightclothes and all. It makes their skin look real pretty.\nPerson A: I got this at the five-and-ten- cents store. It ain\u2019t so fancy.\nPerson B: I don\u2019t too often get to see a woman dressed like that.\nPerson B: Well, I\u2019m gonna sleep here on the couch. I\u2019m supposed to sleep on the floor but I don\u2019t reckon Boy Wille\u2019s coming back tonight. Wining Boy sold me this suit. Told me it was a magic suit. I\u2019m gonna put it on again tomorrow. Maybe it bring me a woman like he say.\nPerson B: I almost forgot I had this. Some man sold me this for a dollar. Say it come from Paris. This is the same kind of perfume the Queen of France wear. That\u2019s what he told me. I don\u2019t know if it\u2019s true or not. I smelled it. It smelled good to me. Here...smell it see if you like it.\nPerson A: It smells nice.\nPerson B: Go on, take it.\nPerson A: I can\u2019t take it. Here...you keep it. You\u2019ll find somebody to give it to.\nPerson B: I wanna give it to you. Make you smell nice. Lymon puts perfume behind Berniece\u2019s ear.\nPerson B: They tell me you supposed to put it right here behind your ear. Say if you put it there you smell nice all day. Berniece stiffens at his touch. He bends down to smell her.\nPerson B: There...you smell real good now. You smell real good for Lymon. He kisses her again.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Berniece...I got to do this...Boy Willie say he gonna give you half of the money.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

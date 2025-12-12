@@ -1,0 +1,22 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10
+        ],
+        "text": "Person A: I live with a friend who\u2019s dying\u2026\nPerson B: Oh, I\u2019m sorry. Is there anything that I can do?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          11
+        ],
+        "text": "Person A: This world is absurd and inhumane. I",
+        "type": "Implied"
+      }
+    ]
+  }
+}

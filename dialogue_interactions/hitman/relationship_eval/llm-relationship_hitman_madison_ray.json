@@ -1,0 +1,28 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person B: Who the fuck is this?\nPerson B: Oh, really? Well, I'm her husband.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Goddamn it, Madison. Don't walk away from me. DON'T YOU FUCKING\nPerson A: He said apologize, motherfucker. He's a professional, he'll do it. Show him.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

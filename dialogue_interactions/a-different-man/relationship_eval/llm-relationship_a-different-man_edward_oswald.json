@@ -1,0 +1,384 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Oswald.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Your friend plays a man with a disfigured face. Name of Edward.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: It\u2019s a sort of beauty and the beast yarn, or am I wrong?\nPerson A: That\u2019s one way of...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Just the first stop on the road to glory.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I\u2019m off then!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: \u2019ello matey, ow\u2019s the ol\u2019 lady doin\u2019?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: That\u2019s great! \u2019ow\u2019s tricks, guv?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: \u2019ow\u2019s tricks, guv?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I can do German too.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What are you doing here?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5,
+          7
+        ],
+        "text": "Person A: It might do you some good. They say it\u2019s very relaxing.\nPerson A: Confidentially, I find it rather a chore, but supposedly it works wonders with our withering bodies. I think I\u2019ve noticed some benefit, but maybe it\u2019s just the placebo effect.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: That\u2019s Guy, he\u2019s a masterful actor.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I know how it looked, but, don\u2019t get any ideas -",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You are, but only after his transformation.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: And you\u2019re that prince!\nPerson B: And you\u2019re the beast?\nPerson A: Not a beast. I\u2019m Edward. This isn\u2019t beauty and the beast.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: She just sees him differently!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Why can\u2019t it just be him? Why does she have to idealize him so that he\u2019s somebody he isn\u2019t?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: But what a scene! The finale!\nPerson A: But she loves him for who he is. If he changes, who is he then?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Edward is not a beast!\nPerson A: No, of course not, no. But if Beauty and the Beast is our hypothetical point of comparison, well...I mean, let\u2019s be honest with ourselves, old friend.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Get a good look?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: The mask is mine, I\u2019m keeping it.\nPerson A: Where\u2019s the blind guy?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I think you\u2019re kissing my girl.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Understudy?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: That\u2019s my red door! That\u2019s my couch! These were my lines! Things I said!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          3,
+          4,
+          5
+        ],
+        "text": "Person B: Take yours off! You take yours off! He pulls on Oswald\u2019s face. They wrestle.\nPerson A: Guy!\nPerson A: Guy! What have I done? Sometimes I don\u2019t know my own strength!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Do you remember Fiona? She got ALS. Did you know?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5
+        ],
+        "text": "Person B: Eight p.m. sharp.\nPerson B: You\u2019ll sit with me.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: You\u2019re not in it?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "23": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: We\u2019re moving up to Canada. It\u2019s, uh, it\u2019s a place called Shepperton. Do you know of it? It\u2019s - I guess you might call it a nudist colony.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "24": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Well, I don\u2019t know, probably-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "25": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Are your kids going?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "26": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yes, in broad strokes it does, but it\u2019s really quite leaderless. It\u2019s a radical lifestyle, one that I think will suit us as we get on up there in years.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "27": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Edward, what are you having?\nPerson A: We\u2019ll need more sake. We\u2019re celebrating. Another bottle of the Dassai Hayata. For the table, wakame, the agedashi tofu, and he needs to try the uni toast. And an order of hamachi kama, why not. And then for my entree, the wagyu flight.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

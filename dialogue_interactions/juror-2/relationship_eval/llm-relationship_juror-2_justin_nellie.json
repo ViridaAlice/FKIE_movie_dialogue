@@ -1,0 +1,71 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Thank you, Ma'am. All I'm trying to say is: Let's put everything else aside for a minute and remember two key points: 1) Sythe went to trial instead of taking a plea. And 2) He testified instead of taking the fifth. Now, that doesn't mean he's innocent. But I think he's earned a few hours of our time to be sure.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: That's a good point. Where is this \"blunt instrument\" murder weapon they kept talking about?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: The prosecutor said they \"couldn't recover it.\"",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: The Bailiff was on us before I looked at the papers.\nPerson B: You were talking for quite a while. Did Harold tell you what was in them?\nPerson A: Okay, yes. He did. It was a print\ufffeout.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: That's a great point. Maybe the prosecution just got it wrong. It happens.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: I'm not sure that young man is guilty anymore.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

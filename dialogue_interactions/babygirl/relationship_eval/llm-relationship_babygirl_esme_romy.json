@@ -1,0 +1,120 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          6,
+          7
+        ],
+        "text": "Person B: Jacob\u2019s idea.\nPerson A: It\u2019s their first day so-\nPerson A: This is our CEO, Romy Mathis!\nPerson B: Don\u2019t be nervous...Welcome! We are so very happy to have you with us.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          6,
+          7,
+          10
+        ],
+        "text": "Person A: Can I ask you- Where does your first name come from? Is it Polish?\nPerson A: What?? Seriously? How? When?\nPerson B: I was raised in cults and communes.\nPerson B: Did you know him before?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Hazel thought it would be good for you to take part in some extra activities internally... They say there\u2019s a talent war-so I guess it\u2019s important to make new talent feel involved. Show you\u2019re an approachable leader-\nPerson A: You think we can talk about my promotion soon?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: You would?\nPerson B: Did you order this?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You don\u2019t mind, do you?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          14
+        ],
+        "text": "Person A: Yes! Hi! Sit down.\nPerson A: You can tell me anything. You know that, right?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          9,
+          11,
+          12
+        ],
+        "text": "Person A: I just wanted to make sure everything is ok, since we\u2019re supposed to discuss your future soon-\nPerson A: You have to be careful, Esme, he\u2019s an intern.\nPerson A: I don\u2019t want to sound dramatic, but you\u2019re in a position of power over him.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          13
+        ],
+        "text": "Person B: Oh- Ehh- we\u2019ve just been hanging out- As friends. We\u2019re not-",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "text": "Person B: What makes you say that?\nPerson A: I tried to speak to you so many times about my future at the company.\nPerson A: I don\u2019t want you to make any promises because you\u2019re afraid of me.\nPerson B: I\u2019m not afraid of you.\nPerson A: I know what\u2019s going on between you and Samuel.\nPerson A: I only want what I deserve, not what is given to me, to silence me. That\u2019s how it might have worked when you were young, but luckily, those days are behind us now.\nPerson B: I don\u2019t know what you\u2019re talking about.\nPerson A: You will never see Samuel again. You will be a good leader and you will create more opportunities for women within the company, and be a good example and role model to us all.\nPerson B: You\u2019re confusing ambition with morality, those are very different things.\nPerson A: I have no interest in taking you down. You are one of the few women who made it to the top, my interest is to keep you there. But not like you are now... As a version of you that I can look up to and respect.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

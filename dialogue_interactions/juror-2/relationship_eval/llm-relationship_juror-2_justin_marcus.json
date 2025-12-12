@@ -1,0 +1,112 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Damn, man. You all right?\nPerson A: Have a good night.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Nah, that's just your \"guilt\" talking.\nPerson A: You want to be able to go home to your little neighborhood and tell \u2018em: \u201cWe did right by that boy. We gave him a fair shake, just like anyone else.\u201d",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: You can question it, but I KNOW he's guilty. Just look at his neck.\nPerson B: Snake and a crown; that's The Westside Crowns. Biggest drug pushers in the city.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You're damn right it is. My little brother was fourteen when he got inked. Didn't even graduate middle school. Two years in, he was making more money on those corners than I'll ever see in my lifetime. Month before his seventeenth birthday, he was dead. Caught a stray bullet in some tit-for-tat turf bullshit.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Part of my sentence was community service. I spent three days a week at an elementary school, teaching kids how to write. Alcoholics, we can charm anybody. But the teacher I was reporting to, she was teflon, saw right through me. Made me finally want to own my shit and take responsibility for myself.\nPerson B: The journey never ends, I know that. But am I a different man today than I was three years ago? Absolutely.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I get it now. You changed. Guys like James Sythe don't change.\nPerson B: I'm sure you see all sorts of people in your job. Some are kind, some are mean, and some LIE. You told the Judge James Sythe rode your bus, right?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I'm DONE talking, man.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6
+        ],
+        "text": "Person A: The day you got on the jury, you're puking in the bathroom. All that stuff with the flower-man-cop and those papers. You claim to be the voice of reason, but you're really just telling us what we wanna hear.\nPerson A: I saw the Bartender back there look at you. She knows you. I don't know your game, man. But I see you.\nPerson A: Do I know exactly what happened that night? No. But neither do you. You can't be any more sure that James Sythe got in his car and drove home than I'm sure he picked up one of these rocks, smashed that poor girl's head in and dumped her body in the creek.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          10
+        ],
+        "text": "Person A: That piece of shit left her there that night. To die alone, in a ditch. Her death's on him. Which is why I will not acquit James Sythe. Ever.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

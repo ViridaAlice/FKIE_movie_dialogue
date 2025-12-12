@@ -1,0 +1,56 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: It was called... 'The Pink Opaque.'",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          8,
+          9
+        ],
+        "text": "Person A: Of course I remember The Pink Opaque, Maddy. It's my favorite TV show of all time.\nPerson A: Always will be.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          16,
+          17,
+          18
+        ],
+        "text": "Person B: You can't tell anybody about this. Not like last time. You have to promise.\nPerson B: You have to promise.\nPerson A: Okay, Maddy. Jesus. I promise.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          11
+        ],
+        "text": "Person B: That's not my name.\nPerson B: I told you. That's not my name.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          9
+        ],
+        "text": "Person B: Those memories were put there to distract you. To keep you trapped.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

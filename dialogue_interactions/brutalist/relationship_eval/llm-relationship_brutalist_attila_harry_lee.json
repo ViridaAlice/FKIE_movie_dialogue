@@ -1,0 +1,66 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person A: Mr. Van Buren, this is my cousin, Laszlo.\nPerson B: Please - that's what people call my father. Call me Harry.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: We can make you something like that. Let me have Audrey come down to keep an eye on the place. I'll pull the van around.\nPerson A: They've got something like nine hundred acres out here, I'm not kidding. A few buildings downtown too- one of them's a department store.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: I do appreciate you coming out here on such short notice, gentlemen. Father's away only until next Friday so I was anxious to pin this down.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: What's your budget?\nPerson B: What's your estimate?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Don't worry, we'll come in on- budget. You want this all done by next Friday, you said?\nPerson B: Thursday night, preferably. I can't be here during the week but the staff can let you in, and if anything comes up, have them ring me at the office.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          12,
+          13,
+          21
+        ],
+        "text": "Person B: I was named Grace Prudence Pudel ... my twin ... brother ... Gilbert. \nPerson B: The nurse said we had two souls but one heart ... I liked that.\nPerson B: He said yes, even though he thought he\u2019d have to die to save me. ",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "text": "Person B: She was a true eccentric and smelt like ginger and op-shops.\nPerson B: She clothed herself in corduroy and her face had more wrinkles than her pants ... It was hard to know where the fabric ended and her skin began ... She seemed so tactile ... a blind person would\u2019ve loved to touch her ... she became my first Canberra friend ... my only Canberra friend.\nPerson B: She\u2019d lived an amazing life ... I thought one day I might make a film about her.\nPerson B: She\u2019d seen the northern lights ... floated in the dead sea ... been an exotic dancer in a schnitzel bar ... won a bee beard contest ... bathed with snow monkeys ... made love to John Denver ... and once played pingpong with Fidel Castro.\nPerson B: She\u2019d never been sick ... her secret to longevity were coffee enemas ...\nPerson B: ... and a daily shot of green ginger wine.\nPerson B: She\u2019d outlived two husbands ...\nPerson B: ... the first had died just a week after they'd got married ...\nPerson B: Her second husband, Bill, had been a postman ... who wrote love notes on her mail.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          16
+        ],
+        "text": "Person B: Pinky told me she\u2019d never got to hold her own parent\u2019s hands ... she never said why ... her childhood was off limits.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          21,
+          22,
+          23,
+          24
+        ],
+        "text": "Person B: The years fluttered past, Sylvia ... as I tried to stay positive ...\nPerson B: ... and better myself.\nPerson B: Ian and Narelle still obsessed about my mental health and sent me to self help classes ...\nPerson B: ... which were supposed to raise my endorphins, free my radicals, balance my chakra and cleanse my third eye.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person B: There-there ... ignore him ... I think we look fabulous.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          9,
+          10
+        ],
+        "text": "Person A: Thank god for Pinky ... she became my real foster parent, especially as Ian and Narelle weren\u2019t around much anymore.\nPerson A: They\u2019d discovered nude cruises and were gone for weeks at a time.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: Ah Gracie, such a great friend.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: Relax Pinky ... it doesn't matter.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          10
+        ],
+        "text": "Person A: ... you have created a cage for yourself Gracie ... A",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          15,
+          21
+        ],
+        "text": "Person A: Snails are considered lucky in many cultures ... they have brought you joy ... but in your case ... no luck.\nPerson A: ... time for you to leave some glittering snail trails all over the world ...",
+        "type": "Implied"
+      }
+    ]
+  }
+}

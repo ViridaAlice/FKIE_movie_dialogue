@@ -1,0 +1,26 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: That\u2019s not it. It\u2019s you, I saw you, and I\u2019d remember you. I don\u2019t forget a face. You got a little, like, blood or something...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You okay, Edward?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

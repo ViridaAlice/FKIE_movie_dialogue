@@ -1,0 +1,119 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          9,
+          11,
+          13,
+          15,
+          17,
+          19
+        ],
+        "text": "Person B: She was here and there's dirt under my nails and I don't know how it got there. Jess was here -- she was here -- -- and she said something was wrong with this place but I forgot that she said that, but then I remembered and I don't -- maybe you'll forget me telling you this. I know this doesn't make sense. I think we're forgetting, like -- a lot of stuff. This doesn't make sense. Oh my god, I sound crazy!\nPerson A: I'm having a great time here -- but I also keep having this feeling that I'm like -- not. Does that make sense?\nPerson A: I'm sorry, what's this? What's this bruise? What is this? They were like \"Oh Sarah, you were climbing trees and you fell, because you were wasted. Uh, no. Because you know what, on the show, I climbed all the trees. Every tree. And I didn't fall. Because I'm a tree climber.\nPerson A: I think -- what's crazy -- is -- that we got onto a plane with a bunch of dudes we don't know.\nPerson A: No. Cody chatted me up in a coffee shop. Talkin' about how he knew Slater King.\nPerson A: I knew it was too good to be true.\nPerson A: Of course they're fuckin' with our heads just like the producers on the show. Edit shit out and make me look crazy. Because that's what they do. They distract us with these cute little outfits, and they shower us with raspberries and champagne but we know what's goin on -- -- they're trying to control us. They're trying to make us look crazy!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I dunno. Fuckin' yell...",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: Those chicks are a ticking fucking time bomb.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Mother fucker.\nPerson B: This is fuckin' dark.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: We keep pretending...",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: ... This place sucks.\nPerson B: Oh yeah me too.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Wait wait. What should I do?\nPerson B: ... Red rabbit...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: Let's go say hi to the guys.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: Eat your steak, honey.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

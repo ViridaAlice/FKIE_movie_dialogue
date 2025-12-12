@@ -1,0 +1,68 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          11,
+          12
+        ],
+        "text": "Person B: Did I tell you what happened to Rishi?\nPerson B: He shit his pants during practice and then someone was like -- Yo Rishi...did you shit your pants? -- and he was like -- Oh man, guys, you won\u2019t believe this!!! My mom pranked me! She put poop in my pants again!!\nPerson B: We were all like...your mom put poop in your pants? And then he just started bawling.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: My mom cooks hella kimchi-jjigae and like radish and ox bone soup. The classics.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: ...so Hardeep starts pissing in the river, and Wang-Wang starts filming him, right? Then later that day, he uploads it to YouTube and titles it, Hardeep Pissing In The River, and he sends it to us and we\u2019re like - yeah, that shit go. Then a few days later, I get a call from Hardeep and he\u2019s like - Brehhh, can you tell your boy to take that video of me pissing down? My dad saw it and he\u2019s fuckin\u2019 heated, cuh.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "text": "Person B: Well? What you gonna say?\nPerson B: Cause we actually have game. Jade said I was the hottest Indian she\u2019s ever met.\nPerson A: I thought you weren\u2019t Indian, HMM?\nPerson B: I\u2019m not. But if I was I\u2019d be the hottest one.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Bitch! Bitch! Bitch!\nPerson A: Hi Nai Nai!",
+        "type": "Implied"
+      }
+    ]
+  }
+}

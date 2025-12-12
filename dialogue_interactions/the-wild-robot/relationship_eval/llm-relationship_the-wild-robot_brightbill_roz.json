@@ -1,0 +1,255 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Scream and run?\nPerson B: Yes!\nPerson A: I have experienced the same phenomenon. Fink?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: I overheat my Fallium transducer coils, then leak a little hydraulic fluid on them.\nPerson B: Not if I pre-cool the load sensors.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Well done Brightbill! Swimming requirement, fulfilled.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Perhaps you could limit your range to stay within view.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Roz!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          4
+        ],
+        "text": "Person A: Brightbill? Focus on me. Now swim, as fast as you can.\nPerson A: Head down, now!\nPerson B: Why\u2019d he attack me?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Mom. Stop.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Did you do it?\nPerson A: .....yes.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          9
+        ],
+        "text": "Person B: That\u2019s not your decision to make. I can\u2019t believe how long I bought this. I really thought you were my family.\nPerson B: Tell that to my sisters, my brothers. My real mom. They were my chance to be normal.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: No.\nPerson A: Do either of you know more about flying than you did swimming?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: If you are willing to do this, you can fly away, and we can both go to where we belong.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: A flight instructor? What loser did you dig up--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: I\u2019m glad you\u2019re going where you belong.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: Roz, I-- I, uh--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I guess I have to be.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Roz. I have so much to tell--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: I love you, mom.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Roz? Roz!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Nothing important.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          3
+        ],
+        "text": "Person A: You don\u2019t need to.\nPerson A: Don\u2019t be afraid.\nPerson A: I have everything I need.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: No, they\u2019ll take your memories. They\u2019ll take you.\nPerson B: Remember when you talked to me, on the ship? They cut my power. But I still heard you. Because I was listening with a different part of myself. Wherever that is, that\u2019s where I keep me. And I promise, they\u2019ll never, ever find it.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

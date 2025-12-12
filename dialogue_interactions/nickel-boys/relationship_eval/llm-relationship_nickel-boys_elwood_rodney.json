@@ -1,0 +1,22 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: Sir? I like that. You like my wheels? Just got `em. Headed up to New York to see my lady.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          9,
+          11
+        ],
+        "text": "Person A: You ain't but what, 15 by the look of you? And already a college boy?\nPerson A: Still and all... young. You making our race proud, boy. When I was your age, I worked at a catfish factory.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

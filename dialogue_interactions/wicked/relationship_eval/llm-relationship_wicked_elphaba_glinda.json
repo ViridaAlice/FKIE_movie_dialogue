@@ -1,0 +1,140 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: It's Glinda now! Stupid idea, I don't even know what made me do it!\nPerson B: I don't care! I want him! I don't even think he's perfect anymore, and I still want him! This must be what other people feel like. How do they bear it?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5
+        ],
+        "text": "Person B: Now don't you cry! You're going to have the wonderfullest time.\nPerson B: But--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: I am Elphaba. Thropp. Your Oz-ness. And this is--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Something bad is happen ing to them. They need you.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Oh. But-- how could I-- ever--\nPerson A: Are these-- words?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: But it's hurting him !\nPerson B: Chistery, what's wrong?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: It's-- you. You're behind it all. People, turning against the Animals... it's because of you.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Elphie, listen to them. Please.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Elphie. Listen to me--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          8
+        ],
+        "text": "Person B: Elphaba. Listen to me-- just say you're sorry--\nPerson A: Glinda...? What is it...?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Elphie, you're trembling. Here-- put this around you.\nPerson A: Elphie, nooo!",
+        "type": "Implied"
+      }
+    ]
+  }
+}

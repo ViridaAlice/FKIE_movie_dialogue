@@ -1,0 +1,21 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: There\u2019s a lot of things you don\u2019t know about me. Come on, let me show you what this country boy can do.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Let\u2019s go to my place. I got a room with a bed if Leroy don\u2019t come back there.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

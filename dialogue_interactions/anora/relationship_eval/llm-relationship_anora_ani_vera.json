@@ -1,0 +1,47 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4
+        ],
+        "text": "Person A: Did you pick up milk?\nPerson A: No.\nPerson B: Then I didn't pick up the fucking milk.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Correct. And I'll be back next Tuesday.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: It's not about the green card. He likes living here in America... with me.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: Don't worry. I'll keep paying the rent. Understand? Ok? Ok. Bye.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

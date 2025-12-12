@@ -1,0 +1,60 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: when do you get home??\nPerson A: Can u show me?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: Oh baby",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person B: Makes me wet",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          7,
+          9
+        ],
+        "text": "Person B: Missed you too Then.\nPerson B: Daddy",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8
+        ],
+        "text": "Person B: Did it bother you? When I said I loved you?\nPerson B: It seemed to bother you",
+        "type": "Implied"
+      }
+    ]
+  }
+}

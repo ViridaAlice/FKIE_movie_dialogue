@@ -1,0 +1,85 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person A: As I was saying, I'm James. I'll be your British tour guide through Poland. You'll have to excuse the posh accent, it's all a ruse.\nPerson B: Uh, my mother was a survivor of the camps and literally never spoke about it. After she died, I kicked myself for never pushing her to tell me about her life. So I'm here to see where she was from, to honor her and to... well, to stop kicking myself.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Wow. Well, this is a first.      Thank you so much, Eloge.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Luckily, included in your tour fee, we all get first class seats -- not too bad, huh?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I'll try. So. My Uncle Sam couldn't go to medical school so he became a pharmacist. The next best thing in his mind. And he ended up owning five pharmacies in and around Chicago -- and we're talking big places, with soda fountains and the whole thing. And he started what we now think of as a modern drug store - with food and electronics.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: That story is amazing   Marcia. The ingenuity to create a   pharmacy because he was barred   from medical school speaks volumes   about the immigrant experience.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: To Grandma Dory--",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          6,
+          7,
+          8
+        ],
+        "text": "Person A: Everybody's down so early, I love that. So. The van just pulled up. It's an eerily short drive.\nPerson A: Before the Red Army entered Majdanek, the Nazis had taken nearly all of the prisoners to camps in the West. In their haste, the SS didn't destroy the evidence.\nPerson A: So, unlike other camps, Majdanek is... well preserved, for lack of a better phrase.\nPerson A: I might be a little sparser with my information overload today. But that doesn't mean I'm not more than eager to answer any questions you have. I think you'll find, for better or for worse, this place speaks for itself.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

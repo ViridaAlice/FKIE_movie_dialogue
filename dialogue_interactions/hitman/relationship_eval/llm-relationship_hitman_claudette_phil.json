@@ -1,0 +1,206 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Jasper better watch his ass with this Craig guy. Several assault charges, possession...\nPerson B: Look, we just heard - Jasper can't go in. Chief officially suspended him for those teenagers he jacked up.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Clock's ticking - and you need to get Jasper's wire.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: And you might want to check this out real quick. It's everything we know so far, Billy.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Oh, shit! Look at Gary.\nPerson B: The man is a natural.\nPerson A: Playing some offense here.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I knew it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Okay, Daniel Day! Nailed that fucker.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Hey Gary, does your family really have land out on the bayou?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Well, great work, Gary.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Can we turn up the air, Phil?\nPerson B: Yeah, man...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5
+        ],
+        "text": "Person B: I don't think so, but it's hard to tell with Gary.\nPerson B: I mean, it's safe to say we got our new hitman, at least till Jasper comes back.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: So, you're a fuckin' life coach now?!",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Is what I just saw and listened to what I saw and listened to? I'm not believing it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: And did you notice how cute she was? I wonder if that had ANYTHING to do with it?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5
+        ],
+        "text": "Person A: I'd rip my I.U.D. out for Ron. I wouldn't share a straw with Gary.\nPerson B: Gary is hung like a straw, but Ron, strictly nightstick.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          6,
+          7
+        ],
+        "text": "Person A: I mean, it's kind of sounding like you would fuck Ron, too.\nPerson B: I would take your sloppy seconds, if it were Ron.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: It's going to be fine, Gary - you could do this in your sleep. Just another pussy too scared to do it himself.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: The one you were Ron.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: She's either the best liar we've ever encountered...or she's innocent.\nPerson A: Yeah, me too.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

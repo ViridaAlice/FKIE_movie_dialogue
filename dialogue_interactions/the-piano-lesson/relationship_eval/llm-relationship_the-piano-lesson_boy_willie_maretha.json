@@ -1,0 +1,59 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You was just a little old thing last time I seen you. You remember me, don\u2019t you? This your Uncle Boy Willie from down South. That there\u2019s Lymon. He my friend. We come up here to sell watermelons. You like watermelons? We got a whole truckload out front. You can have as many as you want. What you been doing?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person B: Uncle Doaker tell me your mama got you playing that piano. Come on play something for me.\nPerson B: Show me what you can do. Come on now. Here...Uncle Boy Willie give you a dime...show me what you can do. Don\u2019t be bashful now. That dime say you can\u2019t be bashful.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Uncle Boy Willie gonna get you a guitar. Let Uncle Doaker teach you how to play that. You don\u2019t need to read no paper to play the guitar. Your mama told you about the piano? You know how them pictures got on there?\nPerson A: You hear that, Doaker? And you sitting up here in the house with Berniece.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: You can\u2019t see them. But sometimes you be in trouble they might be around to help you. They say if you go where the Southern cross the Yellow Dog...you go where them two railroads cross each other...and call out their names...they say they talk back to you. I don\u2019t know, I ain\u2019t never done that. But Uncle Wining Boy he say he been down there and talked to them.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: You have to ask him about that part.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

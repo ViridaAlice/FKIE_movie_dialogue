@@ -1,0 +1,102 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Hey, Boy Willie. What you doing up here?\nPerson A: Is that Lymon? Lymon Jackson?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yeah, me and Lymon selling watermelons. That\u2019s Lymon\u2019s truck.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Aw, nigger, you know I\u2019ll give you a watermelon. Go on, take as many as you want. Just leave some for me and Lymon to sell.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Yeah, but Berniece didn\u2019t want to sell that piano. After she told me about it...I could see why she didn\u2019t want to sell it.\nPerson A: Oh, that\u2019s a while back now. I done forgot his name. He gave Berniece a card with his name and telephone number on it, but I believe she throwed it away.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: That\u2019s what I was trying to tell Berniece. You got to believe in it all. You can\u2019t go at nothing halfway. She think she going to heaven with half the Bible. You hear that...Jesus say you got to believe in it all.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Yeah, I done read up on my Bible. She asked me to come by and see if I can get rid of Sutter\u2019s ghost.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Where you been? I been waiting on you and you run off somewhere.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          8
+        ],
+        "text": "Person A: Hold this candle. Whatever you do make sure it don\u2019t go out. O Holy Father we gather here this evening in the Holy Name to cast out the spirit of one James Sutter. May this vial of water be empowered with thy spirit. May each drop of it be a weapon and a shield against the presence of all evil and may it be a cleansing and blessing of this humble abode. Where there is Good so shall it cause Evil to scatter to the Four Winds. Get thee behind me, Satan! Get thee behind the face of Righteousness as we Glorify His Holy Name!\nPerson A: \u201cI will sprinkle clean water upon you and you shall be clean: from all your uncleanliness, and from all your idols, will I cleanse you.\nPerson A: \u201cA new heart also will I give you and a new spirit will I put within you: and I will take out of your flesh the heart of stone, and I will give you a heart of flesh. And I will put my spirit within you, and cause you to walk in my statutes, and ye shall keep my judgements, and do them.\u201d",
+        "type": "Implied"
+      }
+    ]
+  }
+}

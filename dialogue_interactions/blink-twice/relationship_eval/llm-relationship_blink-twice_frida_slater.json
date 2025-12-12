@@ -1,0 +1,247 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Are you alright? Is it ok if I help you up?\nPerson A: May I?\nPerson B: Yeah...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: No, no, you're not interrupting. This is... actually, I havent asked you your name.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Where ya off to?\nPerson A: Oh. \"The island.\" Casual.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What do you think?    Is it too red?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Holy shit, you scared me.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I hope it's ok. It's my favorite one.\nPerson A: I keep meaning to fix that.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: You two ok? Having a good time?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I'm just saying, I know what they use to call this place.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: So, she does everything for you?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Why not?\nPerson A: I don't like it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Never again will I let someone else's suffering get in the way of getting what I want.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Hi. Sorry. I... thought you might want this.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Frida. Hi.\nPerson A: Oh. Thanks.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Almond or oat?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: How'd you sleep?\nPerson B: Amazing.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Enjoy girl time.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Heeeyyyy... yoouu. I... missed you.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: There she is.\nPerson A: Aww, missed you too. You guys get into any trouble?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: It's really amazing what women can do when they band together.\nPerson B: ... wanna... dance.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person B: ... Hi.\nPerson A: Hi.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5,
+          6,
+          9,
+          10
+        ],
+        "text": "Person B: Is it funny yet?\nPerson A: Gettin' there.\nPerson B: Hey. What do you call a cow with no legs?\nPerson B: Man... you always find a way to get into the party.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

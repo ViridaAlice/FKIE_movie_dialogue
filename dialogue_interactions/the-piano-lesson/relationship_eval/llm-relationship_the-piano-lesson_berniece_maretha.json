@@ -1,0 +1,79 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Maretha! You get up here and get ready to go so you be on time. Ain\u2019t no need you trying to take advantage of company.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Maretha!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Now I lay me down to sleep, I pray the lord my soul to keep. If I should die before I wake, I pray the Lord my soul to take.\nPerson B: Who is it?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Maretha, you go on and get ready for me to do your hair. Go on.\nPerson B: Mama, all the hair grease is gone.\nPerson A: Here...run across the street and get another can. You come straight back, too. Don\u2019t be playing around out there. And watch the cars. Be careful when you cross the street.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Boy Willie, I done told you to leave my house.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Girl, stop banging on that piano.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Well then play it. You got to feel it.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

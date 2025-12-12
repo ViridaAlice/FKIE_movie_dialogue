@@ -1,0 +1,43 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Yes. With my wife.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: ... We cannot break the law. We can only break ourselves of the law...",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          7,
+          8,
+          10,
+          12
+        ],
+        "text": "Person B: You made sure of that.\nPerson A: You got this case all wrong.\nPerson B: No way. M.E. would've flagged it.\nPerson A: You'd think. But he did five autopsies that day. I checked.\nPerson A: Let me ask you something: Did you look at ANY other suspects besides James Sythe?\nPerson A: If you'd done your job, we wouldn't be standing here right now.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

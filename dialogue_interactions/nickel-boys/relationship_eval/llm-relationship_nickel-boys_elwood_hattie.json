@@ -1,0 +1,109 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "text": "Person A: At least tell the child you're leaving.\nPerson A: He knows if you've been bad or good, so be good for goodness sake-\nPerson B: Nanna!\nPerson A: ...you better not cry, you better not pout, I'm tellin' you why..",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Shhh... I ain't going nowhere, baby.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person A: I love you Elwood.\nPerson B: I love you, too, Nanna.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: ...I hope it's a good photograph of him at least? I'm not reading The Register, they haven't said one right thing about these protests.\nPerson B: Nanna, next time I want to do the civil disobedience part.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Ok...shh now. Hold still. They got you good.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Nanna-\nPerson A: Nanna, I'll be back soon.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: Ain't that nice? ... Sit down, have some cake with Nanna.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: Lyndon Johnson's carrying on President Kennedy's civil rights bill. And if that good old boy is doing right, you know things is changing. Be a whole different thing when you come home, Elwood.\nPerson A: I'm sure Melvin Briggs will have you. And those books you were reading ain't gone nowhere.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6,
+          7
+        ],
+        "text": "Person B: It's okay, Nanna.\nPerson A: I let you down, El.\nPerson B: I'm okay Nanna. I'm hanging in there.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

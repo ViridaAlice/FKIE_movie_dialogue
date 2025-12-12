@@ -1,0 +1,181 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: ...I\u2019ll call everyday. I\u2019ll come over more, make sure she wears her Lyfe Line--",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You\u2019re not even looking, you\u2019re just patting--",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Don\u2019t lie. Just tell us you didn\u2019t. I\u2019d rather know than be lied to.\nPerson B: I knew it. Daniel, this is very bad!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: It\u2019s a simple thing.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Dad! You\u2019re embarrassing me in front of... Rochelle! And Colin.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I see gas pumps, some kind of blue car, a pigeon, two pigeons maybe--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: There\u2019s someone behind us.\nPerson B: I see them.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Back to 12 minutes.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: She\u2019s still here!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I told her not to take it off.\nPerson A: I can\u2019t remember if it was on her wrist. In the car...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I should have walked her in.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I\u2019m sorry! I\u2019m upset!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I\u2019m aware it\u2019s different but the point is she\u2019s a grown woman who\u2019s a little faster than you\u2019d hope and you can\u2019t be responsible for her every second of every day. We shouldn\u2019t have put that on you. It was too much.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2,
+          3
+        ],
+        "text": "Person A: ...I know she\u2019s not going to live forever. When it happens I just want it to be... not horrific, you know? Like a good death.\nPerson B: There is no good death.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You... \u201cwent back to the buffet.\u201d",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

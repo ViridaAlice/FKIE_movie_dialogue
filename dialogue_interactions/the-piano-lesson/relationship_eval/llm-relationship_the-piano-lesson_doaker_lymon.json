@@ -1,0 +1,106 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: It got a hole in the radiator but it runs pretty good. You have to pump the brakes sometimes before they catch. Boy Willie leave his door open and be ready to jump when that happens.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: He made one or two records a long time ago. If you let him tell it he a big recording star.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: They alright. They still there. I come up here to see what it\u2019s like up here. Boy Willie trying to get me to go back and farm with him.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: How your people doing down there, Lymon?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Boy Willie say if you get out there too early and wake the people up they get mad at you and won\u2019t buy nothing from you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: As many watermelons as you got stacked up on that truck out there, you ought to have been gone.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Now I\u2019m gonna tell you something, Lymon don\u2019t know this...but I\u2019m gonna tell you why me and Wining Boy say Berniece ain\u2019t gonna sell that piano.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Let\u2019s go to the picture show, Boy Willie. Let\u2019s go find some women.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Boy Willie, what you doing?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

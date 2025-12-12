@@ -1,0 +1,17 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          11,
+          13,
+          14
+        ],
+        "text": "Person B: You've drained it all out. It's dry.\nPerson B: Ex-cu-se me?\nPerson B: No no no no, I can't... ...\"switch\".\nPerson B: No no no... PLEASE I JUST NEED ONE",
+        "type": "Implied"
+      }
+    ]
+  }
+}

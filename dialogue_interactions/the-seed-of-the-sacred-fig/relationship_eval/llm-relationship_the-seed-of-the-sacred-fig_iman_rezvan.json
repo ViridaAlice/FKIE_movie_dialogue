@@ -1,0 +1,235 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: When a case is presented in court, there should be investigations to collect correct and complete data. The collection of this information is the responsibility of several specialists who are trusted by the judicial system. These people must remain anonymous.\nPerson A: Because they are at risk, both themselves and their families.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Mom\u2026 mom\u2026\nPerson A: Hi dad, how are you? Mom, would you come here for a second?\nPerson B: Did something happen?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          9,
+          17
+        ],
+        "text": "Person B: what did you say dear?\nPerson B: Wait, I agree there are some flaws. But the main point is that you and people like you don't know that the world is united against us! These are all the enemy\u2019s conspiracies.\nPerson B: I\u2019m the one who is interrogating them day and night in the prosecutor\u2019s office and sending them to court. I know where each of them is connected to. Now you want to explain it to me?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Enough, what's going on in this house?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Stay. There is nothing to hide.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I have nothing to say.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: My dear daughter, this will affect my professional records, they will put me in jail.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: My dear, sometimes you do something exciting that with the passage of time you realize is wrong. But fear does not allow one to go back and admit their mistakes. But I want to assure you that you should not be afraid. Something has happened, and now we have to fix it. That\u2019s it. Just hand over the gun and everything will be over.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Najmeh! Dear Rezvan, the expert evaluated Mom's behavior as well. Now, calm down, my dear.\nPerson A: My darling, look into my eyes. I\u2019m your father. I worked honestly for years, and now the result of all those years is being destroyed. I will go to prison. do you want to hurt me? Why? Did you see anything but love and support from me? The best house, the best life...car, money. What else do you want?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Hello, your phones?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: Two thousand and three.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Dad, come on. Let\u2019s go. We\u2019re not in the mood for another conflict.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "text": "Person A: It\u2019s terrible for a person to lose trust and faith of heart in his family members. He feels that every moment he is being humiliated by hearing a lie. Finding a weapon is no longer a priority for me. I want to find the liar. Every day, our family is being threatened by lies and secrecy.\nPerson A: What is clear is that I am not a liar. So, it\u2019s someone among you. Assuming the gun thief didn't tell anyone else that she did it, we only have one liar. But my work experience says that in reality there may be up to three liars in this group.\nPerson A: I'm tired. I\u2019m angry. I am sad. And I want to leave it up to you to find out which one of you has the gun.\nPerson A: You have one hour to talk and convince the liar to admit her mistake. I promise there will be no punishment, but the liar must make up for what happened. You have one hour!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: So I\u2019m faced with a family coup! Sit in front of the camera.\nPerson A: How dare you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: I will not answer your questions.\nPerson B: I will make you talk.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: You are not in a good way dad when you get better, you will be ashamed of your actions.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You\u2019re all liars.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2,
+          3
+        ],
+        "text": "Person B: Sana... The shed.\nPerson B: Open the door Sana...open the door!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Where is Dad?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Sana, what are you doing? Come on, open the door, you're making everything worse than it was... don't make me angrier... Sana... Sana!",
+        "type": "Implied"
+      }
+    ]
+  }
+}

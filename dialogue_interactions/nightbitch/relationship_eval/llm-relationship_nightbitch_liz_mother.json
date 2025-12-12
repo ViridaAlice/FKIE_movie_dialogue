@@ -1,0 +1,53 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Me too. I used to live in the city and spent my lunch break at the modern like every day.\nPerson B: Oh I had work that showed at the modern once.\nPerson B: Feels like a lifetime ago.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: I\u2019m loving your hair. It\u2019s so wild.\nPerson B: Oh thanks. I guess that\u2019s what washing it will do. They all laugh a little too much.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Of course - you\u2019re pregnant. That\u2019s when it starts. It\u2019s like a change in the genetic make-up. We don\u2019t talk about the cellular change that happens to us when we become mothers.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: He\u2019s taking him for the night tomorrow night - it will be the first time I\u2019ve ever been away from my baby overnight.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

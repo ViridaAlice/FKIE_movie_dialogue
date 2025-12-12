@@ -1,0 +1,41 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Hey - hey man, you all right? Do you need to lie down or something?\nPerson B: All right. Well, just...let me know. I\u2019ll be at my desk.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: Hey - hey man, you all right?\nPerson A: Just got out of Juilliard. This is my first paying gig. First gig, really. Interesting experience.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Hey- hey man, you all right? Do you need to lie down or something?\nPerson A: All right, well, just...let me know...I\u2019ll be at my desk. Hey, have you seen Sally anywhere?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

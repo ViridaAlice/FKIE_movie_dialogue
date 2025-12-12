@@ -1,0 +1,77 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "text": "Person A: Some of us are different. And there was a time, before you were born, when life in Oz was different. When one could walk these halls, and hear-- a Snow Leopard, solving an equation, or an Antelope, explicating a sonnet. So... when, and why-- did this change?\nPerson A: Precisely. Food gre w scarce. When people are hungry, and-- angry, they begin to look for--\nPerson B: Someone to blame.\nPerson A: Yes, Miss Gllll--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person A: It's alright, I have no friends.\nPerson B: Well. Maybe... one.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          8,
+          9
+        ],
+        "text": "Person B: Doctor Dillamond, what you were describing just now-- could something like that really happen?\nPerson A: It is happening.\nPerson A: Listen to me. You cannot tell another soul what you've heard and seen here tonight!\nPerson B: But-- that's why we have a Wizard!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: My dear students, this is my last day here at Shiz. You see, Animals-- are no longer permitted to teach.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Not now, Miss Elphaba-- Please, everyone, take your seats, I've something to say, and very little time.\nPerson B: What?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Doctor Dillamond--!",
+        "type": "Implied"
+      }
+    ]
+  }
+}

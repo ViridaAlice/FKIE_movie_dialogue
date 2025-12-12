@@ -1,0 +1,39 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: Was this task accomplished to your satisfaction?\nPerson B: I will register that as a \u2018ten\u2019.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Fink, as a local goose expert, how do I get-- --to eat, swim, fly?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Missortune.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

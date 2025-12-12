@@ -1,0 +1,33 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You\u2019re a great dancer.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Female masochism is a male fantasy, a male construct, don\u2019t you fucking get that?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Female masochism is a male fantasy, a male construct, don\u2019t you fucking get that?",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

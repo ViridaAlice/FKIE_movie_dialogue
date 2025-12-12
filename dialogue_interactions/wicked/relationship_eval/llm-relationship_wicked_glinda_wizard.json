@@ -1,0 +1,71 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I know, it's a bit much. But folks expect this sort of thing-- --and ya gotta give the people what they want! And if you think that's big--",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2,
+          3,
+          4
+        ],
+        "text": "Person B: Wait'll you see this! Walk with me...\nPerson B: The Oz of Tomorrow!\nPerson B: Girls-- this road will change the future of Oz. Folks need direction. Once it's built, they'll always know, if they just follow the road, it'll lead `em right to me!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: You keep that. And someday, we'll put it inside there, next to mine. And you'll call this place... your home.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Oh, Elphie...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: It's what we hoped for! Eyes in the skies!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: It'll be you, and me, and, hey-- if it makes you happy-- maybe even your friend here--?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

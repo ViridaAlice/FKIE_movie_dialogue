@@ -1,0 +1,14 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          17
+        ],
+        "text": "Person B: \"You're married to me, now - here's the ring.\"",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

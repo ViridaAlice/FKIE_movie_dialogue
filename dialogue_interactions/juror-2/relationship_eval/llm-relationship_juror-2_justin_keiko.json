@@ -1,0 +1,47 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Like a car.\nPerson B: A dark road, on a rainy night? It could have been a hit and run.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person A: Kendall was 5'5. If she was hunched over and the car was an SUV or a truck, she could've easily been hit smack across the head and torso. Look at the way her shoulders are fractured...\nPerson A: Not yet. 3rd-year med student.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: Well, then I think we should leave this to the professionals who actually examined the body.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Good, because we're not here to solve a mystery. All we're here to do is decide if we're positive that James Sythe killed Kendall Carter.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

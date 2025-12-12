@@ -1,0 +1,354 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I can only say it\u2019s good news. In all these twenty-two years with your father, I was waiting for a day like this.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: There are also things that you should be careful about, more than before. As it may impact your Dad negatively.\nPerson A: For example, your hijab. Like the photos, you post on Instagram. Most of the social behavior that others see. Some people might see and report them. It will be bad for Dad.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: That's what I'm talking about. You should know how to act properly. You should know where to go, who to hang out with, what to wear, what to say or not to say.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Mom, why are you doing this, don't you dye your hair yourself?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I want to dye my hair blue this summer anyway.\nPerson B: Also, you're going to remove your nail polish tonight before your dad comes. I don't want to deal with such trouble.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: You\u2019ve been staying home for just one day now, what\u2019s all this fuss about? Don't you see what's going on?\nPerson A: Why do you two think you understand everything better than me and your father? is this life? Breaking the glass, setting things on fire.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: No, whatever you say is true! Listen, it\u2019s saying that she had a heart problem. She had a stroke while in the custody of the morality police.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Would you say the same thing if she was your own daughter?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: My daughter wouldn\u2019t dare to go out dressed like that.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: God's law is infallible.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5,
+          7
+        ],
+        "text": "Person B: Water bottle? I left it in the fridge for you last night.\nPerson A: OK, Mom, I'm not a child.\nPerson B: Keep your phone in your backpack, don\u2019t get in trouble for it.\nPerson B: I will pick you up at one o'clock.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          7
+        ],
+        "text": "Person B: What's going on dear?\nPerson B: What was going on, sweety?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          7
+        ],
+        "text": "Person A: I got my period and I\u2019m out of pads.\nPerson A: Mom, sorry, but I need the small size. I can't use your pads. If you can't go to buy it, I will go myself.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person B: Go and buy it yourself? You have no modesty, do you?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Sadaf, you\u2019re not fine. You should see a doctor as soon as possible.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: You're just a kid. Why do you interfere in these matters? Well, both of you, listen carefully. This girl must have done something, the agents do not arrest someone for no reason, especially like this.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Mom, Rezvan was standing beside her. Those pellets could\u2019ve hit Rezvan\u2019s eyes.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Mom, for god\u2019s sake, let it go.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: What? Let it go? do you think you can do whatever in this house? I will tell your father everything tonight, then it\u2019s between you and him.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Add turmeric and black pepper.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: Mom, what are you doing?\nPerson A: Mom, do you want to pick on me now?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: Didn't you want to dye your hair blue? Your father is here, he promises to let you dye your hair blue. Tell her Iman, tell her you allow her to do so.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Mom... Mom.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: It's on the internet. It's the father's information, they wrote the home address as well.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Sana!!!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: We are talking, mom.\nPerson A: Faith means not questioning everything.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I hate his behavior.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Your mistake is that you never stood up to him.\nPerson B: All my life, I have tried hard so that you never see this side of your father.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Sana, my darling, are you okay?\nPerson A: Yes, I\u2019m fine, Mom.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Sana, dear, your dad is not well. Give him the gun and everything will end here.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: It doesn't end, mom, nothing\u2019s going to end. Everything has been like this ever since I can remember. You\u2019ve always surrendered and gave him whatever he wanted. It's the same now, even if he takes the gun, it won't end.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          2,
+          3
+        ],
+        "text": "Person B: Dad, I swear to God, I\u2019ll shoot you, don't...\nPerson B: Rezvan, tell him to stop.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

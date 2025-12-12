@@ -1,0 +1,80 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Rick the dick. I bet you he was married.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "text": "Person B: Retire?! Like, bankers retire. Waddaya think I have a 501k? I\u2019m gonna work and then I\u2019m gonna work some more and then I\u2019m gonna die. I\u2019ll probably die in my uniform. That\u2019s my long-term plan.\nPerson B: It\u2019s not an option, Jodie.\nPerson A: Isn\u2019t it like, a requirement?\nPerson B: Esmee Rodriguez-- She\u2019s 83, still cocktailing at the Paris.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: It just seems like a wonderful time in life, I dunno, I just think it seems fun-- learning new things, you know, maybe taking up a new language--\nPerson B: You can\u2019t learn a new language that late in life, the brain doesn\u2019t work that way--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: But you are one.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yes, I don\u2019t mind it. They amuse me. And then I drink and gamble on my own time.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: No it\u2019s not. He\u2019s like our dad.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: Well that\u2019s not nice. I feel like we\u2019re all kinda like a big family.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

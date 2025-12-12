@@ -1,0 +1,65 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          13,
+          15,
+          25
+        ],
+        "text": "Person B: ...You look so beautiful, honey.\nPerson B: You do. You look so beautiful, so grown up. I just can\u2019t believe I haven\u2019t seen you in what, a year?\nPerson A: It\u2019s pretty solitary, it\u2019s not really a community.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          11,
+          12,
+          14
+        ],
+        "text": "Person B: Yeah but did someone say \u201cOh that\u2019s hard. Being an artist, that\u2019s really hard.\u201d Did someone put that dumb sentence into your head?\nPerson B: Well, she\u2019s not your actual parent, she may think she is, but working at a job that you don\u2019t really love, that\u2019s hard. When you know your calling is out there waiting for you. Money doesn\u2019t make a boring job that much better. What does Lisa want you to do?\nPerson A: She thinks I\u2019d be great at like, graphic design.\nPerson A: No.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Oh! Hey sweetie, oh my gosh.\nPerson A: Oh, you did. That\u2019s so sweet, that means a lot to me that you came.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          15,
+          16,
+          17,
+          18,
+          21,
+          22,
+          24
+        ],
+        "text": "Person B: What is the point of that show? What was that? And why did you invite me? Maybe you thought I wouldn\u2019t come? Or I don\u2019t know-- I don\u2019t know why I did come-- although I guess it\u2019s because I just hoped-- I just wanted to know that it was worth it. That it was better than me after all.\nPerson A: What??\nPerson B: That you didn\u2019t put this lame trash above me--\nPerson A: It\u2019s not-- I disagree-- and plus, I didn\u2019t put anything above you. I provided for you--\nPerson B: It wasn\u2019t!!\nPerson A: I couldn\u2019t afford help, Hannah--\nPerson A: I-- I-- was doing my best, I know-- I was just doing my best, Hannah-- if you can actually do what you love for thirty years, if you are fortunate enough to be passionate about your career--",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          27,
+          28
+        ],
+        "text": "Person B: Shelly--\nPerson A: I\u2019m so sorry, Hannah. I am so sorry that you didn\u2019t get what you wanted from me. If you can forgive me? Anytime? Anytime in your life? I would love that. But I can\u2019t defend myself anymore, I just can\u2019t.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: Hello.\nPerson A: And we were always interested in seeing where they lived, what this place looked like. My family was French -- we were Fr ench Jews. And Mark and I have already been to Paris, so this was our next trip.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: -Mark, stop it.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Mark, stop it. He's tormented, for whatever reason.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

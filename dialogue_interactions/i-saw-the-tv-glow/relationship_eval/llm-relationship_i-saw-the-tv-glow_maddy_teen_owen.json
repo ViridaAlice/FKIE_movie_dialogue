@@ -1,0 +1,52 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9
+        ],
+        "text": "Person A: If you wanted... I could come over again sometime.\nPerson A: I've been watching the tapes you've been making me. But I want to see The Pink Opaque on Saturday night again. While it airs.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          10,
+          11,
+          13,
+          14,
+          15
+        ],
+        "text": "Person B: I like girls. You know that, right? I'm not into boys.\nPerson A: I... I know that.\nPerson B: What about you? Do you like girls?\nPerson A: I don't know...\nPerson B: Boys?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Okay. Okay I think I got it.\nPerson A: Stop it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: I think they're going to meet again. Owen's eyes go wide.\nPerson B: Isabel and Tara. They're going to meet again. In real life.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

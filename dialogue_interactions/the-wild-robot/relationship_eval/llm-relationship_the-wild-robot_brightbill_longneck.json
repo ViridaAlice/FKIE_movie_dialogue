@@ -1,0 +1,74 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person B: No, you don\u2019t. You see any other geese here your size? The accident that killed your family, saved you.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          1,
+          6
+        ],
+        "text": "Person B: Roz and I go way back. Brightbill, you have an amazing journey ahead. I envy you, nothing can equal a goose\u2019s first migration.\nPerson B: This flight is a gift Roz has given you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I-- I could use a boost.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          7
+        ],
+        "text": "Person A: Migrations sure are tiring, huh? Yeah. They all hate me.\nPerson A: Roz? Roz. What are you doing here? I\u2019m so glad to see you. There\u2019s something I needed to tell you, but there wasn\u2019t time. Roz I...",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: You\u2019re not afraid of them. You grew up with these things.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          4,
+          5
+        ],
+        "text": "Person A: Yeah, why not. Okay. There\u2019s nothing I can do that you can\u2019t. Here we go!\nPerson A: Tight turn! Come on! Dive! Now, climb! That\u2019s it!\nPerson A: Keep up.\nPerson A: That\u2019s it. Faster. Hurry. Come on.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

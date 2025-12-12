@@ -1,0 +1,65 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Then go play with your stupid doll.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Mommy, Marcelo broke my doll. ",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: Mom, you did it. ",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          8,
+          9,
+          10
+        ],
+        "text": "Person B: When did you bury him?\nPerson B: The day you realized he wasn't coming back?\nPerson A: I think it was when I saw Mom donating his clothes. About a year and a half later. What about you?\nPerson B: I think it was when we left Rio. Seeing the house all empty.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: We're about to find out. ",
+        "type": "Implied"
+      }
+    ]
+  }
+}

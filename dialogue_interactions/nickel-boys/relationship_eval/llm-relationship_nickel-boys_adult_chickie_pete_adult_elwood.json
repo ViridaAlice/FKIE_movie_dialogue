@@ -1,0 +1,32 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: It's me, man, Pete Evans... Chickie Pete. How you doing?\nPerson B: Damn. Shit man. Been ages! Beer? On me?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          14,
+          16
+        ],
+        "text": "Person A: Oh...\nPerson B: Last May I got into it with this guy, the judge says either jail or a program, no choice at all there. I'm living with my sister in Harlem. She's letting me stay while I figure out my next move. I've always liked it up there. But shit man, you know Chickie Pete gon' be awright. If it's one thing Nickel taught me, it's how not to die. Ha. What you up to?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          17,
+          18,
+          34
+        ],
+        "text": "Person A: I got a moving company, trucks, employees.\nPerson B: My man! Moving on up! You got a lady?\nPerson B: No no, I hear you, me too. I don't want to ask. But if you're looking for a hand, I could use the job. I'm sleeping on a couch.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

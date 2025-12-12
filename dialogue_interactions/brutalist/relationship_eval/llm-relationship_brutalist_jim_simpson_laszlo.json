@@ -1,0 +1,53 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person A: I'll tell you- we are not going back inside until you look us in the eye and you tell us where you are willing to compromise?!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Jim. Listen to me.\nPerson A: Everything we see that is ugly- stupid, cruel, and ugly. Everything is your fault.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person A: Taking a moment to fully digest the severity of LASZLO's sentiment, JIM SIMPSON replies with a violent push causing LASZLO to slip and fall in the mud.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Not today, Jim!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Honey, have I introduced you to Jim Simpson? Jim is the boss' lap dog and Architectural Consultant Extraordinaire! He designed a hotel in Stamford.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

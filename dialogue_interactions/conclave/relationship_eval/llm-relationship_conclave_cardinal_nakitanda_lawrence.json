@@ -1,0 +1,15 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: May we have a word, Dean?\nPerson A: Our brother Joshua is troubled.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

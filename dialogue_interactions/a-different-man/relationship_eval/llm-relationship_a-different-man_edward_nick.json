@@ -1,0 +1,59 @@
+{
+  "0": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Just that pockmark or whatever it is. It\u2019s nothing. No one would think anything of it. But blown up like that, of course they\u2019re gonna wanna smooth it over. What\u2019d they pay you?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: So you got screwed.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: \u201cEdward?\u201d What\u2019s going on?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: How long has this been going on, you prick?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          3
+        ],
+        "text": "Person A: So, Edward...\nPerson B: Don\u2019t call me that.\nPerson A: Does this mask have your little pockmark thing?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

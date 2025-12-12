@@ -1,0 +1,187 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "text": "Person B: So...how does this usually work?\nPerson B: I don't know. I'm just really scared.\nPerson B: He's a bad person. You don't know what I married into... and just keeps getting worse and worse.\nPerson B: Did you always know you wanted to be a...?\nPerson B: Do you ever think about... like, if you did something else? Or if you chose a different path?\nPerson B: Well, we all have regrets...\nPerson B: Wish I could do that. I just feel like I'm in prison, and I am going to die in prison.\nPerson B: But I'm not going to die in prison, because what if me coming here and meeting with you is the best decision I've ever made because it's for me.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          32,
+          33
+        ],
+        "text": "Person A: Listen, there's nothing in this for me - technically, I'm un-employing myself here, but do your future self, the one that deserves a happy, fulfilling life, that can still have that, a big favor. Take what's in there and get a new life. Right now. Don't go home.\nPerson A: And, if you need anything or if you change your mind... you have my number.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          8,
+          9,
+          18,
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "text": "Person B: Tell me a little more about the unprofessional side.\nPerson B: Good. I don't want you too professional.\nPerson B: You know, I haven't been with anyone else in so long... Can I tell you something?\nPerson B: I like this, us.\nPerson B: Fuck normal.\nPerson B: Do you wanna see me again?\nPerson B: It doesn't have to be.\nPerson B: I suppose it is. A charged moment, then --",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          14,
+          16
+        ],
+        "text": "Person A: I was once told I think too much to be a good lover. She said exceptional sex requires a lack of thought - a certain amount of animal abandon...\nPerson A: ...So, I don't know if I was just better as Ron, or if it was that electric charge going through both of us...After all, in her mind, she was having sex with someone who had murdered a bunch of people, and I was having sex with someone who was clearly capable of having a lover killed.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ],
+        "text": "Person B: Okay, what's your next line, \"don't fall in love with me?\" I know what this is. I don't want to know where you live, or what you're doing at any given moment. We're just going to meet here whenever we want and nothing outside of here matters.\nPerson B: Well, okay.\nPerson A: So, we agree to the terms?\nPerson B: Where do I sign?\nPerson B: Anywhere else I need to sign?\nPerson B: Anywhere else I need to initial?\nPerson B: We gotta make sure...this document...is air tight.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          9,
+          14
+        ],
+        "text": "Person A: We have to leave our love nest at some point, don't we?\nPerson A: Why don't you show me, hot shot.\nPerson A: Let's go dance, white boy.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "text": "Person A: Wait, wait, wait... Tell me this one more time - he's trying to put a hit out on me?\nPerson A: And he saw you in person?\nPerson A: And he knows what you do?\nPerson A: So...are you going to kill me?\nPerson A: Are you gonna kill me?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ],
+        "text": "Person A: Because I killed him.\nPerson A: Yeah.\nPerson A: You told me yourself, he was gonna come and kill me!\nPerson A: Technically...\nPerson A: He was either passed out or asleep.\nPerson A: Yeah, and I made a story, and they're believing it.\nPerson A: Why are you getting so worked up about this? You do this shit all the time.\nPerson A: What are you talking about?\nPerson A: You're a cop?!\nPerson A: You've been lying to me this whole time?!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Don't. Just leave, whatever your name is.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: I didn't kill him! Who's accusing me of this? This is bullshit! You out of all people should know I wasn't capable of this!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: Shit, so am I. Good men are rare these days. He stood up for me, he protected me. So, you know what? If they find him, you let me know.\nPerson A: Ray's family has money - they do shit like this, they take out insurance. Look, I don't even know if I get any of that money. For all I know, he changed the beneficiary when we broke up.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "text": "Person B: We don't have a choice. Look, I know you're taking a big leap with me and there are some factual loose threads we'll be dealing with. But I think I'm in love with you.\nPerson A: It's always a leap... And for the record, I think I'm in love with you, too. For better or worse?\nPerson A: Right.\nPerson B: So, we're in this till the end? Till death us do part?\nPerson A: Yes, because I don't believe in divorce.\nPerson A: I'm kidding.\nPerson A: So, do we agree on the terms?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: And your mother, well, what can I say, it was love at first sight... she ended up making a new man out of me... But to answer your question, we met at a magical little place called the Please U Cafe.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

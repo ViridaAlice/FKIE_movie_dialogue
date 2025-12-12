@@ -1,0 +1,15 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          41,
+          42
+        ],
+        "text": "Person A: You saw it happening-- you saw me losing Hannah and you didn\u2019t say anything, you were there--\nPerson A: Yes you did! You saw it! You and Jodie, you want me to be your mother but I have a daughter already-- I have one!",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

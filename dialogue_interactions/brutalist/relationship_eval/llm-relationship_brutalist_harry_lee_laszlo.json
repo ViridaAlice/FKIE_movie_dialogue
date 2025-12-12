@@ -1,0 +1,146 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: -place is in complete disarray; a whole mess of books and paperwork so I guess we'd just like some tall shelves and cabinetry installed? Maybe make him a ladder with little wheels on it, you know, like you'd see in a real library? He's a voracious reader.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: I'm thinking... Shelves up to the ceiling, and some good reading lamps. Perhaps some wall fixtures that extend? Father always keeps the curtains drawn.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: -to protect the books from the sunlight. We are south-facing here.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: Keep it below six or seven hundred dollars, can you? My sister and I are splitting it. I don't want any unexpected add-ons.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Everyone's famished.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Just a moment please!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: She doesn't speak English.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          6,
+          8
+        ],
+        "text": "Person A: Oh, but you should. You should, you see. My father would like us to hire you.\nPerson A: That's why he's asked me to oversee and assist you in this endeavor.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Father described it as more of a reading room for the public...",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: It's ambitious. Thought you'd like that... I've put in a call to our frequent contractor, Leslie Woodrow. We first worked with Leslie as one of our Ship Engineering Officers but he's supervised several important construction projects for us since- including these offices. My father is allocating a sum of 850,000 dollars for this project which to me seems very reasonable, if not exorbitant. If Leslie agrees to come on-board, I'll have him start a budget for us right away.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Zs-ofia... Are you planning for school?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          4,
+          6,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          19
+        ],
+        "text": "Person B: Yes.\nPerson A: Leslie mentioned during our meeting last week with Jim that you're putting your fee back into the project. That seems a bit irresponsible given your situation, doesn't it? Will it even last you to the end of your commitment?\nPerson A: Have you discussed it with your wife?\nPerson A: Suit yourself but I wouldn't do it, and I know Leslie certainly wouldn't do it, so I didn't want you to think you'd be setting any sort of precedent.\nPerson B: How does that work exactly? The company paying themselves to finance?\nPerson A: Do you not think I deserve to be paid for the time and energy I devote to this project?\nPerson A: Might I make a suggestion?\nPerson B: You may.\nPerson A: Your niece has made several of our guests very uncomfortable. Perhaps you should have a talk with her.\nPerson B: About what?\nPerson A: Don't get me wrong. She's very lovely to look at and as much as we all dream of having a bird that keeps her trap shut, it comes off like a rude affectation. I've tried to connect, make conversation. It goes nowhere.\nPerson A: Oh, I see. It must run in the family.\nPerson A: I would like us to be friends...\nPerson B: This is not- friendly, Harry.\nPerson A: We tolerate you.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

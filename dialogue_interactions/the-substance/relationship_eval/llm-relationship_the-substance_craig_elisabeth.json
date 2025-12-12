@@ -1,0 +1,15 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I know. But they are within their right to do so considering the \"significant change in your public notoriety\" with the end of your show...\nPerson A: Listen... I know this is not the best moment to tell you this but... we are forced to cut back on the number of clients we represent at the agency and...",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Pardon me for intruding. I met this casting director - unique and unusual physiognomies is his specialty - he told me you were holding auditions for this interesting-sounding play, he thought I might perhaps be a proper fit. I\u2019m no actor, but I thought I\u2019d come take a gander. From the tidbit I\u2019ve just seen, I must say it looks like a very curious piece! But I see the role is filled, and quite ably. Cheers to all involved. Best of luck. Break a leg, as they say. I\u2019ll come see it when it opens. Good day!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Wait, hold on.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person B: Ah, the brilliant scribe!\nPerson A: And director.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          10,
+          12
+        ],
+        "text": "Person A: Nonsense, you\u2019re more than wanted! Though it\u2019ll be nerve-wracking for us, the play is still nascent. Nothing set in stone.\nPerson A: Well, you\u2019re - please - unless you\u2019re busy.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          16,
+          17
+        ],
+        "text": "Person A: One of my favorite books.\nPerson B: Strangely enough, I was inspired to read it by Guy. He has those piercing blue eyes, and I saw him, and thought \u201cthat reminds me...\u201d",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: It could use some mild refinement, but we\u2019ll get there.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Well, you\u2019re not playing Master Harold after all.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Frankly, Guy, to keep you in the play. Look, this is hard for me but, you know I need Oswald to be Edward. And he refused unless there was a part for you, because he - loves you - and didn\u2019t want it to be like he was...replacing you. And this is what we came up with. You should really be thanking Oswald.\nPerson A: This is my decision. I had to beg him to do it. Look, it\u2019s not you, Guy, but, come on, the mask, the makeup, it\u2019s a total bust, and Oswald...I mean...",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: You\u2019re selling yourself short. You could play Hamlet.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: You already know your lines.\nPerson B: You can. He can. You\u2019ve seen it. We\u2019ve all seen it. Oswald\u2019s a natural. If it\u2019s right, it\u2019s right.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Guy, you\u2019re a masterful actor. That\u2019s what\u2019s so tragic here, and I really don\u2019t know what the ethical thing is.\nPerson B: The right thing is for you to take the role. And Guy, you still get to play Edward...transformed...and you don\u2019t have to hide your face behind that idiotic thing, so you\u2019ll get more recognition.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Same chap, new face.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I\u2019m sorry, Guy. It doesn\u2019t work. You said it yourself, how can he become you? You\u2019re nothing alike. It\u2019s not believable. And it\u2019s not necessary. She loves him for who he is. It was contrived.\nPerson A: Look, I still want to be friends and I\u2019ll keep you in for future projects. I\u2019m sorry. Goodbye, Guy.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5
+        ],
+        "text": "Person B: Well, I\u2019m off. Anyone need anything?\nPerson A: I\u2019ll walk you out.\nPerson B: Okay, we\u2019ll get out of your hair. I\u2019ll be back around eight.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: We adopted Lucie, her daughter, who\u2019s - it\u2019s crazy to even say it - in grad school now.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4,
+          5
+        ],
+        "text": "Person B: Oh, come now. It was a very precocious \u201cearly work.\u201d And it brought us together so it served a very noble purpose.\nPerson B: I was disappointed, I wanted to see that guy play me. Anyway, you\u2019ll love the new show. I think it\u2019s her finest work.\nPerson A: Going out on a high note.\nPerson B: Time will tell. You see, it\u2019s brilliant that we ran into you, because we\u2019re leaving next month after the play wraps.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: As the Lord intended us to be.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Have you done LSD, Guy?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: I\u2019m not sure he could handle it.\nPerson A: Recently certified.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I\u2019m sure Guy thinks it\u2019s a cult as well. Right, Guy?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Totally bonkers.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2,
+          3
+        ],
+        "text": "Person A: Honestly, it\u2019s, as far as I\u2019m concerned, it\u2019s paradise.\nPerson B: Paradise, it really is. Utopia, the closest thing.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Tell us everything.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

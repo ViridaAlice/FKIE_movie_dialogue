@@ -1,0 +1,23 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person A: [You must be so proud to be her mom.]\nPerson B: [Of course! We raise them from children to now. How could we not be?]",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          10,
+          11
+        ],
+        "text": "Person B: [Didi, do you want to tell Shiu-Fang Ah-Yi your interests?]\nPerson B: [Like...umm he really likes skateboarding. And cameras. Video movie stuff.]",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: Mirabella?! That\u2019s my daughter\u2019s name! Wow.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: She\u2019s three.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I\u2019m sorry, it\u2019s just so weird that\u2019s her name. I keep picturing my daughter when you mention her. Sorry, please go on.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: So, yeah, I was saying to your sisters that Vincent appears, to me, to be much further along than when I saw him yesterday. I don\u2019t want to imply that I know when he will pass. I\u2019d say my guesses have been as wrong as much as they have been right, and I have seen people at a similar condition as your father hold on a lot longer than I would have thought. I\u2019m just saying, as best as you can, please prepare yourself, especially for him to become even less coherent. Have you been able to have any conversations recently?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: \u2014it\u2019s no problem at all. It\u2019s my job. I\u2019m glad you called when I was close enough that I could get here as quick as I could. Another thirty minutes would have been heading to Queens.\nPerson A: Yes, I\u2019m sure Mirabella is looking into this right now. Tolerance to the drip definitely goes up, as does pain. For sure, I\u2019d suggest we increase the morphine. It\u2019s just a fine line that we must figure out, enough to help, but not to kill. Once Mirabella\u2019s ready, she\u2019ll come out and tell us.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I\u2019m sorry if I\u2019ve come off as alarmist. That\u2019s definitely not my intention. It\u2019s just, that, things have been ending. That\u2019s why I am here.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5,
+          7
+        ],
+        "text": "Person A: Listen, Nessa...\nPerson B: Oh Boq. I know why.\nPerson A: What? No! I don't feel sorry for you. You're great! I just... I asked you because...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: There you are! Father, this is Boq, the boy I wrote to you about!",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

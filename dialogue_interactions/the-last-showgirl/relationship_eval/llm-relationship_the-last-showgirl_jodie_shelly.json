@@ -1,0 +1,170 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          16,
+          17,
+          26
+        ],
+        "text": "Person A: You need to change your costume, Shelly!\nPerson B: They\u2019re right there, sweetie.\nPerson A: Okay can you please put them on?\nPerson B: I always forget it\u2019s there.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: I love languages. I can say \u201cJe m\u2019appelle Jodie.\u201d I know how to say \u201cMy Name Is Jodie\u201d in five languages.\nPerson B: --Including English-- Useless?? Are you kidding??",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: No like, you\u2019re our mom... and Eddie\u2019s--\nPerson A: I mean, I guess I think of us as a family.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I knew when we started sharing our theater, when they took over our Thursday, Friday and Saturday performances, it was a bad sign.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "text": "Person A: Did you ever want to get married?\nPerson B: I was married for a short time when I was really young.\nPerson A: What happened?\nPerson B: Oh you know, it didn\u2019t work out-- I was dancing-- I was already in the show here when we met, and he didn\u2019t like it so much-- Vegas. And then he got a job in New York, but the show here was really thriving-- there was a lot of press around us-- it was so exciting and I was very young-- so I stayed here.\nPerson A: So what did you do?\nPerson B: We tried to make it work for a couple years but he eventually met someone there. He asked me if I\u2019d consider trying to dance in New York, and I did-- I tried it. I went to an open call for the Rockettes, I went to an open call for a Broadway musical, but... I really, I just missed the thrill of the show here...\nPerson A: You\u2019d be a perfect Rockette.\nPerson B: Nah, I found all that kicking very redundant.\nPerson B: Hey Hannie! Oh I just tried to call you Hannah and honey at the same time-- Hannie-- haha-- anyway, Hi Hannah, honey. Just wanted to check in and say hello and see if you\u2019d want to meet me for a bite or a cup of coffee-- or well, I don\u2019t drink coffee but I could have some tea-- or, what I\u2019d really like is a nice drink but that\u2019s... that\u2019d be inappropriate \u2018cause you\u2019re only... you\u2019re not old enou-- you\u2019re only twenty... oh shit. Oh shit, you\u2019re twenty two-- oh my god, how do I delete this thing...?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          17
+        ],
+        "text": "Person B: Hey Hannie! Oh I just tried to call you Hannah and honey at the same time-- Hannie-- haha-- anyway, Hi Hannah, honey. Just wanted to check in and say hello and see if you\u2019d want to meet me for a bite or a cup of coffee-- or well, I don\u2019t drink coffee but I could have some tea-- or, what I\u2019d really like is a nice drink but that\u2019s... that\u2019d be inappropriate \u2018cause you\u2019re only... you\u2019re not old enou-- you\u2019re only twenty... oh shit. Oh shit, you\u2019re twenty two-- oh my god, how do I delete this thing...?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: Well, Mary-Anne, you think it\u2019s so terrible, why are you here? Why did you want this job in the first place you think it\u2019s so tasteless?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          15,
+          16
+        ],
+        "text": "Person B: Sorry sweetie.\nPerson A: It\u2019s okay.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          14,
+          20
+        ],
+        "text": "Person B: Sweetie, you don\u2019t even want those shows, they\u2019re so bad, they\u2019re low class--\nPerson B: Oh my god, Hannah! What a nice surprise! Come on in! What are you doing here?",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          9
+        ],
+        "text": "Person A: Hey sweetie. What are you doing here?\nPerson B: Shelly, I\u2019m really scared-- I didn\u2019t know I could never go back--",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          11,
+          14
+        ],
+        "text": "Person A: I just wanted to call you-- I want to talk to you-- I can\u2019t believe I left the way I did the other night, I just feel so terrible.\nPerson A: I\u2019m so glad you feel so necessary here, Jodie-- that\u2019s good. That\u2019s important.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Will you just help me with my damn wings??\nPerson B: Nope.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2,
+          6
+        ],
+        "text": "Person A: You should have thought of this pointless challenge before the show, so I was ready for it.\nPerson A: Just what I need, a lesson about character from a nineteen year old.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6
+        ],
+        "text": "Person B: Oh you should. You should!\nPerson B: Really! What\u2019s stopping you? You should do it, you should.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8,
+          9,
+          32,
+          33,
+          34,
+          35
+        ],
+        "text": "Person A: I know many people despise their exes, but Alicia might have been my best friend.\nPerson A: I'm glad you approve.\nPerson A: Or at least the person who knew me best.\nPerson B: Wow. I have a feeling you never wanted to murder me when we were married.\nPerson A: You're saying it like it's a bad thing?\nPerson B: No, no... It's just an observation. I mean, to kill someone, I'd just imagine you'd have to be capable of some serious passion.\nPerson A: I'm not incapable of passion.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

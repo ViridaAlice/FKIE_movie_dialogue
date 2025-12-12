@@ -1,0 +1,63 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Hey! I know you! Happy New Year!",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: Have you seen Ivan?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: We have an emergency. We need to find Ivan.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yeah well, I don't know either so can you guys please... you going to cost me my job here.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: Could he be with Dasha?\nPerson A: Yeah, she left my ass the minute we got back from Vegas. And you know why? `Cause she said I'd never propose to her the way Ivan proposed to you. Can you believe that shit? And the thing is... I would. I would have. I'm actually like a romantic, you know.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5,
+          11
+        ],
+        "text": "Person B: Not yet. Not even abroad. They won't admit it officially.\nPerson A: What do you mean? We have to force them to admit it publicly. A subpoena, a court order.\nPerson B: We believe we have to keep asking for his release, as if we didn't know what happened to him.\nPerson B: I've heard it all. Buried in the forest, dropped into the sea from a helicopter, mass graves. It's all rumors. There's no way to know, 'cause nobody will talk. They're afraid of disappearing, too. ",
+        "type": "Implied"
+      }
+    ]
+  }
+}

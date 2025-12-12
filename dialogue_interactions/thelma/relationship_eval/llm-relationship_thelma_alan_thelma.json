@@ -1,0 +1,53 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: She got scared, your mother. We were all scared.\nPerson B: I wasn\u2019t quite as scared. For the record.\nPerson A: See what happens when you get a call, buddy.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Never mind.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Look at this... who created this? Who thought it up? A plug for a car. Electricity goes through. Makes it run. And what is electricity? It boggles the mind...\nPerson B: I think I know her...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I\u2019m alright, darling. I\u2019m alright.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

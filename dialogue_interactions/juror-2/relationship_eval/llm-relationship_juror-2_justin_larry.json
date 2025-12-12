@@ -1,0 +1,95 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I can tell. Do you want to talk about it?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: Whatever it is, my advice will be the same.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6,
+          8,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ],
+        "text": "Person A: So, what's the problem?\nPerson B: I got called for jury duty. The Kendall Carter case. They found her body in a creek bed about a quarter of a mile from Rowdy's Hideaway last October.\nPerson B: Maybe I didn't hit a deer.\nPerson A: You were at a bar. You ordered a drink.\nPerson B: I didn't touch it.\nPerson A: Doesn't matter.\nPerson A: Given your history, there's not a jury in the world who's gonna believe you were sober.\nPerson B: But I'd be coming forward voluntarily. That has to count for something.\nPerson A: Your previous DUI\u2019s and the fact that you were at a bar gives the State a reason to charge you with First Degree Vehicular Homicide and maybe Felony Murder. That\u2019s 30 years to life. So, basically, you\u2019re screwed.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: The trial.\nPerson B: It's headed for a hung jury.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4
+        ],
+        "text": "Person B: So, problem solved?\nPerson B: So you're saying I need a verdict.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person A: With the amount of press on this case, the public will demand they retry it. They\u2019ll either do it again with Sythe or, if they decide he\u2019s not the guy, they\u2019ll find the guy.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: I'm just giving you the facts.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5
+        ],
+        "text": "Person B: Thirty-six bucks for a tiny rubber giraffe. But my daughter swore by it when my grandkids were teething.\nPerson A: What do you think?\nPerson B: You're a father now. Let it go.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

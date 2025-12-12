@@ -1,0 +1,96 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          5
+        ],
+        "text": "Person B: Thank you, Norma.\nPerson A: Kids have sticky fingers.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person B: My introduction to this topic came about serendipitously. I was interested in the ways that womanhood manifests on a mythical level. Particularly the experience of motherhood and how this complicates, deepens, or denies womanhood...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person B: Oh please don\u2019t go, Norma. Can you tell me what your relationship with your son is like now? Did you work when he was little? Did you make the right choices? What would you have done differently? Can you please tell me the secrets? Tell me your secrets!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          10,
+          11,
+          12,
+          13
+        ],
+        "text": "Person B: If my mother were still alive I would have some serious questions for her.\nPerson B: I\u2019d ask her if she ever hated my father? How did she deal with the anger? The resentment for all that she didn\u2019t do? And all he got to do with his life?\nPerson B: How many women have delayed their greatness while the men around them didn\u2019t know what to do with theirs?\nPerson B: I\u2019d ask her if her body ever returned to normal? Or her mind? I\u2019d ask her if she ever regretted becoming a mother? But I can\u2019t ask her that. I\u2019d give anything to be able to ask her.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: Thank you for that book recommendation. I have to say it was exactly what I was looking for.\nPerson A: Just doing my job.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person A: I remember when my kids were little. I had a hard time keeping everything straight also. No sleep for years, holding them through ear aches and stomach aches and bad dreams. It\u2019s enough for any person to lose their bearings.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          6,
+          8
+        ],
+        "text": "Person A: You didn\u2019t recognize it? You look into the eyes of other women, and see that fire flickering behind the eyes-\nPerson A: The pain and sacrifice. The shared bond of all you\u2019ve given up for the continuation of the species.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Did you see Freida? I can\u2019t believe * I got her out of the city. *",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: You ok? *",
+        "type": "Implied"
+      }
+    ]
+  }
+}

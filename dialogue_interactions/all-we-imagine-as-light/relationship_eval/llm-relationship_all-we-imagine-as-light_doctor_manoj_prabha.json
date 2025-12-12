@@ -1,0 +1,35 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          8
+        ],
+        "text": "Person B: Prabha... I... before I go I wanted to ask you... I wanted to see if... there was a reason if... If I should continue to stay here....If there was some reason for me to stay back.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          9
+        ],
+        "text": "Person A: But doctor... I am married...",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3,
+          4
+        ],
+        "text": "Person A: Nowhere... To the end of the line. Where the last tip of Bombay meets the sea.\nPerson B: I should go... To see it then?\nPerson A: Yes... I think you will like it... Just keep sitting on the bus and don't get off till you reach the end of the line.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

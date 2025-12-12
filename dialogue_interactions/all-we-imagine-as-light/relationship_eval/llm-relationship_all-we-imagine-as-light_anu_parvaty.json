@@ -1,0 +1,68 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: It feels as if the distance has increased.\nPerson A: Do you see that hill? It is behind it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          5
+        ],
+        "text": "Person A: There is a story about these mangroves. They would say that a spirit from the water would come and roam in the forest at night, devouring souls of the weak hearted.\nPerson A: Once I stayed out so late, they all thought I got eaten by the spirit! No one had lasted more than ten minutes before!\nPerson A: No. I thought it was my bad luck... but maybe it is only when you are afraid of something that you see it. If you are not afraid, it seizes to exist!",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Oye!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I should get back now",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person A: We can get some crabs for dinner too... then you can take the night bus back.\nPerson A: It is the least I can do! You came all the way",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          2
+        ],
+        "text": "Person B: You are spoiling us !",
+        "type": "Implied"
+      }
+    ]
+  }
+}

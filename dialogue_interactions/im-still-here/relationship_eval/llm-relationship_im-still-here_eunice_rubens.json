@@ -1,0 +1,85 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: She'll be home soon. Pimp\u00e3o must've dropped the others off first.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Everyone to bed. Now.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          7,
+          12,
+          13
+        ],
+        "text": "Person B: She'll get involved in student politics, the way she is.\nPerson B: Let's send her with them. At least until this phase is over.\nPerson B: What about Vera?\nPerson A: I'll talk to Gaspa. We'll figure something out. Don't worry.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Have you seen Veroca?\nPerson B: I'll find her, don't worry.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Soon it'll be just you and me.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: Pick it up, honey.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          9
+        ],
+        "text": "Person A: We have dinner at Dalal's. Boca didn't say?",
+        "type": "Implied"
+      }
+    ]
+  }
+}

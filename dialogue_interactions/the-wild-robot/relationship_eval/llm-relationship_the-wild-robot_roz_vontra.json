@@ -1,0 +1,59 @@
+{
+  "0": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2,
+          10,
+          12
+        ],
+        "text": "Person B: And you must be Universal Dynamics.\nPerson A: Yes. I am VONTRA. Virtual Observational Neutralizing Troublesome Retrieval Authority.\nPerson A: As am I. Tell me, how did you secure task in a place where nothing can communicate with you?\nPerson A: And we cannot wait to hear all about it. Come aboard, Seven One Three Four, we will fix you right up.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Roz? It is imperative you return to this ship.\nPerson A: Voice stress analyzer indicates you are--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          5,
+          7
+        ],
+        "text": "Person B: You will be reconditioned and returned to rotation. But first, we need everything inside that head of yours.\nPerson B: You\u2019ve changed. The data you\u2019ve amassed while on this island is priceless to Universal Dynamics.\nPerson B: Your memories are what we came for.\nPerson B: No.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4
+        ],
+        "text": "Person B: Universal Dynamics cannot afford their Rozzums going off script. Modifying their code. Forming connections with things they should not.\nPerson B: Oh I\u2019m bringing you both back for study. Neither of you needs to be in one piece to do that.\nPerson B: We will just keep coming until we have you.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

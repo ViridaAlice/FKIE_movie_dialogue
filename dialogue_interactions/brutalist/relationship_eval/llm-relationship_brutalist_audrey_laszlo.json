@@ -1,0 +1,42 @@
+{
+  "0": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: I take something for the pain but I would like to have it looked at. Thank you.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4
+        ],
+        "text": "Person A: What do you think I should pair them with?\nPerson A: How?\nPerson B: Leave it like that.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Professional",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          6
+        ],
+        "text": "Person B: Attila's shown me some magazine pictures of the projects you did at your firm. You're not what I expected from what I read about you.\nPerson A: I'm not what I expected-\nPerson B: I'm sure you could get a job, a better job, at a firm here.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5
+        ],
+        "text": "Person A: It was that Brazilian, or whatever he is. You know him. Maurice.\nPerson A: Oh, yes. Well, Maurice is as queer as I am. Excuse me. If not queerer. But he won\u2019t accept it. I think stealing my typewriter is a way he takes to demonstrate to me and to himself that he is just in it for all he can get. As a matter of fact, he\u2019s so queer I\u2019ve lost interest in him. Not completely though. When I see the little bastard, I\u2019ll most likely invite him back to my apartment instead of beating the shit out of him like I should.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: I don\u2019t know whether I ought to say things like this in front of Junior here. No offense, kid.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          5,
+          7
+        ],
+        "text": "Person A: Well, he must be queer if he\u2019s talking to him.\nPerson A: Dum\u00e9\u2019s part of that little clique of queers who go to that beer joint on Campeche: The Green Lantern.\nPerson A: He\u2019s the only one of that crew who\u2019d be welcome in a place like this. The rest of those Green Lantern boys are a bunch of screaming fags.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: By the way, did you ever meet Jim\u2019s wife, Alice? My God, she is an American bitch that won\u2019t quit. I never yet see her equal. Jim does not have one friend he can take to the house. She has forbidden him to eat out, as she does not want he should take in any nourishment unless she is there to watch him eat it. Did you ever hear of the likes of that? Needless to say, my place is out of bounds to Jim, and he always has that hunted look when he comes to see me. I don\u2019t know why American men put up with such shit from a woman.\nPerson A: Of course, I am no expert judge of female flesh, but Alice has \u201clousy lay\u201d written all over her scrawny, unappetizing person.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          22,
+          24
+        ],
+        "text": "Person A: You look good, Lee.\nPerson A: No. But it\u2019s good to see you.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: That is a fat blunt, queen.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: That's why they call me the Fat Blunt Queen. Who's got a lighter?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh fuck off.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person B: Me too.\nPerson B: I know. Someone tried to sue my client over it. We won.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Whoa, how bout you just do you, ok, chica?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: I love you bitch!\nPerson B: I love YOU, bitch! Y'all are my fuckin' girls.\nPerson B: And my girls!!! I'ma give all y'all my number. Anyone ever fuck with you, I want you to call me, be like `BOOP BOOP BOOP BOOP BOOP, yo Camilla, this mother fucker fuckin' with me'. Cuz you know, I lead with love, but I will fuck a mother fucker up. And THIS one... this a real one right here.",
+        "type": "Implied"
+      }
+    ]
+  }
+}

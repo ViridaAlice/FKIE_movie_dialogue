@@ -1,0 +1,155 @@
+{
+  "0": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: No one is dying Kaki. Come... let me take you back.\nPerson A: Don't you\u2019ll have somewhere to be?\nPerson B: R U gng 2 pick me up 2day?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Are you hiding them under your tongue?\nPerson B: Prabha, I am going. Do yo need anything?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          5,
+          6,
+          7
+        ],
+        "text": "Person A: She is getting so big!\nPerson B: I found her loitering in the corridor outside Kulkarni\u2019s flat\nPerson A: I asked Doctor Manoj if he will have a look at her...",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: I don\u2019t know Aunty.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          11,
+          13
+        ],
+        "text": "Person B: Prabha! Doesn\u2019t your husband live there?\nPerson B: Or maybe he misses you! It is quite romantic-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          3
+        ],
+        "text": "Person A: Don\u2019t mind her doctor, she talks more than she should.\nPerson A: The way you did! To doctor Manoj... you can\u2019t do that! You can\u2019t do whatever you want! If you behave like a slut, people will never give you any respect! Everyone is talking about you!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: She is getting on my nerves.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15
+        ],
+        "text": "Person B: Listen... I don\u2019t know what came over me today... I don\u2019t know why I said all that. I... I am sorry Anu...\nPerson B: No. Not at all. One day my father called me and said, come home. When I got there, they had already fixed my marriage. That\u2019s the way it went.\nPerson A: You didn\u2019t try to find out about him?\nPerson B: I did. I tried to meet him.\nPerson A: It must have been romantic!\nPerson A: Did you find him handsome?\nPerson B: I thought he was... Good looking.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "text": "Person B: My mother said the same thing! Your turn.\nPerson A: No no... You go again.\nPerson B: One sided game?\nPerson B: Please?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          22,
+          23,
+          24,
+          25
+        ],
+        "text": "Person B: Prabha... Can I tell you something? My parents are also looking for a guy...for me to marry.\nPerson B: But I don\u2019t want to.\nPerson A: Why don\u2019t you talk to them?\nPerson B: As if it is possible to speak to my father.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Let her be...She did carry the big bag.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: I think we should leave then...it will become late.",
+        "type": "Explicit"
+      }
+    ]
+  }
+}

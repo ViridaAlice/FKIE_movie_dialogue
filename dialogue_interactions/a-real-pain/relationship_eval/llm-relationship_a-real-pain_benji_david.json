@@ -1,0 +1,633 @@
+{
+  "0": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "text": "Person B: What's up cuz!\nPerson A: Come here. It's so good to see you.\nPerson B: Yo, step back! Lemme look at you!\nPerson B: Turn around! Let me get the whole picture!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          25,
+          26,
+          27
+        ],
+        "text": "Person B: Don't worry. I picked you up a yogurt. It's a little warm.\nPerson A: Did you really get this for me?\nPerson B: Of course, dude. I figured you'd be rushing around and everything.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          40,
+          41,
+          42
+        ],
+        "text": "Person A: Who?\nPerson B: The TSA girl. Her dad does security for the Knicks.\nPerson A: Do you want some?   Priya made it for me-",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          54
+        ],
+        "text": "Person B: David wants to bring something up but can't. Benji stares at him, something unspoken passing between them.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "1": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Yo, dude. I think they want us to pay attention.\nPerson A: Eh, it's kinda rude.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "2": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person A: Yo!   What's up dude?",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: What? I don't know. Hey, there's our guy--\nPerson A: What are you looking at?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "3": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person A: He's fuckin gorgeous, man.     You're lucky.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "4": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          9,
+          10
+        ],
+        "text": "Person B: I'm so fuckin happy to be here with you.\nPerson A: Me too.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          23
+        ],
+        "text": "Person B: Yo, Davie, sometimes when I look at you, I see her.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "5": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          4,
+          5,
+          6
+        ],
+        "text": "Person B: Copy that. Can I borrow your phone?\nPerson A: Don't you have a phone?\nPerson B: Yeah, but it doesn't play music.\nPerson A: Uh, okay --",
+        "type": "Implied"
+      }
+    ]
+  },
+  "6": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yo, what's up everybody.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "7": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3
+        ],
+        "text": "Person A: They turn to Benji.\nPerson B: I'm sorry about that--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "8": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          4,
+          5
+        ],
+        "text": "Person A: Who the hell wants to follow that? Okay, shit, I'll go. So Davers and I are cousins. Actually born three weeks apart, which is k inda nuts. A Zloty for anyone who guesses which one of us older. Anyway, our dads are brothers. We're basically brothers, too, right D? We used to be joined at the hip like feckin Katie and Eilish, isn't that right Dave-o?\nPerson B: Oh, Jesus man, don't say that.\nPerson A: It was fucked, essentially, is what it was. And we've always wanted to come here to see where she was from, see the house she grew up in.\nPerson B: Yeah, that's why we're leaving the tour a day early, Benji insisted we see her little town. They were super close.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "9": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: You know: She didn't ask any of the other cousins to come here. Just us.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "10": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1
+        ],
+        "text": "Person A: Yeah, I'm not really sure what she knew. At the end. She was getting a little senile .\nPerson B: No, she knew. She knew.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "11": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          5,
+          7,
+          9
+        ],
+        "text": "Person B: No, seriously. Like we think of ourselves as these very American creations, you know? And I guess we are. I guess that's, like, the essence of America -- people created from other cultures. But in some parallel, fuckin, black hole universe, you and I are Polish and we probably got, like, beards and shit. And we, like, can't shake hands with women.\nPerson B: That's cool, man. Yo shit, look at her.\nPerson B: That woman Marcia, she's walkin alone. We should go talk to her.\nPerson B: Yeah, but she's got this, like, deep sadness behind her eyes.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "12": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: You mean our grandma?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "13": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          9
+        ],
+        "text": "Person B: Really? Doesn't that seem, like, disrespectful?\nPerson B: Benji, no.     Really.   Plea se.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "14": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3,
+          4
+        ],
+        "text": "Person B: You sure you don't wanna come up here? We could use the manpower.\nPerson A: Nah, I'm good. I'll just... watch from \"central command.\"",
+        "type": "Implied"
+      }
+    ]
+  },
+  "15": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          14,
+          17,
+          18,
+          21
+        ],
+        "text": "Person B: I just wanna thank you so much for doin this with me. I know it was tough for you to take off work, leave your little boy. But I didn't realize I how much I needed this.\nPerson A: I'm not?\nPerson B: No. So it's amazing that you're here and puttin yourself out there so boldly for me.\nPerson A: Thanks, man.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          27,
+          28
+        ],
+        "text": "Person B: Don't say you're going to sleep on me, Davie. This is our first night together in fuckin years.\nPerson A: I don't know. I'm exhausted and I haven't showered.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ],
+        "text": "Person B: No, it's the other kind. Listen: You take a shower -- do whatever you gotta do to feel like you -- and I'll roll us a fat ass blunt and we'll go on the roof.\nPerson B: Okay, okay, which w ay are you?\nPerson A: Uh, maybe they don't make their roof accessible for American assholes trying to smoke weed--\nPerson A: But Benji is already walking down the hallway.\nPerson B: You think this is it?\nPerson A: I think there's a big fucking alarm that's gonna go off.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          41,
+          42,
+          43
+        ],
+        "text": "Person A: But there's no alarm.    It's quiet. David is relieved.\nPerson B: Apres vous...\nPerson B: There's my guy. How you feeling, dude?",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54
+        ],
+        "text": "Person B: Yeah.    You're like an awesome guy stuck   inside the body of someone who's   always running late. And I gotta   fish that awesome guy out every   time I see you.\nPerson A: Thank you, I guess?\nPerson B: When I think of us, I think of us walking around New York all night. Seeing if we could make it through til morning.\nPerson A: You always did.\nPerson B: And you'd always fall asleep halfway through. We'd make it over the Willie B and you'd conk out on a bench in Chinatown.\nPerson A: I know.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          55,
+          56,
+          57,
+          58
+        ],
+        "text": "Person B: You were kind of a light weight.\nPerson A: I'm sorry.\nPerson B: I'd have to stay up and keep watch.\nPerson A: Oh.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          62,
+          63,
+          64
+        ],
+        "text": "Person B: I'm sorry I called you a light weight.\nPerson A: It's okay. I'm sorry I would always fall asleep.\nPerson B: It's okay. You had like a job and a wife. You were awake all day, doing important shit.",
+        "type": "Explicit"
+      },
+      {
+        "line_indices": [
+          65,
+          66,
+          67
+        ],
+        "text": "Person A: Yeah, I guess.\nPerson B: You're not a light weight.\nPerson A: Thanks Benji.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          69,
+          70
+        ],
+        "text": "Person B: I always wanted to hang out at night, when everyone else was gone - to have the city to ourselves. But I could never get anybody to come with me.\nPerson B: I didn't care that you fell asleep. I was just happy you were there.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "16": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Dude. We are Jews on a train in Poland. Think about it.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "17": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Like eating this fancy food? Sitting up here when, eighty y ears ago we would have been herded into the backs of these things like fuckin' cattle--",
+        "type": "Implied"
+      }
+    ]
+  },
+  "18": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Because it's depressing--",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "19": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          3
+        ],
+        "text": "Person B: Yo, Dave, you used to feel everything. He was such an adorable, anxious kid!",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          5
+        ],
+        "text": "Person B: We went to Jewy sleep-away camp together and he cried the whole first week cause he was homesick. Literally the whole week.",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          7
+        ],
+        "text": "Person B: And I would have to hug him to sleep and talk about his sweet fuckin mom to calm him down. And now look at him. Comfortable, buttoned up, topiaries his wild ass Jew fro into submission.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "20": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          11,
+          22,
+          26
+        ],
+        "text": "Person A: Hey Dave.\nPerson A: Dave, you were drooling and snoring and everything, I couldn't bring myself to wake you up.\nPerson A: Cause I was staring at you sleepin. And you were snoring so weirdly and loudly and everyone was lookin and some people were laughing and I was just thinkin: this is my cousin, Davey. I'm not ashamed of him. This is Davey On The Bench in Chinatown. This is the cousin I used to have all to myself.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "21": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          4,
+          9
+        ],
+        "text": "Person B: Don't fall asleep on me again, brother.\nPerson B: Yeah, but we fuckin earned it.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "22": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person B: I don't know. If we wept for every sad thing in the world, what would that accomplish?\nPerson A: Uh, maybe sad shit wouldn't constantly happen?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "23": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Yes, Eloge! Damn, that's a good analogy.\nPerson A: Dave, we're on a fuckin Holocaust tour. If now isn't the time and place to grieve, to open up, then I don't know what to tell you, man.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "24": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Oh shit--",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "25": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          2
+        ],
+        "text": "Person A: Benji- stop it.\nPerson A: Benji, calm down.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "26": {
+    "relationship": "Antagonistic",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Benji- what the hell-",
+        "type": "Implied"
+      },
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Don't take this the wrong way or anything, but we've just been going from one touristy thing to another, not meeting anyone who's actually Polish-",
+        "type": "Implied"
+      }
+    ]
+  },
+  "27": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1
+        ],
+        "text": "Person B: Yeah, dude, that's what I'm talking about. Thanks J. Thanks E.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "28": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          4
+        ],
+        "text": "Person B: Yo, did you find one Marcia?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "29": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0,
+          1,
+          2
+        ],
+        "text": "Person A: Well, our grandmother--\nPerson B: Grandma Dory--\nPerson A: Yeah, Grandma Dory, who's house we're seeing on Thursday, was just amazing too.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "30": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: I used to speak to her every Thursday. Literally every Thursday.",
+        "type": "Explicit"
+      }
+    ]
+  },
+  "31": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          6
+        ],
+        "text": "Person A: Huh. I didn't think you ever bothered to call her, Dave.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "32": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          2
+        ],
+        "text": "Person A: Mornin Davers. Your alarm clock didn't go off?\nPerson B: No, my phone died because I didn't plug it in because I spent the night looking for you. Where the fuck were you?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "33": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          0
+        ],
+        "text": "Person A: Yeah man, shit, I'm gonna miss all you guys. I feel like we're a weird little family.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "34": {
+    "relationship": "Platonic",
+    "evidence": [
+      {
+        "line_indices": [
+          1,
+          3,
+          4
+        ],
+        "text": "Person B: It's pretty f uckin tall.\nPerson B: I got one last joint.\nPerson A: How we gonna get up?",
+        "type": "Implied"
+      }
+    ]
+  },
+  "35": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          42,
+          43
+        ],
+        "text": "Person B: Dave! You're not listening to me. We used to be... man, we used to be...\nPerson A: Benji, I have a son and a wife and a job. I can't just, like, hang out with you all night, every night.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "36": {
+    "relationship": "Romantic",
+    "evidence": [
+      {
+        "line_indices": [
+          17,
+          18,
+          26,
+          27
+        ],
+        "text": "Person B: Yeah, well it scared the shit out of me! I walk around with this terrible image of you in my head and, yeah, I don't want to fucking lose you, okay!? In my mind, you are like a thousand feet tall and constantly sawing off your own legs.\nPerson B: And I put in so much effort -- so much fucking effort - to just be base level normal. To just hold down a normal job selling \"ad banners to the internet\", to have a stable marriage with someone who's a hundred times better looking than me, to raise one child in the most expensive city on earth. It all feels like 24 hours of panic to just have a base level of normalcy, to just show up, to get to z ero, and I look at you and it scrambles everything that makes any sense-\nPerson B: Do you see how people love you? Do you see what happens when you walk into a room?\nPerson B: I would give anything to know what that feels like. To know what it feels like to have charm. To feel easy. To feel fun. To light up a fucking room when I walk in.",
+        "type": "Implied"
+      }
+    ]
+  },
+  "37": {
+    "relationship": "Familial",
+    "evidence": [
+      {
+        "line_indices": [
+          16,
+          22
+        ],
+        "text": "Person B: Cause grandma! The restaurant! You said it was the best thing that ever happened to you.\nPerson A: She loved you too, Dave. She just knew I needed a little more. You were fuckin set and everyone knew that.",
+        "type": "Implied"
+      }
+    ]
+  }
+}
